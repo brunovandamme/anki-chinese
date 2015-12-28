@@ -1,0 +1,16 @@
+大哥 grootste oudere broer;<span class="tone4">大</span><span class="tone1">哥</span>;<span class="tone4">dà</span><span class="tone1">gē</span>;grootste oudere broer;[sound:da4ge1.mp3];jaar1 week24 week26
+大姐 grootste oudere zus;<span class="tone4">大</span><span class="tone3">姐</span>;<span class="tone4">dà</span><span class="tone3">jiě</span>;grootste oudere zus;[sound:da4jie3.mp3];jaar1 week24
+二姐 tweede grootste oudere zus;<span class="tone4">二</span><span class="tone5">姐</span>;<span class="tone4">èr</span><span class="tone5">jie</span>;tweede grootste oudere zus;[sound:er4jie5.mp3];jaar1 week24 week26
+经理 manager;<span class="tone1">经</span><span class="tone3">理</span>;<span class="tone1">jīng</span><span class="tone3">lǐ</span>;manager;[sound:jing1li3.mp3];jaar1 week20 week24
+工人 arbeider;<span class="tone1">工</span><span class="tone2">人</span>;<span class="tone1">gōng</span><span class="tone2">rén</span>;arbeider;[sound:gong1ren2.mp3];jaar1 week20 week24
+买卖人 handelaar;<span class="tone3">买</span><span class="tone4">卖</span><span class="tone2">人</span>;<span class="tone3">mǎi</span><span class="tone4">mài</span><span class="tone2">rén</span>;handelaar;[sound:mai3mai4ren2.mp3];jaar1 week20 week24
+卖东西 的 人 verkoper;<span class="tone4">卖</span><span class="tone1">东</span><span class="tone5">西</span> <span class="tone5">的</span> <span class="tone2">人</span>;<span class="tone4">mài</span><span class="tone1">dōng</span><span class="tone5">xi</span> <span class="tone5">de</span> <span class="tone2">rén</span>;verkoper;[sound:mai4dong1xi5de5ren2.mp3];jaar1 week24
+职员 werknemer;<span class="tone2">职</span><span class="tone2">员</span>;<span class="tone2">zhí</span><span class="tone2">yuán</span>;werknemer;[sound:zhi2yuan2.mp3];jaar1 week20 week24
+爱好 hobby;<span class="tone4">爱</span><span class="tone4">好</span>;<span class="tone4">ài</span><span class="tone4">hào</span>;hobby;[sound:ai4hao4.mp3];jaar1 week24
+上网 surfen op het internet;<span class="tone4">上</span><span class="tone3">网</span>;<span class="tone4">shàng</span><span class="tone3">wǎng</span>;surfen op het internet;[sound:shang4wang3.mp3];jaar1 week24
+因特网 internet;<span class="tone1">因</span><span class="tone4">特</span><span class="tone3">网</span>;<span class="tone1">Yīn</span><span class="tone4">tè</span><span class="tone3">wǎng</span>;internet;[sound:yin1te4wang3.mp3];jaar1 week24
+打篮球 basketbal spelen;<span class="tone3">打</span><span class="tone2">篮</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone2">lán</span><span class="tone2">qiú</span>;basketbal spelen;[sound:da3lan2qiu2.mp3];jaar1 week24
+班 klasgroep;<span class="tone1">班</span>;<span class="tone1">bān</span>;klasgroep;[sound:ban1.mp3];jaar1 week22 week24 jaar2 week01
+有名 bekend, naam hebben;<span class="tone3">有</span><span class="tone2">名</span>;<span class="tone3">yǒu</span><span class="tone2">míng</span>;bekend, naam hebben;[sound:you3ming2.mp3];jaar1 week12 week18 week24 jaar2 week03 week04
+结婚 trouwen;<span class="tone2">结</span><span class="tone1">婚</span>;<span class="tone2">jié</span><span class="tone1">hūn</span>;trouwen;[sound:jie2hun1.mp3];jaar1 week23 week24 jaar2 week01
+教书 onderwijzen;<span class="tone1">教</span><span class="tone1">书</span>;<span class="tone1">jiāo</span><span class="tone1">shū</span>;onderwijzen;[sound:jiao1shu1.mp3];jaar1 week24

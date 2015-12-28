@@ -1,0 +1,15 @@
+喝 drinken;<span class="tone1">喝</span>;<span class="tone1">hē</span>;drinken;[sound:he1.mp3];jaar1 week04 les02
+水 water;<span class="tone3">水</span>;<span class="tone3">shuǐ</span>;water;[sound:shui3.mp3];jaar1 week04
+咖啡 koffie;<span class="tone1">咖</span><span class="tone1">啡</span>;<span class="tone1">kā</span><span class="tone1">fēi</span>;koffie;[sound:ka1fei1.mp3];jaar1 week04 les02
+茶 thee;<span class="tone2">茶</span>;<span class="tone2">chá</span>;thee;[sound:cha2.mp3];jaar1 week04
+可乐 cola;<span class="tone3">可</span><span class="tone4">乐</span>;<span class="tone3">kě</span><span class="tone4">lè</span>;cola;[sound:ke3le4.mp3];jaar1 week04
+可口可乐 Coca Cola;<span class="tone3">可</span><span class="tone3">口</span><span class="tone3">可</span><span class="tone4">乐</span>;<span class="tone3">Kě</span><span class="tone3">kǒu</span><span class="tone3">kě</span><span class="tone4">lè</span>;Coca Cola;[sound:ke3kou3ke3le4.mp3];jaar1 week04
+百事可乐 Pepsi Cola;<span class="tone3">百</span><span class="tone4">事</span><span class="tone3">可</span><span class="tone4">乐</span>;<span class="tone3">Bǎi</span><span class="tone4">shì</span><span class="tone3">Kě</span><span class="tone4">lè</span>;Pepsi Cola;[sound:bai3shi4ke3le4.mp3];jaar1 week04
+啤酒 bier;<span class="tone2">啤</span><span class="tone3">酒</span>;<span class="tone2">pí</span><span class="tone3">jiǔ</span>;bier;[sound:pi2jiu3.mp3];jaar1 week04
+冰茶 ice-tea, ijsthee;<span class="tone1">冰</span><span class="tone2">茶</span>;<span class="tone1">bīng</span><span class="tone2">chá</span>;ice-tea, ijsthee;[sound:bing1cha2.mp3];jaar1 week04
+好喝 lekker (om te drinken);<span class="tone3">好</span><span class="tone1">喝</span>;<span class="tone3">hǎo</span><span class="tone1">hē</span>;lekker (om te drinken);[sound:hao3he1.mp3];jaar1 week04
+台湾 Taiwan;<span class="tone2">台</span><span class="tone1">湾</span>;<span class="tone2">Tái</span><span class="tone1">wān</span>;Taiwan;[sound:tai2wan1.mp3];jaar1 week04
+中国 China;<span class="tone1">中</span><span class="tone2">国</span>;<span class="tone1">Zhōng</span><span class="tone2">guó</span>;China;[sound:zhong1guo2.mp3];jaar1 week01 week04 week05 les03
+比利时 België;<span class="tone3">比</span><span class="tone4">利</span><span class="tone2">时</span>;<span class="tone3">Bǐ</span><span class="tone4">lì</span><span class="tone2">shí</span>;België;[sound:bi3li4shi2.mp3];jaar1 week02 week04 week05
+先生 mijnheer, echtgenoot;<span class="tone1">先</span><span class="tone5">生</span>;<span class="tone1">xiān</span><span class="tone5">sheng</span>;mijnheer, echtgenoot;[sound:xian1sheng5.mp3];jaar1 week04 les04
+太太 mevrouw, echtgenote;<span class="tone4">太</span><span class="tone5">太</span>;<span class="tone4">tài</span><span class="tone5">tai</span>;mevrouw, echtgenote;[sound:tai4tai5.mp3];jaar1 week04

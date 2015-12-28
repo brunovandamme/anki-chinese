@@ -1,0 +1,5 @@
+大哥 grootste oudere broer;<span class="tone4">大</span><span class="tone1">哥</span>;<span class="tone4">dà</span><span class="tone1">gē</span>;grootste oudere broer;[sound:da4ge1.mp3];jaar1 week24 week26
+二姐 tweede grootste oudere zus;<span class="tone4">二</span><span class="tone5">姐</span>;<span class="tone4">èr</span><span class="tone5">jie</span>;tweede grootste oudere zus;[sound:er4jie5.mp3];jaar1 week24 week26
+回家 terugkeren naar huis;<span class="tone2">回</span><span class="tone1">家</span>;<span class="tone2">huí</span><span class="tone1">jiā</span>;terugkeren naar huis;[sound:hui2jia1.mp3];jaar1 week17 week26
+杯 glas, tas (maatwoord);<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];jaar1 week21 week22 week25 week26 jaar2 week05
+瓶 fles (maatwoord);<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];jaar1 week21 week22 week25 week26 jaar2 week05

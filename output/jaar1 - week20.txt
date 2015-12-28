@@ -1,0 +1,28 @@
+一下 eens, even;<span class="tone1">一</span><span class="tone4">下</span>;<span class="tone1">yī</span><span class="tone4">xià</span>;eens, even;[sound:yi1xia4.mp3];jaar1 week20 les07
+容易 gemakkelijk;<span class="tone2">容</span><span class="tone4">易</span>;<span class="tone2">róng</span><span class="tone4">yì</span>;gemakkelijk;[sound:rong2yi4.mp3];jaar1 week10 week20
+告诉 vertellen, meedelen;<span class="tone4">告</span><span class="tone5">诉</span>;<span class="tone4">gào</span><span class="tone5">su</span>;vertellen, meedelen;[sound:gao4su5.mp3];jaar1 week18 week20 jaar2 week03
+介绍 voorstellen;<span class="tone4">介</span><span class="tone4">绍</span>;<span class="tone4">jiè</span><span class="tone4">shào</span>;voorstellen;[sound:jie4shao4.mp3];jaar1 week20 week21 les07
+教授 professor;<span class="tone4">教</span><span class="tone4">授</span>;<span class="tone4">jiào</span><span class="tone4">shòu</span>;professor;[sound:jiao4shou4.mp3];jaar1 week20 les07
+开学 starten met het academiejaar;<span class="tone1">开</span><span class="tone2">学</span>;<span class="tone1">kāi</span><span class="tone2">xué</span>;starten met het academiejaar;[sound:kai1xue2.mp3];jaar1 week20 les07
+名片 naamkaartje;<span class="tone2">名</span><span class="tone4">片</span>;<span class="tone2">míng</span><span class="tone4">piàn</span>;naamkaartje;[sound:ming2pian4.mp3];jaar1 week20 les07
+住(在) wonen (te, in);<span class="tone4">住</span>(<span class="tone4">在</span>);<span class="tone4">zhù</span>(<span class="tone4">zài</span>);wonen (te, in);[sound:zhu4zai4.mp3];jaar1 week20
+公司 bedrijf;<span class="tone1">公</span><span class="tone1">司</span>;<span class="tone1">gōng</span><span class="tone1">sī</span>;bedrijf;[sound:gong1si1.mp3];jaar1 week17 week20
+经理 manager;<span class="tone1">经</span><span class="tone3">理</span>;<span class="tone1">jīng</span><span class="tone3">lǐ</span>;manager;[sound:jing1li3.mp3];jaar1 week20 week24
+警察 politie;<span class="tone3">警</span><span class="tone2">察</span>;<span class="tone3">jǐng</span><span class="tone2">chá</span>;politie;[sound:jing3cha2.mp3];jaar1 week20
+工人 arbeider;<span class="tone1">工</span><span class="tone2">人</span>;<span class="tone1">gōng</span><span class="tone2">rén</span>;arbeider;[sound:gong1ren2.mp3];jaar1 week20 week24
+公务员 ambtenaar;<span class="tone1">公</span><span class="tone4">务</span><span class="tone2">员</span>;<span class="tone1">gōng</span><span class="tone4">wù</span><span class="tone2">yuán</span>;ambtenaar;[sound:gong1wu4yuan2.mp3];jaar1 week20
+买卖人 handelaar;<span class="tone3">买</span><span class="tone4">卖</span><span class="tone2">人</span>;<span class="tone3">mǎi</span><span class="tone4">mài</span><span class="tone2">rén</span>;handelaar;[sound:mai3mai4ren2.mp3];jaar1 week20 week24
+买 kopen;<span class="tone3">买</span>;<span class="tone3">mǎi</span>;kopen;[sound:mai3.mp3];jaar1 week19 week20 jaar2 week08
+卖 verkopen;<span class="tone4">卖</span>;<span class="tone4">mài</span>;verkopen;[sound:mai4.mp3];jaar1 week20 jaar2 week08
+家庭妇女 huisvrouw;<span class="tone1">家</span><span class="tone2">庭</span><span class="tone4">妇</span><span class="tone3">女</span>;<span class="tone1">jiā</span><span class="tone2">tíng</span><span class="tone4">fù</span><span class="tone3">nǚ</span>;huisvrouw;[sound:jia1ting2fu4nü3.mp3];jaar1 week20
+律师 advocaat;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];jaar1 week20 week23 les08
+工程师 ingenieur;<span class="tone1">工</span><span class="tone2">程</span><span class="tone1">师</span>;<span class="tone1">gōng</span><span class="tone2">chéng</span><span class="tone1">shī</span>;ingenieur;[sound:gong1cheng2shi1.mp3];jaar1 week20 les08
+职员 werknemer;<span class="tone2">职</span><span class="tone2">员</span>;<span class="tone2">zhí</span><span class="tone2">yuán</span>;werknemer;[sound:zhi2yuan2.mp3];jaar1 week20 week24
+饭馆 restaurant;<span class="tone4">饭</span><span class="tone3">馆</span>;<span class="tone4">fàn</span><span class="tone3">guǎn</span>;restaurant;[sound:fan4guan3.mp3];jaar1 week15 week20
+商店 winkel;<span class="tone1">商</span><span class="tone4">店</span>;<span class="tone1">shāng</span><span class="tone4">diàn</span>;winkel;[sound:shang1dian4.mp3];jaar1 week20 jaar2 week08
+钱 geld;<span class="tone2">钱</span>;<span class="tone2">qián</span>;geld;[sound:qian2.mp3];jaar1 week20 jaar2 week08
+..以前 voor.., vroeger;..<span class="tone3">以</span><span class="tone2">前</span>;..<span class="tone3">yǐ</span><span class="tone2">qián</span>;voor.., vroeger;[sound:yi3qian2.mp3];jaar1 week19 week20
+..以后 na.., later;..<span class="tone3">以</span><span class="tone4">后</span>;..<span class="tone3">yǐ</span><span class="tone4">hòu</span>;na.., later;[sound:yi3hou4.mp3];jaar1 week19 week20
+语法 grammatica;<span class="tone3">语</span><span class="tone3">法</span>;<span class="tone3">yǔ</span><span class="tone3">fǎ</span>;grammatica;[sound:yu3fa3.mp3];jaar1 week20
+生词 nieuwe woorden;<span class="tone1">生</span><span class="tone2">词</span>;<span class="tone1">shēng</span><span class="tone2">cí</span>;nieuwe woorden;[sound:sheng1ci2.mp3];jaar1 week20
+退休 op pensioen gaan;<span class="tone4">退</span><span class="tone1">休</span>;<span class="tone4">tuì</span><span class="tone1">xiū</span>;op pensioen gaan;[sound:tui4xiu1.mp3];jaar1 week20

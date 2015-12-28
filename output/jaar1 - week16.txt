@@ -1,0 +1,41 @@
+慢 langzaam;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];jaar1 week16 week18
+电脑 computer;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];jaar1 week14 week16 les08
+脑子 hersenen;<span class="tone3">脑</span><span class="tone5">子</span>;<span class="tone3">nǎo</span><span class="tone5">zi</span>;hersenen;[sound:nao3zi5.mp3];jaar1 week14 week16
+春节 chinees nieuwjaar;<span class="tone1">春</span><span class="tone2">节</span>;<span class="tone1">Chūn</span><span class="tone2">jié</span>;chinees nieuwjaar;[sound:chun1jie2.mp3];jaar1 week15 week16
+晚会 avondfeest;<span class="tone3">晚</span><span class="tone4">会</span>;<span class="tone3">wǎn</span><span class="tone4">huì</span>;avondfeest;[sound:wan3hui4.mp3];jaar1 week16 jaar2 week04
+百 honderd;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];jaar1 week16 week22 les08 jaar2 week09
+大家 iedereen;<span class="tone4">大</span><span class="tone1">家</span>;<span class="tone4">dà</span><span class="tone1">jiā</span>;iedereen;[sound:da4jia1.mp3];jaar1 week16
+有意思 interessant;<span class="tone3">有</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone3">yǒu</span><span class="tone4">yì</span><span class="tone5">si</span>;interessant;[sound:you3yi4si5.mp3];jaar1 week12 week16 les06
+吃饭 het eten van rijst > eten;<span class="tone1">吃</span><span class="tone4">饭</span>;<span class="tone1">chī</span><span class="tone4">fàn</span>;het eten van rijst > eten;[sound:chi1fan4.mp3];jaar1 week12 week16
+米饭 rijst;<span class="tone3">米</span><span class="tone4">饭</span>;<span class="tone3">mǐ</span><span class="tone4">fàn</span>;rijst;[sound:mi3fan4.mp3];jaar1 week16
+面包 brood;<span class="tone4">面</span><span class="tone1">包</span>;<span class="tone4">miàn</span><span class="tone1">bāo</span>;brood;[sound:mian4bao1.mp3];jaar1 week16 jaar2 week08 week09
+意大利面 spaghetti;<span class="tone4">意</span><span class="tone4">大</span><span class="tone4">利</span><span class="tone4">面</span>;<span class="tone4">Yì</span><span class="tone4">dà</span><span class="tone4">lì</span><span class="tone4">miàn</span>;spaghetti;[sound:yi4da4li4mian4.mp3];jaar1 week15 week16
+找 zoeken;<span class="tone3">找</span>;<span class="tone3">zhǎo</span>;zoeken;[sound:zhao3.mp3];jaar1 week16
+时间 tijd;<span class="tone2">时</span><span class="tone1">间</span>;<span class="tone2">shí</span><span class="tone1">jiān</span>;tijd;[sound:shi2jian1.mp3];jaar1 week16 week18 les06
+长 lang;<span class="tone3">长</span>;<span class="tone3">zhǎng</span>;lang;[sound:zhang3.mp3];jaar1 week16 jaar2 week04 week10
+为什么 waarom?;<span class="tone4">为</span><span class="tone2">什</span><span class="tone5">么</span>;<span class="tone4">wèi</span><span class="tone2">shén</span><span class="tone5">me</span>;waarom?;[sound:wei4shen2me5.mp3];jaar1 week16
+怎么样 wat (denk je) van?;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">样</span>;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">yàng</span>;wat (denk je) van?;[sound:zen3me5yang4.mp3];jaar1 week16 les06
+有一点.. een beetje ..;<span class="tone3">有</span><span class="tone1">一</span><span class="tone3">点</span>..;<span class="tone3">yǒu</span><span class="tone1">yī</span><span class="tone3">diǎn</span>..;een beetje ..;[sound:you3yi1dian3.mp3];jaar1 week16
+冷 koud;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week16 week18
+热 warm;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week16 week18
+电视 televisie;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];jaar1 week12 week14 week15 week16
+电影 film;<span class="tone4">电</span><span class="tone3">影</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span>;film;[sound:dian4ying3.mp3];jaar1 week09 week11 week12 week16
+电影院 cinema;<span class="tone4">电</span><span class="tone3">影</span><span class="tone4">院</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span><span class="tone4">yuàn</span>;cinema;[sound:dian4ying3yuan4.mp3];jaar1 week16
+京剧 beijing opera;<span class="tone1">京</span><span class="tone4">剧</span>;<span class="tone1">Jīng</span><span class="tone4">jù</span>;beijing opera;[sound:jing1ju4.mp3];jaar1 week16 week18 les06
+唱歌 het zingen van een liedje > zingen;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje > zingen;[sound:chang4ge1.mp3];jaar1 week08 week10 week16
+跳舞 het springen van een dansje > dansen;<span class="tone4">跳</span><span class="tone3">舞</span>;<span class="tone4">tiào</span><span class="tone3">wǔ</span>;het springen van een dansje > dansen;[sound:tiao4wu3.mp3];jaar1 week10 week16
+休息 pauze, pauzeren;<span class="tone1">休</span><span class="tone5">息</span>;<span class="tone1">xiū</span><span class="tone5">xi</span>;pauze, pauzeren;[sound:xiu1xi5.mp3];jaar1 week01 week03 week16
+睡觉 het slapen van een slaapje > slapen;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje > slapen;[sound:shui4jiao4.mp3];jaar1 week15 week16 week17 jaar2 week06
+吃水饺 (gekookte) dumplings eten;<span class="tone1">吃</span><span class="tone3">水</span><span class="tone3">饺</span>;<span class="tone1">chī</span><span class="tone3">shuǐ</span><span class="tone3">jiǎo</span>;(gekookte) dumplings eten;[sound:chi1shui3jiao3.mp3];jaar1 week16
+听音乐 naar muziek luisteren;<span class="tone1">听</span><span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">tīng</span><span class="tone1">yīn</span><span class="tone4">lè</span>;naar muziek luisteren;[sound:ting1yin1le4.mp3];jaar1 week16
+游泳 zwemmen;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week08 week16 les06
+游泳池 zwembad;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone2">池</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone2">chí</span>;zwembad;[sound:you2yong3chi2.mp3];jaar1 week16
+游泳馆 zwembad;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone3">馆</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone3">guǎn</span>;zwembad;[sound:you2yong3guan3.mp3];jaar1 week16
+会 kunnen;<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen;[sound:hui4.mp3];jaar1 week16
+要 willen, hebben, moeten;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week01 week03 week16 les02
+昨天 gisteren;<span class="tone2">昨</span><span class="tone1">天</span>;<span class="tone2">zuó</span><span class="tone1">tiān</span>;gisteren;[sound:zuo2tian1.mp3];jaar1 week16 week17 les06
+今天 vandaag;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week09 week14 week16 week17 les06
+现在 nu;<span class="tone4">现</span><span class="tone4">在</span>;<span class="tone4">xiàn</span><span class="tone4">zài</span>;nu;[sound:xian4zai4.mp3];jaar1 week16 week17 les06
+有(的)时候 soms;<span class="tone3">有</span>(<span class="tone5">的</span>)<span class="tone2">时</span><span class="tone5">候</span>;<span class="tone3">yǒu</span>(<span class="tone5">de</span>)<span class="tone2">shí</span><span class="tone5">hou</span>;soms;[sound:you3de5shi2hou5.mp3];jaar1 week16
+上课 (beginnen met) les volgen;<span class="tone4">上</span><span class="tone4">课</span>;<span class="tone4">shàng</span><span class="tone4">kè</span>;(beginnen met) les volgen;[sound:shang4ke4.mp3];jaar1 week16 week19 week23
+下课 stoppen met de les;<span class="tone4">下</span><span class="tone4">课</span>;<span class="tone4">xià</span><span class="tone4">kè</span>;stoppen met de les;[sound:xia4ke4.mp3];jaar1 week16 week19 week23

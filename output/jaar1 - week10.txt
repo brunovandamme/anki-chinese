@@ -1,0 +1,7 @@
+姓名 familienaam en gegeven naam (in te vullen op papieren);<span class="tone4">姓</span><span class="tone2">名</span>;<span class="tone4">xìng</span><span class="tone2">míng</span>;familienaam en gegeven naam (in te vullen op papieren);[sound:xing4ming2.mp3];jaar1 week10
+唱歌 het zingen van een liedje > zingen;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje > zingen;[sound:chang4ge1.mp3];jaar1 week08 week10 week16
+跳舞 het springen van een dansje > dansen;<span class="tone4">跳</span><span class="tone3">舞</span>;<span class="tone4">tiào</span><span class="tone3">wǔ</span>;het springen van een dansje > dansen;[sound:tiao4wu3.mp3];jaar1 week10 week16
+容易 gemakkelijk;<span class="tone2">容</span><span class="tone4">易</span>;<span class="tone2">róng</span><span class="tone4">yì</span>;gemakkelijk;[sound:rong2yi4.mp3];jaar1 week10 week20
+车 wagen, auto;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];jaar1 week10 les08
+果汁 fruitsap;<span class="tone3">果</span><span class="tone1">汁</span>;<span class="tone3">guǒ</span><span class="tone1">zhī</span>;fruitsap;[sound:guo3zhi1.mp3];jaar1 week10
+记者 reporter;<span class="tone4">记</span><span class="tone3">者</span>;<span class="tone4">jì</span><span class="tone3">zhě</span>;reporter;[sound:ji4zhe3.mp3];jaar1 week10 week11 les04

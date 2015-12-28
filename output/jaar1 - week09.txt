@@ -1,0 +1,29 @@
+老人 oude persoon, oude mensen;<span class="tone3">老</span><span class="tone2">人</span>;<span class="tone3">lǎo</span><span class="tone2">rén</span>;oude persoon, oude mensen;[sound:lao3ren2.mp3];jaar1 week09
+玩(儿) spelen, plezier maken, zich amuseren;<span class="tone2">玩</span>(<span class="tone5">儿</span>);<span class="tone2">wán</span>(<span class="tone5">r</span>);spelen, plezier maken, zich amuseren;[sound:wan2r5.mp3];jaar1 week08 week09
+姓 achternaam, heten (achternaam);<span class="tone4">姓</span>;<span class="tone4">xìng</span>;achternaam, heten (achternaam);[sound:xing4.mp3];jaar1 week09 les04
+名字 voornaam;<span class="tone2">名</span><span class="tone5">字</span>;<span class="tone2">míng</span><span class="tone5">zi</span>;voornaam;[sound:ming2zi5.mp3];jaar1 week09 les07
+孩子 kind;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week08 week09 les08
+女孩子 meisje;<span class="tone3">女</span><span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone3">nǚ</span><span class="tone2">hái</span><span class="tone5">zi</span>;meisje;[sound:nü3hai2zi5.mp3];jaar1 week09
+男孩子 jongen;<span class="tone2">男</span><span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">nán</span><span class="tone2">hái</span><span class="tone5">zi</span>;jongen;[sound:nan2hai2zi5.mp3];jaar1 week09
+男的 mannelijk, een man;<span class="tone2">男</span><span class="tone5">的</span>;<span class="tone2">nán</span><span class="tone5">de</span>;mannelijk, een man;[sound:nan2de5.mp3];jaar1 week09
+女的 vrouwelijk, een vrouw;<span class="tone3">女</span><span class="tone5">的</span>;<span class="tone3">nǚ</span><span class="tone5">de</span>;vrouwelijk, een vrouw;[sound:nü3de5.mp3];jaar1 week09
+儿子 zoon;<span class="tone2">儿</span><span class="tone5">子</span>;<span class="tone2">ér</span><span class="tone5">zi</span>;zoon;[sound:er2zi5.mp3];jaar1 week09
+女儿 dochter;<span class="tone3">女</span><span class="tone2">儿</span>;<span class="tone3">nǚ</span>'<span class="tone2">ér</span>;dochter;[sound:nü3er2.mp3];jaar1 week09
+孙子 kleinzoon (zoon van je zoon);<span class="tone1">孙</span><span class="tone3">子</span>;<span class="tone1">Sūn</span><span class="tone3">zǐ</span>;kleinzoon (zoon van je zoon);[sound:sun1zi3.mp3];jaar1 week09
+孙女 kleindochter (dochter van je zoon);<span class="tone1">孙</span><span class="tone3">女</span>;<span class="tone1">sūn</span><span class="tone3">nǚ</span>;kleindochter (dochter van je zoon);[sound:sun1nü3.mp3];jaar1 week09
+外孙 kleinzoon (zoon van je dochter);<span class="tone4">外</span><span class="tone1">孙</span>;<span class="tone4">wài</span><span class="tone1">sūn</span>;kleinzoon (zoon van je dochter);[sound:wai4sun1.mp3];jaar1 week09
+外孙女 kleindochter (dochter van je dochter);<span class="tone4">外</span><span class="tone1">孙</span><span class="tone3">女</span>;<span class="tone4">wài</span><span class="tone1">sūn</span><span class="tone3">nǚ</span>;kleindochter (dochter van je dochter);[sound:wai4sun1nü3.mp3];jaar1 week09
+医学 geneeskunde;<span class="tone1">医</span><span class="tone2">学</span>;<span class="tone1">yī</span><span class="tone2">xué</span>;geneeskunde;[sound:yi1xue2.mp3];jaar1 week09 week22
+爱 houden van, liefde;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week08 week09 les08
+可爱 schattig;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];jaar1 week09 les08
+家人 familie, gezin;<span class="tone1">家</span><span class="tone2">人</span>;<span class="tone1">jiā</span><span class="tone2">rén</span>;familie, gezin;[sound:jia1ren2.mp3];jaar1 week08 week09
+爷爷 opa (langs vaders kant);<span class="tone2">爷</span><span class="tone5">爷</span>;<span class="tone2">yé</span><span class="tone5">ye</span>;opa (langs vaders kant);[sound:ye2ye5.mp3];jaar1 week09 les08
+奶奶 oma (langs vaders kant);<span class="tone3">奶</span><span class="tone5">奶</span>;<span class="tone3">nǎi</span><span class="tone5">nai</span>;oma (langs vaders kant);[sound:nai3nai5.mp3];jaar1 week09 les03
+外婆 oma (langs moeders kant);<span class="tone4">外</span><span class="tone2">婆</span>;<span class="tone4">wài</span><span class="tone2">pó</span>;oma (langs moeders kant);[sound:wai4po2.mp3];jaar1 week09 les03
+外公 opa (langs moeders kant);<span class="tone4">外</span><span class="tone1">公</span>;<span class="tone4">wài</span><span class="tone1">gōng</span>;opa (langs moeders kant);[sound:wai4gong1.mp3];jaar1 week09 les08
+老婆 echtgenote (spreektaal) (=太太);<span class="tone3">老</span><span class="tone2">婆</span>;<span class="tone3">lǎo</span><span class="tone2">pó</span>;echtgenote (spreektaal) (=太太);[sound:lao3po2.mp3];jaar1 week09
+老公 echtgenoot (spreektaal) (=先生);<span class="tone3">老</span><span class="tone5">公</span>;<span class="tone3">lǎo</span><span class="tone5">gong</span>;echtgenoot (spreektaal) (=先生);[sound:lao3gong5.mp3];jaar1 week09
+您 u;<span class="tone2">您</span>;<span class="tone2">nín</span>;u;[sound:nin2.mp3];jaar1 week09 les03 les04
+陈 een Chinese familienaam;<span class="tone2">陈</span>;<span class="tone2">chén</span>;een Chinese familienaam;[sound:chen2.mp3];jaar1 week09
+今天 vandaag;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week09 week14 week16 week17 les06
+电影 film;<span class="tone4">电</span><span class="tone3">影</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span>;film;[sound:dian4ying3.mp3];jaar1 week09 week11 week12 week16

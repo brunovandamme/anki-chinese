@@ -1,0 +1,32 @@
+天气 het weer;<span class="tone1">天</span><span class="tone4">气</span>;<span class="tone1">tiān</span><span class="tone4">qì</span>;het weer;[sound:tian1qi4.mp3];jaar1 week18 les06
+地图 kaart;<span class="tone4">地</span><span class="tone2">图</span>;<span class="tone4">dì</span><span class="tone2">tú</span>;kaart;[sound:di4tu2.mp3];jaar1 week18
+东 oosten;<span class="tone1">东</span>;<span class="tone1">dōng</span>;oosten;[sound:dong1.mp3];jaar1 week18
+南 zuiden;<span class="tone2">南</span>;<span class="tone2">nán</span>;zuiden;[sound:nan2.mp3];jaar1 week18
+西 westen;<span class="tone5">西</span>;<span class="tone5">xi</span>;westen;[sound:xi5.mp3];jaar1 week18
+北 noorden;<span class="tone3">北</span>;<span class="tone3">běi</span>;noorden;[sound:bei3.mp3];jaar1 week18
+东西 iets, ding, voorwerp;<span class="tone1">东</span><span class="tone5">西</span>;<span class="tone1">dōng</span><span class="tone5">xi</span>;iets, ding, voorwerp;[sound:dong1xi5.mp3];jaar1 week18 jaar2 week08
+下雨 regenen;<span class="tone4">下</span><span class="tone3">雨</span>;<span class="tone4">xià</span><span class="tone3">yǔ</span>;regenen;[sound:xia4yu3.mp3];jaar1 week18
+下雪 sneeuwen;<span class="tone4">下</span><span class="tone3">雪</span>;<span class="tone4">xià</span><span class="tone3">xuě</span>;sneeuwen;[sound:xia4xue3.mp3];jaar1 week18
+冷 koud;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week16 week18
+热 warm;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week16 week18
+真 echt;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];jaar1 week18 week23 les08
+河 rivier;<span class="tone2">河</span>;<span class="tone2">hé</span>;rivier;[sound:he2.mp3];jaar1 week18
+湖 meer;<span class="tone2">湖</span>;<span class="tone2">hú</span>;meer;[sound:hu2.mp3];jaar1 week18
+山 berg;<span class="tone1">山</span>;<span class="tone1">shān</span>;berg;[sound:shan1.mp3];jaar1 week18
+孔子 confucius;<span class="tone3">孔</span><span class="tone3">子</span>;<span class="tone3">Kǒng</span><span class="tone3">zǐ</span>;confucius;[sound:kong3zi3.mp3];jaar1 week18
+还可以 het gaat nog;<span class="tone2">还</span><span class="tone3">可</span><span class="tone3">以</span>;<span class="tone2">hái</span><span class="tone3">kě</span><span class="tone3">yǐ</span>;het gaat nog;[sound:hai2ke3yi3.mp3];jaar1 week18
+还 nog;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week18 week19 week23 les08 jaar2 week01
+慢 langzaam;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];jaar1 week16 week18
+客气 beleefd;<span class="tone4">客</span><span class="tone5">气</span>;<span class="tone4">kè</span><span class="tone5">qi</span>;beleefd;[sound:ke4qi5.mp3];jaar1 week12 week18 jaar2 week04
+北京 Beijing, Peking;<span class="tone3">北</span><span class="tone1">京</span>;<span class="tone3">Běi</span><span class="tone1">jīng</span>;Beijing, Peking;[sound:bei3jing1.mp3];jaar1 week05 week18
+南京 nanjing;<span class="tone2">南</span><span class="tone1">京</span>;<span class="tone2">Nán</span><span class="tone1">jīng</span>;nanjing;[sound:nan2jing1.mp3];jaar1 week18
+京剧 beijing opera;<span class="tone1">京</span><span class="tone4">剧</span>;<span class="tone1">Jīng</span><span class="tone4">jù</span>;beijing opera;[sound:jing1ju4.mp3];jaar1 week16 week18 les06
+告诉 vertellen, meedelen;<span class="tone4">告</span><span class="tone5">诉</span>;<span class="tone4">gào</span><span class="tone5">su</span>;vertellen, meedelen;[sound:gao4su5.mp3];jaar1 week18 week20 jaar2 week03
+抱歉 sorry;<span class="tone4">抱</span><span class="tone4">歉</span>;<span class="tone4">bào</span><span class="tone4">qiàn</span>;sorry;[sound:bao4qian4.mp3];jaar1 week18 les06
+恐怕 ik vrees dat;<span class="tone3">恐</span><span class="tone4">怕</span>;<span class="tone3">kǒng</span><span class="tone4">pà</span>;ik vrees dat;[sound:kong3pa4.mp3];jaar1 week18 les06
+行 gaan, lukken;<span class="tone2">行</span>;<span class="tone2">xíng</span>;gaan, lukken;[sound:xing2.mp3];jaar1 week18 les06
+时间 tijd;<span class="tone2">时</span><span class="tone1">间</span>;<span class="tone2">shí</span><span class="tone1">jiān</span>;tijd;[sound:shi2jian1.mp3];jaar1 week16 week18 les06
+有名 bekend, naam hebben;<span class="tone3">有</span><span class="tone2">名</span>;<span class="tone3">yǒu</span><span class="tone2">míng</span>;bekend, naam hebben;[sound:you3ming2.mp3];jaar1 week12 week18 week24 jaar2 week03 week04
+有时候 soms;<span class="tone3">有</span><span class="tone2">时</span><span class="tone5">候</span>;<span class="tone3">yǒu</span><span class="tone2">shí</span><span class="tone5">hou</span>;soms;[sound:you3shi2hou5.mp3];jaar1 week18
+..的时候 terwijl .., tijdens het ..;..<span class="tone5">的</span><span class="tone2">时</span><span class="tone5">候</span>;..<span class="tone5">de</span><span class="tone2">shí</span><span class="tone5">hou</span>;terwijl .., tijdens het ..;[sound:de5shi2hou5.mp3];jaar1 week18
+报纸 krant;<span class="tone4">报</span><span class="tone3">纸</span>;<span class="tone4">bào</span><span class="tone3">zhǐ</span>;krant;[sound:bao4zhi3.mp3];jaar1 week18

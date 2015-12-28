@@ -1,0 +1,11 @@
+文明 beschaafd;<span class="tone2">文</span><span class="tone2">明</span>;<span class="tone2">wén</span><span class="tone2">míng</span>;beschaafd;[sound:wen2ming2.mp3];jaar1 week25
+瓶 fles (maatwoord);<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];jaar1 week21 week22 week25 week26 jaar2 week05
+杯 glas, tas (maatwoord);<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];jaar1 week21 week22 week25 week26 jaar2 week05
+笔 pen;<span class="tone3">笔</span>;<span class="tone3">bǐ</span>;pen;[sound:bi3.mp3];jaar1 week25
+支 (maatwoord voor pennen, sigaretten, etc...);<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];jaar1 week25 jaar2 week05 week08
+纸 papier;<span class="tone3">纸</span>;<span class="tone3">zhǐ</span>;papier;[sound:zhi3.mp3];jaar1 week25
+公园 park;<span class="tone1">公</span><span class="tone2">园</span>;<span class="tone1">gōng</span><span class="tone2">yuán</span>;park;[sound:gong1yuan2.mp3];jaar1 week25
+年级 jaar (niveau);<span class="tone2">年</span><span class="tone2">级</span>;<span class="tone2">nián</span><span class="tone2">jí</span>;jaar (niveau);[sound:nian2ji2.mp3];jaar1 week25 jaar2 week01
+早上 ochtend, 's ochtends;<span class="tone3">早</span><span class="tone5">上</span>;<span class="tone3">zǎo</span><span class="tone5">shang</span>;ochtend, 's ochtends;[sound:zao3shang5.mp3];jaar1 week17 week22 week23 week25
+早 vroeg;<span class="tone3">早</span>;<span class="tone3">zǎo</span>;vroeg;[sound:zao3.mp3];jaar1 week17 week25
+帅 knap;<span class="tone4">帅</span>;<span class="tone4">shuài</span>;knap;[sound:shuai4.mp3];jaar1 week25

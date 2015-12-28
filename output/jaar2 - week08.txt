@@ -1,0 +1,44 @@
+买 kopen;<span class="tone3">买</span>;<span class="tone3">mǎi</span>;kopen;[sound:mai3.mp3];jaar1 week19 week20 jaar2 week08
+顾客 klant;<span class="tone4">顾</span><span class="tone4">客</span>;<span class="tone4">gù</span><span class="tone4">kè</span>;klant;[sound:gu4ke4.mp3];jaar2 week08
+售货员 verkoper;<span class="tone4">售</span><span class="tone4">货</span><span class="tone2">员</span>;<span class="tone4">shòu</span><span class="tone4">huò</span><span class="tone2">yuán</span>;verkoper;[sound:shou4huo4yuan2.mp3];jaar2 week08
+卖 verkopen;<span class="tone4">卖</span>;<span class="tone4">mài</span>;verkopen;[sound:mai4.mp3];jaar1 week20 jaar2 week08
+东西 iets, ding, voorwerp;<span class="tone1">东</span><span class="tone5">西</span>;<span class="tone1">dōng</span><span class="tone5">xi</span>;iets, ding, voorwerp;[sound:dong1xi5.mp3];jaar1 week18 jaar2 week08
+买东西 dingen kopen, winkelen;<span class="tone3">买</span><span class="tone1">东</span><span class="tone5">西</span>;<span class="tone3">mǎi</span><span class="tone1">dōng</span><span class="tone5">xi</span>;dingen kopen, winkelen;[sound:mai3dong1xi5.mp3];jaar1 week19 jaar2 week08
+卖东西 dingen verkopen;<span class="tone4">卖</span><span class="tone1">东</span><span class="tone5">西</span>;<span class="tone4">mài</span><span class="tone1">dōng</span><span class="tone5">xi</span>;dingen verkopen;[sound:mai4dong1xi5.mp3];jaar2 week08
+商店 winkel;<span class="tone1">商</span><span class="tone4">店</span>;<span class="tone1">shāng</span><span class="tone4">diàn</span>;winkel;[sound:shang1dian4.mp3];jaar1 week20 jaar2 week08
+书店 boekwinkel;<span class="tone1">书</span><span class="tone4">店</span>;<span class="tone1">shū</span><span class="tone4">diàn</span>;boekwinkel;[sound:shu1dian4.mp3];jaar2 week08
+水果 fruit;<span class="tone3">水</span><span class="tone3">果</span>;<span class="tone3">shuǐ</span><span class="tone3">guǒ</span>;fruit;[sound:shui3guo3.mp3];jaar2 week08 week10
+水果店 fruitwinkel;<span class="tone3">水</span><span class="tone3">果</span><span class="tone4">店</span>;<span class="tone3">shuǐ</span><span class="tone3">guǒ</span><span class="tone4">diàn</span>;fruitwinkel;[sound:shui3guo3dian4.mp3];jaar2 week08
+面包 brood;<span class="tone4">面</span><span class="tone1">包</span>;<span class="tone4">miàn</span><span class="tone1">bāo</span>;brood;[sound:mian4bao1.mp3];jaar1 week16 jaar2 week08 week09
+面包店 broodwinkel, bakker;<span class="tone4">面</span><span class="tone1">包</span><span class="tone4">店</span>;<span class="tone4">miàn</span><span class="tone1">bāo</span><span class="tone4">diàn</span>;broodwinkel, bakker;[sound:mian4bao1dian4.mp3];jaar2 week08
+商场 grote winkel, winkelcentrum;<span class="tone1">商</span><span class="tone3">场</span>;<span class="tone1">shāng</span><span class="tone3">chǎng</span>;grote winkel, winkelcentrum;[sound:shang1chang3.mp3];jaar2 week08
+超市 supermarkt;<span class="tone1">超</span><span class="tone4">市</span>;<span class="tone1">chāo</span><span class="tone4">shì</span>;supermarkt;[sound:chao1shi4.mp3];jaar2 week08
+家乐福 Carrefour;<span class="tone1">家</span><span class="tone4">乐</span><span class="tone2">福</span>;<span class="tone1">Jiā</span><span class="tone4">lè</span><span class="tone2">fú</span>;Carrefour;[sound:jia1le4fu2.mp3];jaar2 week08
+钱 geld;<span class="tone2">钱</span>;<span class="tone2">qián</span>;geld;[sound:qian2.mp3];jaar1 week20 jaar2 week08
+人民币 'de munt van het volk' > de Chinese munt;<span class="tone2">人</span><span class="tone2">民</span><span class="tone4">币</span>;<span class="tone2">rén</span><span class="tone2">mín</span><span class="tone4">bì</span>;'de munt van het volk' > de Chinese munt;[sound:ren2min2bi4.mp3];jaar2 week08
+怎么卖? hoe wordt het verkocht?;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">卖</span>?;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">mài</span>?;hoe wordt het verkocht?;[sound:zen3me5mai4.mp3];jaar2 week08
+多少钱? hoeveel kost het?;<span class="tone1">多</span><span class="tone3">少</span><span class="tone2">钱</span>?;<span class="tone1">duō</span><span class="tone3">shǎo</span><span class="tone2">qián</span>?;hoeveel kost het?;[sound:duo1shao3qian2.mp3];jaar2 week08
+斤 een ‘jin’ (= halve kilo);<span class="tone1">斤</span>;<span class="tone1">jīn</span>;een ‘jin’ (= halve kilo);[sound:jin1.mp3];jaar2 week08
+公斤 een kilogram, 两斤;<span class="tone1">公</span><span class="tone1">斤</span>;<span class="tone1">gōng</span><span class="tone1">jīn</span>;een kilogram, 两斤;[sound:gong1jin1.mp3];jaar2 week08
+块 basiseenheid van de Chinese munt (gesproken taal);<span class="tone4">块</span>;<span class="tone4">kuài</span>;basiseenheid van de Chinese munt (gesproken taal);[sound:kuai4.mp3];jaar2 week08
+元 basiseenheid van de Chinese munt (geschreven taal en in het zuiden);<span class="tone2">元</span>;<span class="tone2">yuán</span>;basiseenheid van de Chinese munt (geschreven taal en in het zuiden);[sound:yuan2.mp3];jaar2 week08
+毛 een 10de van een 块 (gesproken taal);<span class="tone2">毛</span>;<span class="tone2">máo</span>;een 10de van een 块 (gesproken taal);[sound:mao2.mp3];jaar2 week08
+角 een 10de van een 元 (geschreven taal en in het zuiden);<span class="tone3">角</span>;<span class="tone3">jiǎo</span>;een 10de van een 元 (geschreven taal en in het zuiden);[sound:jiao3.mp3];jaar2 week08
+分 een 10de van een 毛 of 角;<span class="tone1">分</span>;<span class="tone1">fēn</span>;een 10de van een 毛 of 角;[sound:fen1.mp3];jaar2 week08
+草莓 aarbei;<span class="tone3">草</span><span class="tone2">莓</span>;<span class="tone3">cǎo</span><span class="tone2">méi</span>;aarbei;[sound:cao3mei2.mp3];jaar2 week08
+盒 doos;<span class="tone2">盒</span>;<span class="tone2">hé</span>;doos;[sound:he2.mp3];jaar2 week08
+鱼 vis;<span class="tone2">鱼</span>;<span class="tone2">yú</span>;vis;[sound:yu2.mp3];jaar2 week08
+土豆 aardappel;<span class="tone3">土</span><span class="tone4">豆</span>;<span class="tone3">tǔ</span><span class="tone4">dòu</span>;aardappel;[sound:tu3dou4.mp3];jaar2 week08
+报(纸) krant;<span class="tone4">报</span>(<span class="tone3">纸</span>);<span class="tone4">bào</span>(<span class="tone3">zhǐ</span>);krant;[sound:bao4zhi3.mp3];jaar2 week08
+本子 schrift, notitieboekje;<span class="tone3">本</span><span class="tone5">子</span>;<span class="tone3">běn</span><span class="tone5">zi</span>;schrift, notitieboekje;[sound:ben3zi5.mp3];jaar2 week08
+每 elke;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];jaar2 week08
+跟 met, samen met;<span class="tone1">跟</span>;<span class="tone1">gēn</span>;met, samen met;[sound:gen1.mp3];jaar2 week08
+支 (maatwoord voor pennen, sigaretten, etc...);<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];jaar1 week25 jaar2 week05 week08
+束 (maatwoord voor bloemen) bos, ruiker;<span class="tone4">束</span>;<span class="tone4">shù</span>;(maatwoord voor bloemen) bos, ruiker;[sound:shu4.mp3];jaar2 week08
+块 (maatwoord voor een stuk);<span class="tone4">块</span>;<span class="tone4">kuài</span>;(maatwoord voor een stuk);[sound:kuai4.mp3];jaar2 week05 week08
+常常 vaak;<span class="tone2">常</span><span class="tone2">常</span>;<span class="tone2">cháng</span><span class="tone2">cháng</span>;vaak;[sound:chang2chang2.mp3];jaar2 week08
+不常 niet vaak;<span class="tone4">不</span><span class="tone2">常</span>;<span class="tone4">bù</span><span class="tone2">cháng</span>;niet vaak;[sound:bu4chang2.mp3];jaar2 week08
+假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week21 jaar2 week08 week10
+说话 het spreken van woorden > spreken, babbelen;<span class="tone1">说</span><span class="tone4">话</span>;<span class="tone1">shuō</span><span class="tone4">huà</span>;het spreken van woorden > spreken, babbelen;[sound:shuo1hua4.mp3];jaar1 week17 jaar2 week08
+同事 collega;<span class="tone2">同</span><span class="tone4">事</span>;<span class="tone2">tóng</span><span class="tone4">shì</span>;collega;[sound:tong2shi4.mp3];jaar2 week08
+梁祝 muziekstuk 'the butterfly lovers';<span class="tone2">梁</span><span class="tone4">祝</span>;<span class="tone2">Liáng</span><span class="tone4">Zhù</span>;muziekstuk 'the butterfly lovers';[sound:liang2zhu4.mp3];jaar2 week08

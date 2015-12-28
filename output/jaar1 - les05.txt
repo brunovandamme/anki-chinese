@@ -1,0 +1,29 @@
+餐厅 eetzaal, cafetaria;<span class="tone1">餐</span><span class="tone1">厅</span>;<span class="tone1">cān</span><span class="tone1">tīng</span>;eetzaal, cafetaria;[sound:can1ting1.mp3];jaar1 week15 les05
+在 aanwezig zijn, te ...;<span class="tone4">在</span>;<span class="tone4">zài</span>;aanwezig zijn, te ...;[sound:zai4.mp3];jaar1 week02 week03 week08 les05
+哪里 waar?;<span class="tone3">哪</span><span class="tone3">里</span>;<span class="tone3">nǎ</span><span class="tone3">lǐ</span>;waar?;[sound:na3li3.mp3];jaar1 les05
+请问 excuseer, mag ik iets vragen?;<span class="tone3">请</span><span class="tone4">问</span>;<span class="tone3">qǐng</span><span class="tone4">wèn</span>;excuseer, mag ik iets vragen?;[sound:qing3wen4.mp3];jaar1 week11 les04 les05
+问 vragen;<span class="tone4">问</span>;<span class="tone4">wèn</span>;vragen;[sound:wen4.mp3];jaar1 week11 les04 les05 les07
+这 deze, dit;<span class="tone4">这</span>;<span class="tone4">zhè</span>;deze, dit;[sound:zhe4.mp3];jaar1 week08 les03 les05
+宿舍 slaapzaal;<span class="tone4">宿</span><span class="tone4">舍</span>;<span class="tone4">sù</span><span class="tone4">shè</span>;slaapzaal;[sound:su4she4.mp3];jaar1 week14 les05
+女 vrouw;<span class="tone3">女</span>;<span class="tone3">nǚ</span>;vrouw;[sound:nü3.mp3];jaar1 les05
+学生 student;<span class="tone2">学</span><span class="tone5">生</span>;<span class="tone2">xué</span><span class="tone5">sheng</span>;student;[sound:xue2sheng5.mp3];jaar1 week01 les04 les05
+进 betreden (van een ruimte);<span class="tone4">进</span>;<span class="tone4">jìn</span>;betreden (van een ruimte);[sound:jin4.mp3];jaar1 week11 les04 les05
+坐 zitten;<span class="tone4">坐</span>;<span class="tone4">zuò</span>;zitten;[sound:zuo4.mp3];jaar1 week11 les05
+谢谢 bedankt, dankuwel;<span class="tone4">谢</span><span class="tone5">谢</span>;<span class="tone4">xiè</span><span class="tone5">xie</span>;bedankt, dankuwel;[sound:xie4xie5.mp3];jaar1 week02 week03 les05 les06
+对不起 sorry;<span class="tone4">对</span><span class="tone5">不</span><span class="tone3">起</span>;<span class="tone4">duì</span><span class="tone5">bu</span><span class="tone3">qǐ</span>;sorry;[sound:dui4bu5qi3.mp3];jaar1 week14 les05
+我 ik;<span class="tone3">我</span>;<span class="tone3">wǒ</span>;ik;[sound:wo3.mp3];jaar1 week01 les01 les05
+知道 weten;<span class="tone1">知</span><span class="tone4">道</span>;<span class="tone1">zhī</span><span class="tone4">dào</span>;weten;[sound:zhi1dao4.mp3];jaar1 week01 week02 les05
+没关系 het geeft niet;<span class="tone2">没</span><span class="tone1">关</span><span class="tone5">系</span>;<span class="tone2">méi</span><span class="tone1">guān</span><span class="tone5">xi</span>;het geeft niet;[sound:mei2guan1xi5.mp3];jaar1 week14 les05
+好 goed;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];jaar1 week02 les01 les05
+再见 tot ziens;<span class="tone4">再</span><span class="tone4">见</span>;<span class="tone4">zài</span><span class="tone4">jiàn</span>;tot ziens;[sound:zai4jian4.mp3];jaar1 week01 week02 week03 les05
+再 weer, nog een keer, opnieuw;<span class="tone4">再</span>;<span class="tone4">zài</span>;weer, nog een keer, opnieuw;[sound:zai4.mp3];jaar1 les05 jaar2 week05
+小姐 jonge vrouw;<span class="tone3">小</span><span class="tone5">姐</span>;<span class="tone3">xiǎo</span><span class="tone5">jie</span>;jonge vrouw;[sound:xiao3jie5.mp3];jaar1 week15 les05
+二 twee;<span class="tone4">二</span>;<span class="tone4">èr</span>;twee;[sound:er4.mp3];jaar1 week13 les05
+层 verdieping;<span class="tone2">层</span>;<span class="tone2">céng</span>;verdieping;[sound:ceng2.mp3];jaar1 week15 week17 les05
+零 nul;<span class="tone2">零</span>;<span class="tone2">líng</span>;nul;[sound:ling2.mp3];jaar1 week13 les05
+四 vier;<span class="tone4">四</span>;<span class="tone4">sì</span>;vier;[sound:si4.mp3];jaar1 week13 les05
+号 nummer;<span class="tone4">号</span>;<span class="tone4">hào</span>;nummer;[sound:hao4.mp3];jaar1 les05
+不用 niet nodig hebben;<span class="tone4">不</span><span class="tone4">用</span>;<span class="tone4">bù</span><span class="tone4">yòng</span>;niet nodig hebben;[sound:bu4yong4.mp3];jaar1 les05
+这里 hier;<span class="tone4">这</span><span class="tone3">里</span>;<span class="tone4">zhè</span><span class="tone3">lǐ</span>;hier;[sound:zhe4li3.mp3];jaar1 les05
+晚 laat;<span class="tone3">晚</span>;<span class="tone3">wǎn</span>;laat;[sound:wan3.mp3];jaar1 week15 week17 les05
+了 (partikel voor voltooide handelingen);<span class="tone5">了</span>;<span class="tone5">le</span>;(partikel voor voltooide handelingen);[sound:le5.mp3];jaar1 les05

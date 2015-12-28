@@ -1,0 +1,825 @@
+week01
+你好;hallo
+我;ik
+是;zijn
+老师;leerkracht
+汉语;chinees (taal)
+汉语老师;leerkracht Chinees
+中国;China
+叫;heten
+你;jij
+什么;wat?
+他;hij
+她;zij (vrouwelijk enkelvoud)
+不;niet, geen
+学生;student
+对;juist, correct
+不对;niet juist
+要;willen, hebben, moeten
+休息;pauze, pauzeren
+知道;weten
+我不知道;ik weet het niet
+难;moeilijk
+学习汉语不难;Chinees leren is niet moeilijk
+好玩;leuk, amusant
+学习汉语很好玩;Chinees leren is leuk
+再见;tot ziens
+
+week02
+你们好;hallo (tegen meerdere mensen)
+我们;wij
+你们;jullie
+他们;zij (mannelijk meervoud)
+她们;zij (vrouwelijk meervoud)
+好;goed
+很;heel
+不;niet, geen
+呢;en ...?
+也;ook
+都;allen, allemaal, beiden
+爸爸;papa
+妈妈;mama
+比利时;België
+知道;weten
+说;(iets) zeggen, (een taal) spreken
+请你再说一遍;gelieve het nog een keer te zeggen
+在;aanwezig zijn, te ...
+谢谢;bedankt, dankuwel
+再见;tot ziens
+
+week03
+我不知道;ik weet het niet
+请你再说一遍;gelieve het nog een keer te zeggen
+你说什么?;wat zeg je?
+谢谢;bedankt, dankuwel
+给你;alsjeblieft (ik geef het jou)
+在;aanwezig zijn, te ...
+再见;tot ziens
+忙;druk
+高;hoog, groot
+朋友;vriend
+男朋友;vriend, je lief (een man waarmee je een relatie hebt)
+女朋友;vriendin, je lief (een vrouw waarmee je een relatie hebt)
+休息;pauze, pauzeren
+要;willen, hebben, moeten
+你们要休息吗?;Willen jullie pauze?
+汉字;Chinese karakters
+
+week04
+喝;drinken
+水;water
+咖啡;koffie
+茶;thee
+可乐;cola
+可口可乐;Coca Cola
+百事可乐;Pepsi Cola
+啤酒;bier
+冰茶;ice-tea, ijsthee
+好喝;lekker (om te drinken)
+台湾;Taiwan
+中国;China
+比利时;België
+先生;mijnheer, echtgenoot
+太太;mevrouw, echtgenote
+
+week05
+中国;China
+中国人;een Chinees
+北京;Beijing, Peking
+北京人;iemand van Peking
+美国;Verenigde Staten
+美国人;een Amerikaan
+比利时;België
+比利时人;een Belg
+纽约;New York
+纽约人;iemand van New York
+荷兰;Nederland
+荷兰人;een Nederlander
+法国;Frankrijk
+法国人;Fransman
+德国;Duitsland
+德国人;Duitser
+英国;Engeland
+英国人;Engelsman
+西班牙;Spanje
+西班牙人;Spanjaard
+意大利;Italië
+意大利人;Italiaan
+澳大利亚;Australië
+澳大利亚人;Australiër
+加拿大;Canada
+加拿大人;Canadees
+卢森堡;Luxemburg
+卢森堡人;Luxemburger
+奥地利;Oostenrijk
+奥地利人;Oostenrijker
+日本;Japan
+日本人;Japanner
+有;hebben
+没有;niet hebben
+哥哥;oudere broer
+弟弟;jongere broer
+姐姐;oudere zus
+妹妹;jongere zus
+累;moe
+女人;vrouw
+男人;man
+
+week06
+喜欢;houden van, graag hebben, leuk vinden
+白酒;Chinese sterke drank ‘witte alcohol’
+多;veel
+荷兰语;Nederlands (de taal)
+法语;Frans (de taal)
+德语;Duits (de taal)
+英语;Engels (de taal)
+西班牙语;Spaans (de taal)
+意大利语;Italiaans (de taal)
+日语;Japans (de taal)
+
+week07
+同学;klasgenoot
+学习;studeren, leren
+外国;buitenland
+外国人;buitenlander
+外语;vreemde taal
+汉语;chinees (taal)
+中文;chinees (taal)
+普通话;Mandarijn Chinees
+听;luisteren
+说;(iets) zeggen, (een taal) spreken
+写;schrijven
+看;zien, kijken, bekijken
+
+week08
+这;deze, dit
+那;die, dat
+的;‘s (partikel om bezit aan te duiden)
+工作;werken, werk
+在;aanwezig zijn, te ...
+家;thuis
+家人;familie, gezin
+好看;mooi
+好玩(儿);leuk, amusant
+玩(儿);spelen, plezier maken, zich amuseren
+好听;mooi om te horen
+孩子;kind
+游泳;zwemmen
+唱歌;het zingen van een liedje > zingen
+医生;dokter
+喜欢;houden van, graag hebben, leuk vinden
+爱;houden van, liefde
+高兴;blij
+
+week09
+老人;oude persoon, oude mensen
+玩(儿);spelen, plezier maken, zich amuseren
+姓;achternaam, heten (achternaam)
+名字;voornaam
+孩子;kind
+女孩子;meisje
+男孩子;jongen
+男的;mannelijk, een man
+女的;vrouwelijk, een vrouw
+儿子;zoon
+女儿;dochter
+孙子;kleinzoon (zoon van je zoon)
+孙女;kleindochter (dochter van je zoon)
+外孙;kleinzoon (zoon van je dochter)
+外孙女;kleindochter (dochter van je dochter)
+医学;geneeskunde
+爱;houden van, liefde
+可爱;schattig
+家人;familie, gezin
+爷爷;opa (langs vaders kant)
+奶奶;oma (langs vaders kant)
+外婆;oma (langs moeders kant)
+外公;opa (langs moeders kant)
+老婆;echtgenote (spreektaal) (=太太)
+老公;echtgenoot (spreektaal) (=先生)
+您;u
+陈;een Chinese familienaam
+今天;vandaag
+电影;film
+
+week10
+姓名;familienaam en gegeven naam (in te vullen op papieren)
+唱歌;het zingen van een liedje > zingen
+跳舞;het springen van een dansje > dansen
+容易;gemakkelijk
+车;wagen, auto
+果汁;fruitsap
+记者;reporter
+
+week11
+可以;kunnen, mogen
+请;iemand iets verzoeken, gelieve ...
+去;gaan
+来;komen
+进;betreden (van een ruimte)
+出;verlaten (van het ruimte)
+进来;binnen komen
+进去;binnen gaan
+出来;buiten komen
+出去;buiten gaan
+坐;zitten
+问;vragen
+请问;excuseer, mag ik iets vragen?
+记者;reporter
+贵;duur
+您贵姓?;beleefde manier om te vragen naar iemands familienaam
+认识;(iemand) kennen, leren kennen
+高兴;blij
+认识您我很高兴;blij u te leren kennen, aangename kennismaking
+电影;film
+书;boek
+看书;lezen
+
+week12
+多;veel
+少;weinig
+一点(点);een beetje
+它;het, hij (voor dieren of voorwerpen)
+客人;gast
+客气;beleefd
+学院;instituut, faculteit
+语言学院;taleninstituut
+大学;universiteit
+大学生;universiteitsstudent
+中学;middelbare school
+中学生;student van de middelbare school
+小学;lagere school
+小学生;leerling van de lagere school
+做;doen, maken
+哪里? 哪儿?;waar?
+那里 那儿;daar
+狗;hond
+猫;kat
+吃饭;het eten van rijst > eten
+好吃;lekker om te eten
+电影;film
+电视;televisie
+有名;bekend, naam hebben
+有意思;interessant
+明白;begrijpen, verstaan
+先...再...;eerst... vervolgens...
+
+
+week13
+上大学;les volgen aan de universiteit
+上中学;les volgen in het middelbaar
+考试;examen
+零;nul
+一;eén
+二;twee
+三;drie
+四;vier
+五;vijf
+六;zes
+七;zeven
+八;acht
+九;negen
+十;tien
+
+week14
+打;slaan, spelen
+电话;telefoon
+打电话;telefoneren
+电话号码;telefoonnummer
+电脑;computer
+脑子;hersenen
+电视;televisie
+新年;nieuwjaar
+什么时候;wanneer?
+今天;vandaag
+走;weggaan
+宿舍;slaapzaal
+对不起;sorry
+没关系;het geeft niet
+关系;netwerk van relaties
+
+week15
+餐厅;eetzaal, cafetaria
+意大利面;spaghetti
+看书;lezen
+图书馆;bibliotheek
+茶馆;theehuis
+咖啡馆;koffiehuis
+饭馆;restaurant
+长城;de chinese muur
+睡觉;het slapen van een slaapje > slapen
+水饺;dumplings (gekookt)
+饺子;dumplings
+电视;televisie
+音乐;muziek
+想;denken, willen, missen
+春节;chinees nieuwjaar
+春天;lente
+新年;nieuwjaar
+累;moe
+不好意思;excuseer
+厕所;toilet
+小姐;jonge vrouw
+层;verdieping
+用;gebruiken, nodig hebben
+晚;laat
+来晚了;te laat gekomen zijn
+
+week16
+慢;langzaam
+电脑;computer
+脑子;hersenen
+春节;chinees nieuwjaar
+晚会;avondfeest
+百;honderd
+大家;iedereen
+有意思;interessant
+吃饭;het eten van rijst > eten
+米饭;rijst
+面包;brood
+意大利面;spaghetti
+找;zoeken
+时间;tijd
+长;lang
+为什么;waarom?
+怎么样;wat (denk je) van?
+有一点..;een beetje ..
+冷;koud
+热;warm
+电视;televisie
+电影;film
+电影院;cinema
+京剧;beijing opera
+唱歌;het zingen van een liedje > zingen
+跳舞;het springen van een dansje > dansen
+休息;pauze, pauzeren
+睡觉;het slapen van een slaapje > slapen
+吃水饺;(gekookte) dumplings eten
+吃饭;het eten van rijst > eten
+听音乐;naar muziek luisteren
+游泳;zwemmen
+游泳池;zwembad
+游泳馆;zwembad
+会;kunnen
+要;willen, hebben, moeten
+昨天;gisteren
+今天;vandaag
+现在;nu
+有(的)时候;soms
+有意思;interessant
+上课;(beginnen met) les volgen
+下课;stoppen met de les
+
+week17
+层;verdieping
+洗澡;het wassen van een wasje > zich wassen
+洗手;handen wassen
+睡觉;het slapen van een slaapje > slapen
+做饭;koken
+厕所;toilet
+男厕所;herentoilet
+女厕所;damestoilet
+上厕所;naar het toilet gaan
+什么时候;wanneer?
+现在;nu
+昨天;gisteren
+今天;vandaag
+明天;morgen
+几号;de hoeveelste? (datum)
+早上;ochtend, 's ochtends
+早;vroeg
+晚上;avond, 's avonds
+晚;laat
+中午;middag, 's middags
+打球;(een balsport) spelen (met de handen)
+网球;tennis
+打网球;tennissen
+踢球;stampen tegen een bal
+足球;voetbal
+踢足球;voetballen
+想;denken, willen, missen
+回;terugkeren
+回家;terugkeren naar huis
+听说;ik heb horen zeggen dat
+说话;het spreken van woorden > spreken, babbelen
+香港;hongkong
+巧克力;chocolade
+公司;bedrijf
+
+week18
+天气;het weer
+地图;kaart
+东;oosten
+南;zuiden
+西;westen
+北;noorden
+东西;iets, ding, voorwerp
+下雨;regenen
+下雪;sneeuwen
+冷;koud
+热;warm
+真;echt
+河;rivier
+湖;meer
+山;berg
+孔子;confucius
+还可以;het gaat nog
+还;nog
+慢;langzaam
+客气;beleefd
+北京;Beijing, Peking
+南京;nanjing
+京剧;beijing opera
+告诉;vertellen, meedelen
+抱歉;sorry
+恐怕;ik vrees dat
+行;gaan, lukken
+时间;tijd
+有名;bekend, naam hebben
+有时候;soms
+..的时候;terwijl .., tijdens het ..
+报纸;krant
+
+week19
+住;wonen
+乒乓球;pingpong
+还;nog
+不好意思;excuseer
+旅行;reizen
+..以后;na.., later
+..以前;voor.., vroeger
+上课;(beginnen met) les volgen
+下课;stoppen met de les
+想;denken, willen, missen
+买东西;dingen kopen, winkelen
+买;kopen
+照片;foto
+漂亮;mooi
+当然;natuurlijk
+觉得;vinden, van mening zijn dat
+数学;wiskunde
+化学;scheikunde
+可能;misschien
+问题;vraag
+
+week20
+一下;eens, even
+容易;gemakkelijk
+告诉;vertellen, meedelen
+介绍;voorstellen
+教授;professor
+开学;starten met het academiejaar
+名片;naamkaartje
+住(在);wonen (te, in)
+公司;bedrijf
+经理;manager
+警察;politie
+工人;arbeider
+公务员;ambtenaar
+买卖人;handelaar
+买;kopen
+卖;verkopen
+家庭妇女;huisvrouw
+律师;advocaat
+工程师;ingenieur
+职员;werknemer
+饭馆;restaurant
+商店;winkel
+钱;geld
+..以前;voor.., vroeger
+..以后;na.., later
+语法;grammatica
+生词;nieuwe woorden
+退休;op pensioen gaan
+
+week21
+假期;vakantie
+介绍;voorstellen
+学校;school
+印尼;indonesië
+住;wonen
+楼;gebouw
+房间;kamer
+两;twee (+ maatwoord)
+个;stuk (maatwoord)
+张;(maatwoord voor papier)
+本;(maatwoord voor boeken)
+照片;foto
+几;hoeveel (+ maatwoord)?
+多少;hoeveel (+ maatwoord)?
+杯;glas, tas (maatwoord)
+瓶;fles (maatwoord)
+
+week22
+早上;ochtend, 's ochtends
+早饭;ontbijt
+中午;middag, 's middags
+午饭;lunch
+晚饭;avondmaal
+百;honderd
+加;plus
+一共;in totaal
+兄弟;broers
+兄弟姐妹;broers en zussen
+瓶;fles (maatwoord)
+杯;glas, tas (maatwoord)
+班;klasgroep
+教;onderwijzen
+上学;les volgen
+上小学;les volgen in het lager
+上中学;les volgen in het middelbaar
+上大学;les volgen aan de universiteit
+系;departement
+专业;specialisatie
+数学;wiskunde
+医学;geneeskunde
+文学;taal- en letterkunde
+哲学;filosofie
+物理;fysica
+化学;scheikunde
+教育 学;pedagogie
+美术;schone kunsten
+经济;economie
+历史;geschiedenis
+文化;cultuur
+明白;begrijpen, verstaan
+饿;honger hebben
+
+week23
+早上;ochtend, 's ochtends
+上午;voormiddag, 's voormiddags
+中午;middag, 's middags
+下午;namiddag, in de namiddag
+晚上;avond, 's avonds
+写字;schrijven
+花;bloem
+结婚;trouwen
+律师;advocaat
+法律;recht, wet
+口;(maatwoord voor mensen in een gezin)
+还;nog
+真;echt
+一共;in totaal
+想;denken, willen, missen
+上课;(beginnen met) les volgen
+下课;stoppen met de les
+
+week24
+大哥;grootste oudere broer
+大姐;grootste oudere zus
+二姐;tweede grootste oudere zus
+经理;manager
+工人;arbeider
+买卖人;handelaar
+卖东西 的 人;verkoper
+职员;werknemer
+爱好;hobby
+上网;surfen op het internet
+因特网;internet
+打篮球;basketbal spelen
+班;klasgroep
+有名;bekend, naam hebben
+结婚;trouwen
+教书;onderwijzen
+
+week25
+文明;beschaafd
+瓶;fles (maatwoord)
+杯;glas, tas (maatwoord)
+笔;pen
+支;(maatwoord voor pennen, sigaretten, etc...)
+纸;papier
+公园;park
+年级;jaar (niveau)
+早上;ochtend, 's ochtends
+早;vroeg
+帅;knap
+
+week26
+大哥;grootste oudere broer
+二姐;tweede grootste oudere zus
+回家;terugkeren naar huis
+杯;glas, tas (maatwoord)
+瓶;fles (maatwoord)
+
+les01
+你;jij
+好;goed
+吗;(vraagpartikel)
+我;ik
+很;heel
+好;goed
+也;ook
+
+les02
+忙;druk
+吗;(vraagpartikel)
+爸爸;papa
+妈妈;mama
+他们;zij (mannelijk meervoud)
+他;hij
+们;(meervoud bij persoonlijke voornaamwoorden)
+都;allen, allemaal, beiden
+不;niet, geen
+男;man
+朋友;vriend
+呢;en ...?
+哥哥;oudere broer
+要;willen, hebben, moeten
+咖啡;koffie
+弟弟;jongere broer
+我们;wij
+喝;drinken
+
+les03
+她;zij (vrouwelijk enkelvoud)
+是;zijn
+哪;welke?
+国;land
+人;persoon
+那;die, dat
+谁;wie
+老师;leerkracht
+都;allen, allemaal, beiden
+中国;China
+您;u
+这;deze, dit
+他;hij
+外语;vreemde taal
+你;jij
+医生;dokter
+奶奶;oma (langs vaders kant)
+外婆;oma (langs moeders kant)
+
+les04
+认识;(iemand) kennen, leren kennen
+高兴;blij
+可以;kunnen, mogen
+进来;binnen komen
+进;betreden (van een ruimte)
+来;komen
+请;iemand iets verzoeken, gelieve ...
+您;u
+朋友;vriend
+记者;reporter
+请问;excuseer, mag ik iets vragen?
+问;vragen
+贵姓;achternaam (erg beleefd)
+姓;achternaam, heten (achternaam)
+叫;heten
+先生;mijnheer, echtgenoot
+语言;taal
+学院;instituut, faculteit
+的;‘s (partikel om bezit aan te duiden)
+学生;student
+什么;wat?
+学习;studeren, leren
+汉语;chinees (taal)
+英国;Engeland
+加拿大;Canada
+美国;Verenigde Staten
+
+les05
+餐厅;eetzaal, cafetaria
+在;aanwezig zijn, te ...
+哪里;waar?
+请问;excuseer, mag ik iets vragen?
+问;vragen
+这;deze, dit
+宿舍;slaapzaal
+女;vrouw
+学生;student
+进;betreden (van een ruimte)
+坐;zitten
+谢谢;bedankt, dankuwel
+对不起;sorry
+我;ik
+知道;weten
+没关系;het geeft niet
+好;goed
+再见;tot ziens
+再;weer, nog een keer, opnieuw
+小姐;jonge vrouw
+二;twee
+层;verdieping
+零;nul
+四;vier
+号;nummer
+不用;niet nodig hebben
+这里;hier
+晚;laat
+了;(partikel voor voltooide handelingen)
+
+les06
+去;gaan
+游泳;zwemmen
+昨天;gisteren
+京剧;beijing opera
+怎么样;wat (denk je) van?
+有意思;interessant
+今天;vandaag
+天;dag
+天气;het weer
+太;te, extreem
+什么;wat?
+时候;tijd, moment
+现在;nu
+明天;morgen
+有;hebben
+时间;tijd
+说;(iets) zeggen, (een taal) spreken
+遍;aantal keer (bij een handeling)
+打球;(een balsport) spelen (met de handen)
+打;slaan, spelen
+球;bal
+抱歉;sorry
+忙;druk
+恐怕;ik vrees dat
+行;gaan, lukken
+谢谢;bedankt, dankuwel
+你们;jullie
+
+les07
+开学;starten met het academiejaar
+开;openen, starten
+很;heel
+高兴;blij
+高;hoog, groot
+看;zien, kijken, bekijken
+问;vragen
+一下;eens, even
+学院;instituut, faculteit
+名片;naamkaartje
+啊;ah, oh
+教授;professor
+教;onderwijzen
+谁;wie
+来;komen
+介绍;voorstellen
+名字;voornaam
+中文;chinees (taal)
+爸爸;papa
+学习;studeren, leren
+学;studeren, leren
+专业;specialisatie
+美术;schone kunsten
+美;mooi
+文学;taal- en letterkunde
+系;departement
+加拿大;Canada
+美国;Verenigde Staten
+文化;cultuur
+历史;geschiedenis
+哲学;filosofie
+音乐;muziek
+经济;economie
+数学;wiskunde
+物理;fysica
+化学;scheikunde
+教育;pedagogie
+选修;optioneel vak (volgen)
+
+les08
+家;thuis
+几;hoeveel (+ maatwoord)?
+口;(maatwoord voor mensen in een gezin)
+照片;foto
+和;en, met
+个;stuk (maatwoord)
+姐姐;oudere zus
+两;twee (+ maatwoord)
+弟弟;jongere broer
+还;nog
+一共;in totaal
+妹妹;jongere zus
+小;klein
+狗;hond
+张;(maatwoord voor papier)
+当然;natuurlijk
+真;echt
+可爱;schattig
+爱;houden van, liefde
+没;niet (hebben)
+男;man
+做;doen, maken
+工作;werken, werk
+大;groot
+多少;hoeveel (+ maatwoord)?
+多;veel
+少;weinig
+喜欢;houden van, graag hebben, leuk vinden
+外语;vreemde taal
+外;buiten
+语;taal
+外国;buitenland
+百;honderd
+车;wagen, auto
+词典;woordenboek
+电脑;computer
+孩子;kind
+爷爷;opa (langs vaders kant)
+外公;opa (langs moeders kant)
+系主任;departementshoofd
+助教;onderwijsassistent
+律师;advocaat
+工程师;ingenieur
