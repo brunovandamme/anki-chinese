@@ -30,7 +30,7 @@
 鸡 haan;<span class="tone1">鸡</span>;<span class="tone1">jī</span>;haan;[sound:ji1.mp3];jaar2 week04
 狗 hond;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];jaar1 week12 les08 jaar2 week04
 猪 varken;<span class="tone1">猪</span>;<span class="tone1">zhū</span>;varken;[sound:zhu1.mp3];jaar2 week04
-从... 到... van... tot...;<span class="tone2">从</span>... <span class="tone4">到</span>...;<span class="tone2">cóng</span>... <span class="tone4">dào</span>...;van... tot...;[sound:cong2dao4.mp3];jaar2 week04 week07
+从.. 到.. van.. tot..;<span class="tone2">从</span>.. <span class="tone4">到</span>..;<span class="tone2">cóng</span>.. <span class="tone4">dào</span>..;van.. tot..;[sound:cong2dao4.mp3];jaar2 week04 week07
 有名 bekend, naam hebben;<span class="tone3">有</span><span class="tone2">名</span>;<span class="tone3">yǒu</span><span class="tone2">míng</span>;bekend, naam hebben;[sound:you3ming2.mp3];jaar1 week12 week18 week24 jaar2 week03 week04
 过生日 een verjaardag vieren;<span class="tone4">过</span><span class="tone1">生</span><span class="tone4">日</span>;<span class="tone4">guò</span><span class="tone1">shēng</span><span class="tone4">rì</span>;een verjaardag vieren;[sound:guo4sheng1ri4.mp3];jaar2 week04
 老板 baas;<span class="tone3">老</span><span class="tone3">板</span>;<span class="tone3">lǎo</span><span class="tone3">bǎn</span>;baas;[sound:lao3ban3.mp3];jaar2 week04

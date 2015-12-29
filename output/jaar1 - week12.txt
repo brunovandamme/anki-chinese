@@ -24,4 +24,4 @@
 有名 bekend, naam hebben;<span class="tone3">有</span><span class="tone2">名</span>;<span class="tone3">yǒu</span><span class="tone2">míng</span>;bekend, naam hebben;[sound:you3ming2.mp3];jaar1 week12 week18 week24 jaar2 week03 week04
 有意思 interessant;<span class="tone3">有</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone3">yǒu</span><span class="tone4">yì</span><span class="tone5">si</span>;interessant;[sound:you3yi4si5.mp3];jaar1 week12 week16 les06
 明白 begrijpen, verstaan;<span class="tone2">明</span><span class="tone5">白</span>;<span class="tone2">míng</span><span class="tone5">bai</span>;begrijpen, verstaan;[sound:ming2bai5.mp3];jaar1 week12 week22
-先...再... eerst... vervolgens...;<span class="tone1">先</span>...<span class="tone4">再</span>...;<span class="tone1">xiān</span>...<span class="tone4">zài</span>...;eerst... vervolgens...;[sound:xian1zai4.mp3];jaar1 week12
+先..再.. eerst.. vervolgens..;<span class="tone1">先</span>..<span class="tone4">再</span>..;<span class="tone1">xiān</span>..<span class="tone4">zài</span>..;eerst.. vervolgens..;[sound:xian1zai4.mp3];jaar1 week12

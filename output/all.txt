@@ -211,7 +211,7 @@
 有名 bekend, naam hebben;<span class="tone3">有</span><span class="tone2">名</span>;<span class="tone3">yǒu</span><span class="tone2">míng</span>;bekend, naam hebben;[sound:you3ming2.mp3];jaar1 week12 week18 week24 jaar2 week03 week04
 有意思 interessant;<span class="tone3">有</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone3">yǒu</span><span class="tone4">yì</span><span class="tone5">si</span>;interessant;[sound:you3yi4si5.mp3];jaar1 week12 week16 les06
 明白 begrijpen, verstaan;<span class="tone2">明</span><span class="tone5">白</span>;<span class="tone2">míng</span><span class="tone5">bai</span>;begrijpen, verstaan;[sound:ming2bai5.mp3];jaar1 week12 week22
-先...再... eerst... vervolgens...;<span class="tone1">先</span>...<span class="tone4">再</span>...;<span class="tone1">xiān</span>...<span class="tone4">zài</span>...;eerst... vervolgens...;[sound:xian1zai4.mp3];jaar1 week12
+先..再.. eerst.. vervolgens..;<span class="tone1">先</span>..<span class="tone4">再</span>..;<span class="tone1">xiān</span>..<span class="tone4">zài</span>..;eerst.. vervolgens..;[sound:xian1zai4.mp3];jaar1 week12
 上大学 les volgen aan de universiteit;<span class="tone4">上</span><span class="tone4">大</span><span class="tone2">学</span>;<span class="tone4">shàng</span><span class="tone4">dà</span><span class="tone2">xué</span>;les volgen aan de universiteit;[sound:shang4da4xue2.mp3];jaar1 week13 week22
 上中学 les volgen in het middelbaar;<span class="tone4">上</span><span class="tone1">中</span><span class="tone2">学</span>;<span class="tone4">shàng</span><span class="tone1">zhōng</span><span class="tone2">xué</span>;les volgen in het middelbaar;[sound:shang4zhong1xue2.mp3];jaar1 week13 week22
 考试 examen;<span class="tone3">考</span><span class="tone4">试</span>;<span class="tone3">kǎo</span><span class="tone4">shì</span>;examen;[sound:kao3shi4.mp3];jaar1 week13
@@ -513,7 +513,7 @@
 猴 aap;<span class="tone2">猴</span>;<span class="tone2">hóu</span>;aap;[sound:hou2.mp3];jaar2 week04
 鸡 haan;<span class="tone1">鸡</span>;<span class="tone1">jī</span>;haan;[sound:ji1.mp3];jaar2 week04
 猪 varken;<span class="tone1">猪</span>;<span class="tone1">zhū</span>;varken;[sound:zhu1.mp3];jaar2 week04
-从... 到... van... tot...;<span class="tone2">从</span>... <span class="tone4">到</span>...;<span class="tone2">cóng</span>... <span class="tone4">dào</span>...;van... tot...;[sound:cong2dao4.mp3];jaar2 week04 week07
+从.. 到.. van.. tot..;<span class="tone2">从</span>.. <span class="tone4">到</span>..;<span class="tone2">cóng</span>.. <span class="tone4">dào</span>..;van.. tot..;[sound:cong2dao4.mp3];jaar2 week04 week07
 过生日 een verjaardag vieren;<span class="tone4">过</span><span class="tone1">生</span><span class="tone4">日</span>;<span class="tone4">guò</span><span class="tone1">shēng</span><span class="tone4">rì</span>;een verjaardag vieren;[sound:guo4sheng1ri4.mp3];jaar2 week04
 老板 baas;<span class="tone3">老</span><span class="tone3">板</span>;<span class="tone3">lǎo</span><span class="tone3">bǎn</span>;baas;[sound:lao3ban3.mp3];jaar2 week04
 周末 weekend;<span class="tone1">周</span><span class="tone4">末</span>;<span class="tone1">zhōu</span><span class="tone4">mò</span>;weekend;[sound:zhou1mo4.mp3];jaar2 week04

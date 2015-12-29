@@ -262,7 +262,7 @@ week12
 有名;bekend, naam hebben
 有意思;interessant
 明白;begrijpen, verstaan
-先...再...;eerst... vervolgens...
+先..再..;eerst.. vervolgens..
 
 
 week13
