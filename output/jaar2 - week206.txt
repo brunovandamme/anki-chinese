@@ -1,0 +1,10 @@
+几点? hoe laat?;<span class="tone3">几</span><span class="tone3">点</span>?;<span class="tone3">jǐ</span><span class="tone3">diǎn</span>?;hoe laat?;[sound:ji3dian3.mp3];jaar2 week206
+差 ontbreken;<span class="tone4">差</span>;<span class="tone4">chà</span>;ontbreken;[sound:cha4.mp3];jaar2 week206
+半 half;<span class="tone4">半</span>;<span class="tone4">bàn</span>;half;[sound:ban4.mp3];jaar2 week206
+刻 kwartier;<span class="tone4">刻</span>;<span class="tone4">kè</span>;kwartier;[sound:ke4.mp3];jaar2 week206
+起床 het opstaan uit bed > opstaan;<span class="tone3">起</span><span class="tone2">床</span>;<span class="tone3">qǐ</span><span class="tone2">chuáng</span>;het opstaan uit bed > opstaan;[sound:qi3chuang2.mp3];jaar2 week206
+睡觉 het slapen van een slaapje > slapen;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje > slapen;[sound:shui4jiao4.mp3];jaar1 week115 week116 week117 jaar2 week206
+洗澡 het wassen van een wasje > zich wassen;<span class="tone3">洗</span><span class="tone3">澡</span>;<span class="tone3">xǐ</span><span class="tone3">zǎo</span>;het wassen van een wasje > zich wassen;[sound:xi3zao3.mp3];jaar1 week117 jaar2 week206 week207
+帮助 helpen;<span class="tone1">帮</span><span class="tone4">助</span>;<span class="tone1">bāng</span><span class="tone4">zhù</span>;helpen;[sound:bang1zhu4.mp3];jaar2 week204 week206
+次 keer;<span class="tone4">次</span>;<span class="tone4">cì</span>;keer;[sound:ci4.mp3];jaar2 week206
+事 ding, iets (niet tastbaar);<span class="tone4">事</span>;<span class="tone4">shì</span>;ding, iets (niet tastbaar);[sound:shi4.mp3];jaar2 week206

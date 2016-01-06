@@ -1,0 +1,17 @@
+早上 ochtend, 's ochtends;<span class="tone3">早</span><span class="tone5">上</span>;<span class="tone3">zǎo</span><span class="tone5">shang</span>;ochtend, 's ochtends;[sound:zao3shang5.mp3];jaar1 week117 week122 week123 week125
+上午 voormiddag, 's voormiddags;<span class="tone4">上</span><span class="tone3">午</span>;<span class="tone4">shàng</span><span class="tone3">wǔ</span>;voormiddag, 's voormiddags;[sound:shang4wu3.mp3];jaar1 week123 jaar2 week202
+中午 middag, 's middags;<span class="tone1">中</span><span class="tone3">午</span>;<span class="tone1">zhōng</span><span class="tone3">wǔ</span>;middag, 's middags;[sound:zhong1wu3.mp3];jaar1 week117 week122 week123
+下午 namiddag, in de namiddag;<span class="tone4">下</span><span class="tone3">午</span>;<span class="tone4">xià</span><span class="tone3">wǔ</span>;namiddag, in de namiddag;[sound:xia4wu3.mp3];jaar1 week123 jaar2 week202
+晚上 avond, 's avonds;<span class="tone3">晚</span><span class="tone5">上</span>;<span class="tone3">wǎn</span><span class="tone5">shang</span>;avond, 's avonds;[sound:wan3shang5.mp3];jaar1 week117 week123
+写字 schrijven;<span class="tone3">写</span><span class="tone4">字</span>;<span class="tone3">xiě</span><span class="tone4">zì</span>;schrijven;[sound:xie3zi4.mp3];jaar1 week123
+花 bloem;<span class="tone1">花</span>;<span class="tone1">huā</span>;bloem;[sound:hua1.mp3];jaar1 week123
+结婚 trouwen;<span class="tone2">结</span><span class="tone1">婚</span>;<span class="tone2">jié</span><span class="tone1">hūn</span>;trouwen;[sound:jie2hun1.mp3];jaar1 week123 week124 jaar2 week201
+律师 advocaat;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];jaar1 week120 week123 les08
+法律 recht, wet;<span class="tone3">法</span><span class="tone4">律</span>;<span class="tone3">fǎ</span><span class="tone4">lǜ</span>;recht, wet;[sound:fa3lü4.mp3];jaar1 week123
+口 (maatwoord voor mensen in een gezin);<span class="tone3">口</span>;<span class="tone3">kǒu</span>;(maatwoord voor mensen in een gezin);[sound:kou3.mp3];jaar1 week123 les08
+还 nog;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201
+真 echt;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];jaar1 week118 week123 les08
+一共 in totaal;<span class="tone1">一</span><span class="tone4">共</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>;in totaal;[sound:yi1gong4.mp3];jaar1 week122 week123 les08 jaar2 week209
+想 denken, willen, missen;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123
+上课 (beginnen met) les volgen;<span class="tone4">上</span><span class="tone4">课</span>;<span class="tone4">shàng</span><span class="tone4">kè</span>;(beginnen met) les volgen;[sound:shang4ke4.mp3];jaar1 week116 week119 week123
+下课 stoppen met de les;<span class="tone4">下</span><span class="tone4">课</span>;<span class="tone4">xià</span><span class="tone4">kè</span>;stoppen met de les;[sound:xia4ke4.mp3];jaar1 week116 week119 week123

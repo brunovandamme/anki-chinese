@@ -1,0 +1,20 @@
+住 wonen;<span class="tone4">住</span>;<span class="tone4">zhù</span>;wonen;[sound:zhu4.mp3];jaar1 week119 week121
+乒乓球 pingpong;<span class="tone1">乒</span><span class="tone1">乓</span><span class="tone2">球</span>;<span class="tone1">pīng</span><span class="tone1">pāng</span><span class="tone2">qiú</span>;pingpong;[sound:ping1pang1qiu2.mp3];jaar1 week119
+还 nog;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201
+不好意思 excuseer;<span class="tone4">不</span><span class="tone3">好</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone4">bù</span><span class="tone3">hǎo</span><span class="tone4">yì</span><span class="tone5">si</span>;excuseer;[sound:bu4hao3yi4si5.mp3];jaar1 week115 week119
+旅行 reizen;<span class="tone3">旅</span><span class="tone2">行</span>;<span class="tone3">lǚ</span><span class="tone2">xíng</span>;reizen;[sound:lü3xing2.mp3];jaar1 week119
+..以后 na.., later;..<span class="tone3">以</span><span class="tone4">后</span>;..<span class="tone3">yǐ</span><span class="tone4">hòu</span>;na.., later;[sound:yi3hou4.mp3];jaar1 week119 week120
+..以前 voor.., vroeger;..<span class="tone3">以</span><span class="tone2">前</span>;..<span class="tone3">yǐ</span><span class="tone2">qián</span>;voor.., vroeger;[sound:yi3qian2.mp3];jaar1 week119 week120
+上课 (beginnen met) les volgen;<span class="tone4">上</span><span class="tone4">课</span>;<span class="tone4">shàng</span><span class="tone4">kè</span>;(beginnen met) les volgen;[sound:shang4ke4.mp3];jaar1 week116 week119 week123
+下课 stoppen met de les;<span class="tone4">下</span><span class="tone4">课</span>;<span class="tone4">xià</span><span class="tone4">kè</span>;stoppen met de les;[sound:xia4ke4.mp3];jaar1 week116 week119 week123
+想 denken, willen, missen;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123
+买东西 dingen kopen, winkelen;<span class="tone3">买</span><span class="tone1">东</span><span class="tone5">西</span>;<span class="tone3">mǎi</span><span class="tone1">dōng</span><span class="tone5">xi</span>;dingen kopen, winkelen;[sound:mai3dong1xi5.mp3];jaar1 week119 jaar2 week208
+买 kopen;<span class="tone3">买</span>;<span class="tone3">mǎi</span>;kopen;[sound:mai3.mp3];jaar1 week119 week120 jaar2 week208
+照片 foto;<span class="tone4">照</span><span class="tone4">片</span>;<span class="tone4">zhào</span><span class="tone4">piàn</span>;foto;[sound:zhao4pian4.mp3];jaar1 week119 week121 les08
+漂亮 mooi;<span class="tone4">漂</span><span class="tone5">亮</span>;<span class="tone4">piào</span><span class="tone5">liang</span>;mooi;[sound:piao4liang5.mp3];jaar1 week119
+当然 natuurlijk;<span class="tone1">当</span><span class="tone2">然</span>;<span class="tone1">dāng</span><span class="tone2">rán</span>;natuurlijk;[sound:dang1ran2.mp3];jaar1 week119 les08
+觉得 vinden, van mening zijn dat;<span class="tone2">觉</span><span class="tone5">得</span>;<span class="tone2">jué</span><span class="tone5">de</span>;vinden, van mening zijn dat;[sound:jue2de5.mp3];jaar1 week119
+数学 wiskunde;<span class="tone4">数</span><span class="tone2">学</span>;<span class="tone4">shù</span><span class="tone2">xué</span>;wiskunde;[sound:shu4xue2.mp3];jaar1 week119 week122 les07
+化学 scheikunde;<span class="tone4">化</span><span class="tone2">学</span>;<span class="tone4">huà</span><span class="tone2">xué</span>;scheikunde;[sound:hua4xue2.mp3];jaar1 week119 week122 les07
+可能 misschien;<span class="tone3">可</span><span class="tone2">能</span>;<span class="tone3">kě</span><span class="tone2">néng</span>;misschien;[sound:ke3neng2.mp3];jaar1 week119
+问题 vraag;<span class="tone4">问</span><span class="tone2">题</span>;<span class="tone4">wèn</span><span class="tone2">tí</span>;vraag;[sound:wen4ti2.mp3];jaar1 week119

@@ -1,6 +1,6 @@
-你 jij;<span class="tone3">你</span>;<span class="tone3">nǐ</span>;jij;[sound:ni3.mp3];jaar1 week01 les01 les03
-好 goed;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];jaar1 week02 les01 les05
+你 jij;<span class="tone3">你</span>;<span class="tone3">nǐ</span>;jij;[sound:ni3.mp3];jaar1 week101 les01 les03
+好 goed;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];jaar1 week102 les01 les05
 吗 (vraagpartikel);<span class="tone5">吗</span>;<span class="tone5">ma</span>;(vraagpartikel);[sound:ma5.mp3];jaar1 les01 les02
-我 ik;<span class="tone3">我</span>;<span class="tone3">wǒ</span>;ik;[sound:wo3.mp3];jaar1 week01 les01 les05
-很 heel;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week02 les01 les07
-也 ook;<span class="tone3">也</span>;<span class="tone3">yě</span>;ook;[sound:ye3.mp3];jaar1 week02 les01
+我 ik;<span class="tone3">我</span>;<span class="tone3">wǒ</span>;ik;[sound:wo3.mp3];jaar1 week101 les01 les05
+很 heel;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week102 les01 les07
+也 ook;<span class="tone3">也</span>;<span class="tone3">yě</span>;ook;[sound:ye3.mp3];jaar1 week102 les01

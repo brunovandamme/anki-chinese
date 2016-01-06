@@ -1,43 +1,43 @@
-家 thuis;<span class="tone1">家</span>;<span class="tone1">jiā</span>;thuis;[sound:jia1.mp3];jaar1 week08 les08
-几 hoeveel (+ maatwoord)?;<span class="tone3">几</span>;<span class="tone3">jǐ</span>;hoeveel (+ maatwoord)?;[sound:ji3.mp3];jaar1 week21 les08
-口 (maatwoord voor mensen in een gezin);<span class="tone3">口</span>;<span class="tone3">kǒu</span>;(maatwoord voor mensen in een gezin);[sound:kou3.mp3];jaar1 week23 les08
-照片 foto;<span class="tone4">照</span><span class="tone4">片</span>;<span class="tone4">zhào</span><span class="tone4">piàn</span>;foto;[sound:zhao4pian4.mp3];jaar1 week19 week21 les08
+家 thuis;<span class="tone1">家</span>;<span class="tone1">jiā</span>;thuis;[sound:jia1.mp3];jaar1 week108 les08
+几 hoeveel (+ maatwoord)?;<span class="tone3">几</span>;<span class="tone3">jǐ</span>;hoeveel (+ maatwoord)?;[sound:ji3.mp3];jaar1 week121 les08
+口 (maatwoord voor mensen in een gezin);<span class="tone3">口</span>;<span class="tone3">kǒu</span>;(maatwoord voor mensen in een gezin);[sound:kou3.mp3];jaar1 week123 les08
+照片 foto;<span class="tone4">照</span><span class="tone4">片</span>;<span class="tone4">zhào</span><span class="tone4">piàn</span>;foto;[sound:zhao4pian4.mp3];jaar1 week119 week121 les08
 和 en, met;<span class="tone2">和</span>;<span class="tone2">hé</span>;en, met;[sound:he2.mp3];jaar1 les08
-个 stuk (maatwoord);<span class="tone4">个</span>;<span class="tone4">gè</span>;stuk (maatwoord);[sound:ge4.mp3];jaar1 week21 les08
-姐姐 oudere zus;<span class="tone3">姐</span><span class="tone5">姐</span>;<span class="tone3">jiě</span><span class="tone5">jie</span>;oudere zus;[sound:jie3jie5.mp3];jaar1 week05 les08
-两 twee (+ maatwoord);<span class="tone3">两</span>;<span class="tone3">liǎng</span>;twee (+ maatwoord);[sound:liang3.mp3];jaar1 week21 les08
-弟弟 jongere broer;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];jaar1 week05 les02 les08
-还 nog;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week18 week19 week23 les08 jaar2 week01
-一共 in totaal;<span class="tone1">一</span><span class="tone4">共</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>;in totaal;[sound:yi1gong4.mp3];jaar1 week22 week23 les08 jaar2 week09
-妹妹 jongere zus;<span class="tone4">妹</span><span class="tone5">妹</span>;<span class="tone4">mèi</span><span class="tone5">mei</span>;jongere zus;[sound:mei4mei5.mp3];jaar1 week05 les08
+个 stuk (maatwoord);<span class="tone4">个</span>;<span class="tone4">gè</span>;stuk (maatwoord);[sound:ge4.mp3];jaar1 week121 les08
+姐姐 oudere zus;<span class="tone3">姐</span><span class="tone5">姐</span>;<span class="tone3">jiě</span><span class="tone5">jie</span>;oudere zus;[sound:jie3jie5.mp3];jaar1 week105 les08
+两 twee (+ maatwoord);<span class="tone3">两</span>;<span class="tone3">liǎng</span>;twee (+ maatwoord);[sound:liang3.mp3];jaar1 week121 les08
+弟弟 jongere broer;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];jaar1 week105 les02 les08
+还 nog;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201
+一共 in totaal;<span class="tone1">一</span><span class="tone4">共</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>;in totaal;[sound:yi1gong4.mp3];jaar1 week122 week123 les08 jaar2 week209
+妹妹 jongere zus;<span class="tone4">妹</span><span class="tone5">妹</span>;<span class="tone4">mèi</span><span class="tone5">mei</span>;jongere zus;[sound:mei4mei5.mp3];jaar1 week105 les08
 小 klein;<span class="tone3">小</span>;<span class="tone3">xiǎo</span>;klein;[sound:xiao3.mp3];jaar1 les08
-狗 hond;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];jaar1 week12 les08 jaar2 week04
-张 (maatwoord voor papier);<span class="tone1">张</span>;<span class="tone1">zhāng</span>;(maatwoord voor papier);[sound:zhang1.mp3];jaar1 week21 les08
-当然 natuurlijk;<span class="tone1">当</span><span class="tone2">然</span>;<span class="tone1">dāng</span><span class="tone2">rán</span>;natuurlijk;[sound:dang1ran2.mp3];jaar1 week19 les08
-真 echt;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];jaar1 week18 week23 les08
-可爱 schattig;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];jaar1 week09 les08
-爱 houden van, liefde;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week08 week09 les08
+狗 hond;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];jaar1 week112 les08 jaar2 week204
+张 (maatwoord voor papier);<span class="tone1">张</span>;<span class="tone1">zhāng</span>;(maatwoord voor papier);[sound:zhang1.mp3];jaar1 week121 les08
+当然 natuurlijk;<span class="tone1">当</span><span class="tone2">然</span>;<span class="tone1">dāng</span><span class="tone2">rán</span>;natuurlijk;[sound:dang1ran2.mp3];jaar1 week119 les08
+真 echt;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];jaar1 week118 week123 les08
+可爱 schattig;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];jaar1 week109 les08
+爱 houden van, liefde;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week108 week109 les08
 没 niet (hebben);<span class="tone2">没</span>;<span class="tone2">méi</span>;niet (hebben);[sound:mei2.mp3];jaar1 les08
 男 man;<span class="tone2">男</span>;<span class="tone2">nán</span>;man;[sound:nan2.mp3];jaar1 les02 les08
-做 doen, maken;<span class="tone4">做</span>;<span class="tone4">zuò</span>;doen, maken;[sound:zuo4.mp3];jaar1 week12 les08
-工作 werken, werk;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];jaar1 week08 les08
+做 doen, maken;<span class="tone4">做</span>;<span class="tone4">zuò</span>;doen, maken;[sound:zuo4.mp3];jaar1 week112 les08
+工作 werken, werk;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];jaar1 week108 les08
 大 groot;<span class="tone4">大</span>;<span class="tone4">dà</span>;groot;[sound:da4.mp3];jaar1 les08
-多少 hoeveel (+ maatwoord)?;<span class="tone1">多</span><span class="tone3">少</span>;<span class="tone1">duō</span><span class="tone3">shǎo</span>;hoeveel (+ maatwoord)?;[sound:duo1shao3.mp3];jaar1 week21 les08
-多 veel;<span class="tone1">多</span>;<span class="tone1">duō</span>;veel;[sound:duo1.mp3];jaar1 week06 week12 les08
-少 weinig;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig;[sound:shao3.mp3];jaar1 week12 les08
-喜欢 houden van, graag hebben, leuk vinden;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];jaar1 week06 week08 les08
-外语 vreemde taal;<span class="tone4">外</span><span class="tone3">语</span>;<span class="tone4">wài</span><span class="tone3">yǔ</span>;vreemde taal;[sound:wai4yu3.mp3];jaar1 week07 les03 les08
+多少 hoeveel (+ maatwoord)?;<span class="tone1">多</span><span class="tone3">少</span>;<span class="tone1">duō</span><span class="tone3">shǎo</span>;hoeveel (+ maatwoord)?;[sound:duo1shao3.mp3];jaar1 week121 les08
+多 veel;<span class="tone1">多</span>;<span class="tone1">duō</span>;veel;[sound:duo1.mp3];jaar1 week106 week112 les08
+少 weinig;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig;[sound:shao3.mp3];jaar1 week112 les08
+喜欢 houden van, graag hebben, leuk vinden;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];jaar1 week106 week108 les08
+外语 vreemde taal;<span class="tone4">外</span><span class="tone3">语</span>;<span class="tone4">wài</span><span class="tone3">yǔ</span>;vreemde taal;[sound:wai4yu3.mp3];jaar1 week107 les03 les08
 外 buiten;<span class="tone4">外</span>;<span class="tone4">wài</span>;buiten;[sound:wai4.mp3];jaar1 les08
 语 taal;<span class="tone3">语</span>;<span class="tone3">yǔ</span>;taal;[sound:yu3.mp3];jaar1 les08
-外国 buitenland;<span class="tone4">外</span><span class="tone2">国</span>;<span class="tone4">wài</span><span class="tone2">guó</span>;buitenland;[sound:wai4guo2.mp3];jaar1 week07 les08
-百 honderd;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];jaar1 week16 week22 les08 jaar2 week09
-车 wagen, auto;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];jaar1 week10 les08
+外国 buitenland;<span class="tone4">外</span><span class="tone2">国</span>;<span class="tone4">wài</span><span class="tone2">guó</span>;buitenland;[sound:wai4guo2.mp3];jaar1 week107 les08
+百 honderd;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];jaar1 week116 week122 les08 jaar2 week209
+车 wagen, auto;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];jaar1 week110 les08
 词典 woordenboek;<span class="tone2">词</span><span class="tone3">典</span>;<span class="tone2">cí</span><span class="tone3">diǎn</span>;woordenboek;[sound:ci2dian3.mp3];jaar1 les08
-电脑 computer;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];jaar1 week14 week16 les08
-孩子 kind;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week08 week09 les08
-爷爷 opa (langs vaders kant);<span class="tone2">爷</span><span class="tone5">爷</span>;<span class="tone2">yé</span><span class="tone5">ye</span>;opa (langs vaders kant);[sound:ye2ye5.mp3];jaar1 week09 les08
-外公 opa (langs moeders kant);<span class="tone4">外</span><span class="tone1">公</span>;<span class="tone4">wài</span><span class="tone1">gōng</span>;opa (langs moeders kant);[sound:wai4gong1.mp3];jaar1 week09 les08
+电脑 computer;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];jaar1 week114 week116 les08
+孩子 kind;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week108 week109 les08
+爷爷 opa (langs vaders kant);<span class="tone2">爷</span><span class="tone5">爷</span>;<span class="tone2">yé</span><span class="tone5">ye</span>;opa (langs vaders kant);[sound:ye2ye5.mp3];jaar1 week109 les08
+外公 opa (langs moeders kant);<span class="tone4">外</span><span class="tone1">公</span>;<span class="tone4">wài</span><span class="tone1">gōng</span>;opa (langs moeders kant);[sound:wai4gong1.mp3];jaar1 week109 les08
 系主任 departementshoofd;<span class="tone4">系</span><span class="tone3">主</span><span class="tone4">任</span>;<span class="tone4">xì</span><span class="tone3">zhǔ</span><span class="tone4">rèn</span>;departementshoofd;[sound:xi4zhu3ren4.mp3];jaar1 les08
 助教 onderwijsassistent;<span class="tone4">助</span><span class="tone4">教</span>;<span class="tone4">zhù</span><span class="tone4">jiào</span>;onderwijsassistent;[sound:zhu4jiao4.mp3];jaar1 les08
-律师 advocaat;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];jaar1 week20 week23 les08
-工程师 ingenieur;<span class="tone1">工</span><span class="tone2">程</span><span class="tone1">师</span>;<span class="tone1">gōng</span><span class="tone2">chéng</span><span class="tone1">shī</span>;ingenieur;[sound:gong1cheng2shi1.mp3];jaar1 week20 les08
+律师 advocaat;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];jaar1 week120 week123 les08
+工程师 ingenieur;<span class="tone1">工</span><span class="tone2">程</span><span class="tone1">师</span>;<span class="tone1">gōng</span><span class="tone2">chéng</span><span class="tone1">shī</span>;ingenieur;[sound:gong1cheng2shi1.mp3];jaar1 week120 les08

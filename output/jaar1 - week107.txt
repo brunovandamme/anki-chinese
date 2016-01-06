@@ -1,0 +1,12 @@
+同学 klasgenoot;<span class="tone2">同</span><span class="tone2">学</span>;<span class="tone2">tóng</span><span class="tone2">xué</span>;klasgenoot;[sound:tong2xue2.mp3];jaar1 week107
+学习 studeren, leren;<span class="tone2">学</span><span class="tone2">习</span>;<span class="tone2">xué</span><span class="tone2">xí</span>;studeren, leren;[sound:xue2xi2.mp3];jaar1 week107 les04 les07
+外国 buitenland;<span class="tone4">外</span><span class="tone2">国</span>;<span class="tone4">wài</span><span class="tone2">guó</span>;buitenland;[sound:wai4guo2.mp3];jaar1 week107 les08
+外国人 buitenlander;<span class="tone4">外</span><span class="tone2">国</span><span class="tone2">人</span>;<span class="tone4">wài</span><span class="tone2">guó</span><span class="tone2">rén</span>;buitenlander;[sound:wai4guo2ren2.mp3];jaar1 week107
+外语 vreemde taal;<span class="tone4">外</span><span class="tone3">语</span>;<span class="tone4">wài</span><span class="tone3">yǔ</span>;vreemde taal;[sound:wai4yu3.mp3];jaar1 week107 les03 les08
+汉语 chinees (taal);<span class="tone4">汉</span><span class="tone3">语</span>;<span class="tone4">Hàn</span><span class="tone3">yǔ</span>;chinees (taal);[sound:han4yu3.mp3];jaar1 week101 week107 les04
+中文 chinees (taal);<span class="tone1">中</span><span class="tone2">文</span>;<span class="tone1">Zhōng</span><span class="tone2">wén</span>;chinees (taal);[sound:zhong1wen2.mp3];jaar1 week107 les07
+普通话 Mandarijn Chinees;<span class="tone3">普</span><span class="tone1">通</span><span class="tone4">话</span>;<span class="tone3">pǔ</span><span class="tone1">tōng</span><span class="tone4">huà</span>;Mandarijn Chinees;[sound:pu3tong1hua4.mp3];jaar1 week107
+听 luisteren;<span class="tone1">听</span>;<span class="tone1">tīng</span>;luisteren;[sound:ting1.mp3];jaar1 week107
+说 (iets) zeggen, (een taal) spreken;<span class="tone1">说</span>;<span class="tone1">shuō</span>;(iets) zeggen, (een taal) spreken;[sound:shuo1.mp3];jaar1 week102 week107 les06
+写 schrijven;<span class="tone3">写</span>;<span class="tone3">xiě</span>;schrijven;[sound:xie3.mp3];jaar1 week107
+看 zien, kijken, bekijken;<span class="tone4">看</span>;<span class="tone4">kàn</span>;zien, kijken, bekijken;[sound:kan4.mp3];jaar1 week107 les07

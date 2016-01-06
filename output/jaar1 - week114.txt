@@ -1,0 +1,15 @@
+打 slaan, spelen;<span class="tone3">打</span>;<span class="tone3">dǎ</span>;slaan, spelen;[sound:da3.mp3];jaar1 week114 les06
+电话 telefoon;<span class="tone4">电</span><span class="tone4">话</span>;<span class="tone4">diàn</span><span class="tone4">huà</span>;telefoon;[sound:dian4hua4.mp3];jaar1 week114
+打电话 telefoneren;<span class="tone3">打</span><span class="tone4">电</span><span class="tone4">话</span>;<span class="tone3">dǎ</span><span class="tone4">diàn</span><span class="tone4">huà</span>;telefoneren;[sound:da3dian4hua4.mp3];jaar1 week114
+电话号码 telefoonnummer;<span class="tone4">电</span><span class="tone4">话</span><span class="tone4">号</span><span class="tone3">码</span>;<span class="tone4">diàn</span><span class="tone4">huà</span><span class="tone4">hào</span><span class="tone3">mǎ</span>;telefoonnummer;[sound:dian4hua4hao4ma3.mp3];jaar1 week114
+电脑 computer;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];jaar1 week114 week116 les08
+脑子 hersenen;<span class="tone3">脑</span><span class="tone5">子</span>;<span class="tone3">nǎo</span><span class="tone5">zi</span>;hersenen;[sound:nao3zi5.mp3];jaar1 week114 week116
+电视 televisie;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];jaar1 week112 week114 week115 week116
+新年 nieuwjaar;<span class="tone1">新</span><span class="tone2">年</span>;<span class="tone1">xīn</span><span class="tone2">nián</span>;nieuwjaar;[sound:xin1nian2.mp3];jaar1 week114 week115
+什么时候 wanneer?;<span class="tone2">什</span><span class="tone5">么</span><span class="tone2">时</span><span class="tone5">候</span>;<span class="tone2">shén</span><span class="tone5">me</span><span class="tone2">shí</span><span class="tone5">hou</span>;wanneer?;[sound:shen2me5shi2hou5.mp3];jaar1 week114 week117
+今天 vandaag;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week109 week114 week116 week117 les06
+走 weggaan;<span class="tone3">走</span>;<span class="tone3">zǒu</span>;weggaan;[sound:zou3.mp3];jaar1 week114
+宿舍 slaapzaal;<span class="tone4">宿</span><span class="tone4">舍</span>;<span class="tone4">sù</span><span class="tone4">shè</span>;slaapzaal;[sound:su4she4.mp3];jaar1 week114 les05
+对不起 sorry;<span class="tone4">对</span><span class="tone5">不</span><span class="tone3">起</span>;<span class="tone4">duì</span><span class="tone5">bu</span><span class="tone3">qǐ</span>;sorry;[sound:dui4bu5qi3.mp3];jaar1 week114 les05
+没关系 het geeft niet;<span class="tone2">没</span><span class="tone1">关</span><span class="tone5">系</span>;<span class="tone2">méi</span><span class="tone1">guān</span><span class="tone5">xi</span>;het geeft niet;[sound:mei2guan1xi5.mp3];jaar1 week114 les05
+关系 netwerk van relaties;<span class="tone1">关</span><span class="tone5">系</span>;<span class="tone1">guān</span><span class="tone5">xi</span>;netwerk van relaties;[sound:guan1xi5.mp3];jaar1 week114

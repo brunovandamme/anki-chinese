@@ -1,27 +1,27 @@
-去 gaan;<span class="tone4">去</span>;<span class="tone4">qù</span>;gaan;[sound:qu4.mp3];jaar1 week11 les06
-游泳 zwemmen;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week08 week16 les06
-昨天 gisteren;<span class="tone2">昨</span><span class="tone1">天</span>;<span class="tone2">zuó</span><span class="tone1">tiān</span>;gisteren;[sound:zuo2tian1.mp3];jaar1 week16 week17 les06
-京剧 beijing opera;<span class="tone1">京</span><span class="tone4">剧</span>;<span class="tone1">Jīng</span><span class="tone4">jù</span>;beijing opera;[sound:jing1ju4.mp3];jaar1 week16 week18 les06
-怎么样 wat (denk je) van?;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">样</span>;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">yàng</span>;wat (denk je) van?;[sound:zen3me5yang4.mp3];jaar1 week16 les06
-有意思 interessant;<span class="tone3">有</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone3">yǒu</span><span class="tone4">yì</span><span class="tone5">si</span>;interessant;[sound:you3yi4si5.mp3];jaar1 week12 week16 les06
-今天 vandaag;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week09 week14 week16 week17 les06
+去 gaan;<span class="tone4">去</span>;<span class="tone4">qù</span>;gaan;[sound:qu4.mp3];jaar1 week111 les06
+游泳 zwemmen;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week108 week116 les06
+昨天 gisteren;<span class="tone2">昨</span><span class="tone1">天</span>;<span class="tone2">zuó</span><span class="tone1">tiān</span>;gisteren;[sound:zuo2tian1.mp3];jaar1 week116 week117 les06
+京剧 beijing opera;<span class="tone1">京</span><span class="tone4">剧</span>;<span class="tone1">Jīng</span><span class="tone4">jù</span>;beijing opera;[sound:jing1ju4.mp3];jaar1 week116 week118 les06
+怎么样 wat (denk je) van?;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">样</span>;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">yàng</span>;wat (denk je) van?;[sound:zen3me5yang4.mp3];jaar1 week116 les06
+有意思 interessant;<span class="tone3">有</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone3">yǒu</span><span class="tone4">yì</span><span class="tone5">si</span>;interessant;[sound:you3yi4si5.mp3];jaar1 week112 week116 les06
+今天 vandaag;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week109 week114 week116 week117 les06
 天 dag;<span class="tone1">天</span>;<span class="tone1">tiān</span>;dag;[sound:tian1.mp3];jaar1 les06
-天气 het weer;<span class="tone1">天</span><span class="tone4">气</span>;<span class="tone1">tiān</span><span class="tone4">qì</span>;het weer;[sound:tian1qi4.mp3];jaar1 week18 les06
+天气 het weer;<span class="tone1">天</span><span class="tone4">气</span>;<span class="tone1">tiān</span><span class="tone4">qì</span>;het weer;[sound:tian1qi4.mp3];jaar1 week118 les06
 太 te, extreem;<span class="tone4">太</span>;<span class="tone4">tài</span>;te, extreem;[sound:tai4.mp3];jaar1 les06
-什么 wat?;<span class="tone2">什</span><span class="tone5">么</span>;<span class="tone2">shén</span><span class="tone5">me</span>;wat?;[sound:shen2me5.mp3];jaar1 week01 les04 les06
+什么 wat?;<span class="tone2">什</span><span class="tone5">么</span>;<span class="tone2">shén</span><span class="tone5">me</span>;wat?;[sound:shen2me5.mp3];jaar1 week101 les04 les06
 时候 tijd, moment;<span class="tone2">时</span><span class="tone5">候</span>;<span class="tone2">shí</span><span class="tone5">hou</span>;tijd, moment;[sound:shi2hou5.mp3];jaar1 les06
-现在 nu;<span class="tone4">现</span><span class="tone4">在</span>;<span class="tone4">xiàn</span><span class="tone4">zài</span>;nu;[sound:xian4zai4.mp3];jaar1 week16 week17 les06
-明天 morgen;<span class="tone2">明</span><span class="tone1">天</span>;<span class="tone2">míng</span><span class="tone1">tiān</span>;morgen;[sound:ming2tian1.mp3];jaar1 week17 les06
-有 hebben;<span class="tone3">有</span>;<span class="tone3">yǒu</span>;hebben;[sound:you3.mp3];jaar1 week05 les06
-时间 tijd;<span class="tone2">时</span><span class="tone1">间</span>;<span class="tone2">shí</span><span class="tone1">jiān</span>;tijd;[sound:shi2jian1.mp3];jaar1 week16 week18 les06
-说 (iets) zeggen, (een taal) spreken;<span class="tone1">说</span>;<span class="tone1">shuō</span>;(iets) zeggen, (een taal) spreken;[sound:shuo1.mp3];jaar1 week02 week07 les06
+现在 nu;<span class="tone4">现</span><span class="tone4">在</span>;<span class="tone4">xiàn</span><span class="tone4">zài</span>;nu;[sound:xian4zai4.mp3];jaar1 week116 week117 les06
+明天 morgen;<span class="tone2">明</span><span class="tone1">天</span>;<span class="tone2">míng</span><span class="tone1">tiān</span>;morgen;[sound:ming2tian1.mp3];jaar1 week117 les06
+有 hebben;<span class="tone3">有</span>;<span class="tone3">yǒu</span>;hebben;[sound:you3.mp3];jaar1 week105 les06
+时间 tijd;<span class="tone2">时</span><span class="tone1">间</span>;<span class="tone2">shí</span><span class="tone1">jiān</span>;tijd;[sound:shi2jian1.mp3];jaar1 week116 week118 les06
+说 (iets) zeggen, (een taal) spreken;<span class="tone1">说</span>;<span class="tone1">shuō</span>;(iets) zeggen, (een taal) spreken;[sound:shuo1.mp3];jaar1 week102 week107 les06
 遍 aantal keer (bij een handeling);<span class="tone4">遍</span>;<span class="tone4">biàn</span>;aantal keer (bij een handeling);[sound:bian4.mp3];jaar1 les06
-打球 (een balsport) spelen (met de handen);<span class="tone3">打</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone2">qiú</span>;(een balsport) spelen (met de handen);[sound:da3qiu2.mp3];jaar1 week17 les06
-打 slaan, spelen;<span class="tone3">打</span>;<span class="tone3">dǎ</span>;slaan, spelen;[sound:da3.mp3];jaar1 week14 les06
+打球 (een balsport) spelen (met de handen);<span class="tone3">打</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone2">qiú</span>;(een balsport) spelen (met de handen);[sound:da3qiu2.mp3];jaar1 week117 les06
+打 slaan, spelen;<span class="tone3">打</span>;<span class="tone3">dǎ</span>;slaan, spelen;[sound:da3.mp3];jaar1 week114 les06
 球 bal;<span class="tone2">球</span>;<span class="tone2">qiú</span>;bal;[sound:qiu2.mp3];jaar1 les06
-抱歉 sorry;<span class="tone4">抱</span><span class="tone4">歉</span>;<span class="tone4">bào</span><span class="tone4">qiàn</span>;sorry;[sound:bao4qian4.mp3];jaar1 week18 les06
-忙 druk;<span class="tone2">忙</span>;<span class="tone2">máng</span>;druk;[sound:mang2.mp3];jaar1 week03 les02 les06
-恐怕 ik vrees dat;<span class="tone3">恐</span><span class="tone4">怕</span>;<span class="tone3">kǒng</span><span class="tone4">pà</span>;ik vrees dat;[sound:kong3pa4.mp3];jaar1 week18 les06
-行 gaan, lukken;<span class="tone2">行</span>;<span class="tone2">xíng</span>;gaan, lukken;[sound:xing2.mp3];jaar1 week18 les06
-谢谢 bedankt, dankuwel;<span class="tone4">谢</span><span class="tone5">谢</span>;<span class="tone4">xiè</span><span class="tone5">xie</span>;bedankt, dankuwel;[sound:xie4xie5.mp3];jaar1 week02 week03 les05 les06
-你们 jullie;<span class="tone3">你</span><span class="tone5">们</span>;<span class="tone3">nǐ</span><span class="tone5">men</span>;jullie;[sound:ni3men5.mp3];jaar1 week02 les06
+抱歉 sorry;<span class="tone4">抱</span><span class="tone4">歉</span>;<span class="tone4">bào</span><span class="tone4">qiàn</span>;sorry;[sound:bao4qian4.mp3];jaar1 week118 les06
+忙 druk;<span class="tone2">忙</span>;<span class="tone2">máng</span>;druk;[sound:mang2.mp3];jaar1 week103 les02 les06
+恐怕 ik vrees dat;<span class="tone3">恐</span><span class="tone4">怕</span>;<span class="tone3">kǒng</span><span class="tone4">pà</span>;ik vrees dat;[sound:kong3pa4.mp3];jaar1 week118 les06
+行 gaan, lukken;<span class="tone2">行</span>;<span class="tone2">xíng</span>;gaan, lukken;[sound:xing2.mp3];jaar1 week118 les06
+谢谢 bedankt, dankuwel;<span class="tone4">谢</span><span class="tone5">谢</span>;<span class="tone4">xiè</span><span class="tone5">xie</span>;bedankt, dankuwel;[sound:xie4xie5.mp3];jaar1 week102 week103 les05 les06
+你们 jullie;<span class="tone3">你</span><span class="tone5">们</span>;<span class="tone3">nǐ</span><span class="tone5">men</span>;jullie;[sound:ni3men5.mp3];jaar1 week102 les06

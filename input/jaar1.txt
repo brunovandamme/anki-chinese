@@ -1,4 +1,4 @@
-week01
+week101
 你好;hallo
 我;ik
 是;zijn
@@ -25,7 +25,7 @@ week01
 学习汉语很好玩;Chinees leren is leuk
 再见;tot ziens
 
-week02
+week102
 你们好;hallo (tegen meerdere mensen)
 我们;wij
 你们;jullie
@@ -47,7 +47,7 @@ week02
 谢谢;bedankt, dankuwel
 再见;tot ziens
 
-week03
+week103
 我不知道;ik weet het niet
 请你再说一遍;gelieve het nog een keer te zeggen
 你说什么?;wat zeg je?
@@ -65,7 +65,7 @@ week03
 你们要休息吗?;Willen jullie pauze?
 汉字;Chinese karakters
 
-week04
+week104
 喝;drinken
 水;water
 咖啡;koffie
@@ -82,7 +82,7 @@ week04
 先生;mijnheer, echtgenoot
 太太;mevrouw, echtgenote
 
-week05
+week105
 中国;China
 中国人;een Chinees
 北京;Beijing, Peking
@@ -125,7 +125,7 @@ week05
 女人;vrouw
 男人;man
 
-week06
+week106
 喜欢;houden van, graag hebben, leuk vinden
 白酒;Chinese sterke drank ‘witte alcohol’
 多;veel
@@ -137,7 +137,7 @@ week06
 意大利语;Italiaans (de taal)
 日语;Japans (de taal)
 
-week07
+week107
 同学;klasgenoot
 学习;studeren, leren
 外国;buitenland
@@ -151,7 +151,7 @@ week07
 写;schrijven
 看;zien, kijken, bekijken
 
-week08
+week108
 这;deze, dit
 那;die, dat
 的;‘s (partikel om bezit aan te duiden)
@@ -171,7 +171,7 @@ week08
 爱;houden van, liefde
 高兴;blij
 
-week09
+week109
 老人;oude persoon, oude mensen
 玩(儿);spelen, plezier maken, zich amuseren
 姓;achternaam, heten (achternaam)
@@ -202,7 +202,7 @@ week09
 今天;vandaag
 电影;film
 
-week10
+week110
 姓名;familienaam en gegeven naam (in te vullen op papieren)
 唱歌;het zingen van een liedje > zingen
 跳舞;het springen van een dansje > dansen
@@ -211,7 +211,7 @@ week10
 果汁;fruitsap
 记者;reporter
 
-week11
+week111
 可以;kunnen, mogen
 请;iemand iets verzoeken, gelieve ...
 去;gaan
@@ -235,7 +235,7 @@ week11
 书;boek
 看书;lezen
 
-week12
+week112
 多;veel
 少;weinig
 一点(点);een beetje
@@ -265,7 +265,7 @@ week12
 先..再..;eerst.. vervolgens..
 
 
-week13
+week113
 上大学;les volgen aan de universiteit
 上中学;les volgen in het middelbaar
 考试;examen
@@ -281,7 +281,7 @@ week13
 九;negen
 十;tien
 
-week14
+week114
 打;slaan, spelen
 电话;telefoon
 打电话;telefoneren
@@ -298,7 +298,7 @@ week14
 没关系;het geeft niet
 关系;netwerk van relaties
 
-week15
+week115
 餐厅;eetzaal, cafetaria
 意大利面;spaghetti
 看书;lezen
@@ -325,7 +325,7 @@ week15
 晚;laat
 来晚了;te laat gekomen zijn
 
-week16
+week116
 慢;langzaam
 电脑;computer
 脑子;hersenen
@@ -370,7 +370,7 @@ week16
 上课;(beginnen met) les volgen
 下课;stoppen met de les
 
-week17
+week117
 层;verdieping
 洗澡;het wassen van een wasje > zich wassen
 洗手;handen wassen
@@ -406,7 +406,7 @@ week17
 巧克力;chocolade
 公司;bedrijf
 
-week18
+week118
 天气;het weer
 地图;kaart
 东;oosten
@@ -440,7 +440,7 @@ week18
 ..的时候;terwijl .., tijdens het ..
 报纸;krant
 
-week19
+week119
 住;wonen
 乒乓球;pingpong
 还;nog
@@ -462,7 +462,7 @@ week19
 可能;misschien
 问题;vraag
 
-week20
+week120
 一下;eens, even
 容易;gemakkelijk
 告诉;vertellen, meedelen
@@ -492,7 +492,7 @@ week20
 生词;nieuwe woorden
 退休;op pensioen gaan
 
-week21
+week121
 假期;vakantie
 介绍;voorstellen
 学校;school
@@ -510,7 +510,7 @@ week21
 杯;glas, tas (maatwoord)
 瓶;fles (maatwoord)
 
-week22
+week122
 早上;ochtend, 's ochtends
 早饭;ontbijt
 中午;middag, 's middags
@@ -545,7 +545,7 @@ week22
 明白;begrijpen, verstaan
 饿;honger hebben
 
-week23
+week123
 早上;ochtend, 's ochtends
 上午;voormiddag, 's voormiddags
 中午;middag, 's middags
@@ -564,7 +564,7 @@ week23
 上课;(beginnen met) les volgen
 下课;stoppen met de les
 
-week24
+week124
 大哥;grootste oudere broer
 大姐;grootste oudere zus
 二姐;tweede grootste oudere zus
@@ -582,7 +582,7 @@ week24
 结婚;trouwen
 教书;onderwijzen
 
-week25
+week125
 文明;beschaafd
 瓶;fles (maatwoord)
 杯;glas, tas (maatwoord)
@@ -595,7 +595,7 @@ week25
 早;vroeg
 帅;knap
 
-week26
+week126
 大哥;grootste oudere broer
 二姐;tweede grootste oudere zus
 回家;terugkeren naar huis

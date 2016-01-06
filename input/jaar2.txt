@@ -1,4 +1,4 @@
-week01
+week201
 新;nieuw
 结婚;trouwen
 年;jaar
@@ -19,7 +19,7 @@ week01
 岁;jaar (in leeftijd)
 远;ver
 
-week02
+week202
 日期;datum
 礼拜;week (een ander woord voor星期)
 周;week (een ander woord voor 星期, vaak gebruikt in de geschreven taal)
@@ -32,12 +32,12 @@ week02
 出生;geboren worden
 生日;verjaardag
 
-week03
+week203
 有名;bekend, naam hebben
 马马虎虎;zozo
 告诉;vertellen, meedelen
 
-week04
+week204
 蛋糕;taart
 生日蛋糕;verjaardagstaart
 寿面;lange noodles die de jarige eet, symbool van een lang leven
@@ -78,7 +78,7 @@ week04
 忘;vergeten
 帮助;helpen
 
-week05
+week205
 红;rood
 白;wit
 瓶;fles (maatwoord)
@@ -94,7 +94,7 @@ week05
 光盘;dvd, cd
 碟;schijf > dvd, cd
 
-week06
+week206
 几点?;hoe laat?
 差;ontbreken
 半;half
@@ -106,7 +106,7 @@ week06
 次;keer
 事;ding, iets (niet tastbaar)
 
-week07
+week207
 银行;bank
 开门;het openen van de deuren > open zijn
 关门;het sluiten van de deuren > toe gaan, dicht zijn
@@ -119,7 +119,7 @@ week07
 从.. 到..;van.. tot..
 跑步;het lopen van passen > lopen, rennen
 
-week08
+week208
 买;kopen
 顾客;klant
 售货员;verkoper
@@ -165,7 +165,7 @@ week08
 同事;collega
 梁祝;muziekstuk 'the butterfly lovers'
 
-week09
+week209
 香蕉;banaan
 一共;in totaal
 面包;brood
@@ -180,7 +180,7 @@ week09
 便宜;goedkoop
 找钱;wisselgeld geven
 
-week10
+week210
 师傅;meester, vakman
 水果;fruit
 香蕉;banaan

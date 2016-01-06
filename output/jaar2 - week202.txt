@@ -1,0 +1,11 @@
+日期 datum;<span class="tone4">日</span><span class="tone1">期</span>;<span class="tone4">rì</span><span class="tone1">qī</span>;datum;[sound:ri4qi1.mp3];jaar2 week202
+礼拜 week (een ander woord voor星期);<span class="tone3">礼</span><span class="tone4">拜</span>;<span class="tone3">lǐ</span><span class="tone4">bài</span>;week (een ander woord voor星期);[sound:li3bai4.mp3];jaar2 week202
+周 week (een ander woord voor 星期, vaak gebruikt in de geschreven taal);<span class="tone1">周</span>;<span class="tone1">zhōu</span>;week (een ander woord voor 星期, vaak gebruikt in de geschreven taal);[sound:zhou1.mp3];jaar2 week202
+第 (gebruikt om rangtelwoorden te vormen);<span class="tone4">第</span>;<span class="tone4">dì</span>;(gebruikt om rangtelwoorden te vormen);[sound:di4.mp3];jaar2 week202
+国王 koning van een land;<span class="tone2">国</span><span class="tone2">王</span>;<span class="tone2">guó</span><span class="tone2">wáng</span>;koning van een land;[sound:guo2wang2.mp3];jaar2 week202
+以前 vroeger, eerder;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202
+以后 later;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202
+上午 voormiddag, 's voormiddags;<span class="tone4">上</span><span class="tone3">午</span>;<span class="tone4">shàng</span><span class="tone3">wǔ</span>;voormiddag, 's voormiddags;[sound:shang4wu3.mp3];jaar1 week123 jaar2 week202
+下午 namiddag, in de namiddag;<span class="tone4">下</span><span class="tone3">午</span>;<span class="tone4">xià</span><span class="tone3">wǔ</span>;namiddag, in de namiddag;[sound:xia4wu3.mp3];jaar1 week123 jaar2 week202
+出生 geboren worden;<span class="tone1">出</span><span class="tone1">生</span>;<span class="tone1">chū</span><span class="tone1">shēng</span>;geboren worden;[sound:chu1sheng1.mp3];jaar2 week202
+生日 verjaardag;<span class="tone1">生</span><span class="tone4">日</span>;<span class="tone1">shēng</span><span class="tone4">rì</span>;verjaardag;[sound:sheng1ri4.mp3];jaar2 week202
