@@ -15,7 +15,7 @@
 超市 supermarkt;<span class="tone1">超</span><span class="tone4">市</span>;<span class="tone1">chāo</span><span class="tone4">shì</span>;supermarkt;[sound:chao1shi4.mp3];jaar2 week208
 家乐福 Carrefour;<span class="tone1">家</span><span class="tone4">乐</span><span class="tone2">福</span>;<span class="tone1">Jiā</span><span class="tone4">lè</span><span class="tone2">fú</span>;Carrefour;[sound:jia1le4fu2.mp3];jaar2 week208
 钱 geld;<span class="tone2">钱</span>;<span class="tone2">qián</span>;geld;[sound:qian2.mp3];jaar1 week120 jaar2 week208
-人民币 'de munt van het volk' > de Chinese munt;<span class="tone2">人</span><span class="tone2">民</span><span class="tone4">币</span>;<span class="tone2">rén</span><span class="tone2">mín</span><span class="tone4">bì</span>;'de munt van het volk' > de Chinese munt;[sound:ren2min2bi4.mp3];jaar2 week208
+人民币 de Chinese munt, 'de munt van het volk';<span class="tone2">人</span><span class="tone2">民</span><span class="tone4">币</span>;<span class="tone2">rén</span><span class="tone2">mín</span><span class="tone4">bì</span>;de Chinese munt, 'de munt van het volk';[sound:ren2min2bi4.mp3];jaar2 week208
 怎么卖? hoe wordt het verkocht?;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">卖</span>?;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">mài</span>?;hoe wordt het verkocht?;[sound:zen3me5mai4.mp3];jaar2 week208
 多少钱? hoeveel kost het?;<span class="tone1">多</span><span class="tone3">少</span><span class="tone2">钱</span>?;<span class="tone1">duō</span><span class="tone3">shǎo</span><span class="tone2">qián</span>?;hoeveel kost het?;[sound:duo1shao3qian2.mp3];jaar2 week208
 斤 een ‘jin’ (= halve kilo);<span class="tone1">斤</span>;<span class="tone1">jīn</span>;een ‘jin’ (= halve kilo);[sound:jin1.mp3];jaar2 week208
@@ -38,7 +38,7 @@
 块 (maatwoord voor een stuk);<span class="tone4">块</span>;<span class="tone4">kuài</span>;(maatwoord voor een stuk);[sound:kuai4.mp3];jaar2 week205 week208
 常常 vaak;<span class="tone2">常</span><span class="tone2">常</span>;<span class="tone2">cháng</span><span class="tone2">cháng</span>;vaak;[sound:chang2chang2.mp3];jaar2 week208
 不常 niet vaak;<span class="tone4">不</span><span class="tone2">常</span>;<span class="tone4">bù</span><span class="tone2">cháng</span>;niet vaak;[sound:bu4chang2.mp3];jaar2 week208
-假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210
-说话 het spreken van woorden > spreken, babbelen;<span class="tone1">说</span><span class="tone4">话</span>;<span class="tone1">shuō</span><span class="tone4">huà</span>;het spreken van woorden > spreken, babbelen;[sound:shuo1hua4.mp3];jaar1 week117 jaar2 week208
+假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210 week211
+说话 het spreken van woorden, spreken, babbelen;<span class="tone1">说</span><span class="tone4">话</span>;<span class="tone1">shuō</span><span class="tone4">huà</span>;het spreken van woorden, spreken, babbelen;[sound:shuo1hua4.mp3];jaar1 week117 jaar2 week208
 同事 collega;<span class="tone2">同</span><span class="tone4">事</span>;<span class="tone2">tóng</span><span class="tone4">shì</span>;collega;[sound:tong2shi4.mp3];jaar2 week208
 梁祝 muziekstuk 'the butterfly lovers';<span class="tone2">梁</span><span class="tone4">祝</span>;<span class="tone2">Liáng</span><span class="tone4">Zhù</span>;muziekstuk 'the butterfly lovers';[sound:liang2zhu4.mp3];jaar2 week208

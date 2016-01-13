@@ -9,10 +9,10 @@
 比 vergelijken, in vergelijking met;<span class="tone3">比</span>;<span class="tone3">bǐ</span>;vergelijken, in vergelijking met;[sound:bi3.mp3];jaar2 week210
 穿衣服 het dragen van kleren, het aantrekken van kleren;<span class="tone1">穿</span><span class="tone1">衣</span><span class="tone2">服</span>;<span class="tone1">chuān</span><span class="tone1">yī</span><span class="tone2">fú</span>;het dragen van kleren, het aantrekken van kleren;[sound:chuan1yi1fu2.mp3];jaar2 week210
 件 maatwoord voor kleren;<span class="tone4">件</span>;<span class="tone4">jiàn</span>;maatwoord voor kleren;[sound:jian4.mp3];jaar2 week210
-红 rood;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];jaar2 week205 week210
-绿 groen;<span class="tone4">绿</span>;<span class="tone4">lǜ</span>;groen;[sound:lü4.mp3];jaar2 week210
-颜色 kleur;<span class="tone2">颜</span><span class="tone4">色</span>;<span class="tone2">yán</span><span class="tone4">sè</span>;kleur;[sound:yan2se4.mp3];jaar2 week210
-假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210
+红 rood;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];jaar2 week205 week210 week211
+绿 groen;<span class="tone4">绿</span>;<span class="tone4">lǜ</span>;groen;[sound:lü4.mp3];jaar2 week210 week211
+颜色 kleur;<span class="tone2">颜</span><span class="tone4">色</span>;<span class="tone2">yán</span><span class="tone4">sè</span>;kleur;[sound:yan2se4.mp3];jaar2 week210 week211
+假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210 week211
 长 lang;<span class="tone3">长</span>;<span class="tone3">zhǎng</span>;lang;[sound:zhang3.mp3];jaar1 week116 jaar2 week204 week210
 短 kort;<span class="tone3">短</span>;<span class="tone3">duǎn</span>;kort;[sound:duan3.mp3];jaar2 week210
 一样 hetzelfde;<span class="tone1">一</span><span class="tone4">样</span>;<span class="tone1">yī</span><span class="tone4">yàng</span>;hetzelfde;[sound:yi1yang4.mp3];jaar2 week210

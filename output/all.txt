@@ -133,7 +133,7 @@
 好听 mooi om te horen;<span class="tone3">好</span><span class="tone1">听</span>;<span class="tone3">hǎo</span><span class="tone1">tīng</span>;mooi om te horen;[sound:hao3ting1.mp3];jaar1 week108
 孩子 kind;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week108 week109 les08
 游泳 zwemmen;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week108 week116 les06
-唱歌 het zingen van een liedje > zingen;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje > zingen;[sound:chang4ge1.mp3];jaar1 week108 week110 week116
+唱歌 het zingen van een liedje, zingen;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje, zingen;[sound:chang4ge1.mp3];jaar1 week108 week110 week116
 医生 dokter;<span class="tone1">医</span><span class="tone1">生</span>;<span class="tone1">yī</span><span class="tone1">shēng</span>;dokter;[sound:yi1sheng1.mp3];jaar1 week108 les03
 爱 houden van, liefde;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week108 week109 les08
 高兴 blij;<span class="tone1">高</span><span class="tone4">兴</span>;<span class="tone1">gāo</span><span class="tone4">xìng</span>;blij;[sound:gao1xing4.mp3];jaar1 week108 week111 les04 les07
@@ -163,12 +163,12 @@
 今天 vandaag;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week109 week114 week116 week117 les06
 电影 film;<span class="tone4">电</span><span class="tone3">影</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span>;film;[sound:dian4ying3.mp3];jaar1 week109 week111 week112 week116
 姓名 familienaam en gegeven naam (in te vullen op papieren);<span class="tone4">姓</span><span class="tone2">名</span>;<span class="tone4">xìng</span><span class="tone2">míng</span>;familienaam en gegeven naam (in te vullen op papieren);[sound:xing4ming2.mp3];jaar1 week110
-跳舞 het springen van een dansje > dansen;<span class="tone4">跳</span><span class="tone3">舞</span>;<span class="tone4">tiào</span><span class="tone3">wǔ</span>;het springen van een dansje > dansen;[sound:tiao4wu3.mp3];jaar1 week110 week116
+跳舞 het springen van een dansje, dansen;<span class="tone4">跳</span><span class="tone3">舞</span>;<span class="tone4">tiào</span><span class="tone3">wǔ</span>;het springen van een dansje, dansen;[sound:tiao4wu3.mp3];jaar1 week110 week116
 容易 gemakkelijk;<span class="tone2">容</span><span class="tone4">易</span>;<span class="tone2">róng</span><span class="tone4">yì</span>;gemakkelijk;[sound:rong2yi4.mp3];jaar1 week110 week120
 车 wagen, auto;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];jaar1 week110 les08
 果汁 fruitsap;<span class="tone3">果</span><span class="tone1">汁</span>;<span class="tone3">guǒ</span><span class="tone1">zhī</span>;fruitsap;[sound:guo3zhi1.mp3];jaar1 week110
 记者 reporter;<span class="tone4">记</span><span class="tone3">者</span>;<span class="tone4">jì</span><span class="tone3">zhě</span>;reporter;[sound:ji4zhe3.mp3];jaar1 week110 week111 les04
-可以 kunnen, mogen;<span class="tone3">可</span><span class="tone3">以</span>;<span class="tone3">kě</span><span class="tone3">yǐ</span>;kunnen, mogen;[sound:ke3yi3.mp3];jaar1 week111 les04
+可以 mogen, kunnen (iets dat toegelaten is);<span class="tone3">可</span><span class="tone3">以</span>;<span class="tone3">kě</span><span class="tone3">yǐ</span>;mogen, kunnen (iets dat toegelaten is);[sound:ke3yi3.mp3];jaar1 week111 les04 jaar2 week211
 请 iemand iets verzoeken, gelieve ...;<span class="tone3">请</span>;<span class="tone3">qǐng</span>;iemand iets verzoeken, gelieve ...;[sound:qing3.mp3];jaar1 week111 les04
 去 gaan;<span class="tone4">去</span>;<span class="tone4">qù</span>;gaan;[sound:qu4.mp3];jaar1 week111 les06
 来 komen;<span class="tone2">来</span>;<span class="tone2">lái</span>;komen;[sound:lai2.mp3];jaar1 week111 les04 les07
@@ -205,7 +205,7 @@
 那里 那儿 daar;<span class="tone4">那</span><span class="tone5">里</span> <span class="tone4">那</span><span class="tone5">儿</span>;<span class="tone4">nà</span><span class="tone5">li</span> <span class="tone4">nà</span><span class="tone5">r</span>;daar;[sound:na4li5na4r5.mp3];jaar1 week112
 狗 hond;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];jaar1 week112 les08 jaar2 week204
 猫 kat;<span class="tone1">猫</span>;<span class="tone1">māo</span>;kat;[sound:mao1.mp3];jaar1 week112
-吃饭 het eten van rijst > eten;<span class="tone1">吃</span><span class="tone4">饭</span>;<span class="tone1">chī</span><span class="tone4">fàn</span>;het eten van rijst > eten;[sound:chi1fan4.mp3];jaar1 week112 week116
+吃饭 het eten van rijst, eten;<span class="tone1">吃</span><span class="tone4">饭</span>;<span class="tone1">chī</span><span class="tone4">fàn</span>;het eten van rijst, eten;[sound:chi1fan4.mp3];jaar1 week112 week116
 好吃 lekker om te eten;<span class="tone4">好</span><span class="tone1">吃</span>;<span class="tone4">hào</span><span class="tone1">chī</span>;lekker om te eten;[sound:hao4chi1.mp3];jaar1 week112
 电视 televisie;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];jaar1 week112 week114 week115 week116
 有名 bekend, naam hebben;<span class="tone3">有</span><span class="tone2">名</span>;<span class="tone3">yǒu</span><span class="tone2">míng</span>;bekend, naam hebben;[sound:you3ming2.mp3];jaar1 week112 week118 week124 jaar2 week203 week204
@@ -246,7 +246,7 @@
 咖啡馆 koffiehuis;<span class="tone1">咖</span><span class="tone1">啡</span><span class="tone3">馆</span>;<span class="tone1">kā</span><span class="tone1">fēi</span><span class="tone3">guǎn</span>;koffiehuis;[sound:ka1fei1guan3.mp3];jaar1 week115
 饭馆 restaurant;<span class="tone4">饭</span><span class="tone3">馆</span>;<span class="tone4">fàn</span><span class="tone3">guǎn</span>;restaurant;[sound:fan4guan3.mp3];jaar1 week115 week120
 长城 de chinese muur;<span class="tone2">长</span><span class="tone2">城</span>;<span class="tone2">Cháng</span><span class="tone2">chéng</span>;de chinese muur;[sound:chang2cheng2.mp3];jaar1 week115
-睡觉 het slapen van een slaapje > slapen;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje > slapen;[sound:shui4jiao4.mp3];jaar1 week115 week116 week117 jaar2 week206
+睡觉 het slapen van een slaapje, slapen;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje, slapen;[sound:shui4jiao4.mp3];jaar1 week115 week116 week117 jaar2 week206
 水饺 dumplings (gekookt);<span class="tone3">水</span><span class="tone3">饺</span>;<span class="tone3">shuǐ</span><span class="tone3">jiǎo</span>;dumplings (gekookt);[sound:shui3jiao3.mp3];jaar1 week115
 饺子 dumplings;<span class="tone3">饺</span><span class="tone5">子</span>;<span class="tone3">jiǎo</span><span class="tone5">zi</span>;dumplings;[sound:jiao3zi5.mp3];jaar1 week115
 音乐 muziek;<span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">yīn</span><span class="tone4">yuè</span>;muziek;[sound:yin1yue4.mp3];jaar1 week115 les07
@@ -280,13 +280,13 @@
 听音乐 naar muziek luisteren;<span class="tone1">听</span><span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">tīng</span><span class="tone1">yīn</span><span class="tone4">lè</span>;naar muziek luisteren;[sound:ting1yin1le4.mp3];jaar1 week116
 游泳池 zwembad;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone2">池</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone2">chí</span>;zwembad;[sound:you2yong3chi2.mp3];jaar1 week116
 游泳馆 zwembad;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone3">馆</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone3">guǎn</span>;zwembad;[sound:you2yong3guan3.mp3];jaar1 week116
-会 kunnen;<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen;[sound:hui4.mp3];jaar1 week116
+会 kunnen (iets dat je onder de knie hebt, dat je aangeleerd hebt);<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen (iets dat je onder de knie hebt, dat je aangeleerd hebt);[sound:hui4.mp3];jaar1 week116 jaar2 week211
 昨天 gisteren;<span class="tone2">昨</span><span class="tone1">天</span>;<span class="tone2">zuó</span><span class="tone1">tiān</span>;gisteren;[sound:zuo2tian1.mp3];jaar1 week116 week117 les06
 现在 nu;<span class="tone4">现</span><span class="tone4">在</span>;<span class="tone4">xiàn</span><span class="tone4">zài</span>;nu;[sound:xian4zai4.mp3];jaar1 week116 week117 les06
 有(的)时候 soms;<span class="tone3">有</span>(<span class="tone5">的</span>)<span class="tone2">时</span><span class="tone5">候</span>;<span class="tone3">yǒu</span>(<span class="tone5">de</span>)<span class="tone2">shí</span><span class="tone5">hou</span>;soms;[sound:you3de5shi2hou5.mp3];jaar1 week116
 上课 (beginnen met) les volgen;<span class="tone4">上</span><span class="tone4">课</span>;<span class="tone4">shàng</span><span class="tone4">kè</span>;(beginnen met) les volgen;[sound:shang4ke4.mp3];jaar1 week116 week119 week123
 下课 stoppen met de les;<span class="tone4">下</span><span class="tone4">课</span>;<span class="tone4">xià</span><span class="tone4">kè</span>;stoppen met de les;[sound:xia4ke4.mp3];jaar1 week116 week119 week123
-洗澡 het wassen van een wasje > zich wassen;<span class="tone3">洗</span><span class="tone3">澡</span>;<span class="tone3">xǐ</span><span class="tone3">zǎo</span>;het wassen van een wasje > zich wassen;[sound:xi3zao3.mp3];jaar1 week117 jaar2 week206 week207
+洗澡 het wassen van een wasje, zich wassen;<span class="tone3">洗</span><span class="tone3">澡</span>;<span class="tone3">xǐ</span><span class="tone3">zǎo</span>;het wassen van een wasje, zich wassen;[sound:xi3zao3.mp3];jaar1 week117 jaar2 week206 week207 week211
 洗手 handen wassen;<span class="tone3">洗</span><span class="tone3">手</span>;<span class="tone3">xǐ</span><span class="tone3">shǒu</span>;handen wassen;[sound:xi3shou3.mp3];jaar1 week117
 做饭 koken;<span class="tone4">做</span><span class="tone4">饭</span>;<span class="tone4">zuò</span><span class="tone4">fàn</span>;koken;[sound:zuo4fan4.mp3];jaar1 week117
 男厕所 herentoilet;<span class="tone2">男</span><span class="tone4">厕</span><span class="tone3">所</span>;<span class="tone2">nán</span><span class="tone4">cè</span><span class="tone3">suǒ</span>;herentoilet;[sound:nan2ce4suo3.mp3];jaar1 week117
@@ -300,14 +300,14 @@
 中午 middag, 's middags;<span class="tone1">中</span><span class="tone3">午</span>;<span class="tone1">zhōng</span><span class="tone3">wǔ</span>;middag, 's middags;[sound:zhong1wu3.mp3];jaar1 week117 week122 week123
 打球 (een balsport) spelen (met de handen);<span class="tone3">打</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone2">qiú</span>;(een balsport) spelen (met de handen);[sound:da3qiu2.mp3];jaar1 week117 les06
 网球 tennis;<span class="tone3">网</span><span class="tone2">球</span>;<span class="tone3">wǎng</span><span class="tone2">qiú</span>;tennis;[sound:wang3qiu2.mp3];jaar1 week117
-打网球 tennissen;<span class="tone3">打</span><span class="tone3">网</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone3">wǎng</span><span class="tone2">qiú</span>;tennissen;[sound:da3wang3qiu2.mp3];jaar1 week117
+打网球 slaan tegen een tennisbal, tennissen;<span class="tone3">打</span><span class="tone3">网</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone3">wǎng</span><span class="tone2">qiú</span>;slaan tegen een tennisbal, tennissen;[sound:da3wang3qiu2.mp3];jaar1 week117 jaar2 week211
 踢球 stampen tegen een bal;<span class="tone1">踢</span><span class="tone2">球</span>;<span class="tone1">tī</span><span class="tone2">qiú</span>;stampen tegen een bal;[sound:ti1qiu2.mp3];jaar1 week117
 足球 voetbal;<span class="tone2">足</span><span class="tone2">球</span>;<span class="tone2">zú</span><span class="tone2">qiú</span>;voetbal;[sound:zu2qiu2.mp3];jaar1 week117
-踢足球 voetballen;<span class="tone1">踢</span><span class="tone2">足</span><span class="tone2">球</span>;<span class="tone1">tī</span><span class="tone2">zú</span><span class="tone2">qiú</span>;voetballen;[sound:ti1zu2qiu2.mp3];jaar1 week117
+踢足球 stampen tegen een voetbal, voetballen;<span class="tone1">踢</span><span class="tone2">足</span><span class="tone2">球</span>;<span class="tone1">tī</span><span class="tone2">zú</span><span class="tone2">qiú</span>;stampen tegen een voetbal, voetballen;[sound:ti1zu2qiu2.mp3];jaar1 week117 jaar2 week211
 回 terugkeren;<span class="tone2">回</span>;<span class="tone2">huí</span>;terugkeren;[sound:hui2.mp3];jaar1 week117
 回家 terugkeren naar huis;<span class="tone2">回</span><span class="tone1">家</span>;<span class="tone2">huí</span><span class="tone1">jiā</span>;terugkeren naar huis;[sound:hui2jia1.mp3];jaar1 week117 week126
 听说 ik heb horen zeggen dat;<span class="tone1">听</span><span class="tone1">说</span>;<span class="tone1">tīng</span><span class="tone1">shuō</span>;ik heb horen zeggen dat;[sound:ting1shuo1.mp3];jaar1 week117 jaar2 week201
-说话 het spreken van woorden > spreken, babbelen;<span class="tone1">说</span><span class="tone4">话</span>;<span class="tone1">shuō</span><span class="tone4">huà</span>;het spreken van woorden > spreken, babbelen;[sound:shuo1hua4.mp3];jaar1 week117 jaar2 week208
+说话 het spreken van woorden, spreken, babbelen;<span class="tone1">说</span><span class="tone4">话</span>;<span class="tone1">shuō</span><span class="tone4">huà</span>;het spreken van woorden, spreken, babbelen;[sound:shuo1hua4.mp3];jaar1 week117 jaar2 week208
 香港 hongkong;<span class="tone1">香</span><span class="tone3">港</span>;<span class="tone1">Xiāng</span><span class="tone3">gǎng</span>;hongkong;[sound:xiang1gang3.mp3];jaar1 week117
 巧克力 chocolade;<span class="tone3">巧</span><span class="tone4">克</span><span class="tone4">力</span>;<span class="tone3">qiǎo</span><span class="tone4">kè</span><span class="tone4">lì</span>;chocolade;[sound:qiao3ke4li4.mp3];jaar1 week117
 公司 bedrijf;<span class="tone1">公</span><span class="tone1">司</span>;<span class="tone1">gōng</span><span class="tone1">sī</span>;bedrijf;[sound:gong1si1.mp3];jaar1 week117 week120
@@ -371,7 +371,7 @@
 语法 grammatica;<span class="tone3">语</span><span class="tone3">法</span>;<span class="tone3">yǔ</span><span class="tone3">fǎ</span>;grammatica;[sound:yu3fa3.mp3];jaar1 week120
 生词 nieuwe woorden;<span class="tone1">生</span><span class="tone2">词</span>;<span class="tone1">shēng</span><span class="tone2">cí</span>;nieuwe woorden;[sound:sheng1ci2.mp3];jaar1 week120
 退休 op pensioen gaan;<span class="tone4">退</span><span class="tone1">休</span>;<span class="tone4">tuì</span><span class="tone1">xiū</span>;op pensioen gaan;[sound:tui4xiu1.mp3];jaar1 week120
-假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210
+假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210 week211
 学校 school;<span class="tone2">学</span><span class="tone4">校</span>;<span class="tone2">xué</span><span class="tone4">xiào</span>;school;[sound:xue2xiao4.mp3];jaar1 week121
 印尼 indonesië;<span class="tone4">印</span><span class="tone2">尼</span>;<span class="tone4">Yìn</span><span class="tone2">ní</span>;indonesië;[sound:yin4ni2.mp3];jaar1 week121
 楼 gebouw;<span class="tone2">楼</span>;<span class="tone2">lóu</span>;gebouw;[sound:lou2.mp3];jaar1 week121
@@ -428,7 +428,7 @@
 纸 papier;<span class="tone3">纸</span>;<span class="tone3">zhǐ</span>;papier;[sound:zhi3.mp3];jaar1 week125
 公园 park;<span class="tone1">公</span><span class="tone2">园</span>;<span class="tone1">gōng</span><span class="tone2">yuán</span>;park;[sound:gong1yuan2.mp3];jaar1 week125
 年级 jaar (niveau);<span class="tone2">年</span><span class="tone2">级</span>;<span class="tone2">nián</span><span class="tone2">jí</span>;jaar (niveau);[sound:nian2ji2.mp3];jaar1 week125 jaar2 week201
-帅 knap;<span class="tone4">帅</span>;<span class="tone4">shuài</span>;knap;[sound:shuai4.mp3];jaar1 week125
+帅 knap (om mannen te beschrijven);<span class="tone4">帅</span>;<span class="tone4">shuài</span>;knap (om mannen te beschrijven);[sound:shuai4.mp3];jaar1 week125 jaar2 week211
 吗 (vraagpartikel);<span class="tone5">吗</span>;<span class="tone5">ma</span>;(vraagpartikel);[sound:ma5.mp3];jaar1 les01 les02
 们 (meervoud bij persoonlijke voornaamwoorden);<span class="tone5">们</span>;<span class="tone5">men</span>;(meervoud bij persoonlijke voornaamwoorden);[sound:men5.mp3];jaar1 les02
 男 man;<span class="tone2">男</span>;<span class="tone2">nán</span>;man;[sound:nan2.mp3];jaar1 les02 les08
@@ -444,7 +444,7 @@
 号 nummer;<span class="tone4">号</span>;<span class="tone4">hào</span>;nummer;[sound:hao4.mp3];jaar1 les05
 不用 niet nodig hebben;<span class="tone4">不</span><span class="tone4">用</span>;<span class="tone4">bù</span><span class="tone4">yòng</span>;niet nodig hebben;[sound:bu4yong4.mp3];jaar1 les05
 这里 hier;<span class="tone4">这</span><span class="tone3">里</span>;<span class="tone4">zhè</span><span class="tone3">lǐ</span>;hier;[sound:zhe4li3.mp3];jaar1 les05
-了 (partikel voor voltooide handelingen);<span class="tone5">了</span>;<span class="tone5">le</span>;(partikel voor voltooide handelingen);[sound:le5.mp3];jaar1 les05
+了 (partikel voor voltooide handelingen);<span class="tone5">了</span>;<span class="tone5">le</span>;(partikel voor voltooide handelingen);[sound:le5.mp3];jaar1 les05 jaar2 week211
 天 dag;<span class="tone1">天</span>;<span class="tone1">tiān</span>;dag;[sound:tian1.mp3];jaar1 les06
 太 te, extreem;<span class="tone4">太</span>;<span class="tone4">tài</span>;te, extreem;[sound:tai4.mp3];jaar1 les06
 时候 tijd, moment;<span class="tone2">时</span><span class="tone5">候</span>;<span class="tone2">shí</span><span class="tone5">hou</span>;tijd, moment;[sound:shi2hou5.mp3];jaar1 les06
@@ -470,10 +470,10 @@
 星期三 woensdag;<span class="tone1">星</span><span class="tone1">期</span><span class="tone1">三</span>;<span class="tone1">Xīng</span><span class="tone1">qī</span><span class="tone1">sān</span>;woensdag;[sound:xing1qi1san1.mp3];jaar2 week201
 星期日 zondag;<span class="tone1">星</span><span class="tone1">期</span><span class="tone4">日</span>;<span class="tone1">Xīng</span><span class="tone1">qī</span><span class="tone4">rì</span>;zondag;[sound:xing1qi1ri4.mp3];jaar2 week201
 星期天 zondag;<span class="tone1">星</span><span class="tone1">期</span><span class="tone1">天</span>;<span class="tone1">Xīng</span><span class="tone1">qī</span><span class="tone1">tiān</span>;zondag;[sound:xing1qi1tian1.mp3];jaar2 week201
-以前 vroeger, eerder;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202
-以后 later;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202
+以前 vroeger, eerder;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202 week211
+以后 later;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202 week211
 复习 herhalen;<span class="tone4">复</span><span class="tone2">习</span>;<span class="tone4">fù</span><span class="tone2">xí</span>;herhalen;[sound:fu4xi2.mp3];jaar2 week201
-骑自行车 het berijden van een fiets > fietsen;<span class="tone2">骑</span><span class="tone4">自</span><span class="tone2">行</span><span class="tone1">车</span>;<span class="tone2">qí</span><span class="tone4">zì</span><span class="tone2">xíng</span><span class="tone1">chē</span>;het berijden van een fiets > fietsen;[sound:qi2zi4xing2che1.mp3];jaar2 week201
+骑自行车 het berijden van een fiets, fietsen;<span class="tone2">骑</span><span class="tone4">自</span><span class="tone2">行</span><span class="tone1">车</span>;<span class="tone2">qí</span><span class="tone4">zì</span><span class="tone2">xíng</span><span class="tone1">chē</span>;het berijden van een fiets, fietsen;[sound:qi2zi4xing2che1.mp3];jaar2 week201
 房子 huis;<span class="tone2">房</span><span class="tone5">子</span>;<span class="tone2">fáng</span><span class="tone5">zi</span>;huis;[sound:fang2zi5.mp3];jaar2 week201
 多大 hoe oud?;<span class="tone1">多</span><span class="tone4">大</span>;<span class="tone1">duō</span><span class="tone4">dà</span>;hoe oud?;[sound:duo1da4.mp3];jaar2 week201
 岁 jaar (in leeftijd);<span class="tone4">岁</span>;<span class="tone4">suì</span>;jaar (in leeftijd);[sound:sui4.mp3];jaar2 week201
@@ -481,7 +481,7 @@
 日期 datum;<span class="tone4">日</span><span class="tone1">期</span>;<span class="tone4">rì</span><span class="tone1">qī</span>;datum;[sound:ri4qi1.mp3];jaar2 week202
 礼拜 week (een ander woord voor星期);<span class="tone3">礼</span><span class="tone4">拜</span>;<span class="tone3">lǐ</span><span class="tone4">bài</span>;week (een ander woord voor星期);[sound:li3bai4.mp3];jaar2 week202
 周 week (een ander woord voor 星期, vaak gebruikt in de geschreven taal);<span class="tone1">周</span>;<span class="tone1">zhōu</span>;week (een ander woord voor 星期, vaak gebruikt in de geschreven taal);[sound:zhou1.mp3];jaar2 week202
-第 (gebruikt om rangtelwoorden te vormen);<span class="tone4">第</span>;<span class="tone4">dì</span>;(gebruikt om rangtelwoorden te vormen);[sound:di4.mp3];jaar2 week202
+第 (gebruikt om rangtelwoorden te vormen);<span class="tone4">第</span>;<span class="tone4">dì</span>;(gebruikt om rangtelwoorden te vormen);[sound:di4.mp3];jaar2 week202 week211
 国王 koning van een land;<span class="tone2">国</span><span class="tone2">王</span>;<span class="tone2">guó</span><span class="tone2">wáng</span>;koning van een land;[sound:guo2wang2.mp3];jaar2 week202
 出生 geboren worden;<span class="tone1">出</span><span class="tone1">生</span>;<span class="tone1">chū</span><span class="tone1">shēng</span>;geboren worden;[sound:chu1sheng1.mp3];jaar2 week202
 生日 verjaardag;<span class="tone1">生</span><span class="tone4">日</span>;<span class="tone1">shēng</span><span class="tone4">rì</span>;verjaardag;[sound:sheng1ri4.mp3];jaar2 week202
@@ -519,8 +519,8 @@
 周末 weekend;<span class="tone1">周</span><span class="tone4">末</span>;<span class="tone1">zhōu</span><span class="tone4">mò</span>;weekend;[sound:zhou1mo4.mp3];jaar2 week204
 忘 vergeten;<span class="tone4">忘</span>;<span class="tone4">wàng</span>;vergeten;[sound:wang4.mp3];jaar2 week204
 帮助 helpen;<span class="tone1">帮</span><span class="tone4">助</span>;<span class="tone1">bāng</span><span class="tone4">zhù</span>;helpen;[sound:bang1zhu4.mp3];jaar2 week204 week206
-红 rood;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];jaar2 week205 week210
-白 wit;<span class="tone2">白</span>;<span class="tone2">bái</span>;wit;[sound:bai2.mp3];jaar2 week205
+红 rood;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];jaar2 week205 week210 week211
+白 wit;<span class="tone2">白</span>;<span class="tone2">bái</span>;wit;[sound:bai2.mp3];jaar2 week205 week211
 瓶子 een fles (het voorwerp);<span class="tone2">瓶</span><span class="tone5">子</span>;<span class="tone2">píng</span><span class="tone5">zi</span>;een fles (het voorwerp);[sound:ping2zi5.mp3];jaar2 week205
 杯子 een glas, een tas (het voorwerp);<span class="tone1">杯</span><span class="tone5">子</span>;<span class="tone1">bēi</span><span class="tone5">zi</span>;een glas, een tas (het voorwerp);[sound:bei1zi5.mp3];jaar2 week205
 祝贺 feliciteren;<span class="tone4">祝</span><span class="tone4">贺</span>;<span class="tone4">zhù</span><span class="tone4">hè</span>;feliciteren;[sound:zhu4he4.mp3];jaar2 week205
@@ -528,23 +528,23 @@
 块 (maatwoord voor een stuk);<span class="tone4">块</span>;<span class="tone4">kuài</span>;(maatwoord voor een stuk);[sound:kuai4.mp3];jaar2 week205 week208
 听 (maatwoord voor blikjes);<span class="tone1">听</span>;<span class="tone1">tīng</span>;(maatwoord voor blikjes);[sound:ting1.mp3];jaar2 week205
 光盘 dvd, cd;<span class="tone1">光</span><span class="tone2">盘</span>;<span class="tone1">guāng</span><span class="tone2">pán</span>;dvd, cd;[sound:guang1pan2.mp3];jaar2 week205
-碟 schijf > dvd, cd;<span class="tone2">碟</span>;<span class="tone2">dié</span>;schijf > dvd, cd;[sound:die2.mp3];jaar2 week205
+碟 schijf, dvd, cd;<span class="tone2">碟</span>;<span class="tone2">dié</span>;schijf, dvd, cd;[sound:die2.mp3];jaar2 week205
 几点? hoe laat?;<span class="tone3">几</span><span class="tone3">点</span>?;<span class="tone3">jǐ</span><span class="tone3">diǎn</span>?;hoe laat?;[sound:ji3dian3.mp3];jaar2 week206
 差 ontbreken;<span class="tone4">差</span>;<span class="tone4">chà</span>;ontbreken;[sound:cha4.mp3];jaar2 week206
 半 half;<span class="tone4">半</span>;<span class="tone4">bàn</span>;half;[sound:ban4.mp3];jaar2 week206
 刻 kwartier;<span class="tone4">刻</span>;<span class="tone4">kè</span>;kwartier;[sound:ke4.mp3];jaar2 week206
-起床 het opstaan uit bed > opstaan;<span class="tone3">起</span><span class="tone2">床</span>;<span class="tone3">qǐ</span><span class="tone2">chuáng</span>;het opstaan uit bed > opstaan;[sound:qi3chuang2.mp3];jaar2 week206
+起床 het opstaan uit bed, opstaan;<span class="tone3">起</span><span class="tone2">床</span>;<span class="tone3">qǐ</span><span class="tone2">chuáng</span>;het opstaan uit bed, opstaan;[sound:qi3chuang2.mp3];jaar2 week206 week211
 次 keer;<span class="tone4">次</span>;<span class="tone4">cì</span>;keer;[sound:ci4.mp3];jaar2 week206
 事 ding, iets (niet tastbaar);<span class="tone4">事</span>;<span class="tone4">shì</span>;ding, iets (niet tastbaar);[sound:shi4.mp3];jaar2 week206
 银行 bank;<span class="tone2">银</span><span class="tone2">行</span>;<span class="tone2">yín</span><span class="tone2">háng</span>;bank;[sound:yin2hang2.mp3];jaar2 week207
-开门 het openen van de deuren > open zijn;<span class="tone1">开</span><span class="tone2">门</span>;<span class="tone1">kāi</span><span class="tone2">mén</span>;het openen van de deuren > open zijn;[sound:kai1men2.mp3];jaar2 week207
-关门 het sluiten van de deuren > toe gaan, dicht zijn;<span class="tone1">关</span><span class="tone2">门</span>;<span class="tone1">guān</span><span class="tone2">mén</span>;het sluiten van de deuren > toe gaan, dicht zijn;[sound:guan1men2.mp3];jaar2 week207
-刷牙 het borstelen van de tanden > tanden poetsen;<span class="tone1">刷</span><span class="tone2">牙</span>;<span class="tone1">shuā</span><span class="tone2">yá</span>;het borstelen van de tanden > tanden poetsen;[sound:shua1ya2.mp3];jaar2 week207
-运动 sport, sporten;<span class="tone4">运</span><span class="tone4">动</span>;<span class="tone4">yùn</span><span class="tone4">dòng</span>;sport, sporten;[sound:yun4dong4.mp3];jaar2 week207
+开门 het openen van de deuren, open zijn;<span class="tone1">开</span><span class="tone2">门</span>;<span class="tone1">kāi</span><span class="tone2">mén</span>;het openen van de deuren, open zijn;[sound:kai1men2.mp3];jaar2 week207
+关门 het sluiten van de deuren, toe gaan, dicht zijn;<span class="tone1">关</span><span class="tone2">门</span>;<span class="tone1">guān</span><span class="tone2">mén</span>;het sluiten van de deuren, toe gaan, dicht zijn;[sound:guan1men2.mp3];jaar2 week207
+刷牙 het borstelen van de tanden, tanden poetsen;<span class="tone1">刷</span><span class="tone2">牙</span>;<span class="tone1">shuā</span><span class="tone2">yá</span>;het borstelen van de tanden, tanden poetsen;[sound:shua1ya2.mp3];jaar2 week207
+运动 sport, sporten;<span class="tone4">运</span><span class="tone4">动</span>;<span class="tone4">yùn</span><span class="tone4">dòng</span>;sport, sporten;[sound:yun4dong4.mp3];jaar2 week207 week211
 做运动 sport doen;<span class="tone4">做</span><span class="tone4">运</span><span class="tone4">动</span>;<span class="tone4">zuò</span><span class="tone4">yùn</span><span class="tone4">dòng</span>;sport doen;[sound:zuo4yun4dong4.mp3];jaar2 week207
 衣服 kleren;<span class="tone1">衣</span><span class="tone5">服</span>;<span class="tone1">yī</span><span class="tone5">fu</span>;kleren;[sound:yi1fu5.mp3];jaar2 week207
 食堂 eetzaal;<span class="tone2">食</span><span class="tone2">堂</span>;<span class="tone2">shí</span><span class="tone2">táng</span>;eetzaal;[sound:shi2tang2.mp3];jaar2 week207
-跑步 het lopen van passen > lopen, rennen;<span class="tone3">跑</span><span class="tone4">步</span>;<span class="tone3">pǎo</span><span class="tone4">bù</span>;het lopen van passen > lopen, rennen;[sound:pao3bu4.mp3];jaar2 week207
+跑步 het lopen van passen, lopen, rennen;<span class="tone3">跑</span><span class="tone4">步</span>;<span class="tone3">pǎo</span><span class="tone4">bù</span>;het lopen van passen, lopen, rennen;[sound:pao3bu4.mp3];jaar2 week207 week211
 顾客 klant;<span class="tone4">顾</span><span class="tone4">客</span>;<span class="tone4">gù</span><span class="tone4">kè</span>;klant;[sound:gu4ke4.mp3];jaar2 week208
 售货员 verkoper;<span class="tone4">售</span><span class="tone4">货</span><span class="tone2">员</span>;<span class="tone4">shòu</span><span class="tone4">huò</span><span class="tone2">yuán</span>;verkoper;[sound:shou4huo4yuan2.mp3];jaar2 week208
 卖东西 dingen verkopen;<span class="tone4">卖</span><span class="tone1">东</span><span class="tone5">西</span>;<span class="tone4">mài</span><span class="tone1">dōng</span><span class="tone5">xi</span>;dingen verkopen;[sound:mai4dong1xi5.mp3];jaar2 week208
@@ -555,7 +555,7 @@
 商场 grote winkel, winkelcentrum;<span class="tone1">商</span><span class="tone3">场</span>;<span class="tone1">shāng</span><span class="tone3">chǎng</span>;grote winkel, winkelcentrum;[sound:shang1chang3.mp3];jaar2 week208
 超市 supermarkt;<span class="tone1">超</span><span class="tone4">市</span>;<span class="tone1">chāo</span><span class="tone4">shì</span>;supermarkt;[sound:chao1shi4.mp3];jaar2 week208
 家乐福 Carrefour;<span class="tone1">家</span><span class="tone4">乐</span><span class="tone2">福</span>;<span class="tone1">Jiā</span><span class="tone4">lè</span><span class="tone2">fú</span>;Carrefour;[sound:jia1le4fu2.mp3];jaar2 week208
-人民币 'de munt van het volk' > de Chinese munt;<span class="tone2">人</span><span class="tone2">民</span><span class="tone4">币</span>;<span class="tone2">rén</span><span class="tone2">mín</span><span class="tone4">bì</span>;'de munt van het volk' > de Chinese munt;[sound:ren2min2bi4.mp3];jaar2 week208
+人民币 de Chinese munt, 'de munt van het volk';<span class="tone2">人</span><span class="tone2">民</span><span class="tone4">币</span>;<span class="tone2">rén</span><span class="tone2">mín</span><span class="tone4">bì</span>;de Chinese munt, 'de munt van het volk';[sound:ren2min2bi4.mp3];jaar2 week208
 怎么卖? hoe wordt het verkocht?;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">卖</span>?;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">mài</span>?;hoe wordt het verkocht?;[sound:zen3me5mai4.mp3];jaar2 week208
 多少钱? hoeveel kost het?;<span class="tone1">多</span><span class="tone3">少</span><span class="tone2">钱</span>?;<span class="tone1">duō</span><span class="tone3">shǎo</span><span class="tone2">qián</span>?;hoeveel kost het?;[sound:duo1shao3qian2.mp3];jaar2 week208
 斤 een ‘jin’ (= halve kilo);<span class="tone1">斤</span>;<span class="tone1">jīn</span>;een ‘jin’ (= halve kilo);[sound:jin1.mp3];jaar2 week208
@@ -597,8 +597,17 @@
 比 vergelijken, in vergelijking met;<span class="tone3">比</span>;<span class="tone3">bǐ</span>;vergelijken, in vergelijking met;[sound:bi3.mp3];jaar2 week210
 穿衣服 het dragen van kleren, het aantrekken van kleren;<span class="tone1">穿</span><span class="tone1">衣</span><span class="tone2">服</span>;<span class="tone1">chuān</span><span class="tone1">yī</span><span class="tone2">fú</span>;het dragen van kleren, het aantrekken van kleren;[sound:chuan1yi1fu2.mp3];jaar2 week210
 件 maatwoord voor kleren;<span class="tone4">件</span>;<span class="tone4">jiàn</span>;maatwoord voor kleren;[sound:jian4.mp3];jaar2 week210
-绿 groen;<span class="tone4">绿</span>;<span class="tone4">lǜ</span>;groen;[sound:lü4.mp3];jaar2 week210
-颜色 kleur;<span class="tone2">颜</span><span class="tone4">色</span>;<span class="tone2">yán</span><span class="tone4">sè</span>;kleur;[sound:yan2se4.mp3];jaar2 week210
+绿 groen;<span class="tone4">绿</span>;<span class="tone4">lǜ</span>;groen;[sound:lü4.mp3];jaar2 week210 week211
+颜色 kleur;<span class="tone2">颜</span><span class="tone4">色</span>;<span class="tone2">yán</span><span class="tone4">sè</span>;kleur;[sound:yan2se4.mp3];jaar2 week210 week211
 短 kort;<span class="tone3">短</span>;<span class="tone3">duǎn</span>;kort;[sound:duan3.mp3];jaar2 week210
 一样 hetzelfde;<span class="tone1">一</span><span class="tone4">样</span>;<span class="tone1">yī</span><span class="tone4">yàng</span>;hetzelfde;[sound:yi1yang4.mp3];jaar2 week210
 矮 klein (van gestalte);<span class="tone3">矮</span>;<span class="tone3">ǎi</span>;klein (van gestalte);[sound:ai3.mp3];jaar2 week210
+能 kunnen (in staat zijn iets te doen, de omstandigheden laten het toe);<span class="tone2">能</span>;<span class="tone2">néng</span>;kunnen (in staat zijn iets te doen, de omstandigheden laten het toe);[sound:neng2.mp3];jaar2 week211
+聊天(儿) babbelen;<span class="tone2">聊</span><span class="tone1">天</span>(<span class="tone5">儿</span>);<span class="tone2">liáo</span><span class="tone1">tiān</span>(<span class="tone5">r</span>);babbelen;[sound:liao2tian1r5.mp3];jaar2 week211
+散步 wandelen;<span class="tone4">散</span><span class="tone4">步</span>;<span class="tone4">sàn</span><span class="tone4">bù</span>;wandelen;[sound:san4bu4.mp3];jaar2 week211
+走路 gaan;<span class="tone3">走</span><span class="tone4">路</span>;<span class="tone3">zǒu</span><span class="tone4">lù</span>;gaan;[sound:zou3lu4.mp3];jaar2 week211
+司机 chauffeur;<span class="tone1">司</span><span class="tone1">机</span>;<span class="tone1">sī</span><span class="tone1">jī</span>;chauffeur;[sound:si1ji1.mp3];jaar2 week211
+蓝 blauw;<span class="tone2">蓝</span>;<span class="tone2">lán</span>;blauw;[sound:lan2.mp3];jaar2 week211
+黑 zwart;<span class="tone1">黑</span>;<span class="tone1">hēi</span>;zwart;[sound:hei1.mp3];jaar2 week211
+咖啡色 bruin;<span class="tone1">咖</span><span class="tone1">啡</span><span class="tone4">色</span>;<span class="tone1">kā</span><span class="tone1">fēi</span><span class="tone4">sè</span>;bruin;[sound:ka1fei1se4.mp3];jaar2 week211
+黄 geel;<span class="tone2">黄</span>;<span class="tone2">huáng</span>;geel;[sound:huang2.mp3];jaar2 week211

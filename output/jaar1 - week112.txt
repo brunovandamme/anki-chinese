@@ -17,7 +17,7 @@
 那里 那儿 daar;<span class="tone4">那</span><span class="tone5">里</span> <span class="tone4">那</span><span class="tone5">儿</span>;<span class="tone4">nà</span><span class="tone5">li</span> <span class="tone4">nà</span><span class="tone5">r</span>;daar;[sound:na4li5na4r5.mp3];jaar1 week112
 狗 hond;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];jaar1 week112 les08 jaar2 week204
 猫 kat;<span class="tone1">猫</span>;<span class="tone1">māo</span>;kat;[sound:mao1.mp3];jaar1 week112
-吃饭 het eten van rijst > eten;<span class="tone1">吃</span><span class="tone4">饭</span>;<span class="tone1">chī</span><span class="tone4">fàn</span>;het eten van rijst > eten;[sound:chi1fan4.mp3];jaar1 week112 week116
+吃饭 het eten van rijst, eten;<span class="tone1">吃</span><span class="tone4">饭</span>;<span class="tone1">chī</span><span class="tone4">fàn</span>;het eten van rijst, eten;[sound:chi1fan4.mp3];jaar1 week112 week116
 好吃 lekker om te eten;<span class="tone4">好</span><span class="tone1">吃</span>;<span class="tone4">hào</span><span class="tone1">chī</span>;lekker om te eten;[sound:hao4chi1.mp3];jaar1 week112
 电影 film;<span class="tone4">电</span><span class="tone3">影</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span>;film;[sound:dian4ying3.mp3];jaar1 week109 week111 week112 week116
 电视 televisie;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];jaar1 week112 week114 week115 week116

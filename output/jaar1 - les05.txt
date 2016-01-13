@@ -26,4 +26,4 @@
 不用 niet nodig hebben;<span class="tone4">不</span><span class="tone4">用</span>;<span class="tone4">bù</span><span class="tone4">yòng</span>;niet nodig hebben;[sound:bu4yong4.mp3];jaar1 les05
 这里 hier;<span class="tone4">这</span><span class="tone3">里</span>;<span class="tone4">zhè</span><span class="tone3">lǐ</span>;hier;[sound:zhe4li3.mp3];jaar1 les05
 晚 laat;<span class="tone3">晚</span>;<span class="tone3">wǎn</span>;laat;[sound:wan3.mp3];jaar1 week115 week117 les05
-了 (partikel voor voltooide handelingen);<span class="tone5">了</span>;<span class="tone5">le</span>;(partikel voor voltooide handelingen);[sound:le5.mp3];jaar1 les05
+了 (partikel voor voltooide handelingen);<span class="tone5">了</span>;<span class="tone5">le</span>;(partikel voor voltooide handelingen);[sound:le5.mp3];jaar1 les05 jaar2 week211

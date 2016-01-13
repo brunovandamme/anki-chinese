@@ -11,7 +11,7 @@ week201
 复习;herhalen
 年级;jaar (niveau)
 班;klasgroep
-骑自行车;het berijden van een fiets > fietsen
+骑自行车;het berijden van een fiets, fietsen
 房子;huis
 还;nog
 兄弟姐妹;broers en zussen
@@ -92,32 +92,32 @@ week205
 支;(maatwoord voor pennen, sigaretten, etc...)
 听;(maatwoord voor blikjes)
 光盘;dvd, cd
-碟;schijf > dvd, cd
+碟;schijf, dvd, cd
 
 week206
 几点?;hoe laat?
 差;ontbreken
 半;half
 刻;kwartier
-起床;het opstaan uit bed > opstaan
-睡觉;het slapen van een slaapje > slapen
-洗澡;het wassen van een wasje > zich wassen
+起床;het opstaan uit bed, opstaan
+睡觉;het slapen van een slaapje, slapen
+洗澡;het wassen van een wasje, zich wassen
 帮助;helpen
 次;keer
 事;ding, iets (niet tastbaar)
 
 week207
 银行;bank
-开门;het openen van de deuren > open zijn
-关门;het sluiten van de deuren > toe gaan, dicht zijn
-洗澡;het wassen van een wasje > zich wassen
-刷牙;het borstelen van de tanden > tanden poetsen
+开门;het openen van de deuren, open zijn
+关门;het sluiten van de deuren, toe gaan, dicht zijn
+洗澡;het wassen van een wasje, zich wassen
+刷牙;het borstelen van de tanden, tanden poetsen
 运动;sport, sporten
 做运动;sport doen
 衣服;kleren
 食堂;eetzaal
 从.. 到..;van.. tot..
-跑步;het lopen van passen > lopen, rennen
+跑步;het lopen van passen, lopen, rennen
 
 week208
 买;kopen
@@ -137,7 +137,7 @@ week208
 超市;supermarkt
 家乐福;Carrefour
 钱;geld
-人民币;'de munt van het volk' > de Chinese munt
+人民币;de Chinese munt, 'de munt van het volk'
 怎么卖?;hoe wordt het verkocht?
 多少钱?;hoeveel kost het?
 斤;een ‘jin’ (= halve kilo)
@@ -161,7 +161,7 @@ week208
 常常;vaak
 不常;niet vaak
 假期;vakantie
-说话;het spreken van woorden > spreken, babbelen
+说话;het spreken van woorden, spreken, babbelen
 同事;collega
 梁祝;muziekstuk 'the butterfly lovers'
 
@@ -201,3 +201,32 @@ week210
 一样;hetzelfde
 高;hoog, groot
 矮;klein (van gestalte)
+
+week211
+假期;vakantie
+以前;vroeger, eerder
+以后;later
+了;(partikel voor voltooide handelingen)
+洗澡;het wassen van een wasje, zich wassen
+起床;het opstaan uit bed, opstaan
+会;kunnen (iets dat je onder de knie hebt, dat je aangeleerd hebt)
+能;kunnen (in staat zijn iets te doen, de omstandigheden laten het toe)
+可以;mogen, kunnen (iets dat toegelaten is)
+聊天(儿);babbelen
+运动;sport, sporten
+跑步;het lopen van passen, lopen, rennen
+踢足球;stampen tegen een voetbal, voetballen
+打网球;slaan tegen een tennisbal, tennissen
+散步;wandelen
+走路;gaan
+第;(gebruikt om rangtelwoorden te vormen)
+司机;chauffeur
+帅;knap (om mannen te beschrijven)
+颜色;kleur
+白;wit
+红;rood
+蓝;blauw
+绿;lǜ;groen
+黑;zwart
+咖啡色;bruin
+黄;geel

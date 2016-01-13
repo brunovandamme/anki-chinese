@@ -1,4 +1,4 @@
-假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210
+假期 vakantie;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210 week211
 介绍 voorstellen;<span class="tone4">介</span><span class="tone4">绍</span>;<span class="tone4">jiè</span><span class="tone4">shào</span>;voorstellen;[sound:jie4shao4.mp3];jaar1 week120 week121 les07
 学校 school;<span class="tone2">学</span><span class="tone4">校</span>;<span class="tone2">xué</span><span class="tone4">xiào</span>;school;[sound:xue2xiao4.mp3];jaar1 week121
 印尼 indonesië;<span class="tone4">印</span><span class="tone2">尼</span>;<span class="tone4">Yìn</span><span class="tone2">ní</span>;indonesië;[sound:yin4ni2.mp3];jaar1 week121

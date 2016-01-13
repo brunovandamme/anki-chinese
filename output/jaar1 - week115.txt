@@ -6,7 +6,7 @@
 咖啡馆 koffiehuis;<span class="tone1">咖</span><span class="tone1">啡</span><span class="tone3">馆</span>;<span class="tone1">kā</span><span class="tone1">fēi</span><span class="tone3">guǎn</span>;koffiehuis;[sound:ka1fei1guan3.mp3];jaar1 week115
 饭馆 restaurant;<span class="tone4">饭</span><span class="tone3">馆</span>;<span class="tone4">fàn</span><span class="tone3">guǎn</span>;restaurant;[sound:fan4guan3.mp3];jaar1 week115 week120
 长城 de chinese muur;<span class="tone2">长</span><span class="tone2">城</span>;<span class="tone2">Cháng</span><span class="tone2">chéng</span>;de chinese muur;[sound:chang2cheng2.mp3];jaar1 week115
-睡觉 het slapen van een slaapje > slapen;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje > slapen;[sound:shui4jiao4.mp3];jaar1 week115 week116 week117 jaar2 week206
+睡觉 het slapen van een slaapje, slapen;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje, slapen;[sound:shui4jiao4.mp3];jaar1 week115 week116 week117 jaar2 week206
 水饺 dumplings (gekookt);<span class="tone3">水</span><span class="tone3">饺</span>;<span class="tone3">shuǐ</span><span class="tone3">jiǎo</span>;dumplings (gekookt);[sound:shui3jiao3.mp3];jaar1 week115
 饺子 dumplings;<span class="tone3">饺</span><span class="tone5">子</span>;<span class="tone3">jiǎo</span><span class="tone5">zi</span>;dumplings;[sound:jiao3zi5.mp3];jaar1 week115
 电视 televisie;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];jaar1 week112 week114 week115 week116

@@ -165,7 +165,7 @@ week108
 好听;mooi om te horen
 孩子;kind
 游泳;zwemmen
-唱歌;het zingen van een liedje > zingen
+唱歌;het zingen van een liedje, zingen
 医生;dokter
 喜欢;houden van, graag hebben, leuk vinden
 爱;houden van, liefde
@@ -204,15 +204,15 @@ week109
 
 week110
 姓名;familienaam en gegeven naam (in te vullen op papieren)
-唱歌;het zingen van een liedje > zingen
-跳舞;het springen van een dansje > dansen
+唱歌;het zingen van een liedje, zingen
+跳舞;het springen van een dansje, dansen
 容易;gemakkelijk
 车;wagen, auto
 果汁;fruitsap
 记者;reporter
 
 week111
-可以;kunnen, mogen
+可以;mogen, kunnen (iets dat toegelaten is)
 请;iemand iets verzoeken, gelieve ...
 去;gaan
 来;komen
@@ -255,7 +255,7 @@ week112
 那里 那儿;daar
 狗;hond
 猫;kat
-吃饭;het eten van rijst > eten
+吃饭;het eten van rijst, eten
 好吃;lekker om te eten
 电影;film
 电视;televisie
@@ -307,7 +307,7 @@ week115
 咖啡馆;koffiehuis
 饭馆;restaurant
 长城;de chinese muur
-睡觉;het slapen van een slaapje > slapen
+睡觉;het slapen van een slaapje, slapen
 水饺;dumplings (gekookt)
 饺子;dumplings
 电视;televisie
@@ -334,7 +334,7 @@ week116
 百;honderd
 大家;iedereen
 有意思;interessant
-吃饭;het eten van rijst > eten
+吃饭;het eten van rijst, eten
 米饭;rijst
 面包;brood
 意大利面;spaghetti
@@ -350,17 +350,17 @@ week116
 电影;film
 电影院;cinema
 京剧;beijing opera
-唱歌;het zingen van een liedje > zingen
-跳舞;het springen van een dansje > dansen
+唱歌;het zingen van een liedje, zingen
+跳舞;het springen van een dansje, dansen
 休息;pauze, pauzeren
-睡觉;het slapen van een slaapje > slapen
+睡觉;het slapen van een slaapje, slapen
 吃水饺;(gekookte) dumplings eten
-吃饭;het eten van rijst > eten
+吃饭;het eten van rijst, eten
 听音乐;naar muziek luisteren
 游泳;zwemmen
 游泳池;zwembad
 游泳馆;zwembad
-会;kunnen
+会;kunnen (iets dat je onder de knie hebt, dat je aangeleerd hebt)
 要;willen, hebben, moeten
 昨天;gisteren
 今天;vandaag
@@ -372,9 +372,9 @@ week116
 
 week117
 层;verdieping
-洗澡;het wassen van een wasje > zich wassen
+洗澡;het wassen van een wasje, zich wassen
 洗手;handen wassen
-睡觉;het slapen van een slaapje > slapen
+睡觉;het slapen van een slaapje, slapen
 做饭;koken
 厕所;toilet
 男厕所;herentoilet
@@ -393,15 +393,15 @@ week117
 中午;middag, 's middags
 打球;(een balsport) spelen (met de handen)
 网球;tennis
-打网球;tennissen
+打网球;slaan tegen een tennisbal, tennissen
 踢球;stampen tegen een bal
 足球;voetbal
-踢足球;voetballen
+踢足球;stampen tegen een voetbal, voetballen
 想;denken, willen, missen
 回;terugkeren
 回家;terugkeren naar huis
 听说;ik heb horen zeggen dat
-说话;het spreken van woorden > spreken, babbelen
+说话;het spreken van woorden, spreken, babbelen
 香港;hongkong
 巧克力;chocolade
 公司;bedrijf
@@ -593,7 +593,7 @@ week125
 年级;jaar (niveau)
 早上;ochtend, 's ochtends
 早;vroeg
-帅;knap
+帅;knap (om mannen te beschrijven)
 
 week126
 大哥;grootste oudere broer
@@ -654,7 +654,7 @@ les03
 les04
 认识;(iemand) kennen, leren kennen
 高兴;blij
-可以;kunnen, mogen
+可以;mogen, kunnen (iets dat toegelaten is)
 进来;binnen komen
 进;betreden (van een ruimte)
 来;komen
