@@ -14,7 +14,7 @@ kpob8slzu8zbirwpo7xgm8bd664pww67;<span class="tone4">不</span>;<span class="ton
 ve7bbsud6nouxuq1nt09voxj8cpmnd9c;<span class="tone2">学</span><span class="tone5">生</span>;<span class="tone2">xué</span><span class="tone5">sheng</span>;student;[sound:xue2sheng5.mp3];jaar1 week101 les04 les05
 ya9vw2ns44wc77rqy9xw40468l6994rs;<span class="tone4">对</span>;<span class="tone4">duì</span>;juist, correct;[sound:dui4.mp3];jaar1 week101
 ijz8ft9cj7mwnncqf3gv4ch3pvfe8r6o;<span class="tone4">不</span><span class="tone4">对</span>;<span class="tone4">bù</span><span class="tone4">duì</span>;niet juist;[sound:bu4dui4.mp3];jaar1 week101
-mhxb3fsnzkygbycolprtp013umh9i1au;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02 jaar2 week 212
+mhxb3fsnzkygbycolprtp013umh9i1au;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02 jaar2 week212
 bcnbxcu1gfp31b7nhg3qoqrwtt285j8o;<span class="tone1">休</span><span class="tone5">息</span>;<span class="tone1">xiū</span><span class="tone5">xi</span>;pauze, pauzeren;[sound:xiu1xi5.mp3];jaar1 week101 week103 week116
 stvg2dkkuc49i8r0hr7yd5hqvmro16cu;<span class="tone1">知</span><span class="tone4">道</span>;<span class="tone1">zhī</span><span class="tone4">dào</span>;weten;[sound:zhi1dao4.mp3];jaar1 week101 week102 les05
 e5288d75xmnmnd5hoid1rj83kmg2vjo0;<span class="tone3">我</span><span class="tone4">不</span><span class="tone1">知</span><span class="tone4">道</span>;<span class="tone3">wǒ</span><span class="tone4">bù</span><span class="tone1">zhī</span><span class="tone4">dào</span>;ik weet het niet;[sound:wo3bu4zhi1dao4.mp3];jaar1 week101 week103
@@ -168,7 +168,7 @@ bbmvz2dq74pgqudup0b5hny8movq5r9g;<span class="tone4">跳</span><span class="tone
 zde7qezknzlxmrg134s9ui7uj5g4dy4o;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];jaar1 week110 les08
 mrx3rrliur6r82qk3xes2uwhhgtrpqj3;<span class="tone3">果</span><span class="tone1">汁</span>;<span class="tone3">guǒ</span><span class="tone1">zhī</span>;fruitsap;[sound:guo3zhi1.mp3];jaar1 week110
 y126nqtsx2qorxr42mwrr4mj0w46cmk8;<span class="tone4">记</span><span class="tone3">者</span>;<span class="tone4">jì</span><span class="tone3">zhě</span>;reporter;[sound:ji4zhe3.mp3];jaar1 week110 week111 les04
-s2z8m0t0tl8s6fs9ywr39juqoao91y1t;<span class="tone3">可</span><span class="tone3">以</span>;<span class="tone3">kě</span><span class="tone3">yǐ</span>;kunnen, mogen (iets dat toegelaten is);[sound:ke3yi3.mp3];jaar1 week111 les04 jaar2 week211 week 212
+s2z8m0t0tl8s6fs9ywr39juqoao91y1t;<span class="tone3">可</span><span class="tone3">以</span>;<span class="tone3">kě</span><span class="tone3">yǐ</span>;kunnen, mogen (iets dat toegelaten is);[sound:ke3yi3.mp3];jaar1 week111 les04 jaar2 week211 week212
 74vdzxungoxx4zpumz70n4pnt2w0j87l;<span class="tone3">请</span>;<span class="tone3">qǐng</span>;iemand iets verzoeken, gelieve ...;[sound:qing3.mp3];jaar1 week111 les04
 feryontgjtmsg065bd0xzq39xrggw58m;<span class="tone4">去</span>;<span class="tone4">qù</span>;gaan;[sound:qu4.mp3];jaar1 week111 les06
 qeponkkpsradepjanepbke04h6ek8wjx;<span class="tone2">来</span>;<span class="tone2">lái</span>;komen;[sound:lai2.mp3];jaar1 week111 les04 les07
@@ -250,7 +250,7 @@ ql8f6iot0srozkk5a6ga5pwmy3jcxk3o;<span class="tone4">睡</span><span class="tone
 3qd6xamyv9hjtgbkq5g5k01i77c8v2no;<span class="tone3">水</span><span class="tone3">饺</span>;<span class="tone3">shuǐ</span><span class="tone3">jiǎo</span>;dumplings (gekookt);[sound:shui3jiao3.mp3];jaar1 week115
 d4qs7nb4xosabtnepm3edgsxtvg8gi1o;<span class="tone3">饺</span><span class="tone5">子</span>;<span class="tone3">jiǎo</span><span class="tone5">zi</span>;dumplings;[sound:jiao3zi5.mp3];jaar1 week115
 llllcnwfp99v8fuz75ne83gkmwuinovw;<span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">yīn</span><span class="tone4">yuè</span>;muziek;[sound:yin1yue4.mp3];jaar1 week115 les07
-2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123 jaar2 week 212
+2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123 jaar2 week212
 hlbkpcvvcnm4xmbsfnkl6xphf3m6dcw1;<span class="tone1">春</span><span class="tone2">节</span>;<span class="tone1">Chūn</span><span class="tone2">jié</span>;chinees nieuwjaar;[sound:chun1jie2.mp3];jaar1 week115 week116
 wqxz159x4fdzg57svrqn82tpl8cpi2ca;<span class="tone1">春</span><span class="tone1">天</span>;<span class="tone1">chūn</span><span class="tone1">tiān</span>;lente;[sound:chun1tian1.mp3];jaar1 week115
 etnt1an5lkf9j5hf7yi5z66b6g35earj;<span class="tone4">不</span><span class="tone3">好</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone4">bù</span><span class="tone3">hǎo</span><span class="tone4">yì</span><span class="tone5">si</span>;excuseer;[sound:bu4hao3yi4si5.mp3];jaar1 week115 week119
@@ -280,7 +280,7 @@ fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="ton
 zkjyk0u6l31xu0b3bb48cdfi9zy2knwc;<span class="tone1">听</span><span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">tīng</span><span class="tone1">yīn</span><span class="tone4">lè</span>;naar muziek luisteren;[sound:ting1yin1le4.mp3];jaar1 week116
 0olrj8b4ymkv73byyv43b95d26o9xux9;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone2">池</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone2">chí</span>;zwembad;[sound:you2yong3chi2.mp3];jaar1 week116
 rq92fvmvevckb31zq6oaurzof22o3n8e;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone3">馆</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone3">guǎn</span>;zwembad;[sound:you2yong3guan3.mp3];jaar1 week116
-x770kghcz2xt6k7vdq9uwlfn5j0ylk3m;<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen (iets onder de knie hebben);[sound:hui4.mp3];jaar1 week116 jaar2 week211 week 212
+x770kghcz2xt6k7vdq9uwlfn5j0ylk3m;<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen (iets onder de knie hebben);[sound:hui4.mp3];jaar1 week116 jaar2 week211 week212
 83sjr3h6t0kym4ontrxi5kfqbdfkkvfi;<span class="tone2">昨</span><span class="tone1">天</span>;<span class="tone2">zuó</span><span class="tone1">tiān</span>;gisteren;[sound:zuo2tian1.mp3];jaar1 week116 week117 les06
 gr25q3ph5s38xe6ppk5t4k8y6xe415qv;<span class="tone4">现</span><span class="tone4">在</span>;<span class="tone4">xiàn</span><span class="tone4">zài</span>;nu;[sound:xian4zai4.mp3];jaar1 week116 week117 les06
 bl6p1x6fhzw77zvs2spo4ih3hycompsc;<span class="tone3">有</span>(<span class="tone5">的</span>)<span class="tone2">时</span><span class="tone5">候</span>;<span class="tone3">yǒu</span>(<span class="tone5">de</span>)<span class="tone2">shí</span><span class="tone5">hou</span>;soms;[sound:you3de5shi2hou5.mp3];jaar1 week116
@@ -326,7 +326,7 @@ r7zj05suau5t2hlxi6o6eizy5ubiwjf6;<span class="tone2">湖</span>;<span class="ton
 xx7ordg0zye1fd05v1qb2sc6vrz8kipq;<span class="tone1">山</span>;<span class="tone1">shān</span>;berg;[sound:shan1.mp3];jaar1 week118
 cinuqf32ergxherp3m5zkt92zk157rsj;<span class="tone3">孔</span><span class="tone3">子</span>;<span class="tone3">Kǒng</span><span class="tone3">zǐ</span>;confucius;[sound:kong3zi3.mp3];jaar1 week118
 3yft31eohqs7gx05k3kbn8vf3jk7qn90;<span class="tone2">还</span><span class="tone3">可</span><span class="tone3">以</span>;<span class="tone2">hái</span><span class="tone3">kě</span><span class="tone3">yǐ</span>;het gaat nog;[sound:hai2ke3yi3.mp3];jaar1 week118
-6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201 week 212
+6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201 week212
 1x0tf7xjc0vzuyprj35zrjgklrteipc2;<span class="tone2">南</span><span class="tone1">京</span>;<span class="tone2">Nán</span><span class="tone1">jīng</span>;nanjing;[sound:nan2jing1.mp3];jaar1 week118
 oyxpshs8e5vgzevlx72nj0f0h2ob5l3j;<span class="tone4">告</span><span class="tone5">诉</span>;<span class="tone4">gào</span><span class="tone5">su</span>;vertellen, meedelen;[sound:gao4su5.mp3];jaar1 week118 week120 jaar2 week203
 9bi4slvmqll15xkahjw82ntjdk9nklul;<span class="tone4">抱</span><span class="tone4">歉</span>;<span class="tone4">bào</span><span class="tone4">qiàn</span>;sorry;[sound:bao4qian4.mp3];jaar1 week118 les06
@@ -473,7 +473,7 @@ rjvrz1utmj4dm0tc8g26ajog3k8yiubn;<span class="tone1">星</span><span class="tone
 4t0jiv3dyqgmzkbo5ylh8ihad65mhrtt;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202 week211
 7jpxbkknrophlehmlmjm2xu6b2ztyb37;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202 week211
 pu4b6vz1plice8vwzvnwtg38819y50d5;<span class="tone4">复</span><span class="tone2">习</span>;<span class="tone4">fù</span><span class="tone2">xí</span>;herhalen;[sound:fu4xi2.mp3];jaar2 week201
-hqw74ofdh0sa8rq2h67zplaqx90a4uc7;<span class="tone2">骑</span><span class="tone4">自</span><span class="tone2">行</span><span class="tone1">车</span>;<span class="tone2">qí</span><span class="tone4">zì</span><span class="tone2">xíng</span><span class="tone1">chē</span>;het berijden van een fiets, fietsen;[sound:qi2zi4xing2che1.mp3];jaar2 week201 week 212
+hqw74ofdh0sa8rq2h67zplaqx90a4uc7;<span class="tone2">骑</span><span class="tone4">自</span><span class="tone2">行</span><span class="tone1">车</span>;<span class="tone2">qí</span><span class="tone4">zì</span><span class="tone2">xíng</span><span class="tone1">chē</span>;het berijden van een fiets, fietsen;[sound:qi2zi4xing2che1.mp3];jaar2 week201 week212
 kbsync358xlswvddez09iubms8cv7b87;<span class="tone2">房</span><span class="tone5">子</span>;<span class="tone2">fáng</span><span class="tone5">zi</span>;huis;[sound:fang2zi5.mp3];jaar2 week201
 03ij0abd8qrmrsqgc8gieygruwotjz14;<span class="tone1">多</span><span class="tone4">大</span>;<span class="tone1">duō</span><span class="tone4">dà</span>;hoe oud?;[sound:duo1da4.mp3];jaar2 week201
 aiflv6k0erul839ushftiecbsp0u1wjc;<span class="tone4">岁</span>;<span class="tone4">suì</span>;jaar (in leeftijd);[sound:sui4.mp3];jaar2 week201
@@ -602,7 +602,7 @@ igkalozm4aazx136ne3s7mq8431f84dk;<span class="tone2">颜</span><span class="tone
 v307jfw3xwcrx63xgxgodnlafiimwow4;<span class="tone3">短</span>;<span class="tone3">duǎn</span>;kort;[sound:duan3.mp3];jaar2 week210
 3oreprsfw8idi51820e8sjcnfjd4gxr6;<span class="tone1">一</span><span class="tone4">样</span>;<span class="tone1">yī</span><span class="tone4">yàng</span>;hetzelfde;[sound:yi1yang4.mp3];jaar2 week210
 k6uot055crkwjt22v6g0zvc9sjrc1ytc;<span class="tone3">矮</span>;<span class="tone3">ǎi</span>;klein (van gestalte);[sound:ai3.mp3];jaar2 week210
-ypjyyxteo6tg7c0toi70zh1qkvz9d9zv;<span class="tone2">能</span>;<span class="tone2">néng</span>;kunnen (de omstandigheden laten het toe);[sound:neng2.mp3];jaar2 week211 week 212
+ypjyyxteo6tg7c0toi70zh1qkvz9d9zv;<span class="tone2">能</span>;<span class="tone2">néng</span>;kunnen (de omstandigheden laten het toe);[sound:neng2.mp3];jaar2 week211 week212
 vrpgyu5zr4m0bhobgsf4pnjt3tln66gw;<span class="tone2">聊</span><span class="tone1">天</span>(<span class="tone5">儿</span>);<span class="tone2">liáo</span><span class="tone1">tiān</span>(<span class="tone5">r</span>);babbelen;[sound:liao2tian1r5.mp3];jaar2 week211
 tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;<span class="tone4">散</span><span class="tone4">步</span>;<span class="tone4">sàn</span><span class="tone4">bù</span>;wandelen;[sound:san4bu4.mp3];jaar2 week211
 ogfmhyeawl04sff1bo8rxi0jkh6o3gvx;<span class="tone3">走</span><span class="tone4">路</span>;<span class="tone3">zǒu</span><span class="tone4">lù</span>;gaan;[sound:zou3lu4.mp3];jaar2 week211
@@ -611,8 +611,8 @@ sk300q0mgzbdx734tf0awyb7uppenbp7;<span class="tone2">蓝</span>;<span class="ton
 t6lotnqw6hi6b0inbpg475hl2rr9hnjd;<span class="tone1">黑</span>;<span class="tone1">hēi</span>;zwart;[sound:hei1.mp3];jaar2 week211
 axwpzfzwat7u9fa5264r55fh72y1znf0;<span class="tone1">咖</span><span class="tone1">啡</span><span class="tone4">色</span>;<span class="tone1">kā</span><span class="tone1">fēi</span><span class="tone4">sè</span>;bruin;[sound:ka1fei1se4.mp3];jaar2 week211
 ud3m4qdo6pto3pndwijsf32ph6zqoft0;<span class="tone2">黄</span>;<span class="tone2">huáng</span>;geel;[sound:huang2.mp3];jaar2 week211
-2dh3rmx3r4kdsjr5f087886anph1uguq;<span class="tone4">到</span>;<span class="tone4">dào</span>;bereiken, aankomen;[sound:dao4.mp3];jaar2 week 212
-0hfvfgjvvalaqj89l5qzhfvnzaz8ustt;<span class="tone1">应</span><span class="tone1">该</span>;<span class="tone1">yīng</span><span class="tone1">gāi</span>;zou moeten (advies, raad);[sound:ying1gai1.mp3];jaar2 week 212
-xeb3bgmc7nckvjbuedcxmgirbb0exjwq;<span class="tone1">吸</span><span class="tone1">烟</span>;<span class="tone1">xī</span><span class="tone1">yān</span>;het roken van een sigaret, roken;[sound:xi1yan1.mp3];jaar2 week 212
-30xkqsstasum6wa0yuw3yxqgg0z8ynpb;<span class="tone4">夜</span><span class="tone3">晚</span>;<span class="tone4">yè</span><span class="tone3">wǎn</span>;‘s nachts;[sound:ye4wan3.mp3];jaar2 week 212
-d783xcaqismnv8pbzxd0tqjwkn6btcwg;<span class="tone1">开</span><span class="tone1">车</span>;<span class="tone1">kāi</span><span class="tone1">chē</span>;het rijden met de auto, auto rijden;[sound:kai1che1.mp3];jaar2 week 212
+2dh3rmx3r4kdsjr5f087886anph1uguq;<span class="tone4">到</span>;<span class="tone4">dào</span>;bereiken, aankomen;[sound:dao4.mp3];jaar2 week212
+0hfvfgjvvalaqj89l5qzhfvnzaz8ustt;<span class="tone1">应</span><span class="tone1">该</span>;<span class="tone1">yīng</span><span class="tone1">gāi</span>;zou moeten (advies, raad);[sound:ying1gai1.mp3];jaar2 week212
+xeb3bgmc7nckvjbuedcxmgirbb0exjwq;<span class="tone1">吸</span><span class="tone1">烟</span>;<span class="tone1">xī</span><span class="tone1">yān</span>;het roken van een sigaret, roken;[sound:xi1yan1.mp3];jaar2 week212
+30xkqsstasum6wa0yuw3yxqgg0z8ynpb;<span class="tone4">夜</span><span class="tone3">晚</span>;<span class="tone4">yè</span><span class="tone3">wǎn</span>;‘s nachts;[sound:ye4wan3.mp3];jaar2 week212
+d783xcaqismnv8pbzxd0tqjwkn6btcwg;<span class="tone1">开</span><span class="tone1">车</span>;<span class="tone1">kāi</span><span class="tone1">chē</span>;het rijden met de auto, auto rijden;[sound:kai1che1.mp3];jaar2 week212

@@ -1,13 +1,13 @@
 w1ljx5rnoj15okmeofx2dshff0g8j6bm;<span class="tone4">住</span>;<span class="tone4">zhù</span>;wonen;[sound:zhu4.mp3];jaar1 week119 week121
 h732y81dohcknneslexgzkud09lfhzje;<span class="tone1">乒</span><span class="tone1">乓</span><span class="tone2">球</span>;<span class="tone1">pīng</span><span class="tone1">pāng</span><span class="tone2">qiú</span>;pingpong;[sound:ping1pang1qiu2.mp3];jaar1 week119
-6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201 week 212
+6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201 week212
 etnt1an5lkf9j5hf7yi5z66b6g35earj;<span class="tone4">不</span><span class="tone3">好</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone4">bù</span><span class="tone3">hǎo</span><span class="tone4">yì</span><span class="tone5">si</span>;excuseer;[sound:bu4hao3yi4si5.mp3];jaar1 week115 week119
 nsk06x0thxhlwtlbex32mxye33gkxy66;<span class="tone3">旅</span><span class="tone2">行</span>;<span class="tone3">lǚ</span><span class="tone2">xíng</span>;reizen;[sound:lü3xing2.mp3];jaar1 week119
 xn791nv0qgff9w1p77ns83vr0z5v4cgj;..<span class="tone3">以</span><span class="tone4">后</span>;..<span class="tone3">yǐ</span><span class="tone4">hòu</span>;na.., later;[sound:yi3hou4.mp3];jaar1 week119 week120
 erxsugmqkndtwpobpzs744f7qu02id97;..<span class="tone3">以</span><span class="tone2">前</span>;..<span class="tone3">yǐ</span><span class="tone2">qián</span>;voor.., vroeger;[sound:yi3qian2.mp3];jaar1 week119 week120
 eiovn6vhxclzg63ve1fpqrc0amwfge27;<span class="tone4">上</span><span class="tone4">课</span>;<span class="tone4">shàng</span><span class="tone4">kè</span>;(beginnen met) les volgen;[sound:shang4ke4.mp3];jaar1 week116 week119 week123
 vd73w5q5fi01ihws5n09tm8c8cdgcaaq;<span class="tone4">下</span><span class="tone4">课</span>;<span class="tone4">xià</span><span class="tone4">kè</span>;stoppen met de les;[sound:xia4ke4.mp3];jaar1 week116 week119 week123
-2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123 jaar2 week 212
+2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123 jaar2 week212
 r4qht5ilo7qbe0r62f9uf9lv14s7ejgz;<span class="tone3">买</span><span class="tone1">东</span><span class="tone5">西</span>;<span class="tone3">mǎi</span><span class="tone1">dōng</span><span class="tone5">xi</span>;dingen kopen, winkelen;[sound:mai3dong1xi5.mp3];jaar1 week119 jaar2 week208
 hoehy9nlifynt7463xiktq56xie9ghui;<span class="tone3">买</span>;<span class="tone3">mǎi</span>;kopen;[sound:mai3.mp3];jaar1 week119 week120 jaar2 week208
 5wmimb1u7mnqlbwczg770cy1ydcblnlx;<span class="tone4">照</span><span class="tone4">片</span>;<span class="tone4">zhào</span><span class="tone4">piàn</span>;foto;[sound:zhao4pian4.mp3];jaar1 week119 week121 les08
