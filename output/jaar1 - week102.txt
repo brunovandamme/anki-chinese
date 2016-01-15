@@ -1,20 +1,20 @@
-你们好 hallo (tegen meerdere mensen);<span class="tone3">你</span><span class="tone5">们</span><span class="tone3">好</span>;<span class="tone3">nǐ</span><span class="tone5">men</span><span class="tone3">hǎo</span>;hallo (tegen meerdere mensen);[sound:ni3men5hao3.mp3];jaar1 week102
-我们 wij;<span class="tone3">我</span><span class="tone5">们</span>;<span class="tone3">wǒ</span><span class="tone5">men</span>;wij;[sound:wo3men5.mp3];jaar1 week102 les02
-你们 jullie;<span class="tone3">你</span><span class="tone5">们</span>;<span class="tone3">nǐ</span><span class="tone5">men</span>;jullie;[sound:ni3men5.mp3];jaar1 week102 les06
-他们 zij (mannelijk meervoud);<span class="tone1">他</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (mannelijk meervoud);[sound:ta1men5.mp3];jaar1 week102 les02
-她们 zij (vrouwelijk meervoud);<span class="tone1">她</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (vrouwelijk meervoud);[sound:ta1men5.mp3];jaar1 week102
-好 goed;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];jaar1 week102 les01 les05
-很 heel;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week102 les01 les07
-不 niet, geen;<span class="tone4">不</span>;<span class="tone4">bù</span>;niet, geen;[sound:bu4.mp3];jaar1 week101 week102 les02
-呢 en ...?;<span class="tone5">呢</span>;<span class="tone5">ne</span>;en ...?;[sound:ne5.mp3];jaar1 week102 les02
-也 ook;<span class="tone3">也</span>;<span class="tone3">yě</span>;ook;[sound:ye3.mp3];jaar1 week102 les01
-都 allen, allemaal, beiden;<span class="tone1">都</span>;<span class="tone1">dōu</span>;allen, allemaal, beiden;[sound:dou1.mp3];jaar1 week102 les02 les03
-爸爸 papa;<span class="tone4">爸</span><span class="tone5">爸</span>;<span class="tone4">bà</span><span class="tone5">ba</span>;papa;[sound:ba4ba5.mp3];jaar1 week102 les02 les07
-妈妈 mama;<span class="tone1">妈</span><span class="tone5">妈</span>;<span class="tone1">mā</span><span class="tone5">ma</span>;mama;[sound:ma1ma5.mp3];jaar1 week102 les02
-比利时 België;<span class="tone3">比</span><span class="tone4">利</span><span class="tone2">时</span>;<span class="tone3">Bǐ</span><span class="tone4">lì</span><span class="tone2">shí</span>;België;[sound:bi3li4shi2.mp3];jaar1 week102 week104 week105
-知道 weten;<span class="tone1">知</span><span class="tone4">道</span>;<span class="tone1">zhī</span><span class="tone4">dào</span>;weten;[sound:zhi1dao4.mp3];jaar1 week101 week102 les05
-说 (iets) zeggen, (een taal) spreken;<span class="tone1">说</span>;<span class="tone1">shuō</span>;(iets) zeggen, (een taal) spreken;[sound:shuo1.mp3];jaar1 week102 week107 les06
-请你再说一遍 gelieve het nog een keer te zeggen;<span class="tone3">请</span><span class="tone3">你</span><span class="tone4">再</span><span class="tone1">说</span><span class="tone1">一</span><span class="tone4">遍</span>;<span class="tone3">qǐng</span><span class="tone3">nǐ</span><span class="tone4">zài</span><span class="tone1">shuō</span><span class="tone1">yī</span><span class="tone4">biàn</span>;gelieve het nog een keer te zeggen;[sound:qing3ni3zai4shuo1yi1bian4.mp3];jaar1 week102 week103
-在 aanwezig zijn, te ...;<span class="tone4">在</span>;<span class="tone4">zài</span>;aanwezig zijn, te ...;[sound:zai4.mp3];jaar1 week102 week103 week108 les05
-谢谢 bedankt, dankuwel;<span class="tone4">谢</span><span class="tone5">谢</span>;<span class="tone4">xiè</span><span class="tone5">xie</span>;bedankt, dankuwel;[sound:xie4xie5.mp3];jaar1 week102 week103 les05 les06
-再见 tot ziens;<span class="tone4">再</span><span class="tone4">见</span>;<span class="tone4">zài</span><span class="tone4">jiàn</span>;tot ziens;[sound:zai4jian4.mp3];jaar1 week101 week102 week103 les05
+1vvnyohxdggom6do8b20kz5agfl6pdoo;<span class="tone3">你</span><span class="tone5">们</span><span class="tone3">好</span>;<span class="tone3">nǐ</span><span class="tone5">men</span><span class="tone3">hǎo</span>;hallo (tegen meerdere mensen);[sound:ni3men5hao3.mp3];jaar1 week102
+gfh5h8trwitiss9jgyos7jrx0fq94i2k;<span class="tone3">我</span><span class="tone5">们</span>;<span class="tone3">wǒ</span><span class="tone5">men</span>;wij;[sound:wo3men5.mp3];jaar1 week102 les02
+67l3z7wowdn2bfk8j2017je6c1za8htk;<span class="tone3">你</span><span class="tone5">们</span>;<span class="tone3">nǐ</span><span class="tone5">men</span>;jullie;[sound:ni3men5.mp3];jaar1 week102 les06
+66yblstb7em24p69fy1wbeh2mg99tanp;<span class="tone1">他</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (mannelijk meervoud);[sound:ta1men5.mp3];jaar1 week102 les02
+k061wh27970j75sbcu5tpojqezz9pfiz;<span class="tone1">她</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (vrouwelijk meervoud);[sound:ta1men5.mp3];jaar1 week102
+n8ohlntnuxb3q0og15ude4uw920pe00l;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];jaar1 week102 les01 les05
+zn3mhcerg5ni21pggllkxqxrw1511ckf;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week102 les01 les07
+kpob8slzu8zbirwpo7xgm8bd664pww67;<span class="tone4">不</span>;<span class="tone4">bù</span>;niet, geen;[sound:bu4.mp3];jaar1 week101 week102 les02
+qwlne2b50bwq4zb1fco0vot37w85s29z;<span class="tone5">呢</span>;<span class="tone5">ne</span>;en ...?;[sound:ne5.mp3];jaar1 week102 les02
+vyjp8aqt9wp3c5wxqqwnc05n4bloudio;<span class="tone3">也</span>;<span class="tone3">yě</span>;ook;[sound:ye3.mp3];jaar1 week102 les01
+ki73o4s9eplah9lcrcy5qclahjk80a9s;<span class="tone1">都</span>;<span class="tone1">dōu</span>;allen, allemaal, beiden;[sound:dou1.mp3];jaar1 week102 les02 les03
+j9mgh4wvrvfzmmrjj4xlt2v75rmgwt5a;<span class="tone4">爸</span><span class="tone5">爸</span>;<span class="tone4">bà</span><span class="tone5">ba</span>;papa;[sound:ba4ba5.mp3];jaar1 week102 les02 les07
+z8xixuc9ovxyaajwtjtwvkbrurntsho7;<span class="tone1">妈</span><span class="tone5">妈</span>;<span class="tone1">mā</span><span class="tone5">ma</span>;mama;[sound:ma1ma5.mp3];jaar1 week102 les02
+a5u1yke7x1gk8oppehfmpo80qfwzgvhp;<span class="tone3">比</span><span class="tone4">利</span><span class="tone2">时</span>;<span class="tone3">Bǐ</span><span class="tone4">lì</span><span class="tone2">shí</span>;België;[sound:bi3li4shi2.mp3];jaar1 week102 week104 week105
+stvg2dkkuc49i8r0hr7yd5hqvmro16cu;<span class="tone1">知</span><span class="tone4">道</span>;<span class="tone1">zhī</span><span class="tone4">dào</span>;weten;[sound:zhi1dao4.mp3];jaar1 week101 week102 les05
+k3m14fx4f300ia2n0kfr7beod3281zci;<span class="tone1">说</span>;<span class="tone1">shuō</span>;(iets) zeggen, (een taal) spreken;[sound:shuo1.mp3];jaar1 week102 week107 les06
+yhi67w7gk7gxjshdvkews5rmn9u45jtm;<span class="tone3">请</span><span class="tone3">你</span><span class="tone4">再</span><span class="tone1">说</span><span class="tone1">一</span><span class="tone4">遍</span>;<span class="tone3">qǐng</span><span class="tone3">nǐ</span><span class="tone4">zài</span><span class="tone1">shuō</span><span class="tone1">yī</span><span class="tone4">biàn</span>;gelieve het nog een keer te zeggen;[sound:qing3ni3zai4shuo1yi1bian4.mp3];jaar1 week102 week103
+btx7elnr7op6d8ymcevxohxpr8we0yg2;<span class="tone4">在</span>;<span class="tone4">zài</span>;aanwezig zijn, te ...;[sound:zai4.mp3];jaar1 week102 week103 week108 les05
+wn495tjw9y923lrhacl42antvtsn6458;<span class="tone4">谢</span><span class="tone5">谢</span>;<span class="tone4">xiè</span><span class="tone5">xie</span>;bedankt, dankuwel;[sound:xie4xie5.mp3];jaar1 week102 week103 les05 les06
+hf8muyqa7olg3zdp6vr0r2egk9ekgsv1;<span class="tone4">再</span><span class="tone4">见</span>;<span class="tone4">zài</span><span class="tone4">jiàn</span>;tot ziens;[sound:zai4jian4.mp3];jaar1 week101 week102 week103 les05

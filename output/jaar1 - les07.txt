@@ -1,38 +1,38 @@
-开学 starten met het academiejaar;<span class="tone1">开</span><span class="tone2">学</span>;<span class="tone1">kāi</span><span class="tone2">xué</span>;starten met het academiejaar;[sound:kai1xue2.mp3];jaar1 week120 les07
-开 openen, starten;<span class="tone1">开</span>;<span class="tone1">kāi</span>;openen, starten;[sound:kai1.mp3];jaar1 les07
-很 heel;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week102 les01 les07
-高兴 blij;<span class="tone1">高</span><span class="tone4">兴</span>;<span class="tone1">gāo</span><span class="tone4">xìng</span>;blij;[sound:gao1xing4.mp3];jaar1 week108 week111 les04 les07
-高 hoog, groot;<span class="tone1">高</span>;<span class="tone1">gāo</span>;hoog, groot;[sound:gao1.mp3];jaar1 week103 les07 jaar2 week210
-看 zien, kijken, bekijken;<span class="tone4">看</span>;<span class="tone4">kàn</span>;zien, kijken, bekijken;[sound:kan4.mp3];jaar1 week107 les07
-问 vragen;<span class="tone4">问</span>;<span class="tone4">wèn</span>;vragen;[sound:wen4.mp3];jaar1 week111 les04 les05 les07
-一下 eens, even;<span class="tone1">一</span><span class="tone4">下</span>;<span class="tone1">yī</span><span class="tone4">xià</span>;eens, even;[sound:yi1xia4.mp3];jaar1 week120 les07
-学院 instituut, faculteit;<span class="tone2">学</span><span class="tone4">院</span>;<span class="tone2">xué</span><span class="tone4">yuàn</span>;instituut, faculteit;[sound:xue2yuan4.mp3];jaar1 week112 les04 les07
-名片 naamkaartje;<span class="tone2">名</span><span class="tone4">片</span>;<span class="tone2">míng</span><span class="tone4">piàn</span>;naamkaartje;[sound:ming2pian4.mp3];jaar1 week120 les07
-啊 ah, oh;<span class="tone5">啊</span>;<span class="tone5">a</span>;ah, oh;[sound:a5.mp3];jaar1 les07
-教授 professor;<span class="tone4">教</span><span class="tone4">授</span>;<span class="tone4">jiào</span><span class="tone4">shòu</span>;professor;[sound:jiao4shou4.mp3];jaar1 week120 les07
-教 onderwijzen;<span class="tone4">教</span>;<span class="tone4">jiào</span>;onderwijzen;[sound:jiao4.mp3];jaar1 week122 les07
-谁 wie;<span class="tone2">谁</span>;<span class="tone2">shuí</span>;wie;[sound:shui2.mp3];jaar1 les03 les07
-来 komen;<span class="tone2">来</span>;<span class="tone2">lái</span>;komen;[sound:lai2.mp3];jaar1 week111 les04 les07
-介绍 voorstellen;<span class="tone4">介</span><span class="tone4">绍</span>;<span class="tone4">jiè</span><span class="tone4">shào</span>;voorstellen;[sound:jie4shao4.mp3];jaar1 week120 week121 les07
-名字 voornaam;<span class="tone2">名</span><span class="tone5">字</span>;<span class="tone2">míng</span><span class="tone5">zi</span>;voornaam;[sound:ming2zi5.mp3];jaar1 week109 les07
-中文 chinees (taal);<span class="tone1">中</span><span class="tone2">文</span>;<span class="tone1">Zhōng</span><span class="tone2">wén</span>;chinees (taal);[sound:zhong1wen2.mp3];jaar1 week107 les07
-爸爸 papa;<span class="tone4">爸</span><span class="tone5">爸</span>;<span class="tone4">bà</span><span class="tone5">ba</span>;papa;[sound:ba4ba5.mp3];jaar1 week102 les02 les07
-学习 studeren, leren;<span class="tone2">学</span><span class="tone2">习</span>;<span class="tone2">xué</span><span class="tone2">xí</span>;studeren, leren;[sound:xue2xi2.mp3];jaar1 week107 les04 les07
-学 studeren, leren;<span class="tone2">学</span>;<span class="tone2">xué</span>;studeren, leren;[sound:xue2.mp3];jaar1 les07
-专业 specialisatie;<span class="tone1">专</span><span class="tone4">业</span>;<span class="tone1">zhuān</span><span class="tone4">yè</span>;specialisatie;[sound:zhuan1ye4.mp3];jaar1 week122 les07
-美术 schone kunsten;<span class="tone3">美</span><span class="tone4">术</span>;<span class="tone3">měi</span><span class="tone4">shù</span>;schone kunsten;[sound:mei3shu4.mp3];jaar1 week122 les07
-美 mooi;<span class="tone3">美</span>;<span class="tone3">měi</span>;mooi;[sound:mei3.mp3];jaar1 les07
-文学 taal- en letterkunde;<span class="tone2">文</span><span class="tone2">学</span>;<span class="tone2">wén</span><span class="tone2">xué</span>;taal- en letterkunde;[sound:wen2xue2.mp3];jaar1 week122 les07
-系 departement;<span class="tone4">系</span>;<span class="tone4">xì</span>;departement;[sound:xi4.mp3];jaar1 week122 les07
-加拿大 Canada;<span class="tone1">加</span><span class="tone2">拿</span><span class="tone4">大</span>;<span class="tone1">Jiā</span><span class="tone2">ná</span><span class="tone4">dà</span>;Canada;[sound:jia1na2da4.mp3];jaar1 week105 les04 les07
-美国 Verenigde Staten;<span class="tone3">美</span><span class="tone2">国</span>;<span class="tone3">Měi</span><span class="tone2">guó</span>;Verenigde Staten;[sound:mei3guo2.mp3];jaar1 week105 les04 les07
-文化 cultuur;<span class="tone2">文</span><span class="tone4">化</span>;<span class="tone2">wén</span><span class="tone4">huà</span>;cultuur;[sound:wen2hua4.mp3];jaar1 week122 les07
-历史 geschiedenis;<span class="tone4">历</span><span class="tone3">史</span>;<span class="tone4">lì</span><span class="tone3">shǐ</span>;geschiedenis;[sound:li4shi3.mp3];jaar1 week122 les07
-哲学 filosofie;<span class="tone2">哲</span><span class="tone2">学</span>;<span class="tone2">zhé</span><span class="tone2">xué</span>;filosofie;[sound:zhe2xue2.mp3];jaar1 week122 les07
-音乐 muziek;<span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">yīn</span><span class="tone4">yuè</span>;muziek;[sound:yin1yue4.mp3];jaar1 week115 les07
-经济 economie;<span class="tone1">经</span><span class="tone4">济</span>;<span class="tone1">jīng</span><span class="tone4">jì</span>;economie;[sound:jing1ji4.mp3];jaar1 week122 les07
-数学 wiskunde;<span class="tone4">数</span><span class="tone2">学</span>;<span class="tone4">shù</span><span class="tone2">xué</span>;wiskunde;[sound:shu4xue2.mp3];jaar1 week119 week122 les07
-物理 fysica;<span class="tone4">物</span><span class="tone3">理</span>;<span class="tone4">wù</span><span class="tone3">lǐ</span>;fysica;[sound:wu4li3.mp3];jaar1 week122 les07
-化学 scheikunde;<span class="tone4">化</span><span class="tone2">学</span>;<span class="tone4">huà</span><span class="tone2">xué</span>;scheikunde;[sound:hua4xue2.mp3];jaar1 week119 week122 les07
-教育 pedagogie;<span class="tone4">教</span><span class="tone4">育</span>;<span class="tone4">jiào</span><span class="tone4">yù</span>;pedagogie;[sound:jiao4yu4.mp3];jaar1 les07
-选修 optioneel vak (volgen);<span class="tone3">选</span><span class="tone1">修</span>;<span class="tone3">xuǎn</span><span class="tone1">xiū</span>;optioneel vak (volgen);[sound:xuan3xiu1.mp3];jaar1 les07
+4mqnrzu3zd8p2nkisx1i13kre5yh38ob;<span class="tone1">开</span><span class="tone2">学</span>;<span class="tone1">kāi</span><span class="tone2">xué</span>;starten met het academiejaar;[sound:kai1xue2.mp3];jaar1 week120 les07
+2h5hch0p4qqjuwbtstnzlg0saff9czk1;<span class="tone1">开</span>;<span class="tone1">kāi</span>;openen, starten;[sound:kai1.mp3];jaar1 les07
+zn3mhcerg5ni21pggllkxqxrw1511ckf;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week102 les01 les07
+bs3nazzr4n9k56j02qmfrwxih8hpfnv2;<span class="tone1">高</span><span class="tone4">兴</span>;<span class="tone1">gāo</span><span class="tone4">xìng</span>;blij;[sound:gao1xing4.mp3];jaar1 week108 week111 les04 les07
+ctkdes0go6ccboqxz6jqjsw261d8ks3h;<span class="tone1">高</span>;<span class="tone1">gāo</span>;hoog, groot;[sound:gao1.mp3];jaar1 week103 les07 jaar2 week210
+rx2bxvbax7q0848n9e43dldh2bze8y4g;<span class="tone4">看</span>;<span class="tone4">kàn</span>;zien, kijken, bekijken;[sound:kan4.mp3];jaar1 week107 les07
+r6lma59hqeul2y5a435nk55y1hc54quh;<span class="tone4">问</span>;<span class="tone4">wèn</span>;vragen;[sound:wen4.mp3];jaar1 week111 les04 les05 les07
+19pgfbz4nej4u1gyzrt1na7ftqlyu112;<span class="tone1">一</span><span class="tone4">下</span>;<span class="tone1">yī</span><span class="tone4">xià</span>;eens, even;[sound:yi1xia4.mp3];jaar1 week120 les07
+ugmi8edua5eeg0y0a1hdz9z1ycs6dfje;<span class="tone2">学</span><span class="tone4">院</span>;<span class="tone2">xué</span><span class="tone4">yuàn</span>;instituut, faculteit;[sound:xue2yuan4.mp3];jaar1 week112 les04 les07
+wp926v92h172qhxj0l1jts0cv6fwauuh;<span class="tone2">名</span><span class="tone4">片</span>;<span class="tone2">míng</span><span class="tone4">piàn</span>;naamkaartje;[sound:ming2pian4.mp3];jaar1 week120 les07
+khy4fayb13d8ao7iurplr770jgdyy4ed;<span class="tone5">啊</span>;<span class="tone5">a</span>;ah, oh;[sound:a5.mp3];jaar1 les07
+th3p889isyookrt518604tlb4xry51iw;<span class="tone4">教</span><span class="tone4">授</span>;<span class="tone4">jiào</span><span class="tone4">shòu</span>;professor;[sound:jiao4shou4.mp3];jaar1 week120 les07
+93xzh7xn1ddvvisfzrn2jwrvu3ak2k9m;<span class="tone4">教</span>;<span class="tone4">jiào</span>;onderwijzen;[sound:jiao4.mp3];jaar1 week122 les07
+7ay9mhds6k3rjqnwlkblo2r1ecv3lyg4;<span class="tone2">谁</span>;<span class="tone2">shuí</span>;wie;[sound:shui2.mp3];jaar1 les03 les07
+qeponkkpsradepjanepbke04h6ek8wjx;<span class="tone2">来</span>;<span class="tone2">lái</span>;komen;[sound:lai2.mp3];jaar1 week111 les04 les07
+zo1h9v9yuiae68iczjv7lwazu3ikvo1b;<span class="tone4">介</span><span class="tone4">绍</span>;<span class="tone4">jiè</span><span class="tone4">shào</span>;voorstellen;[sound:jie4shao4.mp3];jaar1 week120 week121 les07
+k1qkzso9iz8yat43t46x9x0ejh1t3geq;<span class="tone2">名</span><span class="tone5">字</span>;<span class="tone2">míng</span><span class="tone5">zi</span>;voornaam;[sound:ming2zi5.mp3];jaar1 week109 les07
+v9bv2po62ycjdk4f3ucnnxqv1h2ttt7z;<span class="tone1">中</span><span class="tone2">文</span>;<span class="tone1">Zhōng</span><span class="tone2">wén</span>;chinees (taal);[sound:zhong1wen2.mp3];jaar1 week107 les07
+j9mgh4wvrvfzmmrjj4xlt2v75rmgwt5a;<span class="tone4">爸</span><span class="tone5">爸</span>;<span class="tone4">bà</span><span class="tone5">ba</span>;papa;[sound:ba4ba5.mp3];jaar1 week102 les02 les07
+spd6emw0xh6yifhup7d2u5sz8nppfao2;<span class="tone2">学</span><span class="tone2">习</span>;<span class="tone2">xué</span><span class="tone2">xí</span>;studeren, leren;[sound:xue2xi2.mp3];jaar1 week107 les04 les07
+k95w1rzclik3tgicit8dgmqiz2as0p19;<span class="tone2">学</span>;<span class="tone2">xué</span>;studeren, leren;[sound:xue2.mp3];jaar1 les07
+gjcm9c4yfuq7zb7suegn3hxlv01p32su;<span class="tone1">专</span><span class="tone4">业</span>;<span class="tone1">zhuān</span><span class="tone4">yè</span>;specialisatie;[sound:zhuan1ye4.mp3];jaar1 week122 les07
+nvpz6nvlzor8bcvdrue90rpbcryby5w8;<span class="tone3">美</span><span class="tone4">术</span>;<span class="tone3">měi</span><span class="tone4">shù</span>;schone kunsten;[sound:mei3shu4.mp3];jaar1 week122 les07
+2sakzg6pf5g7urqs4527nu09fnio5r9r;<span class="tone3">美</span>;<span class="tone3">měi</span>;mooi;[sound:mei3.mp3];jaar1 les07
+p052xf93wldrk3b9aji9qqms9y7jc706;<span class="tone2">文</span><span class="tone2">学</span>;<span class="tone2">wén</span><span class="tone2">xué</span>;taal- en letterkunde;[sound:wen2xue2.mp3];jaar1 week122 les07
+2hdkfhf0x6f37eoow139jaah6k94zpel;<span class="tone4">系</span>;<span class="tone4">xì</span>;departement;[sound:xi4.mp3];jaar1 week122 les07
+p2luqahougvds9agx88aok1iv4fsz2rw;<span class="tone1">加</span><span class="tone2">拿</span><span class="tone4">大</span>;<span class="tone1">Jiā</span><span class="tone2">ná</span><span class="tone4">dà</span>;Canada;[sound:jia1na2da4.mp3];jaar1 week105 les04 les07
+u5lbrswc0lslpfpp6q978f2unlxi3acp;<span class="tone3">美</span><span class="tone2">国</span>;<span class="tone3">Měi</span><span class="tone2">guó</span>;Verenigde Staten;[sound:mei3guo2.mp3];jaar1 week105 les04 les07
+1d3pxojkf3ovmzf24gtkx2lsyqfuxez7;<span class="tone2">文</span><span class="tone4">化</span>;<span class="tone2">wén</span><span class="tone4">huà</span>;cultuur;[sound:wen2hua4.mp3];jaar1 week122 les07
+uf8d35js1iukqu7nf6cv629burc3r080;<span class="tone4">历</span><span class="tone3">史</span>;<span class="tone4">lì</span><span class="tone3">shǐ</span>;geschiedenis;[sound:li4shi3.mp3];jaar1 week122 les07
+waxcso6ulcoj3nay7xskrs7ut3dteyia;<span class="tone2">哲</span><span class="tone2">学</span>;<span class="tone2">zhé</span><span class="tone2">xué</span>;filosofie;[sound:zhe2xue2.mp3];jaar1 week122 les07
+llllcnwfp99v8fuz75ne83gkmwuinovw;<span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">yīn</span><span class="tone4">yuè</span>;muziek;[sound:yin1yue4.mp3];jaar1 week115 les07
+n088qrnj6aodt3k79sevbcprysuir21o;<span class="tone1">经</span><span class="tone4">济</span>;<span class="tone1">jīng</span><span class="tone4">jì</span>;economie;[sound:jing1ji4.mp3];jaar1 week122 les07
+bg9ur18xi78w7p6co2dd9uhtkv9giqii;<span class="tone4">数</span><span class="tone2">学</span>;<span class="tone4">shù</span><span class="tone2">xué</span>;wiskunde;[sound:shu4xue2.mp3];jaar1 week119 week122 les07
+j7dxs1rnaru37u98tw0hmwfpd7axxrh4;<span class="tone4">物</span><span class="tone3">理</span>;<span class="tone4">wù</span><span class="tone3">lǐ</span>;fysica;[sound:wu4li3.mp3];jaar1 week122 les07
+o4u5h97s0tv0vayxmxmufv444zepm6if;<span class="tone4">化</span><span class="tone2">学</span>;<span class="tone4">huà</span><span class="tone2">xué</span>;scheikunde;[sound:hua4xue2.mp3];jaar1 week119 week122 les07
+bk9twats1ukxsqrhfstej9l4sdsc7e68;<span class="tone4">教</span><span class="tone4">育</span>;<span class="tone4">jiào</span><span class="tone4">yù</span>;pedagogie;[sound:jiao4yu4.mp3];jaar1 les07
+win5btj51zeu37yo1meqx07xz36oo3l3;<span class="tone3">选</span><span class="tone1">修</span>;<span class="tone3">xuǎn</span><span class="tone1">xiū</span>;optioneel vak (volgen);[sound:xuan3xiu1.mp3];jaar1 les07

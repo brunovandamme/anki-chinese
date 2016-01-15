@@ -1,18 +1,18 @@
-这 deze, dit;<span class="tone4">这</span>;<span class="tone4">zhè</span>;deze, dit;[sound:zhe4.mp3];jaar1 week108 les03 les05
-那 die, dat;<span class="tone4">那</span>;<span class="tone4">nà</span>;die, dat;[sound:na4.mp3];jaar1 week108 les03
-的 ‘s (partikel om bezit aan te duiden);<span class="tone5">的</span>;<span class="tone5">de</span>;‘s (partikel om bezit aan te duiden);[sound:de5.mp3];jaar1 week108 les04
-工作 werken, werk;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];jaar1 week108 les08
-在 aanwezig zijn, te ...;<span class="tone4">在</span>;<span class="tone4">zài</span>;aanwezig zijn, te ...;[sound:zai4.mp3];jaar1 week102 week103 week108 les05
-家 thuis;<span class="tone1">家</span>;<span class="tone1">jiā</span>;thuis;[sound:jia1.mp3];jaar1 week108 les08
-家人 familie, gezin;<span class="tone1">家</span><span class="tone2">人</span>;<span class="tone1">jiā</span><span class="tone2">rén</span>;familie, gezin;[sound:jia1ren2.mp3];jaar1 week108 week109
-好看 mooi;<span class="tone3">好</span><span class="tone4">看</span>;<span class="tone3">hǎo</span><span class="tone4">kàn</span>;mooi;[sound:hao3kan4.mp3];jaar1 week108
-好玩(儿) leuk, amusant;<span class="tone3">好</span><span class="tone2">玩</span>(<span class="tone5">儿</span>);<span class="tone3">hǎo</span><span class="tone2">wán</span>(<span class="tone5">r</span>);leuk, amusant;[sound:hao3wan2r5.mp3];jaar1 week108 jaar2 week204
-玩(儿) spelen, plezier maken, zich amuseren;<span class="tone2">玩</span>(<span class="tone5">儿</span>);<span class="tone2">wán</span>(<span class="tone5">r</span>);spelen, plezier maken, zich amuseren;[sound:wan2r5.mp3];jaar1 week108 week109
-好听 mooi om te horen;<span class="tone3">好</span><span class="tone1">听</span>;<span class="tone3">hǎo</span><span class="tone1">tīng</span>;mooi om te horen;[sound:hao3ting1.mp3];jaar1 week108
-孩子 kind;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week108 week109 les08
-游泳 zwemmen;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week108 week116 les06
-唱歌 het zingen van een liedje, zingen;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje, zingen;[sound:chang4ge1.mp3];jaar1 week108 week110 week116
-医生 dokter;<span class="tone1">医</span><span class="tone1">生</span>;<span class="tone1">yī</span><span class="tone1">shēng</span>;dokter;[sound:yi1sheng1.mp3];jaar1 week108 les03
-喜欢 houden van, graag hebben, leuk vinden;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];jaar1 week106 week108 les08
-爱 houden van, liefde;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week108 week109 les08
-高兴 blij;<span class="tone1">高</span><span class="tone4">兴</span>;<span class="tone1">gāo</span><span class="tone4">xìng</span>;blij;[sound:gao1xing4.mp3];jaar1 week108 week111 les04 les07
+s2bgy14zw4md9mkbsg4ernfp4ihli5pz;<span class="tone4">这</span>;<span class="tone4">zhè</span>;deze, dit;[sound:zhe4.mp3];jaar1 week108 les03 les05
+2pr7481fnt6ltkrjhvjuu4e8czsocsiy;<span class="tone4">那</span>;<span class="tone4">nà</span>;die, dat;[sound:na4.mp3];jaar1 week108 les03
+fg5vpe04sf8f3g7q7p1yrf99shh7vz02;<span class="tone5">的</span>;<span class="tone5">de</span>;‘s (partikel om bezit aan te duiden);[sound:de5.mp3];jaar1 week108 les04
+9iay3grvcrrxquvzyu25glz7gvv3765t;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];jaar1 week108 les08
+btx7elnr7op6d8ymcevxohxpr8we0yg2;<span class="tone4">在</span>;<span class="tone4">zài</span>;aanwezig zijn, te ...;[sound:zai4.mp3];jaar1 week102 week103 week108 les05
+tmkfy9szn4uwgnefcr978czqvs1lnexg;<span class="tone1">家</span>;<span class="tone1">jiā</span>;thuis;[sound:jia1.mp3];jaar1 week108 les08
+o7pq94d0b6hr3llkn4qgomtf2gvpe08b;<span class="tone1">家</span><span class="tone2">人</span>;<span class="tone1">jiā</span><span class="tone2">rén</span>;familie, gezin;[sound:jia1ren2.mp3];jaar1 week108 week109
+aje3jxqvb5guqtejcq2bbkpg6o1s64vs;<span class="tone3">好</span><span class="tone4">看</span>;<span class="tone3">hǎo</span><span class="tone4">kàn</span>;mooi;[sound:hao3kan4.mp3];jaar1 week108
+wsukbdgwhrbtofl3qhee8kr3c121aj14;<span class="tone3">好</span><span class="tone2">玩</span>(<span class="tone5">儿</span>);<span class="tone3">hǎo</span><span class="tone2">wán</span>(<span class="tone5">r</span>);leuk, amusant;[sound:hao3wan2r5.mp3];jaar1 week108 jaar2 week204
+onhx4q1dmj3e9u0662ydcuanhsouaivw;<span class="tone2">玩</span>(<span class="tone5">儿</span>);<span class="tone2">wán</span>(<span class="tone5">r</span>);spelen, plezier maken, zich amuseren;[sound:wan2r5.mp3];jaar1 week108 week109
+2mpkt122msad85vrup8bxykqt73o5bgj;<span class="tone3">好</span><span class="tone1">听</span>;<span class="tone3">hǎo</span><span class="tone1">tīng</span>;mooi om te horen;[sound:hao3ting1.mp3];jaar1 week108
+frl60trk42ra0x3c83w93p7instpdfji;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week108 week109 les08
+uydwgotltgn6b18l8rmo1nmx85lu9kzt;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week108 week116 les06
+niaexli2ztclhgdfo2mn83sxu6trchuw;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje, zingen;[sound:chang4ge1.mp3];jaar1 week108 week110 week116
+01ziyou9n5ibr0wt6vszc4fuj9qs1rjy;<span class="tone1">医</span><span class="tone1">生</span>;<span class="tone1">yī</span><span class="tone1">shēng</span>;dokter;[sound:yi1sheng1.mp3];jaar1 week108 les03
+crt4p3xaipo2q5fr3c3ipbinxbsk71nm;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];jaar1 week106 week108 les08
+rzttw3jxq0c42lo7j70n6ncgil2z84z6;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week108 week109 les08
+bs3nazzr4n9k56j02qmfrwxih8hpfnv2;<span class="tone1">高</span><span class="tone4">兴</span>;<span class="tone1">gāo</span><span class="tone4">xìng</span>;blij;[sound:gao1xing4.mp3];jaar1 week108 week111 les04 les07

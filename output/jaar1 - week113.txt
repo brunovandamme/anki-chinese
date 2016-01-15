@@ -1,14 +1,14 @@
-上大学 les volgen aan de universiteit;<span class="tone4">上</span><span class="tone4">大</span><span class="tone2">学</span>;<span class="tone4">shàng</span><span class="tone4">dà</span><span class="tone2">xué</span>;les volgen aan de universiteit;[sound:shang4da4xue2.mp3];jaar1 week113 week122
-上中学 les volgen in het middelbaar;<span class="tone4">上</span><span class="tone1">中</span><span class="tone2">学</span>;<span class="tone4">shàng</span><span class="tone1">zhōng</span><span class="tone2">xué</span>;les volgen in het middelbaar;[sound:shang4zhong1xue2.mp3];jaar1 week113 week122
-考试 examen;<span class="tone3">考</span><span class="tone4">试</span>;<span class="tone3">kǎo</span><span class="tone4">shì</span>;examen;[sound:kao3shi4.mp3];jaar1 week113
-零 nul;<span class="tone2">零</span>;<span class="tone2">líng</span>;nul;[sound:ling2.mp3];jaar1 week113 les05
-一 eén;<span class="tone1">一</span>;<span class="tone1">yī</span>;eén;[sound:yi1.mp3];jaar1 week113
-二 twee;<span class="tone4">二</span>;<span class="tone4">èr</span>;twee;[sound:er4.mp3];jaar1 week113 les05
-三 drie;<span class="tone1">三</span>;<span class="tone1">sān</span>;drie;[sound:san1.mp3];jaar1 week113
-四 vier;<span class="tone4">四</span>;<span class="tone4">sì</span>;vier;[sound:si4.mp3];jaar1 week113 les05
-五 vijf;<span class="tone3">五</span>;<span class="tone3">wǔ</span>;vijf;[sound:wu3.mp3];jaar1 week113
-六 zes;<span class="tone4">六</span>;<span class="tone4">liù</span>;zes;[sound:liu4.mp3];jaar1 week113
-七 zeven;<span class="tone1">七</span>;<span class="tone1">qī</span>;zeven;[sound:qi1.mp3];jaar1 week113
-八 acht;<span class="tone1">八</span>;<span class="tone1">bā</span>;acht;[sound:ba1.mp3];jaar1 week113
-九 negen;<span class="tone3">九</span>;<span class="tone3">jiǔ</span>;negen;[sound:jiu3.mp3];jaar1 week113
-十 tien;<span class="tone2">十</span>;<span class="tone2">shí</span>;tien;[sound:shi2.mp3];jaar1 week113
+4vcmq95p8kfgs7gv4wes4tl54dvio7ke;<span class="tone4">上</span><span class="tone4">大</span><span class="tone2">学</span>;<span class="tone4">shàng</span><span class="tone4">dà</span><span class="tone2">xué</span>;les volgen aan de universiteit;[sound:shang4da4xue2.mp3];jaar1 week113 week122
+pg4j68l626qtw72bpwqsxj9iez3qowu4;<span class="tone4">上</span><span class="tone1">中</span><span class="tone2">学</span>;<span class="tone4">shàng</span><span class="tone1">zhōng</span><span class="tone2">xué</span>;les volgen in het middelbaar;[sound:shang4zhong1xue2.mp3];jaar1 week113 week122
+nb1cdjfy9v6h69ar4o4qg95wjh96sldx;<span class="tone3">考</span><span class="tone4">试</span>;<span class="tone3">kǎo</span><span class="tone4">shì</span>;examen;[sound:kao3shi4.mp3];jaar1 week113
+okqur5o2a92ihxs64z8pgj3yoc4hq0og;<span class="tone2">零</span>;<span class="tone2">líng</span>;nul;[sound:ling2.mp3];jaar1 week113 les05
+hkvyu0kmdjm0iz948t5mgc3u1uzog03k;<span class="tone1">一</span>;<span class="tone1">yī</span>;eén;[sound:yi1.mp3];jaar1 week113
+pu28ma257nhuxcdua6ebyalilyisuspv;<span class="tone4">二</span>;<span class="tone4">èr</span>;twee;[sound:er4.mp3];jaar1 week113 les05
+jut6kd1p5htng92bqnrqsvfzlaudvqzk;<span class="tone1">三</span>;<span class="tone1">sān</span>;drie;[sound:san1.mp3];jaar1 week113
+750rwp8sces2wswquq9rdceuglvovc8i;<span class="tone4">四</span>;<span class="tone4">sì</span>;vier;[sound:si4.mp3];jaar1 week113 les05
+wizwoidm6cczxxf1xonse7csalhhvuk8;<span class="tone3">五</span>;<span class="tone3">wǔ</span>;vijf;[sound:wu3.mp3];jaar1 week113
+v41dg0gkfcx09w12aqzpokaovhtxora1;<span class="tone4">六</span>;<span class="tone4">liù</span>;zes;[sound:liu4.mp3];jaar1 week113
+gr6pppurqpsw24ejku8hpnxoint2rpfl;<span class="tone1">七</span>;<span class="tone1">qī</span>;zeven;[sound:qi1.mp3];jaar1 week113
+f0qj3umy48im7m9ks2tqxqcm5df3wrbu;<span class="tone1">八</span>;<span class="tone1">bā</span>;acht;[sound:ba1.mp3];jaar1 week113
+mmt6g0qcy365zecwaog7t1zip0v6ddhl;<span class="tone3">九</span>;<span class="tone3">jiǔ</span>;negen;[sound:jiu3.mp3];jaar1 week113
+0fovr1qvnslhv9n4tn9q89mpqii1qvep;<span class="tone2">十</span>;<span class="tone2">shí</span>;tien;[sound:shi2.mp3];jaar1 week113

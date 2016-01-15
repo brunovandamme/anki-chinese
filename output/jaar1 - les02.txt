@@ -1,18 +1,18 @@
-忙 druk;<span class="tone2">忙</span>;<span class="tone2">máng</span>;druk;[sound:mang2.mp3];jaar1 week103 les02 les06
-吗 (vraagpartikel);<span class="tone5">吗</span>;<span class="tone5">ma</span>;(vraagpartikel);[sound:ma5.mp3];jaar1 les01 les02
-爸爸 papa;<span class="tone4">爸</span><span class="tone5">爸</span>;<span class="tone4">bà</span><span class="tone5">ba</span>;papa;[sound:ba4ba5.mp3];jaar1 week102 les02 les07
-妈妈 mama;<span class="tone1">妈</span><span class="tone5">妈</span>;<span class="tone1">mā</span><span class="tone5">ma</span>;mama;[sound:ma1ma5.mp3];jaar1 week102 les02
-他们 zij (mannelijk meervoud);<span class="tone1">他</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (mannelijk meervoud);[sound:ta1men5.mp3];jaar1 week102 les02
-他 hij;<span class="tone1">他</span>;<span class="tone1">tā</span>;hij;[sound:ta1.mp3];jaar1 week101 les02 les03
-们 (meervoud bij persoonlijke voornaamwoorden);<span class="tone5">们</span>;<span class="tone5">men</span>;(meervoud bij persoonlijke voornaamwoorden);[sound:men5.mp3];jaar1 les02
-都 allen, allemaal, beiden;<span class="tone1">都</span>;<span class="tone1">dōu</span>;allen, allemaal, beiden;[sound:dou1.mp3];jaar1 week102 les02 les03
-不 niet, geen;<span class="tone4">不</span>;<span class="tone4">bù</span>;niet, geen;[sound:bu4.mp3];jaar1 week101 week102 les02
-男 man;<span class="tone2">男</span>;<span class="tone2">nán</span>;man;[sound:nan2.mp3];jaar1 les02 les08
-朋友 vriend;<span class="tone2">朋</span><span class="tone5">友</span>;<span class="tone2">péng</span><span class="tone5">you</span>;vriend;[sound:peng2you5.mp3];jaar1 week103 les02 les04
-呢 en ...?;<span class="tone5">呢</span>;<span class="tone5">ne</span>;en ...?;[sound:ne5.mp3];jaar1 week102 les02
-哥哥 oudere broer;<span class="tone1">哥</span><span class="tone5">哥</span>;<span class="tone1">gē</span><span class="tone5">ge</span>;oudere broer;[sound:ge1ge5.mp3];jaar1 week105 les02
-要 willen, hebben, moeten;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02
-咖啡 koffie;<span class="tone1">咖</span><span class="tone1">啡</span>;<span class="tone1">kā</span><span class="tone1">fēi</span>;koffie;[sound:ka1fei1.mp3];jaar1 week104 les02
-弟弟 jongere broer;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];jaar1 week105 les02 les08
-我们 wij;<span class="tone3">我</span><span class="tone5">们</span>;<span class="tone3">wǒ</span><span class="tone5">men</span>;wij;[sound:wo3men5.mp3];jaar1 week102 les02
-喝 drinken;<span class="tone1">喝</span>;<span class="tone1">hē</span>;drinken;[sound:he1.mp3];jaar1 week104 les02
+0wkb3tq77v1md0vzfai3ykgjnhdqulmu;<span class="tone2">忙</span>;<span class="tone2">máng</span>;druk;[sound:mang2.mp3];jaar1 week103 les02 les06
+bxthny4yy6mjv154132p75mauynrmpvs;<span class="tone5">吗</span>;<span class="tone5">ma</span>;(vraagpartikel);[sound:ma5.mp3];jaar1 les01 les02
+j9mgh4wvrvfzmmrjj4xlt2v75rmgwt5a;<span class="tone4">爸</span><span class="tone5">爸</span>;<span class="tone4">bà</span><span class="tone5">ba</span>;papa;[sound:ba4ba5.mp3];jaar1 week102 les02 les07
+z8xixuc9ovxyaajwtjtwvkbrurntsho7;<span class="tone1">妈</span><span class="tone5">妈</span>;<span class="tone1">mā</span><span class="tone5">ma</span>;mama;[sound:ma1ma5.mp3];jaar1 week102 les02
+66yblstb7em24p69fy1wbeh2mg99tanp;<span class="tone1">他</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (mannelijk meervoud);[sound:ta1men5.mp3];jaar1 week102 les02
+hzscp81bvomgjcni1ik19s646tj3ujky;<span class="tone1">他</span>;<span class="tone1">tā</span>;hij;[sound:ta1.mp3];jaar1 week101 les02 les03
+025te39ad6ivl9vr74699x4avau06ld8;<span class="tone5">们</span>;<span class="tone5">men</span>;(meervoud bij persoonlijke voornaamwoorden);[sound:men5.mp3];jaar1 les02
+ki73o4s9eplah9lcrcy5qclahjk80a9s;<span class="tone1">都</span>;<span class="tone1">dōu</span>;allen, allemaal, beiden;[sound:dou1.mp3];jaar1 week102 les02 les03
+kpob8slzu8zbirwpo7xgm8bd664pww67;<span class="tone4">不</span>;<span class="tone4">bù</span>;niet, geen;[sound:bu4.mp3];jaar1 week101 week102 les02
+e6cyhoqa81xtzwxxnea9d91uwtcmyvyd;<span class="tone2">男</span>;<span class="tone2">nán</span>;man;[sound:nan2.mp3];jaar1 les02 les08
+c4r1c9jj118port6j2g646xs3o40bar4;<span class="tone2">朋</span><span class="tone5">友</span>;<span class="tone2">péng</span><span class="tone5">you</span>;vriend;[sound:peng2you5.mp3];jaar1 week103 les02 les04
+qwlne2b50bwq4zb1fco0vot37w85s29z;<span class="tone5">呢</span>;<span class="tone5">ne</span>;en ...?;[sound:ne5.mp3];jaar1 week102 les02
+91pgqbe9cq716wssjyrfmkm2lr087y7f;<span class="tone1">哥</span><span class="tone5">哥</span>;<span class="tone1">gē</span><span class="tone5">ge</span>;oudere broer;[sound:ge1ge5.mp3];jaar1 week105 les02
+mhxb3fsnzkygbycolprtp013umh9i1au;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02
+tnthxeomvo0208n855qbg08dzm8ndowy;<span class="tone1">咖</span><span class="tone1">啡</span>;<span class="tone1">kā</span><span class="tone1">fēi</span>;koffie;[sound:ka1fei1.mp3];jaar1 week104 les02
+48nyqmt7iuhas83d1uq9nxxmkc1km3qi;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];jaar1 week105 les02 les08
+gfh5h8trwitiss9jgyos7jrx0fq94i2k;<span class="tone3">我</span><span class="tone5">们</span>;<span class="tone3">wǒ</span><span class="tone5">men</span>;wij;[sound:wo3men5.mp3];jaar1 week102 les02
+v40bj61j1glatgu8puimpt5akm5m6043;<span class="tone1">喝</span>;<span class="tone1">hē</span>;drinken;[sound:he1.mp3];jaar1 week104 les02

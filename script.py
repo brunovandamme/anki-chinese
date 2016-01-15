@@ -1,6 +1,8 @@
 # coding: UTF-8
 
 import re
+import random
+import string
 from os import path, makedirs
 from dragonmapper import transcriptions, hanzi
 from urllib2 import urlopen, quote, HTTPError, Request
@@ -30,11 +32,13 @@ config = {
 # Parse inputfiles
 cards = []
 for inputFilename in config['input']['filenames']:
+	hashedCards = []
 	with open(config['input']['path'] + inputFilename, 'r') as inputFile:
 		tag = ''
 		fileTag = re.sub(r'\.\w{3,}', '', inputFilename)
 
 		for line in inputFile:
+			hashedCards.append(line)
 			line = line.strip()
 
 			if len(line) == 0: continue
@@ -44,6 +48,13 @@ for inputFilename in config['input']['filenames']:
 			if len(parts) == 1:
 				tag = line.replace('\n', '')
 			else:
+				if len(parts[0]) == 32:
+					cardID = parts.pop(0)
+				else:
+					hashedCards.pop(-1)
+					cardID = ''.join(random.choice(string.lowercase + string.digits) for i in range(32))
+					hashedCards.append(cardID + ';' + line + '\n')
+
 				if len(parts) == 2:
 					cardHanzi, cardTranslation = parts
 					cardHanzi = unicode(cardHanzi, 'utf-8')
@@ -51,9 +62,13 @@ for inputFilename in config['input']['filenames']:
 				elif len(parts) == 3:
 					cardHanzi, cardPinyin, cardTranslation = parts
 					cardHanzi = unicode(cardHanzi, 'utf-8')
-					cardPinyin = unicode(cardPinyin, 'utf-8')
+					cardPinyin = unicode(cardPinyin, 'utf-8')				
 
-				cards.append({ 'hanzi': cardHanzi, 'pinyin': cardPinyin, 'translation': cardTranslation, 'tag': tag, 'tags': [fileTag, tag] })
+				cards.append({ 'id': cardID, 'hanzi': cardHanzi, 'pinyin': cardPinyin, 'translation': cardTranslation, 'tag': tag, 'tags': [fileTag, tag] })
+
+	with open(config['input']['path'] + inputFilename, 'w') as outputFile:
+		for line in hashedCards:
+			outputFile.write(line)
 
 # Filter and merge duplicates
 merges = []
@@ -92,9 +107,6 @@ if len(merges) > 0:
 		print 'Not merged because of different translations for', merge['hanzi']
 		print '  1:', merge['translation1']
 		print '  2:', merge['translation2']
-
-	print 'Are you happy with these merges? [yes/no]',
-	if raw_input().lower() != 'yes': exit()
 
 # Download audio for cards if needed
 audioPath = config['audio']['path']
@@ -166,9 +178,9 @@ if not path.exists(outputPath): makedirs(outputPath)
 
 with open(outputPath + config['output']['filename'], 'w') as writeFile:
 	for card in filteredCards:
-		writeFile.write(card['hanzi'] + ' ' + card['translation'] + ';' + card['coloredHanzi'] + ';' + card['coloredPinyin'] + ';' + card['translation'] + ';' + card['sound'] + ';' + card['tags'] + '\n')
+		writeFile.write(card['id'] + ';' + card['coloredHanzi'] + ';' + card['coloredPinyin'] + ';' + card['translation'] + ';' + card['sound'] + ';' + card['tags'] + '\n')
 
 for filename, cards in filteredCardsByTag.iteritems():
 	with open(outputPath + filename + '.txt', 'w') as writeFile:
 		for card in cards:
-			writeFile.write(card['hanzi'] + ' ' + card['translation'] + ';' + card['coloredHanzi'] + ';' + card['coloredPinyin'] + ';' + card['translation'] + ';' + card['sound'] + ';' + card['tags'] + '\n')
+			writeFile.write(card['id'] + ';' + card['coloredHanzi'] + ';' + card['coloredPinyin'] + ';' + card['translation'] + ';' + card['sound'] + ';' + card['tags'] + '\n')
