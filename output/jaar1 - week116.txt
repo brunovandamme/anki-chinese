@@ -31,8 +31,8 @@ zkjyk0u6l31xu0b3bb48cdfi9zy2knwc;<span class="tone1">听</span><span class="tone
 uydwgotltgn6b18l8rmo1nmx85lu9kzt;<span class="tone2">游</span><span class="tone3">泳</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span>;zwemmen;[sound:you2yong3.mp3];jaar1 week108 week116 les06
 0olrj8b4ymkv73byyv43b95d26o9xux9;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone2">池</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone2">chí</span>;zwembad;[sound:you2yong3chi2.mp3];jaar1 week116
 rq92fvmvevckb31zq6oaurzof22o3n8e;<span class="tone2">游</span><span class="tone3">泳</span><span class="tone3">馆</span>;<span class="tone2">yóu</span><span class="tone3">yǒng</span><span class="tone3">guǎn</span>;zwembad;[sound:you2yong3guan3.mp3];jaar1 week116
-x770kghcz2xt6k7vdq9uwlfn5j0ylk3m;<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen (iets onder de knie hebben);[sound:hui4.mp3];jaar1 week116 jaar2 week211
-mhxb3fsnzkygbycolprtp013umh9i1au;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02
+x770kghcz2xt6k7vdq9uwlfn5j0ylk3m;<span class="tone4">会</span>;<span class="tone4">huì</span>;kunnen (iets onder de knie hebben);[sound:hui4.mp3];jaar1 week116 jaar2 week211 week 212
+mhxb3fsnzkygbycolprtp013umh9i1au;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02 jaar2 week 212
 83sjr3h6t0kym4ontrxi5kfqbdfkkvfi;<span class="tone2">昨</span><span class="tone1">天</span>;<span class="tone2">zuó</span><span class="tone1">tiān</span>;gisteren;[sound:zuo2tian1.mp3];jaar1 week116 week117 les06
 528o4cl12ospyjytu53evpdafqoenyrw;<span class="tone1">今</span><span class="tone1">天</span>;<span class="tone1">jīn</span><span class="tone1">tiān</span>;vandaag;[sound:jin1tian1.mp3];jaar1 week109 week114 week116 week117 les06
 gr25q3ph5s38xe6ppk5t4k8y6xe415qv;<span class="tone4">现</span><span class="tone4">在</span>;<span class="tone4">xiàn</span><span class="tone4">zài</span>;nu;[sound:xian4zai4.mp3];jaar1 week116 week117 les06

@@ -24,7 +24,7 @@ npe9900ozc93wspmmxbb6dep62p8sa6y;<span class="tone3">网</span><span class="tone
 yzovgrz5vqr48f47rd2mqqqfqd5y5qsv;<span class="tone1">踢</span><span class="tone2">球</span>;<span class="tone1">tī</span><span class="tone2">qiú</span>;stampen tegen een bal;[sound:ti1qiu2.mp3];jaar1 week117
 55tghalbdhl5it1vt3hgzu58545b0h8y;<span class="tone2">足</span><span class="tone2">球</span>;<span class="tone2">zú</span><span class="tone2">qiú</span>;voetbal;[sound:zu2qiu2.mp3];jaar1 week117
 65vj5r468t6n18dcb9tyk8i7l7x8wtc3;<span class="tone1">踢</span><span class="tone2">足</span><span class="tone2">球</span>;<span class="tone1">tī</span><span class="tone2">zú</span><span class="tone2">qiú</span>;stampen tegen een voetbal, voetballen;[sound:ti1zu2qiu2.mp3];jaar1 week117 jaar2 week211
-2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123
+2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];jaar1 week115 week117 week119 week123 jaar2 week 212
 fedh7h0ndt6f2t9tlgoiges6tvqnnoui;<span class="tone2">回</span>;<span class="tone2">huí</span>;terugkeren;[sound:hui2.mp3];jaar1 week117
 8u8q5df7adds7z1ln9bt5u62jv7be4n2;<span class="tone2">回</span><span class="tone1">家</span>;<span class="tone2">huí</span><span class="tone1">jiā</span>;terugkeren naar huis;[sound:hui2jia1.mp3];jaar1 week117 week126
 8tblfb4pht7r0qiyi1pq91n40xgcddkl;<span class="tone1">听</span><span class="tone1">说</span>;<span class="tone1">tīng</span><span class="tone1">shuō</span>;ik heb horen zeggen dat;[sound:ting1shuo1.mp3];jaar1 week117 jaar2 week201
