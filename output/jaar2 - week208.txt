@@ -31,7 +31,7 @@ alknq4qhgf7h1qv83gsj5m5lx06p473r;<span class="tone2">鱼</span>;<span class="ton
 18i6gh6fw0s839w444weu8kj9btv7hra;<span class="tone3">土</span><span class="tone4">豆</span>;<span class="tone3">tǔ</span><span class="tone4">dòu</span>;aardappel;[sound:tu3dou4.mp3];jaar2 week208
 jvhng6gpbsyobsg74f9zd9fci5j5awb5;<span class="tone4">报</span>(<span class="tone3">纸</span>);<span class="tone4">bào</span>(<span class="tone3">zhǐ</span>);krant;[sound:bao4zhi3.mp3];jaar2 week208
 ao0ooizv6oghxs4w98joj9j8je9p8p4z;<span class="tone3">本</span><span class="tone5">子</span>;<span class="tone3">běn</span><span class="tone5">zi</span>;schrift, notitieboekje;[sound:ben3zi5.mp3];jaar2 week208
-3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];jaar2 week208
+3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];jaar2 week208 week213
 i0ru2m6lgg8r2wwhq5gnlt7be86uo2k9;<span class="tone1">跟</span>;<span class="tone1">gēn</span>;met, samen met;[sound:gen1.mp3];jaar2 week208
 htzzffgcc3hw15tlhr9kprky9mjw4ibs;<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];jaar1 week125 jaar2 week205 week208
 wq16pv7s8mb9rcog4kuz31acel8c51am;<span class="tone4">束</span>;<span class="tone4">shù</span>;(maatwoord voor bloemen) bos, ruiker;[sound:shu4.mp3];jaar2 week208

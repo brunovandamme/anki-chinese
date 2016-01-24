@@ -1,6 +1,6 @@
 qma9ew71nj7txl63riwaevv1et2757o2;<span class="tone4">假</span><span class="tone1">期</span>;<span class="tone4">jià</span><span class="tone1">qī</span>;vakantie;[sound:jia4qi1.mp3];jaar1 week121 jaar2 week208 week210 week211
-4t0jiv3dyqgmzkbo5ylh8ihad65mhrtt;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202 week211
-7jpxbkknrophlehmlmjm2xu6b2ztyb37;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202 week211
+4t0jiv3dyqgmzkbo5ylh8ihad65mhrtt;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202 week211 week213
+7jpxbkknrophlehmlmjm2xu6b2ztyb37;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202 week211 week213
 6je6xcvjrp3b2w9zlw57xo25cvl279pf;<span class="tone5">了</span>;<span class="tone5">le</span>;(partikel voor voltooide handelingen);[sound:le5.mp3];jaar1 les05 jaar2 week211
 kh3bmj3ffcaeseoon4otcca6lfhbs42s;<span class="tone3">洗</span><span class="tone3">澡</span>;<span class="tone3">xǐ</span><span class="tone3">zǎo</span>;het wassen van een wasje, zich wassen;[sound:xi3zao3.mp3];jaar1 week117 jaar2 week206 week207 week211
 jpa87v5qc53g99rnnuaje8t1o9jfycgc;<span class="tone3">起</span><span class="tone2">床</span>;<span class="tone3">qǐ</span><span class="tone2">chuáng</span>;het opstaan uit bed, opstaan;[sound:qi3chuang2.mp3];jaar2 week206 week211
@@ -15,7 +15,7 @@ didzk2hmighm81azptkscjcx90hz436y;<span class="tone3">跑</span><span class="tone
 tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;<span class="tone4">散</span><span class="tone4">步</span>;<span class="tone4">sàn</span><span class="tone4">bù</span>;wandelen;[sound:san4bu4.mp3];jaar2 week211
 ogfmhyeawl04sff1bo8rxi0jkh6o3gvx;<span class="tone3">走</span><span class="tone4">路</span>;<span class="tone3">zǒu</span><span class="tone4">lù</span>;gaan;[sound:zou3lu4.mp3];jaar2 week211
 2lb9jk4g0sqqho4aj1usml654656skgy;<span class="tone4">第</span>;<span class="tone4">dì</span>;(gebruikt om rangtelwoorden te vormen);[sound:di4.mp3];jaar2 week202 week211
-kikiahs2pmehduej6hqv16t3n6kd12pi;<span class="tone1">司</span><span class="tone1">机</span>;<span class="tone1">sī</span><span class="tone1">jī</span>;chauffeur;[sound:si1ji1.mp3];jaar2 week211
+kikiahs2pmehduej6hqv16t3n6kd12pi;<span class="tone1">司</span><span class="tone1">机</span>;<span class="tone1">sī</span><span class="tone1">jī</span>;chauffeur;[sound:si1ji1.mp3];jaar2 week211 week213
 ehccfceu12vb320qsoyxs6d762ckukir;<span class="tone4">帅</span>;<span class="tone4">shuài</span>;knap (om mannen te beschrijven);[sound:shuai4.mp3];jaar1 week125 jaar2 week211
 igkalozm4aazx136ne3s7mq8431f84dk;<span class="tone2">颜</span><span class="tone4">色</span>;<span class="tone2">yán</span><span class="tone4">sè</span>;kleur;[sound:yan2se4.mp3];jaar2 week210 week211
 4f67lt2ttecuiqyjjieu2yf5hldvir8w;<span class="tone2">白</span>;<span class="tone2">bái</span>;wit;[sound:bai2.mp3];jaar2 week205 week211
