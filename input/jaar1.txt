@@ -62,7 +62,7 @@ c4r1c9jj118port6j2g646xs3o40bar4;朋友;vriend
 ai7a79nw3qmirgh9ihngn41ybkxrgp88;女朋友;vriendin, je lief (een vrouw waarmee je een relatie hebt)
 fs36xyxy1bvunfws4ojuepcji0n9jkot;休息;pauze, pauzeren
 d9abmcks1ysi3rwjwsm8n6i3h9nd9t4u;要;willen, hebben, moeten
-p8owpd4w2rdlb5kl8s6ubp36qcbwm08q;你们要休息吗?;Willen jullie pauze?
+p8owpd4w2rdlb5kl8s6ubp36qcbwm08q;你们要休息吗?;willen jullie pauze?
 j9tzrlb7ga0p0acis0l6wdhvm8z2nadc;汉字;Chinese karakters
 
 week104
@@ -71,8 +71,8 @@ v40bj61j1glatgu8puimpt5akm5m6043;喝;drinken
 tnthxeomvo0208n855qbg08dzm8ndowy;咖啡;koffie
 ritvwsosl8v6v98h1ft39yj7yakuuj8u;茶;thee
 2vojfke7kgq19megcv5hr59erxwojibj;可乐;cola
-6b75w4s54ecvwlud36x2h2md78b4j7xy;可口可乐;Coca Cola
-qq62yvuf5wrwrbsgay7pe1l2e3xiwvvx;百事可乐;Pepsi Cola
+6b75w4s54ecvwlud36x2h2md78b4j7xy;可口可乐;coca cola
+qq62yvuf5wrwrbsgay7pe1l2e3xiwvvx;百事可乐;pepsi cola
 ebbpvvoaft6n4thgpyexjnm563tp4q8e;啤酒;bier
 0bba6n5c58g9lb113lj55uwcctc3n2iq;冰茶;ice-tea, ijsthee
 myjnobg0d7ph2bc0bvh2mjyglmh5e7ah;好喝;lekker (om te drinken)

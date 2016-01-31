@@ -135,7 +135,7 @@ d1fy8q46hd1l7zjh0rewl6pr46hebjo3;面包;brood
 elhb40zg52f0q8f88rrh8qzexiz3i8kp;面包店;broodwinkel, bakker
 js2dr9ak68xazbsbih0vr61ml3vgz883;商场;grote winkel, winkelcentrum
 0laa4zk4hiyooi1k036rk1kombkuj1v5;超市;supermarkt
-u9n6mjse7zuzrih3ui7lkv7ymfbsvch1;家乐福;Carrefour
+u9n6mjse7zuzrih3ui7lkv7ymfbsvch1;家乐福;carrefour
 a5fsios6cwxmbnptvep1wc5ku6mumxk5;钱;geld
 g5hwculozuqwc0irqkth0s3k8f1s6bal;人民币;de Chinese munt, 'de munt van het volk'
 66fsnzs3ztda9h1pzrthgs4npap9zgzb;怎么卖?;hoe wordt het verkocht?
@@ -256,3 +256,28 @@ t9oy5iu6ebe6612ba4t1kbpzwurk5uzw;下班;stoppen met werken
 ap178ppfdx4j810v6pqveyqu4leezbmi;司机;chauffeur
 0y0j08fchxrjdjpfys6unv5jt6xb0xm1;办法;oplossing
 trvdxj3ti5k7jthgwvbpzhvr1bwed2b6;有用;nut hebben
+
+week214
+es0ir8pxua7nohthbso8xx290wcwozu1;词典;woordenboek
+8n8aeun1fy87bhu9j31zcc0jq3rrlc0w;可爱;schattig
+dsnrr7asipd1zhvvo25d5jv896mx7qr2;可怕;akelig
+cdlmk8294v9c2iamm165gnx3iuni4d5t;觉得;vinden, van mening zijn dat
+upeauvsaq9c86s1oyoxx39oaw5rui5at;等;wachten, wachten op
+iwivz8dsl6uotzi5ku6sm767jywhv2ef;病;ziek zijn, ziekte
+vow9cas97hbrl3axwy84adyd7dz4uska;看病;de dokter consulteren
+iy9s1rg4pxifsx3q61h83az8tnwtc8be;身体;lichaam, gezondheid
+68f43652wp9sbxgasd0bw2li31q23c2a;医院;ziekenhuis
+wk0oivlt16qamscytq1zi9t6q15t0jdd;手;hand
+sl25yedkkilnrqj17qbkajgomsos9cwh;鼻子;neus
+goppz18miqziolskpnn1rhr3352ezvke;耳朵;oor
+rn2ccdbjwt72hj82vflhmpszd76t7med;口;mond
+97tcuo0on5lbez2bojjprcbv44n2m9fa;牙(齿);tand
+dhnkow84z4wytg97neawgdoo4owmtjjc;舌头;tong
+uswfq5sd6xh7v26q9jc4jr6cvrvubmb7;头;hoofd
+fpmctg3xjza82in49i5b52mmv099kdzs;头发;haar
+1vgv15cr4ulp2uxqhvqqkushnb332zbo;舒服;comfortabel, goed
+88nw0z1z3xu15grza6dqqkhynccsq1b2;我有一点不舒服;ik voel me niet zo goed
+k9kgu9nqwkq8lkguu4lsazrxlrzci04k;肩膀;schouder
+3wrao5l58qqxise0w0t3bebfp9ayqmms;屁股;poep
+vfdv3l7sqja9fkk0itp1lu4gqq8tptxm;腿;been
+rkjafo2f0l1ot39bo8jxd7vtuerd60n6;肚子;buik
