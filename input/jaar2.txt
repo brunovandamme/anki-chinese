@@ -255,7 +255,7 @@ xecp276011abc5pyo5k6mpcb8cd0423h;上班;beginnen met werken
 t9oy5iu6ebe6612ba4t1kbpzwurk5uzw;下班;stoppen met werken
 ap178ppfdx4j810v6pqveyqu4leezbmi;司机;chauffeur
 0y0j08fchxrjdjpfys6unv5jt6xb0xm1;办法;oplossing
-trvdxj3ti5k7jthgwvbpzhvr1bwed2b6;有用;nut hebben
+trvdxj3ti5k7jthgwvbpzhvr1bwed2b6;有用;nut hebben, nuttig zijn
 
 week214
 es0ir8pxua7nohthbso8xx290wcwozu1;词典;woordenboek
@@ -281,3 +281,39 @@ k9kgu9nqwkq8lkguu4lsazrxlrzci04k;肩膀;schouder
 3wrao5l58qqxise0w0t3bebfp9ayqmms;屁股;poep
 vfdv3l7sqja9fkk0itp1lu4gqq8tptxm;腿;been
 rkjafo2f0l1ot39bo8jxd7vtuerd60n6;肚子;buik
+
+week215
+5hnexf9b6wx6ehapmeohs3yto559e8il;脚;voet
+d1pbo0hy00n5fsdpgge5to37fmw2sjcv;眼睛;oog
+lte7ynnt9nuzp2mgx41l5errmghi70g0;疼;pijn doen
+ner0y8t2wrpz92xdzt1h8ofmvv6h0w78;嗓子;keel
+hqb4mfp63ybokz16iuwlysbrr0ahr03n;感冒;verkouden, verkoudheid hebben
+z26y882pogmxovw3586b17cbd6jssvoq;药;medicijn
+bain3g4twxarxozbzbx6uki3s3o86rih;中药;Chinese medicijnen
+wb5v89psad4exjvlv0ayf8siyzmx78gv;西药;westerse medicijnen
+yw3ohe6rlhlodiqtkbc738mxur0s35q3;锻炼;lichaamsbeweging hebben
+le4zwjhx8qb36b3o3ba6hf57kp3fr0dc;每;elke
+rxmlloavw5hxfibjiwec14xqnwmvgxbe;从来不;nooit
+wbd1553fcqtgkxgx738p9hp18bbbf3n3;开水;gekookt water
+pu190afvb9myg3l5bkcy2juj3vvjba4z;糖;suiker
+
+week216
+1ctky79vefkxp6uymb4s8by4m5q9nqu0;你怎么了?;wat scheelt er met je?
+xo8btnqr5o0otocbubo5fsiw1rc57iib;你哪儿不舒服?;waar voel je je niet goed?
+c110025jf2zpqkuc6c11kij2ejaxeueb;怎么办?;wat er aan te doen? Hoe lossen we dit op? Hoe pakken we dit aan?
+qq0p3z6dts13ypnrcfs1op9igxdhaxo4;休息;rusten, pauzeren, rust, pauze
+ac1a15fmrrwmmvwrxc56jfd2ot9s29gu;住(医)院;in het ziekenhuis verblijven
+ljo8og42haq40pi8nq9hr8ilbqsnxygr;发炎;ontstoken
+tysw1o5j0xxkp2ebivfcr2ygvqo23mfy;发烧;koorts hebben
+r84b18a08llj38cjbazd1snurj0jjl5x;病人;patiënt
+9xkjjz47klb6bl66kdufyuk7vipfjcw6;有用;nut hebben, nuttig zijn
+tt73i4p5n8x8b2otsw8wgn6pwdustsjo;没有用;geen nut hebben, niet nuttig zijn
+0n7xglzxwh38jp6rtyt452n5vmbp1dfl;挂号;registreren
+4voa2wcenbbf1myr2eybk6ptfrker6by;愿意;bereid zijn, willen
+iomgdtuszsk5e6qiupjpaye1if45h0p4;还是;of? (vraagwoord)
+p3rx2myboy8gye2c12kwga9oj3dlo0gv;全身;hele lichaam
+z1h9r6vcrf9oa76x4ili7qjn84yh8f4d;有时候;soms
+bkb112hpddv6jbs2zq2unyy4kvw3gxff;检查身体;het onderzoeken van iemands lichaam. 医生给病人检查身体。
+hytkv66koya8r92r3i06wew3zskfbwlr;打针;het zetten van een spuit
+i3fzqljzmon2339hlfsh0yvcqo9amaqd;喉咙;keel, hals
+6xienfbdblbo1516wf7ax3q35ry5ui0f;对我来说;wat mij betreft

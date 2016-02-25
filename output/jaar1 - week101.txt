@@ -15,7 +15,7 @@ ve7bbsud6nouxuq1nt09voxj8cpmnd9c;<span class="tone2">学</span><span class="tone
 ya9vw2ns44wc77rqy9xw40468l6994rs;<span class="tone4">对</span>;<span class="tone4">duì</span>;juist, correct;[sound:dui4.mp3];jaar1 week101
 ijz8ft9cj7mwnncqf3gv4ch3pvfe8r6o;<span class="tone4">不</span><span class="tone4">对</span>;<span class="tone4">bù</span><span class="tone4">duì</span>;niet juist;[sound:bu4dui4.mp3];jaar1 week101
 mhxb3fsnzkygbycolprtp013umh9i1au;<span class="tone4">要</span>;<span class="tone4">yào</span>;willen, hebben, moeten;[sound:yao4.mp3];jaar1 week101 week103 week116 les02 jaar2 week212
-bcnbxcu1gfp31b7nhg3qoqrwtt285j8o;<span class="tone1">休</span><span class="tone5">息</span>;<span class="tone1">xiū</span><span class="tone5">xi</span>;pauze, pauzeren;[sound:xiu1xi5.mp3];jaar1 week101 week103 week116
+bcnbxcu1gfp31b7nhg3qoqrwtt285j8o;<span class="tone1">休</span><span class="tone5">息</span>;<span class="tone1">xiū</span><span class="tone5">xi</span>;rusten, pauzeren, rust, pauze;[sound:xiu1xi5.mp3];jaar1 week101 week103 week116 jaar2 week216
 stvg2dkkuc49i8r0hr7yd5hqvmro16cu;<span class="tone1">知</span><span class="tone4">道</span>;<span class="tone1">zhī</span><span class="tone4">dào</span>;weten;[sound:zhi1dao4.mp3];jaar1 week101 week102 les05
 e5288d75xmnmnd5hoid1rj83kmg2vjo0;<span class="tone3">我</span><span class="tone4">不</span><span class="tone1">知</span><span class="tone4">道</span>;<span class="tone3">wǒ</span><span class="tone4">bù</span><span class="tone1">zhī</span><span class="tone4">dào</span>;ik weet het niet;[sound:wo3bu4zhi1dao4.mp3];jaar1 week101 week103
 ao5jplhad8kz3vrku9ipuivmtjqb3vta;<span class="tone2">难</span>;<span class="tone2">nán</span>;moeilijk;[sound:nan2.mp3];jaar1 week101

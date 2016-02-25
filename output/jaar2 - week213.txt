@@ -1,10 +1,10 @@
 4t0jiv3dyqgmzkbo5ylh8ihad65mhrtt;<span class="tone3">以</span><span class="tone2">前</span>;<span class="tone3">yǐ</span><span class="tone2">qián</span>;vroeger, eerder;[sound:yi3qian2.mp3];jaar2 week201 week202 week211 week213
 7jpxbkknrophlehmlmjm2xu6b2ztyb37;<span class="tone3">以</span><span class="tone4">后</span>;<span class="tone3">yǐ</span><span class="tone4">hòu</span>;later;[sound:yi3hou4.mp3];jaar2 week201 week202 week211 week213
 l27db3u79cz487ri77owsi14x229za1s;<span class="tone5">的</span><span class="tone2">时</span><span class="tone5">候</span>;<span class="tone5">de</span><span class="tone2">shí</span><span class="tone5">hou</span>;tijdens;[sound:de5shi2hou5.mp3];jaar2 week213
-3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];jaar2 week208 week213
+3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];jaar2 week208 week213 week215
 z88z05lcs6bu9vc6cdv1u0kjl8mz28dd;<span class="tone3">很</span><span class="tone3">少</span>;<span class="tone3">hěn</span><span class="tone3">shǎo</span>;zelden;[sound:hen3shao3.mp3];jaar2 week213
 xecp276011abc5pyo5k6mpcb8cd0423h;<span class="tone4">上</span><span class="tone1">班</span>;<span class="tone4">shàng</span><span class="tone1">bān</span>;beginnen met werken;[sound:shang4ban1.mp3];jaar2 week213
 t9oy5iu6ebe6612ba4t1kbpzwurk5uzw;<span class="tone4">下</span><span class="tone1">班</span>;<span class="tone4">xià</span><span class="tone1">bān</span>;stoppen met werken;[sound:xia4ban1.mp3];jaar2 week213
 kikiahs2pmehduej6hqv16t3n6kd12pi;<span class="tone1">司</span><span class="tone1">机</span>;<span class="tone1">sī</span><span class="tone1">jī</span>;chauffeur;[sound:si1ji1.mp3];jaar2 week211 week213
 0y0j08fchxrjdjpfys6unv5jt6xb0xm1;<span class="tone4">办</span><span class="tone3">法</span>;<span class="tone4">bàn</span><span class="tone3">fǎ</span>;oplossing;[sound:ban4fa3.mp3];jaar2 week213
-trvdxj3ti5k7jthgwvbpzhvr1bwed2b6;<span class="tone3">有</span><span class="tone4">用</span>;<span class="tone3">yǒu</span><span class="tone4">yòng</span>;nut hebben;[sound:you3yong4.mp3];jaar2 week213
+trvdxj3ti5k7jthgwvbpzhvr1bwed2b6;<span class="tone3">有</span><span class="tone4">用</span>;<span class="tone3">yǒu</span><span class="tone4">yòng</span>;nut hebben, nuttig zijn;[sound:you3yong4.mp3];jaar2 week213 week216

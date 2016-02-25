@@ -1,0 +1,13 @@
+5hnexf9b6wx6ehapmeohs3yto559e8il;<span class="tone3">脚</span>;<span class="tone3">jiǎo</span>;voet;[sound:jiao3.mp3];jaar2 week215
+d1pbo0hy00n5fsdpgge5to37fmw2sjcv;<span class="tone3">眼</span><span class="tone5">睛</span>;<span class="tone3">yǎn</span><span class="tone5">jing</span>;oog;[sound:yan3jing5.mp3];jaar2 week215
+lte7ynnt9nuzp2mgx41l5errmghi70g0;<span class="tone2">疼</span>;<span class="tone2">téng</span>;pijn doen;[sound:teng2.mp3];jaar2 week215
+ner0y8t2wrpz92xdzt1h8ofmvv6h0w78;<span class="tone3">嗓</span><span class="tone5">子</span>;<span class="tone3">sǎng</span><span class="tone5">zi</span>;keel;[sound:sang3zi5.mp3];jaar2 week215
+hqb4mfp63ybokz16iuwlysbrr0ahr03n;<span class="tone3">感</span><span class="tone4">冒</span>;<span class="tone3">gǎn</span><span class="tone4">mào</span>;verkouden, verkoudheid hebben;[sound:gan3mao4.mp3];jaar2 week215
+z26y882pogmxovw3586b17cbd6jssvoq;<span class="tone4">药</span>;<span class="tone4">yào</span>;medicijn;[sound:yao4.mp3];jaar2 week215
+bain3g4twxarxozbzbx6uki3s3o86rih;<span class="tone1">中</span><span class="tone4">药</span>;<span class="tone1">Zhōng</span><span class="tone4">yào</span>;Chinese medicijnen;[sound:zhong1yao4.mp3];jaar2 week215
+wb5v89psad4exjvlv0ayf8siyzmx78gv;<span class="tone1">西</span><span class="tone4">药</span>;<span class="tone1">xī</span><span class="tone4">yào</span>;westerse medicijnen;[sound:xi1yao4.mp3];jaar2 week215
+yw3ohe6rlhlodiqtkbc738mxur0s35q3;<span class="tone4">锻</span><span class="tone4">炼</span>;<span class="tone4">duàn</span><span class="tone4">liàn</span>;lichaamsbeweging hebben;[sound:duan4lian4.mp3];jaar2 week215
+3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];jaar2 week208 week213 week215
+rxmlloavw5hxfibjiwec14xqnwmvgxbe;<span class="tone2">从</span><span class="tone2">来</span><span class="tone4">不</span>;<span class="tone2">cóng</span><span class="tone2">lái</span><span class="tone4">bù</span>;nooit;[sound:cong2lai2bu4.mp3];jaar2 week215
+wbd1553fcqtgkxgx738p9hp18bbbf3n3;<span class="tone1">开</span><span class="tone3">水</span>;<span class="tone1">kāi</span><span class="tone3">shuǐ</span>;gekookt water;[sound:kai1shui3.mp3];jaar2 week215
+pu190afvb9myg3l5bkcy2juj3vvjba4z;<span class="tone2">糖</span>;<span class="tone2">táng</span>;suiker;[sound:tang2.mp3];jaar2 week215
