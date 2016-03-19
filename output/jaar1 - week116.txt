@@ -16,8 +16,8 @@ u9jgrinpk6atv5y3t9str57hunk3medw;<span class="tone3">长</span>;<span class="ton
 cj0hkp0kdnp8q6tgg712a8o8rd2b89h2;<span class="tone4">为</span><span class="tone2">什</span><span class="tone5">么</span>;<span class="tone4">wèi</span><span class="tone2">shén</span><span class="tone5">me</span>;waarom?;[sound:wei4shen2me5.mp3];jaar1 week116
 asfinxw4q1wrzkm6tvhp1epxt4mju8sl;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">样</span>;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">yàng</span>;wat (denk je) van?;[sound:zen3me5yang4.mp3];jaar1 week116 les06
 3kcjn98o6k5c2ga9ang0lji2a91c928w;<span class="tone3">有</span><span class="tone1">一</span><span class="tone3">点</span>..;<span class="tone3">yǒu</span><span class="tone1">yī</span><span class="tone3">diǎn</span>..;een beetje ..;[sound:you3yi1dian3.mp3];jaar1 week116
-la6rv6t9vg2tvhid95vh7mou8lkycsi0;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week116 week118
-fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week116 week118
+la6rv6t9vg2tvhid95vh7mou8lkycsi0;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week116 week118 jaar2 week217
+fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week116 week118 jaar2 week217
 k3y4knoj481gnr63de727ita6fqmm197;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];jaar1 week112 week114 week115 week116
 plva73zcwvj24lsttrj0msiqc8fp4aef;<span class="tone4">电</span><span class="tone3">影</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span>;film;[sound:dian4ying3.mp3];jaar1 week109 week111 week112 week116
 34k53505mia0t5upxalisc8mwz1mvs7g;<span class="tone4">电</span><span class="tone3">影</span><span class="tone4">院</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span><span class="tone4">yuàn</span>;cinema;[sound:dian4ying3yuan4.mp3];jaar1 week116

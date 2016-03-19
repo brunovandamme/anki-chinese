@@ -7,8 +7,8 @@ vqoz0rq1njc1gfwncp7rehc8g7iaaky3;<span class="tone3">北</span>;<span class="ton
 2d9ztz3gu7hodz1677dcxlw8hxmxjupf;<span class="tone1">东</span><span class="tone5">西</span>;<span class="tone1">dōng</span><span class="tone5">xi</span>;iets, ding, voorwerp;[sound:dong1xi5.mp3];jaar1 week118 jaar2 week208
 xbpx5jbfmu21paenaa09xv5fr9iy1nvk;<span class="tone4">下</span><span class="tone3">雨</span>;<span class="tone4">xià</span><span class="tone3">yǔ</span>;regenen;[sound:xia4yu3.mp3];jaar1 week118
 ywak67c26334cb4ee2sembde56sdxd2m;<span class="tone4">下</span><span class="tone3">雪</span>;<span class="tone4">xià</span><span class="tone3">xuě</span>;sneeuwen;[sound:xia4xue3.mp3];jaar1 week118
-la6rv6t9vg2tvhid95vh7mou8lkycsi0;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week116 week118
-fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week116 week118
+la6rv6t9vg2tvhid95vh7mou8lkycsi0;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week116 week118 jaar2 week217
+fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week116 week118 jaar2 week217
 yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];jaar1 week118 week123 les08
 pulpvxksh49yoiwlltfuyh5t6eauqmg6;<span class="tone2">河</span>;<span class="tone2">hé</span>;rivier;[sound:he2.mp3];jaar1 week118
 r7zj05suau5t2hlxi6o6eizy5ubiwjf6;<span class="tone2">湖</span>;<span class="tone2">hú</span>;meer;[sound:hu2.mp3];jaar1 week118

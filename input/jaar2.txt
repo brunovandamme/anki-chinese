@@ -317,3 +317,24 @@ bkb112hpddv6jbs2zq2unyy4kvw3gxff;检查身体;het onderzoeken van iemands lichaa
 hytkv66koya8r92r3i06wew3zskfbwlr;打针;het zetten van een spuit
 i3fzqljzmon2339hlfsh0yvcqo9amaqd;喉咙;keel, hals
 6xienfbdblbo1516wf7ax3q35ry5ui0f;对我来说;wat mij betreft
+
+week217
+5tysjw9why9jwixh8udg8irw2zh2zj7v;药房;apotheek
+qdy1dvsss1sh38tb19b5wry0ej1fyorl;粒;maatwoord voor medicijnen: kleine pilletjes
+k44t4eg5k9lwdlsochxlghh5kgql1wma;片;maatwoord voor medicijnen: tablet
+da13b49vgznkf563e9ldntryk6rs4qgh;开刀;opereren
+yfbtptzph8en8v1iztcpsslk03ohazqs;打点滴;een infuus steken
+o5xe7l5osi27su2alb8imgxfmm8bp7k6;小便;pipi
+zssefqne9wwcsus7m7uu1ob6gt3ll0ft;大便;kaka
+j2501dauxrujx1qv7eq95c6ytzx5hujh;血;bloed (soms ook uitgesproken als xuě of xuè)
+vkq2jv6m8i3296wf5ftkx5xjqyy4bkhg;次;keer
+w27s0al590100wqdn68lz1215omvcttp;饭前吃;voor het eten te nemen
+1aanx8q6eldpwddkre4fe7f6lusxkgwn;饭后吃;na het eten te nemen
+zirvjsbroxp4l0eq18njm5qq4u0u9mgo;所以;daarom
+j3h0749ewptp54f4lzplih19gf4h8rh0;大夫;dokter
+0tb4x8cs5k9o4b8kvfvgd96w2z8nwtkp;吐;overgeven
+viu5qobegdp04b3bbpkr79znj1uxj9ou;儿童;kind
+nuut6tdza4rvi1aa9d4wzzpo9tfhwt6i;开水;gekookt water
+8jasdzamqww8xhbcm8u9h9aekez84h5d;热;warm
+y3mwsrt00e7hq6reqnk8t9qsabjqghim;温;lauw
+r93sp02cfe1id0v5e6peahc0m5ftrzx9;冷;koud

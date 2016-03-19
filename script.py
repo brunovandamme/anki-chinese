@@ -62,13 +62,24 @@ for inputFilename in config['input']['filenames']:
 				elif len(parts) == 3:
 					cardHanzi, cardPinyin, cardTranslation = parts
 					cardHanzi = unicode(cardHanzi, 'utf-8')
-					cardPinyin = unicode(cardPinyin, 'utf-8')				
+					cardPinyin = unicode(cardPinyin, 'utf-8')
 
 				cards.append({ 'id': cardID, 'hanzi': cardHanzi, 'pinyin': cardPinyin, 'translation': cardTranslation, 'tag': tag, 'tags': [fileTag, tag] })
 
 	with open(config['input']['path'] + inputFilename, 'w') as outputFile:
 		for line in hashedCards:
 			outputFile.write(line)
+
+# Count different characters
+chars = []
+for card in cards:
+	index = 0
+	while index < len(card['hanzi']):
+		char = card['hanzi'][index]
+		if char not in chars:
+			chars.append(char)
+		index = index + 1
+print 'Total of', len(chars), 'characters'
 
 # Filter and merge duplicates
 merges = []

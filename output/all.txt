@@ -272,8 +272,8 @@ u9jgrinpk6atv5y3t9str57hunk3medw;<span class="tone3">长</span>;<span class="ton
 cj0hkp0kdnp8q6tgg712a8o8rd2b89h2;<span class="tone4">为</span><span class="tone2">什</span><span class="tone5">么</span>;<span class="tone4">wèi</span><span class="tone2">shén</span><span class="tone5">me</span>;waarom?;[sound:wei4shen2me5.mp3];jaar1 week116
 asfinxw4q1wrzkm6tvhp1epxt4mju8sl;<span class="tone3">怎</span><span class="tone5">么</span><span class="tone4">样</span>;<span class="tone3">zěn</span><span class="tone5">me</span><span class="tone4">yàng</span>;wat (denk je) van?;[sound:zen3me5yang4.mp3];jaar1 week116 les06
 3kcjn98o6k5c2ga9ang0lji2a91c928w;<span class="tone3">有</span><span class="tone1">一</span><span class="tone3">点</span>..;<span class="tone3">yǒu</span><span class="tone1">yī</span><span class="tone3">diǎn</span>..;een beetje ..;[sound:you3yi1dian3.mp3];jaar1 week116
-la6rv6t9vg2tvhid95vh7mou8lkycsi0;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week116 week118
-fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week116 week118
+la6rv6t9vg2tvhid95vh7mou8lkycsi0;<span class="tone3">冷</span>;<span class="tone3">lěng</span>;koud;[sound:leng3.mp3];jaar1 week116 week118 jaar2 week217
+fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];jaar1 week116 week118 jaar2 week217
 34k53505mia0t5upxalisc8mwz1mvs7g;<span class="tone4">电</span><span class="tone3">影</span><span class="tone4">院</span>;<span class="tone4">diàn</span><span class="tone3">yǐng</span><span class="tone4">yuàn</span>;cinema;[sound:dian4ying3yuan4.mp3];jaar1 week116
 4ixqk5qaysycdl43m0mlrnniyr7talac;<span class="tone1">京</span><span class="tone4">剧</span>;<span class="tone1">Jīng</span><span class="tone4">jù</span>;beijing opera;[sound:jing1ju4.mp3];jaar1 week116 week118 les06
 4gffwmatoviaxh7s23x0y5ydokf0blsl;<span class="tone1">吃</span><span class="tone3">水</span><span class="tone3">饺</span>;<span class="tone1">chī</span><span class="tone3">shuǐ</span><span class="tone3">jiǎo</span>;(gekookte) dumplings eten;[sound:chi1shui3jiao3.mp3];jaar1 week116
@@ -533,7 +533,7 @@ lfv4p592zysma56j76um04x3dg9d8sl9;<span class="tone4">差</span>;<span class="ton
 a7hv3n2hojmy3tpeshvmuxakov2zmeal;<span class="tone4">半</span>;<span class="tone4">bàn</span>;half;[sound:ban4.mp3];jaar2 week206
 z391jmfbybe7yt467xuj4szomn59p0jv;<span class="tone4">刻</span>;<span class="tone4">kè</span>;kwartier;[sound:ke4.mp3];jaar2 week206
 jpa87v5qc53g99rnnuaje8t1o9jfycgc;<span class="tone3">起</span><span class="tone2">床</span>;<span class="tone3">qǐ</span><span class="tone2">chuáng</span>;het opstaan uit bed, opstaan;[sound:qi3chuang2.mp3];jaar2 week206 week211
-lvlke32u4jhyprwtlph1egrbmhgg11gt;<span class="tone4">次</span>;<span class="tone4">cì</span>;keer;[sound:ci4.mp3];jaar2 week206
+lvlke32u4jhyprwtlph1egrbmhgg11gt;<span class="tone4">次</span>;<span class="tone4">cì</span>;keer;[sound:ci4.mp3];jaar2 week206 week217
 ihg5vw19lpfupi6ui9mb7mmz6augnno1;<span class="tone4">事</span>;<span class="tone4">shì</span>;ding, iets (niet tastbaar);[sound:shi4.mp3];jaar2 week206
 n9w4ugjadr8y6ul90wwyv7e5pt5yezvf;<span class="tone2">银</span><span class="tone2">行</span>;<span class="tone2">yín</span><span class="tone2">háng</span>;bank;[sound:yin2hang2.mp3];jaar2 week207
 gzwb5d1grcwug46fet3v99yb43qvime5;<span class="tone1">开</span><span class="tone2">门</span>;<span class="tone1">kāi</span><span class="tone2">mén</span>;het openen van de deuren, open zijn;[sound:kai1men2.mp3];jaar2 week207
@@ -651,7 +651,7 @@ bain3g4twxarxozbzbx6uki3s3o86rih;<span class="tone1">中</span><span class="tone
 wb5v89psad4exjvlv0ayf8siyzmx78gv;<span class="tone1">西</span><span class="tone4">药</span>;<span class="tone1">xī</span><span class="tone4">yào</span>;westerse medicijnen;[sound:xi1yao4.mp3];jaar2 week215
 yw3ohe6rlhlodiqtkbc738mxur0s35q3;<span class="tone4">锻</span><span class="tone4">炼</span>;<span class="tone4">duàn</span><span class="tone4">liàn</span>;lichaamsbeweging hebben;[sound:duan4lian4.mp3];jaar2 week215
 rxmlloavw5hxfibjiwec14xqnwmvgxbe;<span class="tone2">从</span><span class="tone2">来</span><span class="tone4">不</span>;<span class="tone2">cóng</span><span class="tone2">lái</span><span class="tone4">bù</span>;nooit;[sound:cong2lai2bu4.mp3];jaar2 week215
-wbd1553fcqtgkxgx738p9hp18bbbf3n3;<span class="tone1">开</span><span class="tone3">水</span>;<span class="tone1">kāi</span><span class="tone3">shuǐ</span>;gekookt water;[sound:kai1shui3.mp3];jaar2 week215
+wbd1553fcqtgkxgx738p9hp18bbbf3n3;<span class="tone1">开</span><span class="tone3">水</span>;<span class="tone1">kāi</span><span class="tone3">shuǐ</span>;gekookt water;[sound:kai1shui3.mp3];jaar2 week215 week217
 pu190afvb9myg3l5bkcy2juj3vvjba4z;<span class="tone2">糖</span>;<span class="tone2">táng</span>;suiker;[sound:tang2.mp3];jaar2 week215
 1ctky79vefkxp6uymb4s8by4m5q9nqu0;<span class="tone3">你</span><span class="tone3">怎</span><span class="tone5">么</span><span class="tone5">了</span>?;<span class="tone3">nǐ</span><span class="tone3">zěn</span><span class="tone5">me</span><span class="tone5">le</span>?;wat scheelt er met je?;[sound:ni3zen3me5le5.mp3];jaar2 week216
 xo8btnqr5o0otocbubo5fsiw1rc57iib;<span class="tone3">你</span><span class="tone3">哪</span><span class="tone5">儿</span><span class="tone4">不</span><span class="tone1">舒</span><span class="tone2">服</span>?;<span class="tone3">nǐ</span><span class="tone3">nǎ</span><span class="tone5">r</span><span class="tone4">bù</span><span class="tone1">shū</span><span class="tone2">fú</span>?;waar voel je je niet goed?;[sound:ni3na3r5bu4shu1fu2.mp3];jaar2 week216
@@ -669,3 +669,18 @@ bkb112hpddv6jbs2zq2unyy4kvw3gxff;<span class="tone3">检</span><span class="tone
 hytkv66koya8r92r3i06wew3zskfbwlr;<span class="tone3">打</span><span class="tone1">针</span>;<span class="tone3">dǎ</span><span class="tone1">zhēn</span>;het zetten van een spuit;[sound:da3zhen1.mp3];jaar2 week216
 i3fzqljzmon2339hlfsh0yvcqo9amaqd;<span class="tone2">喉</span><span class="tone2">咙</span>;<span class="tone2">hóu</span><span class="tone2">lóng</span>;keel, hals;[sound:hou2long2.mp3];jaar2 week216
 6xienfbdblbo1516wf7ax3q35ry5ui0f;<span class="tone4">对</span><span class="tone3">我</span><span class="tone2">来</span><span class="tone1">说</span>;<span class="tone4">duì</span><span class="tone3">wǒ</span><span class="tone2">lái</span><span class="tone1">shuō</span>;wat mij betreft;[sound:dui4wo3lai2shuo1.mp3];jaar2 week216
+5tysjw9why9jwixh8udg8irw2zh2zj7v;<span class="tone4">药</span><span class="tone2">房</span>;<span class="tone4">yào</span><span class="tone2">fáng</span>;apotheek;[sound:yao4fang2.mp3];jaar2 week217
+qdy1dvsss1sh38tb19b5wry0ej1fyorl;<span class="tone4">粒</span>;<span class="tone4">lì</span>;maatwoord voor medicijnen: kleine pilletjes;[sound:li4.mp3];jaar2 week217
+k44t4eg5k9lwdlsochxlghh5kgql1wma;<span class="tone4">片</span>;<span class="tone4">piàn</span>;maatwoord voor medicijnen: tablet;[sound:pian4.mp3];jaar2 week217
+da13b49vgznkf563e9ldntryk6rs4qgh;<span class="tone1">开</span><span class="tone1">刀</span>;<span class="tone1">kāi</span><span class="tone1">dāo</span>;opereren;[sound:kai1dao1.mp3];jaar2 week217
+yfbtptzph8en8v1iztcpsslk03ohazqs;<span class="tone3">打</span><span class="tone3">点</span><span class="tone1">滴</span>;<span class="tone3">dǎ</span><span class="tone3">diǎn</span><span class="tone1">dī</span>;een infuus steken;[sound:da3dian3di1.mp3];jaar2 week217
+o5xe7l5osi27su2alb8imgxfmm8bp7k6;<span class="tone3">小</span><span class="tone4">便</span>;<span class="tone3">xiǎo</span><span class="tone4">biàn</span>;pipi;[sound:xiao3bian4.mp3];jaar2 week217
+zssefqne9wwcsus7m7uu1ob6gt3ll0ft;<span class="tone4">大</span><span class="tone4">便</span>;<span class="tone4">dà</span><span class="tone4">biàn</span>;kaka;[sound:da4bian4.mp3];jaar2 week217
+j2501dauxrujx1qv7eq95c6ytzx5hujh;<span class="tone4">血</span>;<span class="tone4">xuè</span>;bloed (soms ook uitgesproken als xuě of xuè);[sound:xue4.mp3];jaar2 week217
+w27s0al590100wqdn68lz1215omvcttp;<span class="tone4">饭</span><span class="tone2">前</span><span class="tone1">吃</span>;<span class="tone4">fàn</span><span class="tone2">qián</span><span class="tone1">chī</span>;voor het eten te nemen;[sound:fan4qian2chi1.mp3];jaar2 week217
+1aanx8q6eldpwddkre4fe7f6lusxkgwn;<span class="tone4">饭</span><span class="tone4">后</span><span class="tone1">吃</span>;<span class="tone4">fàn</span><span class="tone4">hòu</span><span class="tone1">chī</span>;na het eten te nemen;[sound:fan4hou4chi1.mp3];jaar2 week217
+zirvjsbroxp4l0eq18njm5qq4u0u9mgo;<span class="tone3">所</span><span class="tone3">以</span>;<span class="tone3">suǒ</span><span class="tone3">yǐ</span>;daarom;[sound:suo3yi3.mp3];jaar2 week217
+j3h0749ewptp54f4lzplih19gf4h8rh0;<span class="tone4">大</span><span class="tone5">夫</span>;<span class="tone4">dài</span><span class="tone5">fu</span>;dokter;[sound:dai4fu5.mp3];jaar2 week217
+0tb4x8cs5k9o4b8kvfvgd96w2z8nwtkp;<span class="tone3">吐</span>;<span class="tone3">tǔ</span>;overgeven;[sound:tu3.mp3];jaar2 week217
+viu5qobegdp04b3bbpkr79znj1uxj9ou;<span class="tone2">儿</span><span class="tone2">童</span>;<span class="tone2">ér</span><span class="tone2">tóng</span>;kind;[sound:er2tong2.mp3];jaar2 week217
+y3mwsrt00e7hq6reqnk8t9qsabjqghim;<span class="tone1">温</span>;<span class="tone1">wēn</span>;lauw;[sound:wen1.mp3];jaar2 week217
