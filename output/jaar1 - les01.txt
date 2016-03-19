@@ -1,6 +1,6 @@
-vhbh7ydaqnx4za9vgfad9c31gf9uufc5;<span class="tone3">你</span>;<span class="tone3">nǐ</span>;jij;[sound:ni3.mp3];jaar1 week101 les01 les03
-n8ohlntnuxb3q0og15ude4uw920pe00l;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];jaar1 week102 les01 les05
-bxthny4yy6mjv154132p75mauynrmpvs;<span class="tone5">吗</span>;<span class="tone5">ma</span>;(vraagpartikel);[sound:ma5.mp3];jaar1 les01 les02
-0iyyk7lgfyw5qd8qdi6ysvbsurt9jlm7;<span class="tone3">我</span>;<span class="tone3">wǒ</span>;ik;[sound:wo3.mp3];jaar1 week101 les01 les05
-zn3mhcerg5ni21pggllkxqxrw1511ckf;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];jaar1 week102 les01 les07
-vyjp8aqt9wp3c5wxqqwnc05n4bloudio;<span class="tone3">也</span>;<span class="tone3">yě</span>;ook;[sound:ye3.mp3];jaar1 week102 les01
+vhbh7ydaqnx4za9vgfad9c31gf9uufc5;<span class="tone3">你</span>;<span class="tone3">nǐ</span>;jij;[sound:ni3.mp3];;jaar1 week101 les01 les03
+n8ohlntnuxb3q0og15ude4uw920pe00l;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];;jaar1 week102 les01 les05
+bxthny4yy6mjv154132p75mauynrmpvs;<span class="tone5">吗</span>;<span class="tone5">ma</span>;(vraagpartikel);[sound:ma5.mp3];;jaar1 les01 les02
+0iyyk7lgfyw5qd8qdi6ysvbsurt9jlm7;<span class="tone3">我</span>;<span class="tone3">wǒ</span>;ik;[sound:wo3.mp3];;jaar1 week101 les01 les05
+zn3mhcerg5ni21pggllkxqxrw1511ckf;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];;jaar1 week102 les01 les07
+vyjp8aqt9wp3c5wxqqwnc05n4bloudio;<span class="tone3">也</span>;<span class="tone3">yě</span>;ook;[sound:ye3.mp3];;jaar1 week102 les01

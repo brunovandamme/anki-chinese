@@ -1,43 +1,42 @@
-tmkfy9szn4uwgnefcr978czqvs1lnexg;<span class="tone1">家</span>;<span class="tone1">jiā</span>;thuis;[sound:jia1.mp3];jaar1 week108 les08
-o85emzkn3mxr1nnhw995vqhvyjyercv0;<span class="tone3">几</span>;<span class="tone3">jǐ</span>;hoeveel (+ maatwoord)?;[sound:ji3.mp3];jaar1 week121 les08
-lfup5muesc828g2tnw2omra4ta5f3o09;<span class="tone3">口</span>;<span class="tone3">kǒu</span>;(maatwoord voor mensen in een gezin);[sound:kou3.mp3];jaar1 week123 les08
-5wmimb1u7mnqlbwczg770cy1ydcblnlx;<span class="tone4">照</span><span class="tone4">片</span>;<span class="tone4">zhào</span><span class="tone4">piàn</span>;foto;[sound:zhao4pian4.mp3];jaar1 week119 week121 les08
-vdstmufij74zw6x0xiq77q46dn5rhhw9;<span class="tone2">和</span>;<span class="tone2">hé</span>;en, met;[sound:he2.mp3];jaar1 les08
-ee2f3koug06efzux7wu1pjt5bo4b24fj;<span class="tone4">个</span>;<span class="tone4">gè</span>;stuk (maatwoord);[sound:ge4.mp3];jaar1 week121 les08
-q18y2el5e29qzhh63dlp48mdoxn881yj;<span class="tone3">姐</span><span class="tone5">姐</span>;<span class="tone3">jiě</span><span class="tone5">jie</span>;oudere zus;[sound:jie3jie5.mp3];jaar1 week105 les08
-4vfh1dtf4yvyhnqwxz1ydq893e8cdwio;<span class="tone3">两</span>;<span class="tone3">liǎng</span>;twee (+ maatwoord);[sound:liang3.mp3];jaar1 week121 les08
-48nyqmt7iuhas83d1uq9nxxmkc1km3qi;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];jaar1 week105 les02 les08
-6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];jaar1 week118 week119 week123 les08 jaar2 week201 week212
-5d07mmytgyyxhb3t88alg0fkc3ykyytg;<span class="tone1">一</span><span class="tone4">共</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>;in totaal;[sound:yi1gong4.mp3];jaar1 week122 week123 les08 jaar2 week209
-syflx9r23z1fj8l72oqikd1l4pjp2bg2;<span class="tone4">妹</span><span class="tone5">妹</span>;<span class="tone4">mèi</span><span class="tone5">mei</span>;jongere zus;[sound:mei4mei5.mp3];jaar1 week105 les08
-a26c56wjtgp9ljmaz10nfgihpdpni1rx;<span class="tone3">小</span>;<span class="tone3">xiǎo</span>;klein;[sound:xiao3.mp3];jaar1 les08
-2mryt658qpmdhot4gni9atpfmqvbagyl;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];jaar1 week112 les08 jaar2 week204
-fun5i0ufl56o5rqp326x3mp4bjr7sul7;<span class="tone1">张</span>;<span class="tone1">zhāng</span>;(maatwoord voor papier);[sound:zhang1.mp3];jaar1 week121 les08
-3i8c88w1hzowscvgihsudf8c9tuwfuk1;<span class="tone1">当</span><span class="tone2">然</span>;<span class="tone1">dāng</span><span class="tone2">rán</span>;natuurlijk;[sound:dang1ran2.mp3];jaar1 week119 les08
-yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];jaar1 week118 week123 les08
-4w7csw2aie3ovooy3y4fuh811hq67l3d;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];jaar1 week109 les08 jaar2 week214
-rzttw3jxq0c42lo7j70n6ncgil2z84z6;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];jaar1 week108 week109 les08
-85wbfs5nk7ge1n8fj8zyfmztqriinfjv;<span class="tone2">没</span>;<span class="tone2">méi</span>;niet (hebben);[sound:mei2.mp3];jaar1 les08
-e6cyhoqa81xtzwxxnea9d91uwtcmyvyd;<span class="tone2">男</span>;<span class="tone2">nán</span>;man;[sound:nan2.mp3];jaar1 les02 les08
-zrqnn70xqjfba8mtuqcdkg3qoaxehcs6;<span class="tone4">做</span>;<span class="tone4">zuò</span>;doen, maken;[sound:zuo4.mp3];jaar1 week112 les08
-9iay3grvcrrxquvzyu25glz7gvv3765t;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];jaar1 week108 les08
-61pb1476as1tzsa5e5qomhie30nt60c4;<span class="tone4">大</span>;<span class="tone4">dà</span>;groot;[sound:da4.mp3];jaar1 les08
-qg71f3qz8s0q1f832124lu2qpwxmo78q;<span class="tone1">多</span><span class="tone3">少</span>;<span class="tone1">duō</span><span class="tone3">shǎo</span>;hoeveel (+ maatwoord)?;[sound:duo1shao3.mp3];jaar1 week121 les08
-lq0ss7ovmvtpzzr0kvtn0kopyljurzw2;<span class="tone1">多</span>;<span class="tone1">duō</span>;veel;[sound:duo1.mp3];jaar1 week106 week112 les08
-acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig;[sound:shao3.mp3];jaar1 week112 les08
-crt4p3xaipo2q5fr3c3ipbinxbsk71nm;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];jaar1 week106 week108 les08
-48031m9zzxvte8d19f86p4wy5mljwva4;<span class="tone4">外</span><span class="tone3">语</span>;<span class="tone4">wài</span><span class="tone3">yǔ</span>;vreemde taal;[sound:wai4yu3.mp3];jaar1 week107 les03 les08
-w67uycambkmlnepndumn13x7npotgcn1;<span class="tone4">外</span>;<span class="tone4">wài</span>;buiten;[sound:wai4.mp3];jaar1 les08
-2tru83re4vy3qiig4rglf6a6j1c1knwl;<span class="tone3">语</span>;<span class="tone3">yǔ</span>;taal;[sound:yu3.mp3];jaar1 les08
-h35nzcqce7cxjcy8yb4czsrhc89kz6wb;<span class="tone4">外</span><span class="tone2">国</span>;<span class="tone4">wài</span><span class="tone2">guó</span>;buitenland;[sound:wai4guo2.mp3];jaar1 week107 les08
-crryew9r1s6dawjn2nryyg2oo68a86e3;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];jaar1 week116 week122 les08 jaar2 week209
-zde7qezknzlxmrg134s9ui7uj5g4dy4o;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];jaar1 week110 les08
-db4u17xa4lh870pbouu18uuhdehy7qy2;<span class="tone2">词</span><span class="tone3">典</span>;<span class="tone2">cí</span><span class="tone3">diǎn</span>;woordenboek;[sound:ci2dian3.mp3];jaar1 les08 jaar2 week214
-i3nyee7087xya9q3x97na5o5h5749deh;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];jaar1 week114 week116 les08
-frl60trk42ra0x3c83w93p7instpdfji;<span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">hái</span><span class="tone5">zi</span>;kind;[sound:hai2zi5.mp3];jaar1 week108 week109 les08
-6t7t76i5grj5u1zzlmoxtnz8921xhgab;<span class="tone2">爷</span><span class="tone5">爷</span>;<span class="tone2">yé</span><span class="tone5">ye</span>;opa (langs vaders kant);[sound:ye2ye5.mp3];jaar1 week109 les08
-xne1bp0jge9o03xhesqopv5p46o63l71;<span class="tone4">外</span><span class="tone1">公</span>;<span class="tone4">wài</span><span class="tone1">gōng</span>;opa (langs moeders kant);[sound:wai4gong1.mp3];jaar1 week109 les08
-16t0x5w862ljphiz959k8eic3mym8hii;<span class="tone4">系</span><span class="tone3">主</span><span class="tone4">任</span>;<span class="tone4">xì</span><span class="tone3">zhǔ</span><span class="tone4">rèn</span>;departementshoofd;[sound:xi4zhu3ren4.mp3];jaar1 les08
-g1jpk09agd9vg4muxhjtmf0nyyksdby9;<span class="tone4">助</span><span class="tone4">教</span>;<span class="tone4">zhù</span><span class="tone4">jiào</span>;onderwijsassistent;[sound:zhu4jiao4.mp3];jaar1 les08
-ch8osoek81rrizk8z84cvs81gls04iu6;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];jaar1 week120 week123 les08
-qlwy4be3rrblinw7wo3cnmfyf7hj3de0;<span class="tone1">工</span><span class="tone2">程</span><span class="tone1">师</span>;<span class="tone1">gōng</span><span class="tone2">chéng</span><span class="tone1">shī</span>;ingenieur;[sound:gong1cheng2shi1.mp3];jaar1 week120 les08
+tmkfy9szn4uwgnefcr978czqvs1lnexg;<span class="tone1">家</span>;<span class="tone1">jiā</span>;thuis;[sound:jia1.mp3];;jaar1 week108 les08
+o85emzkn3mxr1nnhw995vqhvyjyercv0;<span class="tone3">几</span>,<span class="tone1">多</span><span class="tone3">少</span>;<span class="tone3">jǐ</span>,<span class="tone1">duō</span><span class="tone3">shǎo</span>;hoeveel (+ maatwoord)?;[sound:ji3duo1shao3.mp3];;jaar1 week121 les08
+lfup5muesc828g2tnw2omra4ta5f3o09;<span class="tone3">口</span>;<span class="tone3">kǒu</span>;(maatwoord voor mensen in een gezin);[sound:kou3.mp3];;jaar1 week123 les08
+5wmimb1u7mnqlbwczg770cy1ydcblnlx;<span class="tone4">照</span><span class="tone4">片</span>;<span class="tone4">zhào</span><span class="tone4">piàn</span>;foto;[sound:zhao4pian4.mp3];;jaar1 week119 week121 les08
+vdstmufij74zw6x0xiq77q46dn5rhhw9;<span class="tone2">和</span>;<span class="tone2">hé</span>;en, met;[sound:he2.mp3];;jaar1 les08
+ee2f3koug06efzux7wu1pjt5bo4b24fj;<span class="tone4">个</span>;<span class="tone4">gè</span>;stuk (maatwoord);[sound:ge4.mp3];;jaar1 week121 les08
+q18y2el5e29qzhh63dlp48mdoxn881yj;<span class="tone3">姐</span><span class="tone5">姐</span>;<span class="tone3">jiě</span><span class="tone5">jie</span>;oudere zus;[sound:jie3jie5.mp3];;jaar1 week105 les08
+4vfh1dtf4yvyhnqwxz1ydq893e8cdwio;<span class="tone3">两</span>;<span class="tone3">liǎng</span>;twee (+ maatwoord);[sound:liang3.mp3];;jaar1 week121 les08
+48nyqmt7iuhas83d1uq9nxxmkc1km3qi;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];;jaar1 week105 les02 les08
+6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];;jaar1 week118 week119 week123 les08 jaar2 week201 week212
+5d07mmytgyyxhb3t88alg0fkc3ykyytg;<span class="tone1">一</span><span class="tone4">共</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>;in totaal;[sound:yi1gong4.mp3];;jaar1 week122 week123 les08 jaar2 week209
+syflx9r23z1fj8l72oqikd1l4pjp2bg2;<span class="tone4">妹</span><span class="tone5">妹</span>;<span class="tone4">mèi</span><span class="tone5">mei</span>;jongere zus;[sound:mei4mei5.mp3];;jaar1 week105 les08
+a26c56wjtgp9ljmaz10nfgihpdpni1rx;<span class="tone3">小</span>;<span class="tone3">xiǎo</span>;klein;[sound:xiao3.mp3];;jaar1 les08
+2mryt658qpmdhot4gni9atpfmqvbagyl;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];;jaar1 week112 les08 jaar2 week204
+fun5i0ufl56o5rqp326x3mp4bjr7sul7;<span class="tone1">张</span>;<span class="tone1">zhāng</span>;(maatwoord voor papier);[sound:zhang1.mp3];;jaar1 week121 les08
+3i8c88w1hzowscvgihsudf8c9tuwfuk1;<span class="tone1">当</span><span class="tone2">然</span>;<span class="tone1">dāng</span><span class="tone2">rán</span>;natuurlijk;[sound:dang1ran2.mp3];;jaar1 week119 les08
+yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];;jaar1 week118 week123 les08
+4w7csw2aie3ovooy3y4fuh811hq67l3d;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];;jaar1 week109 les08 jaar2 week214
+rzttw3jxq0c42lo7j70n6ncgil2z84z6;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];;jaar1 week108 week109 les08
+85wbfs5nk7ge1n8fj8zyfmztqriinfjv;<span class="tone2">没</span>;<span class="tone2">méi</span>;niet (hebben);[sound:mei2.mp3];;jaar1 les08
+s8lbtqaqgghk1759nipkkvui1wi92csj;<span class="tone2">男</span><span class="tone2">人</span>,<span class="tone2">男</span>;<span class="tone2">nán</span><span class="tone2">rén</span>,<span class="tone2">nán</span>;man;[sound:nan2ren2nan2.mp3];;jaar1 week105 les02 les08
+zrqnn70xqjfba8mtuqcdkg3qoaxehcs6;<span class="tone4">做</span>;<span class="tone4">zuò</span>;doen, maken;[sound:zuo4.mp3];;jaar1 week112 les08
+9iay3grvcrrxquvzyu25glz7gvv3765t;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];;jaar1 week108 les08
+61pb1476as1tzsa5e5qomhie30nt60c4;<span class="tone4">大</span>;<span class="tone4">dà</span>;groot;[sound:da4.mp3];;jaar1 les08
+lq0ss7ovmvtpzzr0kvtn0kopyljurzw2;<span class="tone1">多</span>;<span class="tone1">duō</span>;veel;[sound:duo1.mp3];;jaar1 week106 week112 les08
+acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig;[sound:shao3.mp3];;jaar1 week112 les08
+crt4p3xaipo2q5fr3c3ipbinxbsk71nm;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];;jaar1 week106 week108 les08
+48031m9zzxvte8d19f86p4wy5mljwva4;<span class="tone4">外</span><span class="tone3">语</span>;<span class="tone4">wài</span><span class="tone3">yǔ</span>;vreemde taal;[sound:wai4yu3.mp3];;jaar1 week107 les03 les08
+w67uycambkmlnepndumn13x7npotgcn1;<span class="tone4">外</span>;<span class="tone4">wài</span>;buiten;[sound:wai4.mp3];;jaar1 les08
+nmvfsiclwoyw6k691bdsm4ojymnji241;<span class="tone3">语</span><span class="tone2">言</span>,<span class="tone3">语</span>;<span class="tone3">yǔ</span><span class="tone2">yán</span>,<span class="tone3">yǔ</span>;taal;[sound:yu3yan2yu3.mp3];;jaar1 les04 les08
+h35nzcqce7cxjcy8yb4czsrhc89kz6wb;<span class="tone4">外</span><span class="tone2">国</span>;<span class="tone4">wài</span><span class="tone2">guó</span>;buitenland;[sound:wai4guo2.mp3];;jaar1 week107 les08
+crryew9r1s6dawjn2nryyg2oo68a86e3;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];;jaar1 week116 week122 les08 jaar2 week209
+zde7qezknzlxmrg134s9ui7uj5g4dy4o;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];;jaar1 week110 les08
+db4u17xa4lh870pbouu18uuhdehy7qy2;<span class="tone2">词</span><span class="tone3">典</span>;<span class="tone2">cí</span><span class="tone3">diǎn</span>;woordenboek;[sound:ci2dian3.mp3];;jaar1 les08 jaar2 week214
+i3nyee7087xya9q3x97na5o5h5749deh;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];;jaar1 week114 week116 les08
+frl60trk42ra0x3c83w93p7instpdfji;<span class="tone2">孩</span><span class="tone5">子</span>,<span class="tone2">儿</span><span class="tone2">童</span>;<span class="tone2">hái</span><span class="tone5">zi</span>,<span class="tone2">ér</span><span class="tone2">tóng</span>;kind;[sound:hai2zi5er2tong2.mp3];;jaar1 week108 week109 les08 jaar2 week217
+6t7t76i5grj5u1zzlmoxtnz8921xhgab;<span class="tone2">爷</span><span class="tone5">爷</span>;<span class="tone2">yé</span><span class="tone5">ye</span>;opa (langs vaders kant);[sound:ye2ye5.mp3];;jaar1 week109 les08
+xne1bp0jge9o03xhesqopv5p46o63l71;<span class="tone4">外</span><span class="tone1">公</span>;<span class="tone4">wài</span><span class="tone1">gōng</span>;opa (langs moeders kant);[sound:wai4gong1.mp3];;jaar1 week109 les08
+16t0x5w862ljphiz959k8eic3mym8hii;<span class="tone4">系</span><span class="tone3">主</span><span class="tone4">任</span>;<span class="tone4">xì</span><span class="tone3">zhǔ</span><span class="tone4">rèn</span>;departementshoofd;[sound:xi4zhu3ren4.mp3];;jaar1 les08
+g1jpk09agd9vg4muxhjtmf0nyyksdby9;<span class="tone4">助</span><span class="tone4">教</span>;<span class="tone4">zhù</span><span class="tone4">jiào</span>;onderwijsassistent;[sound:zhu4jiao4.mp3];;jaar1 les08
+ch8osoek81rrizk8z84cvs81gls04iu6;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];;jaar1 week120 week123 les08
+qlwy4be3rrblinw7wo3cnmfyf7hj3de0;<span class="tone1">工</span><span class="tone2">程</span><span class="tone1">师</span>;<span class="tone1">gōng</span><span class="tone2">chéng</span><span class="tone1">shī</span>;ingenieur;[sound:gong1cheng2shi1.mp3];;jaar1 week120 les08

@@ -1,825 +1,818 @@
 week101
-2ply8ff0s6cmh9rtn8mqaeo0arl3cv6n;你好;hallo
-0iyyk7lgfyw5qd8qdi6ysvbsurt9jlm7;我;ik
-o8t8u4jrgczvr6as1defrj9ym6nrz6ic;是;zijn
-vkzh4u6rl41w6ihzdfelutb4jug22plm;老师;leerkracht
-mw5f4mnhn69vyeizfuandvva7bse92dk;汉语;chinees (taal)
-zdza1ijmo642tvvphvfhoho7ifk6561g;汉语老师;leerkracht Chinees
-mp2ckc9l4jbi1d8htukxpq88jwfx8xbb;中国;China
-fyxu7krgovv52sgrqwrtlmzrrehw5zwq;叫;heten
-vhbh7ydaqnx4za9vgfad9c31gf9uufc5;你;jij
-72zzvjibes35ah5785k8k08rfwgrhmd9;什么;wat?
-hzscp81bvomgjcni1ik19s646tj3ujky;他;hij
-cbfz8h9ne6psc2t355769l52thp7mqr0;她;zij (vrouwelijk enkelvoud)
-kpob8slzu8zbirwpo7xgm8bd664pww67;不;niet, geen
-ve7bbsud6nouxuq1nt09voxj8cpmnd9c;学生;student
-ya9vw2ns44wc77rqy9xw40468l6994rs;对;juist, correct
-ijz8ft9cj7mwnncqf3gv4ch3pvfe8r6o;不对;niet juist
-mhxb3fsnzkygbycolprtp013umh9i1au;要;willen, hebben, moeten
-bcnbxcu1gfp31b7nhg3qoqrwtt285j8o;休息;rusten, pauzeren, rust, pauze
-stvg2dkkuc49i8r0hr7yd5hqvmro16cu;知道;weten
-e5288d75xmnmnd5hoid1rj83kmg2vjo0;我不知道;ik weet het niet
-ao5jplhad8kz3vrku9ipuivmtjqb3vta;难;moeilijk
-v8nlst6uxh4akr281ai2gp9y1rn5ikhj;学习汉语不难;Chinees leren is niet moeilijk
-31c4nz5wyolibfqgupdzm4jtp1c52bn2;好玩;leuk, amusant
-uu86oe4n14clzm7za3s3xj7ye6o6pzfy;学习汉语很好玩;Chinees leren is leuk
-hf8muyqa7olg3zdp6vr0r2egk9ekgsv1;再见;tot ziens
+2ply8ff0s6cmh9rtn8mqaeo0arl3cv6n;你好;hallo;
+0iyyk7lgfyw5qd8qdi6ysvbsurt9jlm7;我;ik;
+o8t8u4jrgczvr6as1defrj9ym6nrz6ic;是;zijn;
+vkzh4u6rl41w6ihzdfelutb4jug22plm;老师;leerkracht;
+mw5f4mnhn69vyeizfuandvva7bse92dk;汉语;chinees (taal);
+zdza1ijmo642tvvphvfhoho7ifk6561g;汉语老师;leerkracht Chinees;
+mp2ckc9l4jbi1d8htukxpq88jwfx8xbb;中国;China;
+fyxu7krgovv52sgrqwrtlmzrrehw5zwq;叫;heten;
+vhbh7ydaqnx4za9vgfad9c31gf9uufc5;你;jij;
+72zzvjibes35ah5785k8k08rfwgrhmd9;什么;wat?;
+hzscp81bvomgjcni1ik19s646tj3ujky;他;hij;
+cbfz8h9ne6psc2t355769l52thp7mqr0;她;zij (vrouwelijk enkelvoud);
+kpob8slzu8zbirwpo7xgm8bd664pww67;不;niet, geen;
+ve7bbsud6nouxuq1nt09voxj8cpmnd9c;学生;student;
+ya9vw2ns44wc77rqy9xw40468l6994rs;对;juist, correct;
+ijz8ft9cj7mwnncqf3gv4ch3pvfe8r6o;不对;niet juist;
+mhxb3fsnzkygbycolprtp013umh9i1au;要;willen, hebben, moeten;
+bcnbxcu1gfp31b7nhg3qoqrwtt285j8o;休息;rusten, pauzeren, rust, pauze;
+stvg2dkkuc49i8r0hr7yd5hqvmro16cu;知道;weten;ik weet het niet:我不知道
+ao5jplhad8kz3vrku9ipuivmtjqb3vta;难;moeilijk;Chinees leren is niet moeilijk:学习汉语不难
+31c4nz5wyolibfqgupdzm4jtp1c52bn2;好玩;leuk, amusant;Chinees leren is leuk:学习汉语很好玩
+hf8muyqa7olg3zdp6vr0r2egk9ekgsv1;再见;tot ziens;
 
 week102
-1vvnyohxdggom6do8b20kz5agfl6pdoo;你们好;hallo (tegen meerdere mensen)
-gfh5h8trwitiss9jgyos7jrx0fq94i2k;我们;wij
-67l3z7wowdn2bfk8j2017je6c1za8htk;你们;jullie
-66yblstb7em24p69fy1wbeh2mg99tanp;他们;zij (mannelijk meervoud)
-k061wh27970j75sbcu5tpojqezz9pfiz;她们;zij (vrouwelijk meervoud)
-n8ohlntnuxb3q0og15ude4uw920pe00l;好;goed
-zn3mhcerg5ni21pggllkxqxrw1511ckf;很;heel
-p3c22cmwrv4horjeubn6u5pja4njbrue;不;niet, geen
-qwlne2b50bwq4zb1fco0vot37w85s29z;呢;en ...?
-vyjp8aqt9wp3c5wxqqwnc05n4bloudio;也;ook
-ki73o4s9eplah9lcrcy5qclahjk80a9s;都;allen, allemaal, beiden
-j9mgh4wvrvfzmmrjj4xlt2v75rmgwt5a;爸爸;papa
-z8xixuc9ovxyaajwtjtwvkbrurntsho7;妈妈;mama
-a5u1yke7x1gk8oppehfmpo80qfwzgvhp;比利时;België
-k40nvzbydzy09nc4n8qr0qxdxonw8zf1;知道;weten
-k3m14fx4f300ia2n0kfr7beod3281zci;说;(iets) zeggen, (een taal) spreken
-yhi67w7gk7gxjshdvkews5rmn9u45jtm;请你再说一遍;gelieve het nog een keer te zeggen
-btx7elnr7op6d8ymcevxohxpr8we0yg2;在;aanwezig zijn, te ...
-wn495tjw9y923lrhacl42antvtsn6458;谢谢;bedankt, dankuwel
-kga5wrwls5aaojji5wwmhtxr1q2612v5;再见;tot ziens
+1vvnyohxdggom6do8b20kz5agfl6pdoo;你们好;hallo (tegen meerdere mensen);
+gfh5h8trwitiss9jgyos7jrx0fq94i2k;我们;wij;
+67l3z7wowdn2bfk8j2017je6c1za8htk;你们;jullie;
+66yblstb7em24p69fy1wbeh2mg99tanp;他们;zij (mannelijk meervoud);
+k061wh27970j75sbcu5tpojqezz9pfiz;她们;zij (vrouwelijk meervoud);
+n8ohlntnuxb3q0og15ude4uw920pe00l;好;goed;
+zn3mhcerg5ni21pggllkxqxrw1511ckf;很;heel;
+p3c22cmwrv4horjeubn6u5pja4njbrue;不;niet, geen;
+qwlne2b50bwq4zb1fco0vot37w85s29z;呢;en ...?;
+vyjp8aqt9wp3c5wxqqwnc05n4bloudio;也;ook;
+ki73o4s9eplah9lcrcy5qclahjk80a9s;都;allen, allemaal, beiden;
+j9mgh4wvrvfzmmrjj4xlt2v75rmgwt5a;爸爸;papa;
+z8xixuc9ovxyaajwtjtwvkbrurntsho7;妈妈;mama;
+a5u1yke7x1gk8oppehfmpo80qfwzgvhp;比利时;België;
+k40nvzbydzy09nc4n8qr0qxdxonw8zf1;知道;weten;
+k3m14fx4f300ia2n0kfr7beod3281zci;说;(iets) zeggen, (een taal) spreken;gelieve het nog een keer te zeggen:请你再说一遍
+btx7elnr7op6d8ymcevxohxpr8we0yg2;在;aanwezig zijn, te ...;
+wn495tjw9y923lrhacl42antvtsn6458;谢谢;bedankt, dankuwel;
+kga5wrwls5aaojji5wwmhtxr1q2612v5;再见;tot ziens;
 
 week103
-bvv0emkjyp4vy9ohiwj1m3r4zwg6zrfg;我不知道;ik weet het niet
-0e6oliabg8n7o6nigcrlodzgs7r1xyu4;请你再说一遍;gelieve het nog een keer te zeggen
-p7dt99jt4la28xbnt758u69x6aazedge;你说什么?;wat zeg je?
-hy4r4h926louhvmvlujshis5cdlj2ivu;谢谢;bedankt, dankuwel
-rmdjji9usj6mk88jhq2brdpyyv20wcvt;给你;alsjeblieft (ik geef het jou)
-azrz8jxd5wtciifh19alviuwxx60ggiy;在;aanwezig zijn, te ...
-gyoyljysqdtgwyenvyrtmhxfqu0434pz;再见;tot ziens
-0wkb3tq77v1md0vzfai3ykgjnhdqulmu;忙;druk
-ctkdes0go6ccboqxz6jqjsw261d8ks3h;高;hoog, groot
-c4r1c9jj118port6j2g646xs3o40bar4;朋友;vriend
-0hga3nd4d1gd46u5uzkzae3ieu3itzgy;男朋友;vriend, je lief (een man waarmee je een relatie hebt)
-ai7a79nw3qmirgh9ihngn41ybkxrgp88;女朋友;vriendin, je lief (een vrouw waarmee je een relatie hebt)
-fs36xyxy1bvunfws4ojuepcji0n9jkot;休息;rusten, pauzeren, rust, pauze
-d9abmcks1ysi3rwjwsm8n6i3h9nd9t4u;要;willen, hebben, moeten
-p8owpd4w2rdlb5kl8s6ubp36qcbwm08q;你们要休息吗?;willen jullie pauze?
-j9tzrlb7ga0p0acis0l6wdhvm8z2nadc;汉字;Chinese karakters
+bvv0emkjyp4vy9ohiwj1m3r4zwg6zrfg;知道;weten;ik weet het niet:我不知道
+0e6oliabg8n7o6nigcrlodzgs7r1xyu4;说;(iets) zeggen, (een taal) spreken;gelieve het nog een keer te zeggen:请你再说一遍,wat zeg je?:你说什么?
+hy4r4h926louhvmvlujshis5cdlj2ivu;谢谢;bedankt, dankuwel;
+rmdjji9usj6mk88jhq2brdpyyv20wcvt;给你;alsjeblieft (ik geef het jou);
+azrz8jxd5wtciifh19alviuwxx60ggiy;在;aanwezig zijn, te ...;
+gyoyljysqdtgwyenvyrtmhxfqu0434pz;再见;tot ziens;
+0wkb3tq77v1md0vzfai3ykgjnhdqulmu;忙;druk;
+ctkdes0go6ccboqxz6jqjsw261d8ks3h;高;hoog, groot;
+c4r1c9jj118port6j2g646xs3o40bar4;朋友;vriend;
+0hga3nd4d1gd46u5uzkzae3ieu3itzgy;男朋友;vriend, je lief (een man waarmee je een relatie hebt);
+ai7a79nw3qmirgh9ihngn41ybkxrgp88;女朋友;vriendin, je lief (een vrouw waarmee je een relatie hebt);
+fs36xyxy1bvunfws4ojuepcji0n9jkot;休息;rusten, pauzeren, rust, pauze;willen jullie pauze?:你们要休息吗?
+d9abmcks1ysi3rwjwsm8n6i3h9nd9t4u;要;willen, hebben, moeten;
+j9tzrlb7ga0p0acis0l6wdhvm8z2nadc;汉字;Chinese karakters;
 
 week104
-v40bj61j1glatgu8puimpt5akm5m6043;喝;drinken
-85saqktbnmbz9nhcrlmnivup08w5bpx1;水;water
-tnthxeomvo0208n855qbg08dzm8ndowy;咖啡;koffie
-ritvwsosl8v6v98h1ft39yj7yakuuj8u;茶;thee
-2vojfke7kgq19megcv5hr59erxwojibj;可乐;cola
-6b75w4s54ecvwlud36x2h2md78b4j7xy;可口可乐;coca cola
-qq62yvuf5wrwrbsgay7pe1l2e3xiwvvx;百事可乐;pepsi cola
-ebbpvvoaft6n4thgpyexjnm563tp4q8e;啤酒;bier
-0bba6n5c58g9lb113lj55uwcctc3n2iq;冰茶;ice-tea, ijsthee
-myjnobg0d7ph2bc0bvh2mjyglmh5e7ah;好喝;lekker (om te drinken)
-xju6mclq5iw99ysedgp9ejntutz7vbwv;台湾;Taiwan
-6mpyzudxprvat2lgtpznd05u7boz22sv;中国;China
-y1don71xo7rkv9f9rguvb0rk2qwlunjt;比利时;België
-80f80v5xdekh2qrsijami5r21qk91x4x;先生;mijnheer, echtgenoot
-hna9wnadfrkk3ivysvc346h4rqi24sgv;太太;mevrouw, echtgenote
+v40bj61j1glatgu8puimpt5akm5m6043;喝;drinken;
+85saqktbnmbz9nhcrlmnivup08w5bpx1;水;water;
+tnthxeomvo0208n855qbg08dzm8ndowy;咖啡;koffie;
+ritvwsosl8v6v98h1ft39yj7yakuuj8u;茶;thee;
+2vojfke7kgq19megcv5hr59erxwojibj;可乐;cola;
+6b75w4s54ecvwlud36x2h2md78b4j7xy;可口可乐;coca cola;
+qq62yvuf5wrwrbsgay7pe1l2e3xiwvvx;百事可乐;pepsi cola;
+ebbpvvoaft6n4thgpyexjnm563tp4q8e;啤酒;bier;
+0bba6n5c58g9lb113lj55uwcctc3n2iq;冰茶;ice-tea, ijsthee;
+myjnobg0d7ph2bc0bvh2mjyglmh5e7ah;好喝;lekker (om te drinken);
+xju6mclq5iw99ysedgp9ejntutz7vbwv;台湾;Taiwan;
+6mpyzudxprvat2lgtpznd05u7boz22sv;中国;China;
+y1don71xo7rkv9f9rguvb0rk2qwlunjt;比利时;België;
+80f80v5xdekh2qrsijami5r21qk91x4x;先生;mijnheer, echtgenoot;
+hna9wnadfrkk3ivysvc346h4rqi24sgv;太太;mevrouw, echtgenote;
 
 week105
-w1oravdbsmudd2qbjf4j3saj70fv2jow;中国;China
-au3dq7gqs84j1wf5f66s0rf3w9fuceii;中国人;een Chinees
-aqdzrck7g5jwzshk4u069j4d0chk0lpm;北京;Beijing, Peking
-hlzkqmiah7gd7wn71ev49lwaftcbv01n;北京人;iemand van Peking
-u5lbrswc0lslpfpp6q978f2unlxi3acp;美国;Verenigde Staten
-35tt0bnwur4nxeldjx3dr486dqvkcpi7;美国人;een Amerikaan
-utao7144c2zb9fb6mpx9gp46j2pis3wf;比利时;België
-uxyscxl3eoxsb5arc6bh7wczh9voguol;比利时人;een Belg
-837gmr5yvv1c36ulxdpwacpw9ylo685w;纽约;New York
-1cay4zii2843fkhjjyyb74yys7hbf7op;纽约人;iemand van New York
-1z03fovs4j0ktrf66wuc5g6fto5du5x0;荷兰;Nederland
-rfpfuj1oqdxmgn0z6cx1wdp6d5uglb7f;荷兰人;een Nederlander
-zuggqrmg3a18a9767iwzongrt9pg2k4x;法国;Frankrijk
-fruwcqgosiitpvghtzdzfctssicvz0cp;法国人;Fransman
-as76v4qbkw9gq42x0k9sb1zvmoueq9p0;德国;Duitsland
-biggc6oqt9sjyw45zoiqlq972mmrhkye;德国人;Duitser
-qjenm6nbz5dd93ycnn0zfz4j68e5bge4;英国;Engeland
-wmwun923i3u94gqbm2wxxcrn7wwileb6;英国人;Engelsman
-3jk3c5fjfdf0yazffeqk4hyclcxpsfxo;西班牙;Spanje
-7n5jx7newcp6734bxh7l9db8ojf9ybcx;西班牙人;Spanjaard
-fatrvs0qfjzhsfawmye62tsfavyucir3;意大利;Italië
-xujwf496yaj4iwq8631a7uhytvv1fu7r;意大利人;Italiaan
-4uy1r35rbrq1daggcxxhmp6tirzwund8;澳大利亚;Australië
-loy1ck3zwqfe1qpaj2y7ypn8s61zvdzw;澳大利亚人;Australiër
-p2luqahougvds9agx88aok1iv4fsz2rw;加拿大;Canada
-eaqrkvrmyxn8vpsyvr0vhrjs1xl4kmo2;加拿大人;Canadees
-l8l5ykdi339uek3aojiytw5vtae85m2s;卢森堡;Luxemburg
-w8i3qx7jz1sp73inbkidhcqdlpeqc3fz;卢森堡人;Luxemburger
-xk1g4rmhydexponpb277rfcnso1hrfpc;奥地利;Oostenrijk
-vxl9zwbvmfbhfnzbkpo3y1q2kudne7vq;奥地利人;Oostenrijker
-jzb4easi9v8rr51nc3vmo5dr421d2zgs;日本;Japan
-bkunhrloylikuel5y9s1csu7zbhhv7ey;日本人;Japanner
-wz2q7m39fxffoft0q4e7cie8rko5jpjy;有;hebben
-jvh4o4q8ggrvmukgtjqwnr0owikxzg8c;没有;niet hebben
-91pgqbe9cq716wssjyrfmkm2lr087y7f;哥哥;oudere broer
-48nyqmt7iuhas83d1uq9nxxmkc1km3qi;弟弟;jongere broer
-q18y2el5e29qzhh63dlp48mdoxn881yj;姐姐;oudere zus
-syflx9r23z1fj8l72oqikd1l4pjp2bg2;妹妹;jongere zus
-7q484zeepe262t2sobrpvjlvz2rlx88m;累;moe
-z4c78gguzp3en4tmp2hisvdtg1kvdfxe;女人;vrouw
-s8lbtqaqgghk1759nipkkvui1wi92csj;男人;man
+w1oravdbsmudd2qbjf4j3saj70fv2jow;中国;China;
+au3dq7gqs84j1wf5f66s0rf3w9fuceii;中国人;een Chinees;
+aqdzrck7g5jwzshk4u069j4d0chk0lpm;北京;Beijing, Peking;
+hlzkqmiah7gd7wn71ev49lwaftcbv01n;北京人;iemand van Peking;
+u5lbrswc0lslpfpp6q978f2unlxi3acp;美国;Verenigde Staten;
+35tt0bnwur4nxeldjx3dr486dqvkcpi7;美国人;een Amerikaan;
+utao7144c2zb9fb6mpx9gp46j2pis3wf;比利时;België;
+uxyscxl3eoxsb5arc6bh7wczh9voguol;比利时人;een Belg;
+837gmr5yvv1c36ulxdpwacpw9ylo685w;纽约;New York;
+1cay4zii2843fkhjjyyb74yys7hbf7op;纽约人;iemand van New York;
+1z03fovs4j0ktrf66wuc5g6fto5du5x0;荷兰;Nederland;
+rfpfuj1oqdxmgn0z6cx1wdp6d5uglb7f;荷兰人;een Nederlander;
+zuggqrmg3a18a9767iwzongrt9pg2k4x;法国;Frankrijk;
+fruwcqgosiitpvghtzdzfctssicvz0cp;法国人;Fransman;
+as76v4qbkw9gq42x0k9sb1zvmoueq9p0;德国;Duitsland;
+biggc6oqt9sjyw45zoiqlq972mmrhkye;德国人;Duitser;
+qjenm6nbz5dd93ycnn0zfz4j68e5bge4;英国;Engeland;
+wmwun923i3u94gqbm2wxxcrn7wwileb6;英国人;Engelsman;
+3jk3c5fjfdf0yazffeqk4hyclcxpsfxo;西班牙;Spanje;
+7n5jx7newcp6734bxh7l9db8ojf9ybcx;西班牙人;Spanjaard;
+fatrvs0qfjzhsfawmye62tsfavyucir3;意大利;Italië;
+xujwf496yaj4iwq8631a7uhytvv1fu7r;意大利人;Italiaan;
+4uy1r35rbrq1daggcxxhmp6tirzwund8;澳大利亚;Australië;
+loy1ck3zwqfe1qpaj2y7ypn8s61zvdzw;澳大利亚人;Australiër;
+p2luqahougvds9agx88aok1iv4fsz2rw;加拿大;Canada;
+eaqrkvrmyxn8vpsyvr0vhrjs1xl4kmo2;加拿大人;Canadees;
+l8l5ykdi339uek3aojiytw5vtae85m2s;卢森堡;Luxemburg;
+w8i3qx7jz1sp73inbkidhcqdlpeqc3fz;卢森堡人;Luxemburger;
+xk1g4rmhydexponpb277rfcnso1hrfpc;奥地利;Oostenrijk;
+vxl9zwbvmfbhfnzbkpo3y1q2kudne7vq;奥地利人;Oostenrijker;
+jzb4easi9v8rr51nc3vmo5dr421d2zgs;日本;Japan;
+bkunhrloylikuel5y9s1csu7zbhhv7ey;日本人;Japanner;
+wz2q7m39fxffoft0q4e7cie8rko5jpjy;有;hebben;
+jvh4o4q8ggrvmukgtjqwnr0owikxzg8c;没有;niet hebben;
+91pgqbe9cq716wssjyrfmkm2lr087y7f;哥哥;oudere broer;
+48nyqmt7iuhas83d1uq9nxxmkc1km3qi;弟弟;jongere broer;
+q18y2el5e29qzhh63dlp48mdoxn881yj;姐姐;oudere zus;
+syflx9r23z1fj8l72oqikd1l4pjp2bg2;妹妹;jongere zus;
+7q484zeepe262t2sobrpvjlvz2rlx88m;累;moe;
+z4c78gguzp3en4tmp2hisvdtg1kvdfxe;女人;vrouw;
+s8lbtqaqgghk1759nipkkvui1wi92csj;男人;man;
 
 week106
-crt4p3xaipo2q5fr3c3ipbinxbsk71nm;喜欢;houden van, graag hebben, leuk vinden
-cxyh0lw9m5376sx46g86wiqk6gs7qi6c;白酒;Chinese sterke drank ‘witte alcohol’
-lq0ss7ovmvtpzzr0kvtn0kopyljurzw2;多;veel
-yzxbo21rfmhq6evhvwlo3ht0pl0nd73z;荷兰语;Nederlands (de taal)
-6ulz694tamxur82yn9pmvb1hn1y98ot7;法语;Frans (de taal)
-gr3128bvq0khmepe5mryyntkwzzxet5h;德语;Duits (de taal)
-fih71g26r59b8bx2enmpctiejyvbrgf2;英语;Engels (de taal)
-dilwwmnyt6zjfe7a4ato3a8ntynvzlyi;西班牙语;Spaans (de taal)
-zjtx84453aybhmnvk23ry0gczvdwjg8g;意大利语;Italiaans (de taal)
-qgxddg1y0b6jkm7vedcmnsq60qk1dpev;日语;Japans (de taal)
+crt4p3xaipo2q5fr3c3ipbinxbsk71nm;喜欢;houden van, graag hebben, leuk vinden;
+cxyh0lw9m5376sx46g86wiqk6gs7qi6c;白酒;Chinese sterke drank ‘witte alcohol’;
+lq0ss7ovmvtpzzr0kvtn0kopyljurzw2;多;veel;
+yzxbo21rfmhq6evhvwlo3ht0pl0nd73z;荷兰语;Nederlands (de taal);
+6ulz694tamxur82yn9pmvb1hn1y98ot7;法语;Frans (de taal);
+gr3128bvq0khmepe5mryyntkwzzxet5h;德语;Duits (de taal);
+fih71g26r59b8bx2enmpctiejyvbrgf2;英语;Engels (de taal);
+dilwwmnyt6zjfe7a4ato3a8ntynvzlyi;西班牙语;Spaans (de taal);
+zjtx84453aybhmnvk23ry0gczvdwjg8g;意大利语;Italiaans (de taal);
+qgxddg1y0b6jkm7vedcmnsq60qk1dpev;日语;Japans (de taal);
 
 week107
-bg3xw0cf9qcvsmv35ipynzhtldqtsjr1;同学;klasgenoot
-spd6emw0xh6yifhup7d2u5sz8nppfao2;学习;studeren, leren
-h35nzcqce7cxjcy8yb4czsrhc89kz6wb;外国;buitenland
-7oxfwt6utg5zx5k6wlzpc51s03pgyyfp;外国人;buitenlander
-48031m9zzxvte8d19f86p4wy5mljwva4;外语;vreemde taal
-kgcm02nmu9ygtaupmwyy7oac29ioxfsq;汉语;chinees (taal)
-v9bv2po62ycjdk4f3ucnnxqv1h2ttt7z;中文;chinees (taal)
-cj33va98fbujwubhq1lbptx0rwjuw4ti;普通话;Mandarijn Chinees
-xfm6tfxpcv9fdi6dwowxkkjepqbk20c1;听;luisteren
-p312to19k5zpbfc9fpku8sf6eb0mrdna;说;(iets) zeggen, (een taal) spreken
-7c80ctav2b2njq40jy792u1ezl12dvxp;写;schrijven
-rx2bxvbax7q0848n9e43dldh2bze8y4g;看;zien, kijken, bekijken
+bg3xw0cf9qcvsmv35ipynzhtldqtsjr1;同学;klasgenoot;
+spd6emw0xh6yifhup7d2u5sz8nppfao2;学习;studeren, leren;
+h35nzcqce7cxjcy8yb4czsrhc89kz6wb;外国;buitenland;
+7oxfwt6utg5zx5k6wlzpc51s03pgyyfp;外国人;buitenlander;
+48031m9zzxvte8d19f86p4wy5mljwva4;外语;vreemde taal;
+kgcm02nmu9ygtaupmwyy7oac29ioxfsq;汉语;Chinees (taal);
+v9bv2po62ycjdk4f3ucnnxqv1h2ttt7z;中文;Chinees (taal);
+cj33va98fbujwubhq1lbptx0rwjuw4ti;普通话;Mandarijn Chinees;
+xfm6tfxpcv9fdi6dwowxkkjepqbk20c1;听;luisteren;
+p312to19k5zpbfc9fpku8sf6eb0mrdna;说;(iets) zeggen, (een taal) spreken;
+7c80ctav2b2njq40jy792u1ezl12dvxp;写;schrijven;
+rx2bxvbax7q0848n9e43dldh2bze8y4g;看;zien, kijken, bekijken;
 
 week108
-s2bgy14zw4md9mkbsg4ernfp4ihli5pz;这;deze, dit
-2pr7481fnt6ltkrjhvjuu4e8czsocsiy;那;die, dat
-fg5vpe04sf8f3g7q7p1yrf99shh7vz02;的;‘s (partikel om bezit aan te duiden)
-9iay3grvcrrxquvzyu25glz7gvv3765t;工作;werken, werk
-eal75gmdubhoioa8ywnc6oxd3vn4xtva;在;aanwezig zijn, te ...
-tmkfy9szn4uwgnefcr978czqvs1lnexg;家;thuis
-o7pq94d0b6hr3llkn4qgomtf2gvpe08b;家人;familie, gezin
-aje3jxqvb5guqtejcq2bbkpg6o1s64vs;好看;mooi
-wsukbdgwhrbtofl3qhee8kr3c121aj14;好玩(儿);leuk, amusant
-onhx4q1dmj3e9u0662ydcuanhsouaivw;玩(儿);spelen, plezier maken, zich amuseren
-2mpkt122msad85vrup8bxykqt73o5bgj;好听;mooi om te horen
-frl60trk42ra0x3c83w93p7instpdfji;孩子;kind
-uydwgotltgn6b18l8rmo1nmx85lu9kzt;游泳;zwemmen
-niaexli2ztclhgdfo2mn83sxu6trchuw;唱歌;het zingen van een liedje, zingen
-01ziyou9n5ibr0wt6vszc4fuj9qs1rjy;医生;dokter
-fvlmcdbe7c6r9jgd0k3fj7reb2ieygft;喜欢;houden van, graag hebben, leuk vinden
-rzttw3jxq0c42lo7j70n6ncgil2z84z6;爱;houden van, liefde
-bs3nazzr4n9k56j02qmfrwxih8hpfnv2;高兴;blij
+s2bgy14zw4md9mkbsg4ernfp4ihli5pz;这;deze, dit;
+2pr7481fnt6ltkrjhvjuu4e8czsocsiy;那;die, dat;
+fg5vpe04sf8f3g7q7p1yrf99shh7vz02;的;‘s (partikel om bezit aan te duiden);
+9iay3grvcrrxquvzyu25glz7gvv3765t;工作;werken, werk;
+eal75gmdubhoioa8ywnc6oxd3vn4xtva;在;aanwezig zijn, te ...;
+tmkfy9szn4uwgnefcr978czqvs1lnexg;家;thuis;
+o7pq94d0b6hr3llkn4qgomtf2gvpe08b;家人;familie, gezin;
+aje3jxqvb5guqtejcq2bbkpg6o1s64vs;好看;mooi;
+wsukbdgwhrbtofl3qhee8kr3c121aj14;好玩,好玩儿;leuk, amusant;
+onhx4q1dmj3e9u0662ydcuanhsouaivw;玩,玩儿;spelen, plezier maken, zich amuseren;
+2mpkt122msad85vrup8bxykqt73o5bgj;好听;mooi om te horen;
+frl60trk42ra0x3c83w93p7instpdfji;孩子;kind;
+uydwgotltgn6b18l8rmo1nmx85lu9kzt;游泳;zwemmen;
+niaexli2ztclhgdfo2mn83sxu6trchuw;唱歌;het zingen van een liedje, zingen;
+01ziyou9n5ibr0wt6vszc4fuj9qs1rjy;医生;dokter;
+fvlmcdbe7c6r9jgd0k3fj7reb2ieygft;喜欢;houden van, graag hebben, leuk vinden;
+rzttw3jxq0c42lo7j70n6ncgil2z84z6;爱;houden van, liefde;
+bs3nazzr4n9k56j02qmfrwxih8hpfnv2;高兴;blij;
 
 week109
-sb4v6s403280akg7dkbdu07ks1bpjmgj;老人;oude persoon, oude mensen
-by1v2evgr5t2fichol33t0unwqd0iumg;玩(儿);spelen, plezier maken, zich amuseren
-3wcibrvu417yyyz7jj6na8lc9qpak944;姓;achternaam, heten (achternaam)
-k1qkzso9iz8yat43t46x9x0ejh1t3geq;名字;voornaam
-bqbtnm3gf9dyn1gtnuqeu5xrqgoo5mjs;孩子;kind
-cc3vq4xmdcjtsxxjai6x8zixi5i0oxpp;女孩子;meisje
-x0fwyby92ijvttalz1gq8qjwkm31ik3o;男孩子;jongen
-zsrr8iu65jto6331jbcitvbri03blsuj;男的;mannelijk, een man
-qgwikvvlbcpwez0ckvd426np58rbqmdz;女的;vrouwelijk, een vrouw
-ekihuutbcl91oyi0qymdmn3g9xasss4d;儿子;zoon
-80diuoyyzu4qt6143wrgs00zkn70s722;女儿;dochter
-stby1586npivhjarx3iti542oio50tx5;孙子;kleinzoon (zoon van je zoon)
-yz5crxt6wx1nn92pnzt4cx5hwdf3x659;孙女;kleindochter (dochter van je zoon)
-fl3glh16sd6gpqo8p2z6whk706gjzl87;外孙;kleinzoon (zoon van je dochter)
-z3uxkylygvhz26o4rjth8f4a6ki7twnx;外孙女;kleindochter (dochter van je dochter)
-z5cddn8lwdsl97ezaygjgqgxf0kuiq2g;医学;geneeskunde
-zvlywehl2fadcs667r2da85xo5vbpe9i;爱;houden van, liefde
-4w7csw2aie3ovooy3y4fuh811hq67l3d;可爱;schattig
-bo2bcw6o1xhvi62637g3aekbr0hwk5tm;家人;familie, gezin
-6t7t76i5grj5u1zzlmoxtnz8921xhgab;爷爷;opa (langs vaders kant)
-mwpzkqvph2il4u1y8ykmlfd0312ju3f5;奶奶;oma (langs vaders kant)
-dvtt6nklootr39lhnz5tl5m4nb180v73;外婆;oma (langs moeders kant)
-xne1bp0jge9o03xhesqopv5p46o63l71;外公;opa (langs moeders kant)
-vt0gz08v8k7wwjbpwhmzypbmwtshiwmq;老婆;echtgenote (spreektaal) (=太太)
-91verewa9f1cz1i7hlmvi0rbmd8ho4s2;老公;echtgenoot (spreektaal) (=先生)
-gujeh8r80466q7doavv9nctxg3mn2lhs;您;u
-l8gishdes23fak7u005lkg23xteecmrp;陈;een Chinese familienaam
-528o4cl12ospyjytu53evpdafqoenyrw;今天;vandaag
-plva73zcwvj24lsttrj0msiqc8fp4aef;电影;film
+sb4v6s403280akg7dkbdu07ks1bpjmgj;老人;oude persoon, oude mensen;
+by1v2evgr5t2fichol33t0unwqd0iumg;玩,玩儿;spelen, plezier maken, zich amuseren;
+3wcibrvu417yyyz7jj6na8lc9qpak944;姓;achternaam, heten (achternaam);
+k1qkzso9iz8yat43t46x9x0ejh1t3geq;名字;voornaam;
+bqbtnm3gf9dyn1gtnuqeu5xrqgoo5mjs;孩子;kind;
+cc3vq4xmdcjtsxxjai6x8zixi5i0oxpp;女孩子;meisje;
+x0fwyby92ijvttalz1gq8qjwkm31ik3o;男孩子;jongen;
+zsrr8iu65jto6331jbcitvbri03blsuj;男的;mannelijk, een man;
+qgwikvvlbcpwez0ckvd426np58rbqmdz;女的;vrouwelijk, een vrouw;
+ekihuutbcl91oyi0qymdmn3g9xasss4d;儿子;zoon;
+80diuoyyzu4qt6143wrgs00zkn70s722;女儿;dochter;
+stby1586npivhjarx3iti542oio50tx5;孙子;kleinzoon (zoon van je zoon);
+yz5crxt6wx1nn92pnzt4cx5hwdf3x659;孙女;kleindochter (dochter van je zoon);
+fl3glh16sd6gpqo8p2z6whk706gjzl87;外孙;kleinzoon (zoon van je dochter);
+z3uxkylygvhz26o4rjth8f4a6ki7twnx;外孙女;kleindochter (dochter van je dochter);
+z5cddn8lwdsl97ezaygjgqgxf0kuiq2g;医学;geneeskunde;
+zvlywehl2fadcs667r2da85xo5vbpe9i;爱;houden van, liefde;
+4w7csw2aie3ovooy3y4fuh811hq67l3d;可爱;schattig;
+bo2bcw6o1xhvi62637g3aekbr0hwk5tm;家人;familie, gezin;
+6t7t76i5grj5u1zzlmoxtnz8921xhgab;爷爷;opa (langs vaders kant);
+mwpzkqvph2il4u1y8ykmlfd0312ju3f5;奶奶;oma (langs vaders kant);
+dvtt6nklootr39lhnz5tl5m4nb180v73;外婆;oma (langs moeders kant);
+xne1bp0jge9o03xhesqopv5p46o63l71;外公;opa (langs moeders kant);
+vt0gz08v8k7wwjbpwhmzypbmwtshiwmq;老婆;echtgenote (spreektaal) (=太太);
+91verewa9f1cz1i7hlmvi0rbmd8ho4s2;老公;echtgenoot (spreektaal) (=先生);
+gujeh8r80466q7doavv9nctxg3mn2lhs;您;u;
+l8gishdes23fak7u005lkg23xteecmrp;陈;een Chinese familienaam;
+528o4cl12ospyjytu53evpdafqoenyrw;今天;vandaag;
+plva73zcwvj24lsttrj0msiqc8fp4aef;电影;film;
 
 week110
-cyve7fj7kwna33qz0adz1ti2e3a4ylfv;姓名;familienaam en gegeven naam (in te vullen op papieren)
-w87y6homz6p5d1u3ecix2prekaq44hbe;唱歌;het zingen van een liedje, zingen
-bbmvz2dq74pgqudup0b5hny8movq5r9g;跳舞;het springen van een dansje, dansen
-7oc10d74ybsgqsec15y0o99eyk4njwro;容易;gemakkelijk
-zde7qezknzlxmrg134s9ui7uj5g4dy4o;车;wagen, auto
-mrx3rrliur6r82qk3xes2uwhhgtrpqj3;果汁;fruitsap
-y126nqtsx2qorxr42mwrr4mj0w46cmk8;记者;reporter
+cyve7fj7kwna33qz0adz1ti2e3a4ylfv;姓名;familienaam en gegeven naam (in te vullen op papieren);
+w87y6homz6p5d1u3ecix2prekaq44hbe;唱歌;het zingen van een liedje, zingen;
+bbmvz2dq74pgqudup0b5hny8movq5r9g;跳舞;het springen van een dansje, dansen;
+7oc10d74ybsgqsec15y0o99eyk4njwro;容易;gemakkelijk;
+zde7qezknzlxmrg134s9ui7uj5g4dy4o;车;wagen, auto;
+mrx3rrliur6r82qk3xes2uwhhgtrpqj3;果汁;fruitsap;
+y126nqtsx2qorxr42mwrr4mj0w46cmk8;记者;reporter;
 
 week111
-s2z8m0t0tl8s6fs9ywr39juqoao91y1t;可以;kunnen, mogen (iets dat toegelaten is)
-74vdzxungoxx4zpumz70n4pnt2w0j87l;请;iemand iets verzoeken, gelieve ...
-feryontgjtmsg065bd0xzq39xrggw58m;去;gaan
-qeponkkpsradepjanepbke04h6ek8wjx;来;komen
-m6mowzzbkdl65z40ms0r3taa6uwkk2b6;进;betreden (van een ruimte)
-h1rsq67xsufm7m3utpo6k461cs4t90l5;出;verlaten (van het ruimte)
-5iedbp6hchq9zx1468cefwnfb4bnavk6;进来;binnen komen
-n6gh3kz2n5wtbz0plp4p0cqmw3jkfbb9;进去;binnen gaan
-czogb57foyox8vxck527ouvd64zjmchw;出来;buiten komen
-4d0in3bqj1wez6d3wzvwdypy75wfxzue;出去;buiten gaan
-7iuw22bggjvyaa21855maykffu72ej7y;坐;zitten
-r6lma59hqeul2y5a435nk55y1hc54quh;问;vragen
-dn69a1s40tq9m7077ogexzw1ecj92iqu;请问;excuseer, mag ik iets vragen?
-h9mfthw2i20sgqbltwne7c0ow5a1o2zu;记者;reporter
-tes4d48bmemuihhz8wvny2ysqmzdjtri;贵;duur
-pvrf09j06uo55f3pcz2tccp7y07kn57u;您贵姓?;beleefde manier om te vragen naar iemands familienaam
-wmb2wxb1tnzh8lbifz0z85rm48gomlij;认识;(iemand) kennen, leren kennen
-dg0cwc6e8b5oh7khdylh0caa7h4980bd;高兴;blij
-t89eh7jz2i22u0qkyjjw36nzruh2iq41;认识您我很高兴;blij u te leren kennen, aangename kennismaking
-q1n60k4p78gpgxwarxf3amgtd44x64l8;电影;film
-4txok15yjierz4onxodotysxhbqepkzn;书;boek
-8bw8vj7sqjeik8mps6nruhqzu1gtjcy8;看书;lezen
+s2z8m0t0tl8s6fs9ywr39juqoao91y1t;可以;kunnen, mogen (iets dat toegelaten is);
+74vdzxungoxx4zpumz70n4pnt2w0j87l;请;iemand iets verzoeken, gelieve ...;
+feryontgjtmsg065bd0xzq39xrggw58m;去;gaan;
+qeponkkpsradepjanepbke04h6ek8wjx;来;komen;
+m6mowzzbkdl65z40ms0r3taa6uwkk2b6;进;betreden (van een ruimte);
+h1rsq67xsufm7m3utpo6k461cs4t90l5;出;verlaten (van het ruimte);
+5iedbp6hchq9zx1468cefwnfb4bnavk6;进来;binnen komen;
+n6gh3kz2n5wtbz0plp4p0cqmw3jkfbb9;进去;binnen gaan;
+czogb57foyox8vxck527ouvd64zjmchw;出来;buiten komen;
+4d0in3bqj1wez6d3wzvwdypy75wfxzue;出去;buiten gaan;
+7iuw22bggjvyaa21855maykffu72ej7y;坐;zitten;
+r6lma59hqeul2y5a435nk55y1hc54quh;问;vragen;
+dn69a1s40tq9m7077ogexzw1ecj92iqu;请问;excuseer, mag ik iets vragen?;
+h9mfthw2i20sgqbltwne7c0ow5a1o2zu;记者;reporter;
+tes4d48bmemuihhz8wvny2ysqmzdjtri;贵;duur;
+pvrf09j06uo55f3pcz2tccp7y07kn57u;您贵姓?;beleefde manier om te vragen naar iemands familienaam;
+wmb2wxb1tnzh8lbifz0z85rm48gomlij;认识;(iemand) kennen, leren kennen;
+dg0cwc6e8b5oh7khdylh0caa7h4980bd;高兴;blij;
+t89eh7jz2i22u0qkyjjw36nzruh2iq41;认识您我很高兴;blij u te leren kennen, aangename kennismaking;
+q1n60k4p78gpgxwarxf3amgtd44x64l8;电影;film;
+4txok15yjierz4onxodotysxhbqepkzn;书;boek;
+8bw8vj7sqjeik8mps6nruhqzu1gtjcy8;看书;lezen;
 
 week112
-xgbwfmjtfh9mnuizd3vrq6har6p3rekw;多;veel
-acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;少;weinig
-9gfzxmhzrgj4xgct63g654uaz3v3r4tp;一点(点);een beetje
-9ovl3hrb3t5njdobg8r1g82ibbb2jo8o;它;het, hij (voor dieren of voorwerpen)
-s3subhkrlw67t2ps699p7haw49iacmj0;客人;gast
-yv64cgv4zn6rlj4hhx1i2vsylwhnj4p1;客气;beleefd
-ugmi8edua5eeg0y0a1hdz9z1ycs6dfje;学院;instituut, faculteit
-77ek4fdbnm5keojstw5hdkqkaxi0fua9;语言学院;taleninstituut
-snm0b959v3p3h8zpztnkxudd7b3jwpdm;大学;universiteit
-lwnumb82khbi6nqwdqqrr4a6m394o9tg;大学生;universiteitsstudent
-5p9d8pa9a3nhm4qhllcipqwufiru6yod;中学;middelbare school
-5of84cfw44pmiaqd1rt5smtzkt8mwz43;中学生;student van de middelbare school
-5igo6zeojsbf64ukiifyi1qarwg583e4;小学;lagere school
-nsaa8fw66mqaxw20ics4xj7w68ughlye;小学生;leerling van de lagere school
-zrqnn70xqjfba8mtuqcdkg3qoaxehcs6;做;doen, maken
-ooelujzmf7ud2qshbp65wges9ij5i98t;哪里? 哪儿?;waar?
-d6nwpuvwl7ob4ujizvs2lwud1xzvvxzx;那里 那儿;daar
-2mryt658qpmdhot4gni9atpfmqvbagyl;狗;hond
-wtijj4wbwxf00lg0m9h9lumjs2ygq8p5;猫;kat
-7w1gozv0c23h743pa3w76ftb8y5ttatr;吃饭;het eten van rijst, eten
-t4a497l9my0z30sc8kimt325bujhkz3d;好吃;lekker om te eten
-z3y4l73ybqfb9xg4qrc4fjp0oiguc9ol;电影;film
-k3y4knoj481gnr63de727ita6fqmm197;电视;televisie
-3989x4mhp4fj84ctmz6r126fkfekvfqb;有名;bekend, naam hebben
-a75krdguqvtrdzsdqr1m8x4q3h8ty8xm;有意思;interessant
-52hjr5lwsadm2witbx3h9axexaraghal;明白;begrijpen, verstaan
-do4gdhlicz119esgzkhto0ikxjk6wviz;先..再..;eerst.. vervolgens..
+xgbwfmjtfh9mnuizd3vrq6har6p3rekw;多;veel;
+acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;少;weinig;
+9gfzxmhzrgj4xgct63g654uaz3v3r4tp;一点(点);een beetje;
+9ovl3hrb3t5njdobg8r1g82ibbb2jo8o;它;het, hij (voor dieren of voorwerpen);
+s3subhkrlw67t2ps699p7haw49iacmj0;客人;gast;
+yv64cgv4zn6rlj4hhx1i2vsylwhnj4p1;客气;beleefd;
+ugmi8edua5eeg0y0a1hdz9z1ycs6dfje;学院;instituut, faculteit;
+77ek4fdbnm5keojstw5hdkqkaxi0fua9;语言学院;taleninstituut;
+snm0b959v3p3h8zpztnkxudd7b3jwpdm;大学;universiteit;
+lwnumb82khbi6nqwdqqrr4a6m394o9tg;大学生;universiteitsstudent;
+5p9d8pa9a3nhm4qhllcipqwufiru6yod;中学;middelbare school;
+5of84cfw44pmiaqd1rt5smtzkt8mwz43;中学生;student van de middelbare school;
+5igo6zeojsbf64ukiifyi1qarwg583e4;小学;lagere school;
+nsaa8fw66mqaxw20ics4xj7w68ughlye;小学生;leerling van de lagere school;
+zrqnn70xqjfba8mtuqcdkg3qoaxehcs6;做;doen, maken;
+ooelujzmf7ud2qshbp65wges9ij5i98t;哪里?,哪儿?;waar?;
+d6nwpuvwl7ob4ujizvs2lwud1xzvvxzx;那里,那儿;daar;
+2mryt658qpmdhot4gni9atpfmqvbagyl;狗;hond;
+wtijj4wbwxf00lg0m9h9lumjs2ygq8p5;猫;kat;
+7w1gozv0c23h743pa3w76ftb8y5ttatr;吃饭;het eten van rijst, eten;
+t4a497l9my0z30sc8kimt325bujhkz3d;好吃;lekker om te eten;
+z3y4l73ybqfb9xg4qrc4fjp0oiguc9ol;电影;film;
+k3y4knoj481gnr63de727ita6fqmm197;电视;televisie;
+3989x4mhp4fj84ctmz6r126fkfekvfqb;有名;bekend, naam hebben;
+a75krdguqvtrdzsdqr1m8x4q3h8ty8xm;有意思;interessant;
+52hjr5lwsadm2witbx3h9axexaraghal;明白;begrijpen, verstaan;
+do4gdhlicz119esgzkhto0ikxjk6wviz;先..再..;eerst.. vervolgens..;
 
 
 week113
-4vcmq95p8kfgs7gv4wes4tl54dvio7ke;上大学;les volgen aan de universiteit
-pg4j68l626qtw72bpwqsxj9iez3qowu4;上中学;les volgen in het middelbaar
-nb1cdjfy9v6h69ar4o4qg95wjh96sldx;考试;examen
-okqur5o2a92ihxs64z8pgj3yoc4hq0og;零;nul
-hkvyu0kmdjm0iz948t5mgc3u1uzog03k;一;eén
-pu28ma257nhuxcdua6ebyalilyisuspv;二;twee
-jut6kd1p5htng92bqnrqsvfzlaudvqzk;三;drie
-750rwp8sces2wswquq9rdceuglvovc8i;四;vier
-wizwoidm6cczxxf1xonse7csalhhvuk8;五;vijf
-v41dg0gkfcx09w12aqzpokaovhtxora1;六;zes
-gr6pppurqpsw24ejku8hpnxoint2rpfl;七;zeven
-f0qj3umy48im7m9ks2tqxqcm5df3wrbu;八;acht
-mmt6g0qcy365zecwaog7t1zip0v6ddhl;九;negen
-0fovr1qvnslhv9n4tn9q89mpqii1qvep;十;tien
+4vcmq95p8kfgs7gv4wes4tl54dvio7ke;上大学;les volgen aan de universiteit;
+pg4j68l626qtw72bpwqsxj9iez3qowu4;上中学;les volgen in het middelbaar;
+nb1cdjfy9v6h69ar4o4qg95wjh96sldx;考试;examen;
+okqur5o2a92ihxs64z8pgj3yoc4hq0og;零;nul;
+hkvyu0kmdjm0iz948t5mgc3u1uzog03k;一;eén;
+pu28ma257nhuxcdua6ebyalilyisuspv;二;twee;
+jut6kd1p5htng92bqnrqsvfzlaudvqzk;三;drie;
+750rwp8sces2wswquq9rdceuglvovc8i;四;vier;
+wizwoidm6cczxxf1xonse7csalhhvuk8;五;vijf;
+v41dg0gkfcx09w12aqzpokaovhtxora1;六;zes;
+gr6pppurqpsw24ejku8hpnxoint2rpfl;七;zeven;
+f0qj3umy48im7m9ks2tqxqcm5df3wrbu;八;acht;
+mmt6g0qcy365zecwaog7t1zip0v6ddhl;九;negen;
+0fovr1qvnslhv9n4tn9q89mpqii1qvep;十;tien;
 
 week114
-4viinmv4hvdzlyie6oowrxdr0kbi04ab;打;slaan, spelen
-0uqf5bp78a71fz7qnzprg3awh5ydc14s;电话;telefoon
-czcm8yiqbjgbs1ksworac0edd7vjd22p;打电话;telefoneren
-iz90b9tibdatj4yg3ydjo9i3urhs44hq;电话号码;telefoonnummer
-i3nyee7087xya9q3x97na5o5h5749deh;电脑;computer
-8u1y9tomjvdpthf787a9c2d8adjr3mx5;脑子;hersenen
-a3s0fqjwctqyj6ua9lutd8uyqbyg8r6b;电视;televisie
-b91f0d4t45n7g8dnnqvsmyxcf446h8x5;新年;nieuwjaar
-ynokei2eslw9n015gtwrdnafjli4b4m3;什么时候;wanneer?
-oi14z3mtvx4uw49ag4lhpmlzogz742y0;今天;vandaag
-c71cuaq9y0w6q0a8qile7jfskr055y62;走;weggaan
-93ad1gt5rhbl68lfb376oxl4p9udpe61;宿舍;slaapzaal
-91nsucsii9cyydfdg5sl9lgbzfz9bml1;对不起;sorry
-vhrmy6c0cmr33ra5gevwctggovbuxgzn;没关系;het geeft niet
-a4lbfp4aqwvl6biarul7maq8wrgk05kx;关系;netwerk van relaties
+4viinmv4hvdzlyie6oowrxdr0kbi04ab;打;slaan, spelen;
+0uqf5bp78a71fz7qnzprg3awh5ydc14s;电话;telefoon;
+czcm8yiqbjgbs1ksworac0edd7vjd22p;打电话;telefoneren;
+iz90b9tibdatj4yg3ydjo9i3urhs44hq;电话号码;telefoonnummer;
+i3nyee7087xya9q3x97na5o5h5749deh;电脑;computer;
+8u1y9tomjvdpthf787a9c2d8adjr3mx5;脑子;hersenen;
+a3s0fqjwctqyj6ua9lutd8uyqbyg8r6b;电视;televisie;
+b91f0d4t45n7g8dnnqvsmyxcf446h8x5;新年;nieuwjaar;
+ynokei2eslw9n015gtwrdnafjli4b4m3;什么时候;wanneer?;
+oi14z3mtvx4uw49ag4lhpmlzogz742y0;今天;vandaag;
+c71cuaq9y0w6q0a8qile7jfskr055y62;走;weggaan;
+93ad1gt5rhbl68lfb376oxl4p9udpe61;宿舍;slaapzaal;
+91nsucsii9cyydfdg5sl9lgbzfz9bml1;对不起;sorry;
+vhrmy6c0cmr33ra5gevwctggovbuxgzn;没关系;het geeft niet;
+a4lbfp4aqwvl6biarul7maq8wrgk05kx;关系;netwerk van relaties;
 
 week115
-08lc192zfi7jt7yspn5gdu1u1y7qs4t7;餐厅;eetzaal, cafetaria
-dx9lmih1k9m6t9up23ufzbdvyplnixtn;意大利面;spaghetti
-gsx0o2mf4hqlqy6w83oosi6b777gyaf2;看书;lezen
-xzzgtwpeu4xntqdo4ajkckf1gpfwx6pl;图书馆;bibliotheek
-g74hqctcd56tuwy2jnlp4fbr8r861xdo;茶馆;theehuis
-2c469l4kar2efmz2z15v10021fni9jhf;咖啡馆;koffiehuis
-ffm15x9ikqjh0cym0abftxjp0r4ginef;饭馆;restaurant
-bvapr04bjzakm7p1gq2af4gwajjar7nx;长城;de chinese muur
-ql8f6iot0srozkk5a6ga5pwmy3jcxk3o;睡觉;het slapen van een slaapje, slapen
-3qd6xamyv9hjtgbkq5g5k01i77c8v2no;水饺;dumplings (gekookt)
-d4qs7nb4xosabtnepm3edgsxtvg8gi1o;饺子;dumplings
-rh6e87wwtf7orp11f2xwesyy2qg70mzw;电视;televisie
-llllcnwfp99v8fuz75ne83gkmwuinovw;音乐;muziek
-2bf20oyugmczim7ovcwc3y1syewxxi26;想;denken, willen, missen
-hlbkpcvvcnm4xmbsfnkl6xphf3m6dcw1;春节;chinees nieuwjaar
-wqxz159x4fdzg57svrqn82tpl8cpi2ca;春天;lente
-5uuklhi7qewm3yzudyx6iwfmo4trakyt;新年;nieuwjaar
-bf8bswkuj0vlb1is1qrv7gpg6iavnd30;累;moe
-etnt1an5lkf9j5hf7yi5z66b6g35earj;不好意思;excuseer
-ofi2sm6kh7z9d2mbj7lozt94vwl55ljy;厕所;toilet
-47szppuisaygluk4g2hjpvuvg4le8fa6;小姐;jonge vrouw
-4m9ugqwrah3e93jhvbcl0vbm4jy3f9qq;层;verdieping
-4z4a07pbuulsrw7xrav2ebpnkzbhrdfk;用;gebruiken, nodig hebben
-wysc8ua7bg6vme06xmy8z71jut4zxyoy;晚;laat
-clmsjzb6lwkyi3dyig9nhe3wl55gdn2l;来晚了;te laat gekomen zijn
+08lc192zfi7jt7yspn5gdu1u1y7qs4t7;餐厅;eetzaal, cafetaria;
+dx9lmih1k9m6t9up23ufzbdvyplnixtn;意大利面;spaghetti;
+gsx0o2mf4hqlqy6w83oosi6b777gyaf2;看书;lezen;
+xzzgtwpeu4xntqdo4ajkckf1gpfwx6pl;图书馆;bibliotheek;
+g74hqctcd56tuwy2jnlp4fbr8r861xdo;茶馆;theehuis;
+2c469l4kar2efmz2z15v10021fni9jhf;咖啡馆;koffiehuis;
+ffm15x9ikqjh0cym0abftxjp0r4ginef;饭馆;restaurant;
+bvapr04bjzakm7p1gq2af4gwajjar7nx;长城;de chinese muur;
+ql8f6iot0srozkk5a6ga5pwmy3jcxk3o;睡觉;het slapen van een slaapje, slapen;
+3qd6xamyv9hjtgbkq5g5k01i77c8v2no;水饺;dumplings (gekookt);
+d4qs7nb4xosabtnepm3edgsxtvg8gi1o;饺子;dumplings;
+rh6e87wwtf7orp11f2xwesyy2qg70mzw;电视;televisie;
+llllcnwfp99v8fuz75ne83gkmwuinovw;音乐;muziek;
+2bf20oyugmczim7ovcwc3y1syewxxi26;想;denken, willen, missen;
+hlbkpcvvcnm4xmbsfnkl6xphf3m6dcw1;春节;chinees nieuwjaar;
+wqxz159x4fdzg57svrqn82tpl8cpi2ca;春天;lente;
+5uuklhi7qewm3yzudyx6iwfmo4trakyt;新年;nieuwjaar;
+bf8bswkuj0vlb1is1qrv7gpg6iavnd30;累;moe;
+etnt1an5lkf9j5hf7yi5z66b6g35earj;不好意思;excuseer;
+ofi2sm6kh7z9d2mbj7lozt94vwl55ljy;厕所;toilet;
+47szppuisaygluk4g2hjpvuvg4le8fa6;小姐;jonge vrouw;
+4m9ugqwrah3e93jhvbcl0vbm4jy3f9qq;层;verdieping;
+4z4a07pbuulsrw7xrav2ebpnkzbhrdfk;用;gebruiken, nodig hebben;
+wysc8ua7bg6vme06xmy8z71jut4zxyoy;晚;laat;ik ben te laat gekomen:我来晚了
 
 week116
-0mepu12cb6onhkh1rdtisnyknagfmtrk;慢;langzaam
-13mr2idz37zfs6hduumqjbkaqs3wqrib;电脑;computer
-lut1hpm2ln42644bxgk0hai095elcbrz;脑子;hersenen
-peckrwr8tvh5nwwy51hi5mcmd9g1gwts;春节;chinees nieuwjaar
-apy7f6rim1d02dbdpczf2a7ei88faxbf;晚会;avondfeest
-crryew9r1s6dawjn2nryyg2oo68a86e3;百;honderd
-grako0xr3xus9df1nt61xw52xu8lhxcb;大家;iedereen
-wd4shfx8nsd8o1rmrb1qd3ewczcsnnco;有意思;interessant
-ymg8bp4al3fp3wn9nz75g2g9bg6bqi8s;吃饭;het eten van rijst, eten
-1e526s4pz7qt6gg9dongdlw9zfk11mwe;米饭;rijst
-333rdstyhq75i78zcra10ln3z9bpnvti;面包;brood
-j6uu8n3l6cj5aki0jm79efwyvhwpoyl2;意大利面;spaghetti
-gbnwsnzmlpt8f7sqbizbsv4o34hp98gx;找;zoeken
-x50g4wcukj4ldr34t9xs1hzkukoensr8;时间;tijd
-u9jgrinpk6atv5y3t9str57hunk3medw;长;lang
-cj0hkp0kdnp8q6tgg712a8o8rd2b89h2;为什么;waarom?
-asfinxw4q1wrzkm6tvhp1epxt4mju8sl;怎么样;wat (denk je) van?
-3kcjn98o6k5c2ga9ang0lji2a91c928w;有一点..;een beetje ..
-la6rv6t9vg2tvhid95vh7mou8lkycsi0;冷;koud
-fteitzvk7cr35js5h00qw9599eu0aor3;热;warm
-nq0fhdcx6eujqgwka99eko5hml4i440l;电视;televisie
-r59vk9fbyxij4smscb29m17uact6yyt3;电影;film
-34k53505mia0t5upxalisc8mwz1mvs7g;电影院;cinema
-4ixqk5qaysycdl43m0mlrnniyr7talac;京剧;beijing opera
-6bqqc0ruye93zbzj3399erj4d9su8rmu;唱歌;het zingen van een liedje, zingen
-uscapt0nrralx1sdasq6r0a5epoiev6f;跳舞;het springen van een dansje, dansen
-rq2g74kqv6wwnwrz42o8o08opmb2ce79;休息;rusten, pauzeren, rust, pauze
-yx9dzogqv94ykawjhi1o0ijyflxl58b7;睡觉;het slapen van een slaapje, slapen
-4gffwmatoviaxh7s23x0y5ydokf0blsl;吃水饺;(gekookte) dumplings eten
-btvuuh68t8efwbdwz7wo1bla7hil74y5;吃饭;het eten van rijst, eten
-zkjyk0u6l31xu0b3bb48cdfi9zy2knwc;听音乐;naar muziek luisteren
-qdzfjjxezyflt9q0r0hloeeewn8bti8v;游泳;zwemmen
-0olrj8b4ymkv73byyv43b95d26o9xux9;游泳池;zwembad
-rq92fvmvevckb31zq6oaurzof22o3n8e;游泳馆;zwembad
-x770kghcz2xt6k7vdq9uwlfn5j0ylk3m;会;kunnen (iets onder de knie hebben)
-ye01nv8f2bhq5hg6mpjsby3jd503eqgl;要;willen, hebben, moeten
-83sjr3h6t0kym4ontrxi5kfqbdfkkvfi;昨天;gisteren
-607gktknea1hklyyqgyhdrh9j6gmtbcg;今天;vandaag
-gr25q3ph5s38xe6ppk5t4k8y6xe415qv;现在;nu
-bl6p1x6fhzw77zvs2spo4ih3hycompsc;有(的)时候;soms
-4yytv2t80qo12en6oubw4dtfapwl9z5l;有意思;interessant
-eiovn6vhxclzg63ve1fpqrc0amwfge27;上课;(beginnen met) les volgen
-vd73w5q5fi01ihws5n09tm8c8cdgcaaq;下课;stoppen met de les
+0mepu12cb6onhkh1rdtisnyknagfmtrk;慢;langzaam;
+13mr2idz37zfs6hduumqjbkaqs3wqrib;电脑;computer;
+lut1hpm2ln42644bxgk0hai095elcbrz;脑子;hersenen;
+peckrwr8tvh5nwwy51hi5mcmd9g1gwts;春节;chinees nieuwjaar;
+apy7f6rim1d02dbdpczf2a7ei88faxbf;晚会;avondfeest;
+crryew9r1s6dawjn2nryyg2oo68a86e3;百;honderd;
+grako0xr3xus9df1nt61xw52xu8lhxcb;大家;iedereen;
+wd4shfx8nsd8o1rmrb1qd3ewczcsnnco;有意思;interessant;
+ymg8bp4al3fp3wn9nz75g2g9bg6bqi8s;吃饭;het eten van rijst, eten;
+1e526s4pz7qt6gg9dongdlw9zfk11mwe;米饭;rijst;
+333rdstyhq75i78zcra10ln3z9bpnvti;面包;brood;
+j6uu8n3l6cj5aki0jm79efwyvhwpoyl2;意大利面;spaghetti;
+gbnwsnzmlpt8f7sqbizbsv4o34hp98gx;找;zoeken;
+x50g4wcukj4ldr34t9xs1hzkukoensr8;时间;tijd;
+u9jgrinpk6atv5y3t9str57hunk3medw;长;lang;
+cj0hkp0kdnp8q6tgg712a8o8rd2b89h2;为什么;waarom?;
+asfinxw4q1wrzkm6tvhp1epxt4mju8sl;怎么样;wat (denk je) van?;
+3kcjn98o6k5c2ga9ang0lji2a91c928w;有一点..;een beetje ..;
+la6rv6t9vg2tvhid95vh7mou8lkycsi0;冷;koud;
+fteitzvk7cr35js5h00qw9599eu0aor3;热;warm;
+nq0fhdcx6eujqgwka99eko5hml4i440l;电视;televisie;
+r59vk9fbyxij4smscb29m17uact6yyt3;电影;film;
+34k53505mia0t5upxalisc8mwz1mvs7g;电影院;cinema;
+4ixqk5qaysycdl43m0mlrnniyr7talac;京剧;beijing opera;
+6bqqc0ruye93zbzj3399erj4d9su8rmu;唱歌;het zingen van een liedje, zingen;
+uscapt0nrralx1sdasq6r0a5epoiev6f;跳舞;het springen van een dansje, dansen;
+rq2g74kqv6wwnwrz42o8o08opmb2ce79;休息;rusten, pauzeren, rust, pauze;
+yx9dzogqv94ykawjhi1o0ijyflxl58b7;睡觉;het slapen van een slaapje, slapen;
+4gffwmatoviaxh7s23x0y5ydokf0blsl;吃水饺;(gekookte) dumplings eten;
+btvuuh68t8efwbdwz7wo1bla7hil74y5;吃饭;het eten van rijst, eten;
+zkjyk0u6l31xu0b3bb48cdfi9zy2knwc;听音乐;naar muziek luisteren;
+qdzfjjxezyflt9q0r0hloeeewn8bti8v;游泳;zwemmen;
+0olrj8b4ymkv73byyv43b95d26o9xux9;游泳池;zwembad;
+rq92fvmvevckb31zq6oaurzof22o3n8e;游泳馆;zwembad;
+x770kghcz2xt6k7vdq9uwlfn5j0ylk3m;会;kunnen (iets onder de knie hebben);
+ye01nv8f2bhq5hg6mpjsby3jd503eqgl;要;willen, hebben, moeten;
+83sjr3h6t0kym4ontrxi5kfqbdfkkvfi;昨天;gisteren;
+607gktknea1hklyyqgyhdrh9j6gmtbcg;今天;vandaag;
+gr25q3ph5s38xe6ppk5t4k8y6xe415qv;现在;nu;
+bl6p1x6fhzw77zvs2spo4ih3hycompsc;有(的)时候;soms;
+4yytv2t80qo12en6oubw4dtfapwl9z5l;有意思;interessant;
+eiovn6vhxclzg63ve1fpqrc0amwfge27;上课;(beginnen met) les volgen;
+vd73w5q5fi01ihws5n09tm8c8cdgcaaq;下课;stoppen met de les;
 
 week117
-5m5pf7lbnjayoevjmmqc4h5wqtb1z5op;层;verdieping
-kh3bmj3ffcaeseoon4otcca6lfhbs42s;洗澡;het wassen van een wasje, zich wassen
-4tfjstxq11t9nlm52x22qpc65kyi5hzm;洗手;handen wassen
-2qqp8zxwsdruau5u9p3xa8u4xx8071v2;睡觉;het slapen van een slaapje, slapen
-ny42o2zgaog1omunmpybe5ybcc40nte9;做饭;koken
-ulyp60z18ujqagqsxq25tuth673komjd;厕所;toilet
-h6unfemvw8ja5euy0inx866bm6ivc7jr;男厕所;herentoilet
-lf9589a07tajiw2xv99pt22a8px1fiqu;女厕所;damestoilet
-9clbspijnhara1pkrrc6qpqnye1yls2k;上厕所;naar het toilet gaan
-bskm9yok85aoal6ngdsif5o19d7qoiiu;什么时候;wanneer?
-yq65ykx0ce0tqr29kf9p3uw1zxj6jdx4;现在;nu
-vlz9t4wf2o0j7aubg52ee3whqxho917k;昨天;gisteren
-f8ndfzqaw2syijchqq3nitqq85qg6wch;今天;vandaag
-c791ggxw5sr0i4h10mhru6rafy44bnko;明天;morgen
-z5uzfcgnkstczwuuid9npt24a4titu82;几号;de hoeveelste? (datum)
-d8t3g5lrtbt54vyqcs9nsgva2yo83i1u;早上;ochtend, 's ochtends
-wv34ewg18ybkne8rlkng3ftkzbidetsg;早;vroeg
-gl4dihsp43xveihs1y7j50b7soiiujtf;晚上;avond, 's avonds
-ix5mz6sf8ga67z6f8qfzas38od79be83;晚;laat
-z1706btjc4vqci3q78cmy0ag96jqo1m8;中午;middag, 's middags
-gnztzx1g1r82f8nl6vu70ysfv2adwni7;打球;(een balsport) spelen (met de handen)
-npe9900ozc93wspmmxbb6dep62p8sa6y;网球;tennis
-61ct6inu1h668foyw7oe1lv1akffjitx;打网球;slaan tegen een tennisbal, tennissen
-yzovgrz5vqr48f47rd2mqqqfqd5y5qsv;踢球;stampen tegen een bal
-55tghalbdhl5it1vt3hgzu58545b0h8y;足球;voetbal
-65vj5r468t6n18dcb9tyk8i7l7x8wtc3;踢足球;stampen tegen een voetbal, voetballen
-k9q561wcwbek956df4h2gvjiz4lilxb4;想;denken, willen, missen
-fedh7h0ndt6f2t9tlgoiges6tvqnnoui;回;terugkeren
-8u8q5df7adds7z1ln9bt5u62jv7be4n2;回家;terugkeren naar huis
-8tblfb4pht7r0qiyi1pq91n40xgcddkl;听说;ik heb horen zeggen dat
-xs461use8phmegpdptj4qjrcy1eth6g0;说话;het spreken van woorden, spreken, babbelen
-jez1dlv8c2m4rzi59p16u71w5ru9ngsk;香港;hongkong
-8g5wzxefo9rnhqbfnaap6fa4rk696njc;巧克力;chocolade
-r0rfdjws6g7900chk29o621g48xqrty3;公司;bedrijf
+5m5pf7lbnjayoevjmmqc4h5wqtb1z5op;层;verdieping;
+kh3bmj3ffcaeseoon4otcca6lfhbs42s;洗澡;het wassen van een wasje, zich wassen;
+4tfjstxq11t9nlm52x22qpc65kyi5hzm;洗手;handen wassen;
+2qqp8zxwsdruau5u9p3xa8u4xx8071v2;睡觉;het slapen van een slaapje, slapen;
+ny42o2zgaog1omunmpybe5ybcc40nte9;做饭;koken;
+ulyp60z18ujqagqsxq25tuth673komjd;厕所;toilet;
+h6unfemvw8ja5euy0inx866bm6ivc7jr;男厕所;herentoilet;
+lf9589a07tajiw2xv99pt22a8px1fiqu;女厕所;damestoilet;
+9clbspijnhara1pkrrc6qpqnye1yls2k;上厕所;naar het toilet gaan;
+bskm9yok85aoal6ngdsif5o19d7qoiiu;什么时候;wanneer?;
+yq65ykx0ce0tqr29kf9p3uw1zxj6jdx4;现在;nu;
+vlz9t4wf2o0j7aubg52ee3whqxho917k;昨天;gisteren;
+f8ndfzqaw2syijchqq3nitqq85qg6wch;今天;vandaag;
+c791ggxw5sr0i4h10mhru6rafy44bnko;明天;morgen;
+z5uzfcgnkstczwuuid9npt24a4titu82;几号;de hoeveelste? (datum);
+d8t3g5lrtbt54vyqcs9nsgva2yo83i1u;早上;ochtend, 's ochtends;
+wv34ewg18ybkne8rlkng3ftkzbidetsg;早;vroeg;
+gl4dihsp43xveihs1y7j50b7soiiujtf;晚上;avond, 's avonds;
+ix5mz6sf8ga67z6f8qfzas38od79be83;晚;laat;
+z1706btjc4vqci3q78cmy0ag96jqo1m8;中午;middag, 's middags;
+gnztzx1g1r82f8nl6vu70ysfv2adwni7;打球;(een balsport) spelen (met de handen);
+npe9900ozc93wspmmxbb6dep62p8sa6y;网球;tennis;
+61ct6inu1h668foyw7oe1lv1akffjitx;打网球;slaan tegen een tennisbal, tennissen;
+yzovgrz5vqr48f47rd2mqqqfqd5y5qsv;踢球;stampen tegen een bal;
+55tghalbdhl5it1vt3hgzu58545b0h8y;足球;voetbal;
+65vj5r468t6n18dcb9tyk8i7l7x8wtc3;踢足球;stampen tegen een voetbal, voetballen;
+k9q561wcwbek956df4h2gvjiz4lilxb4;想;denken, willen, missen;
+fedh7h0ndt6f2t9tlgoiges6tvqnnoui;回;terugkeren;
+8u8q5df7adds7z1ln9bt5u62jv7be4n2;回家;terugkeren naar huis;
+8tblfb4pht7r0qiyi1pq91n40xgcddkl;听说;ik heb horen zeggen dat;
+xs461use8phmegpdptj4qjrcy1eth6g0;说话;het spreken van woorden, spreken, babbelen;
+jez1dlv8c2m4rzi59p16u71w5ru9ngsk;香港;hongkong;
+8g5wzxefo9rnhqbfnaap6fa4rk696njc;巧克力;chocolade;
+r0rfdjws6g7900chk29o621g48xqrty3;公司;bedrijf;
 
 week118
-ipa433lvcu1gdxxh0zsa8t3nnegdehuq;天气;het weer
-581s41pcc9h3qh1c4asj0dsy6zymku22;地图;kaart
-yel7u5yl8p28n8vrdprqbrb35bons4xq;东;oosten
-uwc6pr7zu4cmuamffh5moiygmb1owbzb;南;zuiden
-xgzddgti3sjbwrc6orxn4w07qf9vxhl9;西;westen
-vqoz0rq1njc1gfwncp7rehc8g7iaaky3;北;noorden
-2d9ztz3gu7hodz1677dcxlw8hxmxjupf;东西;iets, ding, voorwerp
-xbpx5jbfmu21paenaa09xv5fr9iy1nvk;下雨;regenen
-ywak67c26334cb4ee2sembde56sdxd2m;下雪;sneeuwen
-0lvr8468kp6cm55f2k8mqpckw6gd85d3;冷;koud
-53dsh0dkv8k7ohszu8ximnt09ylv0ath;热;warm
-yic404f5401xupqx8o3cj2wzskibo6p0;真;echt
-pulpvxksh49yoiwlltfuyh5t6eauqmg6;河;rivier
-r7zj05suau5t2hlxi6o6eizy5ubiwjf6;湖;meer
-xx7ordg0zye1fd05v1qb2sc6vrz8kipq;山;berg
-cinuqf32ergxherp3m5zkt92zk157rsj;孔子;confucius
-3yft31eohqs7gx05k3kbn8vf3jk7qn90;还可以;het gaat nog
-6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;还;nog
-gb21l1nhujfsn645kvom4f8bn1bqyoio;慢;langzaam
-kzmikdhoxptwj6dd1o76b4qcbt5ies8w;客气;beleefd
-3tir8ndu6xo7sgjmi6c7znfbts0ita4t;北京;Beijing, Peking
-1x0tf7xjc0vzuyprj35zrjgklrteipc2;南京;nanjing
-up53rdd3ei6qb4dk6ntb9cfgmqzw4k6a;京剧;beijing opera
-oyxpshs8e5vgzevlx72nj0f0h2ob5l3j;告诉;vertellen, meedelen
-9bi4slvmqll15xkahjw82ntjdk9nklul;抱歉;sorry
-xtfydskkb4yxtrkzcg2hrl6o84lwu28o;恐怕;ik vrees dat
-g3m3ywlsi58s6vi08awye7fkogx4367d;行;gaan, lukken
-l1rhschg9zf0p84yy600tn5ud7fwubxa;时间;tijd
-d7is0jdnm53an3homv1qnrxfebo0wx5c;有名;bekend, naam hebben
-j8awz20or67bbcsc8nogjgabcmgwey22;有时候;soms
-mzwvpuxts7rk4dr9iwm2quf9yuvbhzky;..的时候;terwijl .., tijdens het ..
-y2ocnctsvazp6hm43iwt0yvbd7ale8v5;报纸;krant
+ipa433lvcu1gdxxh0zsa8t3nnegdehuq;天气;het weer;
+581s41pcc9h3qh1c4asj0dsy6zymku22;地图;kaart;
+yel7u5yl8p28n8vrdprqbrb35bons4xq;东;oosten;
+uwc6pr7zu4cmuamffh5moiygmb1owbzb;南;zuiden;
+xgzddgti3sjbwrc6orxn4w07qf9vxhl9;西;westen;
+vqoz0rq1njc1gfwncp7rehc8g7iaaky3;北;noorden;
+2d9ztz3gu7hodz1677dcxlw8hxmxjupf;东西;iets, ding, voorwerp;
+xbpx5jbfmu21paenaa09xv5fr9iy1nvk;下雨;regenen;
+ywak67c26334cb4ee2sembde56sdxd2m;下雪;sneeuwen;
+0lvr8468kp6cm55f2k8mqpckw6gd85d3;冷;koud;
+53dsh0dkv8k7ohszu8ximnt09ylv0ath;热;warm;
+yic404f5401xupqx8o3cj2wzskibo6p0;真;echt;
+pulpvxksh49yoiwlltfuyh5t6eauqmg6;河;rivier;
+r7zj05suau5t2hlxi6o6eizy5ubiwjf6;湖;meer;
+xx7ordg0zye1fd05v1qb2sc6vrz8kipq;山;berg;
+cinuqf32ergxherp3m5zkt92zk157rsj;孔子;confucius;
+3yft31eohqs7gx05k3kbn8vf3jk7qn90;还可以;het gaat nog;
+6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;还;nog;
+gb21l1nhujfsn645kvom4f8bn1bqyoio;慢;langzaam;
+kzmikdhoxptwj6dd1o76b4qcbt5ies8w;客气;beleefd;
+3tir8ndu6xo7sgjmi6c7znfbts0ita4t;北京;Beijing, Peking;
+1x0tf7xjc0vzuyprj35zrjgklrteipc2;南京;nanjing;
+up53rdd3ei6qb4dk6ntb9cfgmqzw4k6a;京剧;beijing opera;
+oyxpshs8e5vgzevlx72nj0f0h2ob5l3j;告诉;vertellen, meedelen;
+9bi4slvmqll15xkahjw82ntjdk9nklul;抱歉;sorry;
+xtfydskkb4yxtrkzcg2hrl6o84lwu28o;恐怕;ik vrees dat;
+g3m3ywlsi58s6vi08awye7fkogx4367d;行;gaan, lukken;
+l1rhschg9zf0p84yy600tn5ud7fwubxa;时间;tijd;
+d7is0jdnm53an3homv1qnrxfebo0wx5c;有名;bekend, naam hebben;
+j8awz20or67bbcsc8nogjgabcmgwey22;有时候;soms;
+mzwvpuxts7rk4dr9iwm2quf9yuvbhzky;..的时候;terwijl .., tijdens het ..;
+y2ocnctsvazp6hm43iwt0yvbd7ale8v5;报纸;krant;
 
 week119
-w1ljx5rnoj15okmeofx2dshff0g8j6bm;住;wonen
-h732y81dohcknneslexgzkud09lfhzje;乒乓球;pingpong
-s7f9ycpv81911l9o2to47epvq00yhqfo;还;nog
-k8315e375kcw6wywo3j99p8g9atwuxlm;不好意思;excuseer
-nsk06x0thxhlwtlbex32mxye33gkxy66;旅行;reizen
-xn791nv0qgff9w1p77ns83vr0z5v4cgj;..以后;na.., later
-erxsugmqkndtwpobpzs744f7qu02id97;..以前;voor.., vroeger
-tuagflyu9cf2onaffgaoaq38i0o3ycj5;上课;(beginnen met) les volgen
-bvomnor2jqul17gayf29xlfvbuapbxg4;下课;stoppen met de les
-uve0ek1us4h2jyt2aku5w8eud6mhs9yx;想;denken, willen, missen
-r4qht5ilo7qbe0r62f9uf9lv14s7ejgz;买东西;dingen kopen, winkelen
-hoehy9nlifynt7463xiktq56xie9ghui;买;kopen
-5wmimb1u7mnqlbwczg770cy1ydcblnlx;照片;foto
-gr18dccjjdxcia4juk5dr98xvsaww6o4;漂亮;mooi
-3i8c88w1hzowscvgihsudf8c9tuwfuk1;当然;natuurlijk
-p2uvjj8grtfp4gmmiy8k0kk1wg1g6da3;觉得;vinden, van mening zijn dat
-bg9ur18xi78w7p6co2dd9uhtkv9giqii;数学;wiskunde
-o4u5h97s0tv0vayxmxmufv444zepm6if;化学;scheikunde
-abmwyc35qfe0ayigj1npgtt19v18yb2g;可能;misschien
-ksyh19vc6f9gpl7dyjt8zetkrmawdvjj;问题;vraag
+w1ljx5rnoj15okmeofx2dshff0g8j6bm;住;wonen;
+h732y81dohcknneslexgzkud09lfhzje;乒乓球;pingpong;
+s7f9ycpv81911l9o2to47epvq00yhqfo;还;nog;
+k8315e375kcw6wywo3j99p8g9atwuxlm;不好意思;excuseer;
+nsk06x0thxhlwtlbex32mxye33gkxy66;旅行;reizen;
+xn791nv0qgff9w1p77ns83vr0z5v4cgj;..以后;na.., later;
+erxsugmqkndtwpobpzs744f7qu02id97;..以前;voor.., vroeger;
+tuagflyu9cf2onaffgaoaq38i0o3ycj5;上课;(beginnen met) les volgen;
+bvomnor2jqul17gayf29xlfvbuapbxg4;下课;stoppen met de les;
+uve0ek1us4h2jyt2aku5w8eud6mhs9yx;想;denken, willen, missen;
+r4qht5ilo7qbe0r62f9uf9lv14s7ejgz;买东西;dingen kopen, winkelen;
+hoehy9nlifynt7463xiktq56xie9ghui;买;kopen;
+5wmimb1u7mnqlbwczg770cy1ydcblnlx;照片;foto;
+gr18dccjjdxcia4juk5dr98xvsaww6o4;漂亮;mooi;
+3i8c88w1hzowscvgihsudf8c9tuwfuk1;当然;natuurlijk;
+p2uvjj8grtfp4gmmiy8k0kk1wg1g6da3;觉得;vinden, van mening zijn dat;
+bg9ur18xi78w7p6co2dd9uhtkv9giqii;数学;wiskunde;
+o4u5h97s0tv0vayxmxmufv444zepm6if;化学;scheikunde;
+abmwyc35qfe0ayigj1npgtt19v18yb2g;可能;misschien;
+ksyh19vc6f9gpl7dyjt8zetkrmawdvjj;问题;vraag;
 
 week120
-19pgfbz4nej4u1gyzrt1na7ftqlyu112;一下;eens, even
-wdzrzndfmjj2tpl6h3vhnp01gt7jlnqh;容易;gemakkelijk
-gxd888v4anpah5ob1ny0rdg03ayd8ka4;告诉;vertellen, meedelen
-zo1h9v9yuiae68iczjv7lwazu3ikvo1b;介绍;voorstellen
-th3p889isyookrt518604tlb4xry51iw;教授;professor
-4mqnrzu3zd8p2nkisx1i13kre5yh38ob;开学;starten met het academiejaar
-wp926v92h172qhxj0l1jts0cv6fwauuh;名片;naamkaartje
-0eevgprvj23pqeirw9o6crq5d01glo49;住(在);wonen (te, in)
-uuyq1e1m93rotwr5fvgj811svpx61ol3;公司;bedrijf
-iii4lthn88c61oeiqmh0ayr0vqx1725s;经理;manager
-r8kkw9boez522e7oy3nui2thyxfvz3be;警察;politie
-loxrca36rkrpgwpukigd70tkps9s9ro1;工人;arbeider
-ju9yob0xumdpcdjwwu64z1ypzifvse77;公务员;ambtenaar
-vkb0n4gx42pis08o1o5oof2b3smkdh6g;买卖人;handelaar
-nns8a2yp9az790wbl8saf3ddv68myin5;买;kopen
-4by64ecyydhnqiq6fgbc5616165bfdqn;卖;verkopen
-jcc28gazvcdc0f7ta85ss0kiskj81o83;家庭妇女;huisvrouw
-ch8osoek81rrizk8z84cvs81gls04iu6;律师;advocaat
-qlwy4be3rrblinw7wo3cnmfyf7hj3de0;工程师;ingenieur
-h8tfp8qvii32qg7um21y2lsfb3bu1p25;职员;werknemer
-5ima8y7hm0hbrlt51mxsizmpp80lbz5t;饭馆;restaurant
-mjgfegd7th0jwb97o2uimfymjrg7fa9t;商店;winkel
-mx11zx56zet48dh06jg2f0pojj2ye0ci;钱;geld
-m1vvea4i0apuwso57hq6wofsa1c3yj7o;..以前;voor.., vroeger
-d0kxq448x1castb3act52nr67c947gmf;..以后;na.., later
-hpzumn8m44jkqim1ay7cgit7ck5zx2xx;语法;grammatica
-6aj9d1646nay29oemv4f60lq42zxca9g;生词;nieuwe woorden
-vy2nwtgbtnu6xsyhy1mkk884gkugfy50;退休;op pensioen gaan
+19pgfbz4nej4u1gyzrt1na7ftqlyu112;一下;eens, even;
+wdzrzndfmjj2tpl6h3vhnp01gt7jlnqh;容易;gemakkelijk;
+gxd888v4anpah5ob1ny0rdg03ayd8ka4;告诉;vertellen, meedelen;
+zo1h9v9yuiae68iczjv7lwazu3ikvo1b;介绍;voorstellen;
+th3p889isyookrt518604tlb4xry51iw;教授;professor;
+4mqnrzu3zd8p2nkisx1i13kre5yh38ob;开学;starten met het academiejaar;
+wp926v92h172qhxj0l1jts0cv6fwauuh;名片;naamkaartje;
+0eevgprvj23pqeirw9o6crq5d01glo49;住(在);wonen (te, in);
+uuyq1e1m93rotwr5fvgj811svpx61ol3;公司;bedrijf;
+iii4lthn88c61oeiqmh0ayr0vqx1725s;经理;manager;
+r8kkw9boez522e7oy3nui2thyxfvz3be;警察;politie;
+loxrca36rkrpgwpukigd70tkps9s9ro1;工人;arbeider;
+ju9yob0xumdpcdjwwu64z1ypzifvse77;公务员;ambtenaar;
+vkb0n4gx42pis08o1o5oof2b3smkdh6g;买卖人;handelaar;
+nns8a2yp9az790wbl8saf3ddv68myin5;买;kopen;
+4by64ecyydhnqiq6fgbc5616165bfdqn;卖;verkopen;
+jcc28gazvcdc0f7ta85ss0kiskj81o83;家庭妇女;huisvrouw;
+ch8osoek81rrizk8z84cvs81gls04iu6;律师;advocaat;
+qlwy4be3rrblinw7wo3cnmfyf7hj3de0;工程师;ingenieur;
+h8tfp8qvii32qg7um21y2lsfb3bu1p25;职员;werknemer;
+5ima8y7hm0hbrlt51mxsizmpp80lbz5t;饭馆;restaurant;
+mjgfegd7th0jwb97o2uimfymjrg7fa9t;商店;winkel;
+mx11zx56zet48dh06jg2f0pojj2ye0ci;钱;geld;
+m1vvea4i0apuwso57hq6wofsa1c3yj7o;..以前;voor.., vroeger;
+d0kxq448x1castb3act52nr67c947gmf;..以后;na.., later;
+hpzumn8m44jkqim1ay7cgit7ck5zx2xx;语法;grammatica;
+6aj9d1646nay29oemv4f60lq42zxca9g;生词;nieuwe woorden;
+vy2nwtgbtnu6xsyhy1mkk884gkugfy50;退休;op pensioen gaan;
 
 week121
-qma9ew71nj7txl63riwaevv1et2757o2;假期;vakantie
-8kui5wi8qaankivu6yihlhdqs6ojh924;介绍;voorstellen
-tnnsqa5p7l58nx07y2la4zf36j7fa214;学校;school
-2a2d162utazodkrelddbgey60j6rl21b;印尼;indonesië
-s74hsf96o4uzswpbpxoua8k5q9m0lp1r;住;wonen
-xg99715i6ibsfpqn1ijtqa1fs48ym2hz;楼;gebouw
-0bfour8640948ppcz3dn29b4mou61dkx;房间;kamer
-4vfh1dtf4yvyhnqwxz1ydq893e8cdwio;两;twee (+ maatwoord)
-ee2f3koug06efzux7wu1pjt5bo4b24fj;个;stuk (maatwoord)
-fun5i0ufl56o5rqp326x3mp4bjr7sul7;张;(maatwoord voor papier)
-r3j5yozhksbvrbgtnw2cuszos4lcbf56;本;(maatwoord voor boeken)
-4tluqv2zsltu16asis5zwpfzxizn0wbt;照片;foto
-o85emzkn3mxr1nnhw995vqhvyjyercv0;几;hoeveel (+ maatwoord)?
-qg71f3qz8s0q1f832124lu2qpwxmo78q;多少;hoeveel (+ maatwoord)?
-eczkynw2xedx8ex0pllim8izo3usvbgg;杯;glas, tas (maatwoord)
-v1wtqiz79cd7c40rs6m654l9a9rw27nx;瓶;fles (maatwoord)
+qma9ew71nj7txl63riwaevv1et2757o2;假期;vakantie;
+8kui5wi8qaankivu6yihlhdqs6ojh924;介绍;voorstellen;
+tnnsqa5p7l58nx07y2la4zf36j7fa214;学校;school;
+2a2d162utazodkrelddbgey60j6rl21b;印尼;indonesië;
+s74hsf96o4uzswpbpxoua8k5q9m0lp1r;住;wonen;
+xg99715i6ibsfpqn1ijtqa1fs48ym2hz;楼;gebouw;
+0bfour8640948ppcz3dn29b4mou61dkx;房间;kamer;
+4vfh1dtf4yvyhnqwxz1ydq893e8cdwio;两;twee (+ maatwoord);
+ee2f3koug06efzux7wu1pjt5bo4b24fj;个;stuk (maatwoord);
+fun5i0ufl56o5rqp326x3mp4bjr7sul7;张;(maatwoord voor papier);
+r3j5yozhksbvrbgtnw2cuszos4lcbf56;本;(maatwoord voor boeken);
+4tluqv2zsltu16asis5zwpfzxizn0wbt;照片;foto;
+o85emzkn3mxr1nnhw995vqhvyjyercv0;几;hoeveel (+ maatwoord)?;
+qg71f3qz8s0q1f832124lu2qpwxmo78q;多少;hoeveel (+ maatwoord)?;
+eczkynw2xedx8ex0pllim8izo3usvbgg;杯;glas, tas (maatwoord);
+v1wtqiz79cd7c40rs6m654l9a9rw27nx;瓶;fles (maatwoord);
 
 week122
-pncos9yjd36t81rwmvg3g5t16o82619i;早上;ochtend, 's ochtends
-8smjxayyy9dqsaf5fjs1rp10lcdto8de;早饭;ontbijt
-1xwq1xdcl1gzfr63lfg0b377cc1ut5y1;中午;middag, 's middags
-epy5ium2xsnxjn4afxo4jia9mof8brdm;午饭;lunch
-v90mr67b7sntcwd8tcnz14r1d1l90hny;晚饭;avondmaal
-gzlwuk82bbed609vfcv9uc9g5xwt81x1;百;honderd
-019abjw76zmcaypn3whhv24slavsbqwl;加;plus
-5d07mmytgyyxhb3t88alg0fkc3ykyytg;一共;in totaal
-6n4wd2ddwgur2f0wgv60cm4fvw7opyl2;兄弟;broers
-m8u5cyysx44ww6f9i6oabxagq06bgqri;兄弟姐妹;broers en zussen
-qy54gazaxscxk0w2mizwrc3gecdv8xvd;瓶;fles (maatwoord)
-rb3zy5rfrhjgrbvcqk2zpd9vsc7zqcgf;杯;glas, tas (maatwoord)
-609phcvmwklepxr1hax91r3zola6kj0y;班;klasgroep
-93xzh7xn1ddvvisfzrn2jwrvu3ak2k9m;教;onderwijzen
-3hq0cwtu231x23qa765o0tsa8zt7n9zi;上学;les volgen
-sl8j5roz3xkf17eqiki1jpqkazjcy47j;上小学;les volgen in het lager
-hxhbdg9m49tciuy5pwutzk1q586jso5i;上中学;les volgen in het middelbaar
-stnpw5onfzlu9azj9ihn4d09p0wk7rw9;上大学;les volgen aan de universiteit
-2hdkfhf0x6f37eoow139jaah6k94zpel;系;departement
-gjcm9c4yfuq7zb7suegn3hxlv01p32su;专业;specialisatie
-q8xwsb8k0dn1oxhhraudy1tx4xtlsyy4;数学;wiskunde
-p31n3kuamhn6939y9m61umpyergpd877;医学;geneeskunde
-p052xf93wldrk3b9aji9qqms9y7jc706;文学;taal- en letterkunde
-waxcso6ulcoj3nay7xskrs7ut3dteyia;哲学;filosofie
-j7dxs1rnaru37u98tw0hmwfpd7axxrh4;物理;fysica
-hbjitqp7ia7g58us87hy39x9l2kgh7dz;化学;scheikunde
-a30bi14odhx497wyrzihsprg3c5sxa0v;教育学;pedagogie
-nvpz6nvlzor8bcvdrue90rpbcryby5w8;美术;schone kunsten
-n088qrnj6aodt3k79sevbcprysuir21o;经济;economie
-uf8d35js1iukqu7nf6cv629burc3r080;历史;geschiedenis
-1d3pxojkf3ovmzf24gtkx2lsyqfuxez7;文化;cultuur
-cspl4nudistiuhw0axh4qkr4bewpmml4;明白;begrijpen, verstaan
-k2dz63pgj6eh058y68jyh3t5o5ji6mdk;饿;honger hebben
+pncos9yjd36t81rwmvg3g5t16o82619i;早上;ochtend, 's ochtends;
+8smjxayyy9dqsaf5fjs1rp10lcdto8de;早饭;ontbijt;
+1xwq1xdcl1gzfr63lfg0b377cc1ut5y1;中午;middag, 's middags;
+epy5ium2xsnxjn4afxo4jia9mof8brdm;午饭;lunch;
+v90mr67b7sntcwd8tcnz14r1d1l90hny;晚饭;avondmaal;
+gzlwuk82bbed609vfcv9uc9g5xwt81x1;百;honderd;
+019abjw76zmcaypn3whhv24slavsbqwl;加;plus;
+5d07mmytgyyxhb3t88alg0fkc3ykyytg;一共;in totaal;
+6n4wd2ddwgur2f0wgv60cm4fvw7opyl2;兄弟;broers;
+m8u5cyysx44ww6f9i6oabxagq06bgqri;兄弟姐妹;broers en zussen;
+qy54gazaxscxk0w2mizwrc3gecdv8xvd;瓶;fles (maatwoord);
+rb3zy5rfrhjgrbvcqk2zpd9vsc7zqcgf;杯;glas, tas (maatwoord);
+609phcvmwklepxr1hax91r3zola6kj0y;班;klasgroep;
+93xzh7xn1ddvvisfzrn2jwrvu3ak2k9m;教;onderwijzen;
+3hq0cwtu231x23qa765o0tsa8zt7n9zi;上学;les volgen;
+sl8j5roz3xkf17eqiki1jpqkazjcy47j;上小学;les volgen in het lager;
+hxhbdg9m49tciuy5pwutzk1q586jso5i;上中学;les volgen in het middelbaar;
+stnpw5onfzlu9azj9ihn4d09p0wk7rw9;上大学;les volgen aan de universiteit;
+2hdkfhf0x6f37eoow139jaah6k94zpel;系;departement;
+gjcm9c4yfuq7zb7suegn3hxlv01p32su;专业;specialisatie;
+q8xwsb8k0dn1oxhhraudy1tx4xtlsyy4;数学;wiskunde;
+p31n3kuamhn6939y9m61umpyergpd877;医学;geneeskunde;
+p052xf93wldrk3b9aji9qqms9y7jc706;文学;taal- en letterkunde;
+waxcso6ulcoj3nay7xskrs7ut3dteyia;哲学;filosofie;
+j7dxs1rnaru37u98tw0hmwfpd7axxrh4;物理;fysica;
+hbjitqp7ia7g58us87hy39x9l2kgh7dz;化学;scheikunde;
+a30bi14odhx497wyrzihsprg3c5sxa0v;教育学;pedagogie;
+nvpz6nvlzor8bcvdrue90rpbcryby5w8;美术;schone kunsten;
+n088qrnj6aodt3k79sevbcprysuir21o;经济;economie;
+uf8d35js1iukqu7nf6cv629burc3r080;历史;geschiedenis;
+1d3pxojkf3ovmzf24gtkx2lsyqfuxez7;文化;cultuur;
+cspl4nudistiuhw0axh4qkr4bewpmml4;明白;begrijpen, verstaan;
+k2dz63pgj6eh058y68jyh3t5o5ji6mdk;饿;honger hebben;
 
 week123
-e8cn3rhj6i8yb3enwvgq3n56tog1q579;早上;ochtend, 's ochtends
-oe4dngdtel2ofhfm3cxy9q0h8g0pknz2;上午;voormiddag, 's voormiddags
-9uqpfb5rgpx9kwyh8ezw4c7lthmzponu;中午;middag, 's middags
-5opuiz3bfs2cs1d8cc01ttvi5c7w1u0a;下午;namiddag, in de namiddag
-6zax5sgx0ljk9pnqjo5dek7x752rd7fc;晚上;avond, 's avonds
-cak8ycjfxk68vyg4fm0bty2su9ztm761;写字;schrijven
-dkjbtmdrxj9matuni7najq4os91fja92;花;bloem
-f3kpx3hkeyp0knhkg2if9hfa3n0hj0q9;结婚;trouwen
-psy4t5notdqgt44pg0q2gqdkitdasgv9;律师;advocaat
-xl099wq86ayyd2d0ypg08titvznuwyy5;法律;recht, wet
-lfup5muesc828g2tnw2omra4ta5f3o09;口;(maatwoord voor mensen in een gezin)
-8znvdppcskhjpflcem2i5xurf0eoswvb;还;nog
-xi39alhqwdaav4sxz7bif68moj4u6xtm;真;echt
-eqntah3d17f8hoo8q1i110qg85e3cjqw;一共;in totaal
-73c3i50tyf7rsqseocrtaj95intu7crc;想;denken, willen, missen
-pwk80em62odr91xumqfk422qm6q7aczb;上课;(beginnen met) les volgen
-un98synmbv78gvabriktoolz4r91s4oz;下课;stoppen met de les
+e8cn3rhj6i8yb3enwvgq3n56tog1q579;早上;ochtend, 's ochtends;
+oe4dngdtel2ofhfm3cxy9q0h8g0pknz2;上午;voormiddag, 's voormiddags;
+9uqpfb5rgpx9kwyh8ezw4c7lthmzponu;中午;middag, 's middags;
+5opuiz3bfs2cs1d8cc01ttvi5c7w1u0a;下午;namiddag, in de namiddag;
+6zax5sgx0ljk9pnqjo5dek7x752rd7fc;晚上;avond, 's avonds;
+cak8ycjfxk68vyg4fm0bty2su9ztm761;写字;schrijven;
+dkjbtmdrxj9matuni7najq4os91fja92;花;bloem;
+f3kpx3hkeyp0knhkg2if9hfa3n0hj0q9;结婚;trouwen;
+psy4t5notdqgt44pg0q2gqdkitdasgv9;律师;advocaat;
+xl099wq86ayyd2d0ypg08titvznuwyy5;法律;recht, wet;
+lfup5muesc828g2tnw2omra4ta5f3o09;口;(maatwoord voor mensen in een gezin);
+8znvdppcskhjpflcem2i5xurf0eoswvb;还;nog;
+xi39alhqwdaav4sxz7bif68moj4u6xtm;真;echt;
+eqntah3d17f8hoo8q1i110qg85e3cjqw;一共;in totaal;
+73c3i50tyf7rsqseocrtaj95intu7crc;想;denken, willen, missen;
+pwk80em62odr91xumqfk422qm6q7aczb;上课;(beginnen met) les volgen;
+un98synmbv78gvabriktoolz4r91s4oz;下课;stoppen met de les;
 
 week124
-m0mpuu7t147tjklgrgmdaihymf0bd6dq;大哥;grootste oudere broer
-r6pf88xgn3o457v8ttolzdd4rpf5702t;大姐;grootste oudere zus
-tq5575pp7oq1yz7911go4ypf2twyk78t;二姐;tweede grootste oudere zus
-yvbbzajy8ccvy5i1xwiohhb0t1vemzb6;经理;manager
-fckueibuzlzwuyvw6ic7923ga5ctn1iy;工人;arbeider
-pyrfytyg7julzqdmmo0dlidxr91g8l5g;买卖人;handelaar
-2fbmg5cbkytknyv5kya816nxmlf13yf6;卖东西的人;verkoper
-udfo4o45yv8b1vt8flax6tdg7dhxs30v;职员;werknemer
-kzx2v003sd1hobrug48nph538u1sb38n;爱好;hobby
-5odnttiaevv5s9vm2mre9gmbv7j5ugfp;上网;surfen op het internet
-jopk9sa7m09g6qphr7qnulmeq9as8n4c;因特网;internet
-qdmayvy1jl632c3lznvlul940zkbfoaf;打篮球;basketbal spelen
-d8yk5w2ztsv4hk0xi0o9tbeg83x0wi4r;班;klasgroep
-1s9tg6z34u01see96nl3ewvy2pfown9j;有名;bekend, naam hebben
-tghzzb3iqbgji3q9qxjo0sjsf8zhs2w2;结婚;trouwen
-bpa6h2drpopcedwz2hl8kyfz6jda4yl1;教书;onderwijzen
+m0mpuu7t147tjklgrgmdaihymf0bd6dq;大哥;grootste oudere broer;
+r6pf88xgn3o457v8ttolzdd4rpf5702t;大姐;grootste oudere zus;
+tq5575pp7oq1yz7911go4ypf2twyk78t;二姐;tweede grootste oudere zus;
+yvbbzajy8ccvy5i1xwiohhb0t1vemzb6;经理;manager;
+fckueibuzlzwuyvw6ic7923ga5ctn1iy;工人;arbeider;
+pyrfytyg7julzqdmmo0dlidxr91g8l5g;买卖人;handelaar;
+2fbmg5cbkytknyv5kya816nxmlf13yf6;卖东西的人;verkoper;
+udfo4o45yv8b1vt8flax6tdg7dhxs30v;职员;werknemer;
+kzx2v003sd1hobrug48nph538u1sb38n;爱好;hobby;
+5odnttiaevv5s9vm2mre9gmbv7j5ugfp;上网;surfen op het internet;
+jopk9sa7m09g6qphr7qnulmeq9as8n4c;因特网;internet;
+qdmayvy1jl632c3lznvlul940zkbfoaf;打篮球;basketbal spelen;
+d8yk5w2ztsv4hk0xi0o9tbeg83x0wi4r;班;klasgroep;
+1s9tg6z34u01see96nl3ewvy2pfown9j;有名;bekend, naam hebben;
+tghzzb3iqbgji3q9qxjo0sjsf8zhs2w2;结婚;trouwen;
+bpa6h2drpopcedwz2hl8kyfz6jda4yl1;教书;onderwijzen;
 
 week125
-b4jetmrjiwsyt8qh62jejomtt4jpsnqz;文明;beschaafd
-zkfrv081v642h5m6408ps6h0eij7vhym;瓶;fles (maatwoord)
-l6zmjsapbruev142a5d985f45ccficge;杯;glas, tas (maatwoord)
-0bt42rjicrreh7jner5ap527vpy8sigw;笔;pen
-htzzffgcc3hw15tlhr9kprky9mjw4ibs;支;(maatwoord voor pennen, sigaretten, etc...)
-7vuuwvkjsdek04bq3mjgxabo43uyu6pv;纸;papier
-u37aevaqpeono4neq9ys9djulsr5wbya;公园;park
-wove20qv3g8afocjo928nlrzeixjpto9;年级;jaar (niveau)
-2x25q887fr4llewu8i7ky14a753x1nyd;早上;ochtend, 's ochtends
-mcute9rsaigdzo11o7ic1i0bx0fe0b5x;早;vroeg
-ehccfceu12vb320qsoyxs6d762ckukir;帅;knap (om mannen te beschrijven)
+b4jetmrjiwsyt8qh62jejomtt4jpsnqz;文明;beschaafd;
+zkfrv081v642h5m6408ps6h0eij7vhym;瓶;fles (maatwoord);
+l6zmjsapbruev142a5d985f45ccficge;杯;glas, tas (maatwoord);
+0bt42rjicrreh7jner5ap527vpy8sigw;笔;pen;
+htzzffgcc3hw15tlhr9kprky9mjw4ibs;支;(maatwoord voor pennen, sigaretten, etc...);
+7vuuwvkjsdek04bq3mjgxabo43uyu6pv;纸;papier;
+u37aevaqpeono4neq9ys9djulsr5wbya;公园;park;
+wove20qv3g8afocjo928nlrzeixjpto9;年级;jaar (niveau);
+2x25q887fr4llewu8i7ky14a753x1nyd;早上;ochtend, 's ochtends;
+mcute9rsaigdzo11o7ic1i0bx0fe0b5x;早;vroeg;
+ehccfceu12vb320qsoyxs6d762ckukir;帅;knap (om mannen te beschrijven);
 
 week126
-fcpoz521zeoeeqmx385lhavuvra5p6lb;大哥;grootste oudere broer
-qvsnfuknkzcs7mi6b6cplv40s72e3jcj;二姐;tweede grootste oudere zus
-vdyw5xsschm3agsl6n801tanlfpsl8gu;回家;terugkeren naar huis
-dar13gfiap9732kxaajps6lsrnypg3ly;杯;glas, tas (maatwoord)
-lnwz0qedsr1ohxrfzwgyzztd937vxkye;瓶;fles (maatwoord)
+fcpoz521zeoeeqmx385lhavuvra5p6lb;大哥;grootste oudere broer;
+qvsnfuknkzcs7mi6b6cplv40s72e3jcj;二姐;tweede grootste oudere zus;
+vdyw5xsschm3agsl6n801tanlfpsl8gu;回家;terugkeren naar huis;
+dar13gfiap9732kxaajps6lsrnypg3ly;杯;glas, tas (maatwoord);
+lnwz0qedsr1ohxrfzwgyzztd937vxkye;瓶;fles (maatwoord);
 
 les01
-u642a04mgi7zbv85iqkvad6im547o1ik;你;jij
-kd4uacklnsbgcgbrrgn8ajtovmcxo5sn;好;goed
-bxthny4yy6mjv154132p75mauynrmpvs;吗;(vraagpartikel)
-2jerwnsev6k9jsuvyyoq7ka730stx35v;我;ik
-9u1t2xvism6v9qvivtp5eik748g2lyvz;很;heel
-k0tqc98v5ngb71da4gy56iqrkj8mxjno;好;goed
-apfal5v2tw3fh4yqolmp3sjwbjes5ccb;也;ook
+u642a04mgi7zbv85iqkvad6im547o1ik;你;jij;
+kd4uacklnsbgcgbrrgn8ajtovmcxo5sn;好;goed;
+bxthny4yy6mjv154132p75mauynrmpvs;吗;(vraagpartikel);
+2jerwnsev6k9jsuvyyoq7ka730stx35v;我;ik;
+9u1t2xvism6v9qvivtp5eik748g2lyvz;很;heel;
+k0tqc98v5ngb71da4gy56iqrkj8mxjno;好;goed;
+apfal5v2tw3fh4yqolmp3sjwbjes5ccb;也;ook;
 
 les02
-az1ysu2urhl8mo08rum8l5z109kmn093;忙;druk
-4o26rjbzu31qhapi3c7xq223cqoedh1i;吗;(vraagpartikel)
-483c4g4j7h3icrxq6ssae0aclz8efzus;爸爸;papa
-oypkf1nils916g21p0xbdvenwna947do;妈妈;mama
-n89pvnrzk55v6yd9651x9lcb6agff8wf;他们;zij (mannelijk meervoud)
-nzkqyyleamfm825c5m7sfb4nxkxy2big;他;hij
-025te39ad6ivl9vr74699x4avau06ld8;们;(meervoud bij persoonlijke voornaamwoorden)
-jf1twiz2bqou8766d0m6xl0oh0qffnfw;都;allen, allemaal, beiden
-wkq3e8d40ohzgr1xn0r7s99aggrdtrh3;不;niet, geen
-e6cyhoqa81xtzwxxnea9d91uwtcmyvyd;男;man
-op4qhr6vw9b5mwq9hhs6y0ss34ifqzt8;朋友;vriend
-ofkukikt240qkp04zx00kz9yla191dcw;呢;en ...?
-4abzt546a6hwojx1o0hyfm6brs40m8ib;哥哥;oudere broer
-jka3rdag5lvxtyjrgabm4l4lbgycsvav;要;willen, hebben, moeten
-cw282frsgm3im30fjowdlfb0pj18cgxs;咖啡;koffie
-xmkhveyqe01nk67kc8mcbeooyztq4h61;弟弟;jongere broer
-1vwh3gqx7xe6o98ogb7zhp5zxswcifwp;我们;wij
-itunl6kd8jy8b2a36orjkqvla6c6lilr;喝;drinken
+az1ysu2urhl8mo08rum8l5z109kmn093;忙;druk;
+4o26rjbzu31qhapi3c7xq223cqoedh1i;吗;(vraagpartikel);
+483c4g4j7h3icrxq6ssae0aclz8efzus;爸爸;papa;
+oypkf1nils916g21p0xbdvenwna947do;妈妈;mama;
+n89pvnrzk55v6yd9651x9lcb6agff8wf;他们;zij (mannelijk meervoud);
+nzkqyyleamfm825c5m7sfb4nxkxy2big;他;hij;
+025te39ad6ivl9vr74699x4avau06ld8;们;(meervoud bij persoonlijke voornaamwoorden);
+jf1twiz2bqou8766d0m6xl0oh0qffnfw;都;allen, allemaal, beiden;
+wkq3e8d40ohzgr1xn0r7s99aggrdtrh3;不;niet, geen;
+e6cyhoqa81xtzwxxnea9d91uwtcmyvyd;男;man;
+op4qhr6vw9b5mwq9hhs6y0ss34ifqzt8;朋友;vriend;
+ofkukikt240qkp04zx00kz9yla191dcw;呢;en ...?;
+4abzt546a6hwojx1o0hyfm6brs40m8ib;哥哥;oudere broer;
+jka3rdag5lvxtyjrgabm4l4lbgycsvav;要;willen, hebben, moeten;
+cw282frsgm3im30fjowdlfb0pj18cgxs;咖啡;koffie;
+xmkhveyqe01nk67kc8mcbeooyztq4h61;弟弟;jongere broer;
+1vwh3gqx7xe6o98ogb7zhp5zxswcifwp;我们;wij;
+itunl6kd8jy8b2a36orjkqvla6c6lilr;喝;drinken;
 
 les03
-0sgoe8yhie9rkl2xlmsvuf1a0xo90kam;她;zij (vrouwelijk enkelvoud)
-h0uiei8rk8ci8pp3zi6cp6gs9fluklj5;是;zijn
-4g24y6n9vsar0ib706g4memgo9l121ni;哪;welke?
-4mjlkdc9was8oq21cohme90cyuzjhye1;国;land
-15vx354n466di4wztc22604s008gzfgz;人;persoon
-ma8c4p54f4hatfn9kxav02h1z674jfbn;那;die, dat
-7ay9mhds6k3rjqnwlkblo2r1ecv3lyg4;谁;wie
-semwynmkvr2lz3mo6inaeqltzxl4pwiu;老师;leerkracht
-tf5cyp294ya0umgo9bkcdvmj570ddw7d;都;allen, allemaal, beiden
-k5064j1c52hyow7l34136sgpn61zt1jd;中国;China
-w4uufcwqcccrmyqo39mvud74cic5mt9t;您;u
-f4ka1poqj6tvpl3jbo2vyvedo0p0ncog;这;deze, dit
-d7h3ulrkcsywh7uq03tgdnuurhub3sz8;他;hij
-axnk0e5p9x04qzhfoforl3v2znzphksr;外语;vreemde taal
-ou4ofh0zqepwahz66r9516oh814k8ev3;你;jij
-f2nhuv12gysl24aqjlrchwejswj6x1kg;医生;dokter
-gr9g3rocebt8gff2mld2b4l7yvq0kuv8;奶奶;oma (langs vaders kant)
-p590jl4q9ux4b92iymvyli2xm0hirfxg;外婆;oma (langs moeders kant)
+0sgoe8yhie9rkl2xlmsvuf1a0xo90kam;她;zij (vrouwelijk enkelvoud);
+h0uiei8rk8ci8pp3zi6cp6gs9fluklj5;是;zijn;
+4g24y6n9vsar0ib706g4memgo9l121ni;哪;welke?;
+4mjlkdc9was8oq21cohme90cyuzjhye1;国;land;
+15vx354n466di4wztc22604s008gzfgz;人;persoon;
+ma8c4p54f4hatfn9kxav02h1z674jfbn;那;die, dat;
+7ay9mhds6k3rjqnwlkblo2r1ecv3lyg4;谁;wie;
+semwynmkvr2lz3mo6inaeqltzxl4pwiu;老师;leerkracht;
+tf5cyp294ya0umgo9bkcdvmj570ddw7d;都;allen, allemaal, beiden;
+k5064j1c52hyow7l34136sgpn61zt1jd;中国;China;
+w4uufcwqcccrmyqo39mvud74cic5mt9t;您;u;
+f4ka1poqj6tvpl3jbo2vyvedo0p0ncog;这;deze, dit;
+d7h3ulrkcsywh7uq03tgdnuurhub3sz8;他;hij;
+axnk0e5p9x04qzhfoforl3v2znzphksr;外语;vreemde taal;
+ou4ofh0zqepwahz66r9516oh814k8ev3;你;jij;
+f2nhuv12gysl24aqjlrchwejswj6x1kg;医生;dokter;
+gr9g3rocebt8gff2mld2b4l7yvq0kuv8;奶奶;oma (langs vaders kant);
+p590jl4q9ux4b92iymvyli2xm0hirfxg;外婆;oma (langs moeders kant);
 
 les04
-ue469piuplvq9nezynjhslinfwq5jfty;认识;(iemand) kennen, leren kennen
-dru76ijir2p28a6phh4v3fqfr2km0sie;高兴;blij
-59szmbgww5d21ejlazhh3tay5u32yk6k;可以;kunnen, mogen (iets dat toegelaten is)
-lvzc0lylzvf80cvcgw1p6xbcjarald1m;进来;binnen komen
-1rm9ikuukjrbaksb7s2nhqahewvypmkh;进;betreden (van een ruimte)
-njjj17f73smsn0vrsttceh7tfpcapsen;来;komen
-fspxqjhxn5j5gue93o98pcthwglrv0sm;请;iemand iets verzoeken, gelieve ...
-8gwfncho9vsa0hhg1nipdd1q2vsniezb;您;u
-ma3zuv77e0ketxiynbesaqvtg6341dgu;朋友;vriend
-vluqw8cbw8pd336ljcmag6suedh9c4fc;记者;reporter
-ux4xjw19gcd0tgm4go0bnma2s9w3bz1s;请问;excuseer, mag ik iets vragen?
-r17zl0keiqrvfknt9d8nfunj52q52hna;问;vragen
-mg96k5kqq2gspj4vtiqv1wbue5rbhk69;贵姓;achternaam (erg beleefd)
-3oeuxope0m06atjnb5x2wunhy8hu556v;姓;achternaam, heten (achternaam)
-ytueyazop37l2aajxqc936z7e416i4m7;叫;heten
-nzv78v2n36s6ia7q7mjaxkd1uptrmkx0;先生;mijnheer, echtgenoot
-nmvfsiclwoyw6k691bdsm4ojymnji241;语言;taal
-1u0f3vitgqa4lzz5j8ird1otxkzazhps;学院;instituut, faculteit
-vxsqe9bjrm52ulxfm2511559x5q3pefb;的;‘s (partikel om bezit aan te duiden)
-q59fw5l5yw69wx1n07ollcjfgwgpx1mw;学生;student
-tzo05b8cldfc4nr0w49893kvwd1wqef7;什么;wat?
-tov8njdnvkqswwtkxyhdar8jjep27jqo;学习;studeren, leren
-nifoyhds93s5sdsxsppsncd81uy8qdqd;汉语;chinees (taal)
-34ltdra0wg0723n7wv67zs9725r061i9;英国;Engeland
-meb75p7g0hdb4ky5d3b0tr3ignriex4u;加拿大;Canada
-5y072nrdx59k568iwubk9z6sbgxzzqj5;美国;Verenigde Staten
+ue469piuplvq9nezynjhslinfwq5jfty;认识;(iemand) kennen, leren kennen;
+dru76ijir2p28a6phh4v3fqfr2km0sie;高兴;blij;
+59szmbgww5d21ejlazhh3tay5u32yk6k;可以;kunnen, mogen (iets dat toegelaten is);
+lvzc0lylzvf80cvcgw1p6xbcjarald1m;进来;binnen komen;
+1rm9ikuukjrbaksb7s2nhqahewvypmkh;进;betreden (van een ruimte);
+njjj17f73smsn0vrsttceh7tfpcapsen;来;komen;
+fspxqjhxn5j5gue93o98pcthwglrv0sm;请;iemand iets verzoeken, gelieve ...;
+8gwfncho9vsa0hhg1nipdd1q2vsniezb;您;u;
+ma3zuv77e0ketxiynbesaqvtg6341dgu;朋友;vriend;
+vluqw8cbw8pd336ljcmag6suedh9c4fc;记者;reporter;
+ux4xjw19gcd0tgm4go0bnma2s9w3bz1s;请问;excuseer, mag ik iets vragen?;
+r17zl0keiqrvfknt9d8nfunj52q52hna;问;vragen;
+mg96k5kqq2gspj4vtiqv1wbue5rbhk69;贵姓;achternaam (erg beleefd);
+3oeuxope0m06atjnb5x2wunhy8hu556v;姓;achternaam, heten (achternaam);
+ytueyazop37l2aajxqc936z7e416i4m7;叫;heten;
+nzv78v2n36s6ia7q7mjaxkd1uptrmkx0;先生;mijnheer, echtgenoot;
+nmvfsiclwoyw6k691bdsm4ojymnji241;语言;taal;
+1u0f3vitgqa4lzz5j8ird1otxkzazhps;学院;instituut, faculteit;
+vxsqe9bjrm52ulxfm2511559x5q3pefb;的;‘s (partikel om bezit aan te duiden);
+q59fw5l5yw69wx1n07ollcjfgwgpx1mw;学生;student;
+tzo05b8cldfc4nr0w49893kvwd1wqef7;什么;wat?;
+tov8njdnvkqswwtkxyhdar8jjep27jqo;学习;studeren, leren;
+nifoyhds93s5sdsxsppsncd81uy8qdqd;汉语;chinees (taal);
+34ltdra0wg0723n7wv67zs9725r061i9;英国;Engeland;
+meb75p7g0hdb4ky5d3b0tr3ignriex4u;加拿大;Canada;
+5y072nrdx59k568iwubk9z6sbgxzzqj5;美国;Verenigde Staten;
 
 les05
-nxj07uwua15oraw30505joraiw72wnct;餐厅;eetzaal, cafetaria
-9pemqp53l2q1p36itkbie0ftmmg2o3ke;在;aanwezig zijn, te ...
-is1jsfrclqp6jqqsji0s6lnafsgmchby;哪里;waar?
-ljpturqdbo7pl72c10ou6z32fj81f2es;请问;excuseer, mag ik iets vragen?
-jnvgmwi3q8zefus9tug94v00mtfe7vok;问;vragen
-xgf1o5pus08opujhzb6i10frzy19j6l7;这;deze, dit
-ns47qw8l2746e2id9truy4gjod45d8a4;宿舍;slaapzaal
-knhso7w0yziqzbo53pg4ccemunzyrsxc;女;vrouw
-xm67q2o33z3mm0zplghlhvo6jhtdev2n;学生;student
-y1s4leobbn5s935rstu31rnteo5qw123;进;betreden (van een ruimte)
-60d6az9poqbtsv2bvjzac68nv0pn8oyl;坐;zitten
-833al5vhnwj6gq7zoropniw7ma6vcsg5;谢谢;bedankt, dankuwel
-24yxvcdt0lgnzcgwspu2xv1k0owbhtpo;对不起;sorry
-x5lct4ajn9lbzqvzb4xrn0wo20ja6ctu;我;ik
-dg5o93i3udp600wnpmoedbq13d1czfkh;知道;weten
-r75gg9wjxw27pid5nxj1o86ciictkoo1;没关系;het geeft niet
-f9brpj60cilluu1fdds8rnnmttfcmfzp;好;goed
-lqa6kqilpoug3y1wjqyajsm2gfwpwucd;再见;tot ziens
-490nr6je7otvot1m3v0eawdp2al2lepa;再;weer, nog een keer, opnieuw
-mzcbm62484t51fv1prjpro53v8dq3otg;小姐;jonge vrouw
-5l0ja7solm15pk5bwm0di9yp6zbsnvrf;二;twee
-kbwla94cu2k6zanbb7i9ontl0r7fqmqf;层;verdieping
-ms9oczvejsw445tos3afzh4hw2ye17in;零;nul
-ru8ajpo1tjob87yznn4ebnmro49k8wna;四;vier
-s58cwatr854qjkh5d6py1abhwdhrdvl4;号;nummer
-y8wel0k0qgy4l6alw8re522efo2ivhxb;不用;niet nodig hebben
-6exl29wi2a5zmaual13y3uzyfdbpu1kf;这里;hier
-32nkh8ilxrkse00io32vl0mj7vd59vmb;晚;laat
-6je6xcvjrp3b2w9zlw57xo25cvl279pf;了;(partikel voor voltooide handelingen)
+nxj07uwua15oraw30505joraiw72wnct;餐厅;eetzaal, cafetaria;
+9pemqp53l2q1p36itkbie0ftmmg2o3ke;在;aanwezig zijn, te ...;
+is1jsfrclqp6jqqsji0s6lnafsgmchby;哪里?;waar?;
+ljpturqdbo7pl72c10ou6z32fj81f2es;请问;excuseer, mag ik iets vragen?;
+jnvgmwi3q8zefus9tug94v00mtfe7vok;问;vragen;
+xgf1o5pus08opujhzb6i10frzy19j6l7;这;deze, dit;
+ns47qw8l2746e2id9truy4gjod45d8a4;宿舍;slaapzaal;
+knhso7w0yziqzbo53pg4ccemunzyrsxc;女;vrouw;
+xm67q2o33z3mm0zplghlhvo6jhtdev2n;学生;student;
+y1s4leobbn5s935rstu31rnteo5qw123;进;betreden (van een ruimte);
+60d6az9poqbtsv2bvjzac68nv0pn8oyl;坐;zitten;
+833al5vhnwj6gq7zoropniw7ma6vcsg5;谢谢;bedankt, dankuwel;
+24yxvcdt0lgnzcgwspu2xv1k0owbhtpo;对不起;sorry;
+x5lct4ajn9lbzqvzb4xrn0wo20ja6ctu;我;ik;
+dg5o93i3udp600wnpmoedbq13d1czfkh;知道;weten;
+r75gg9wjxw27pid5nxj1o86ciictkoo1;没关系;het geeft niet;
+f9brpj60cilluu1fdds8rnnmttfcmfzp;好;goed;
+lqa6kqilpoug3y1wjqyajsm2gfwpwucd;再见;tot ziens;
+490nr6je7otvot1m3v0eawdp2al2lepa;再;weer, nog een keer, opnieuw;
+mzcbm62484t51fv1prjpro53v8dq3otg;小姐;jonge vrouw;
+5l0ja7solm15pk5bwm0di9yp6zbsnvrf;二;twee;
+kbwla94cu2k6zanbb7i9ontl0r7fqmqf;层;verdieping;
+ms9oczvejsw445tos3afzh4hw2ye17in;零;nul;
+ru8ajpo1tjob87yznn4ebnmro49k8wna;四;vier;
+s58cwatr854qjkh5d6py1abhwdhrdvl4;号;nummer;
+y8wel0k0qgy4l6alw8re522efo2ivhxb;不用;niet nodig hebben;
+6exl29wi2a5zmaual13y3uzyfdbpu1kf;这里;hier;
+32nkh8ilxrkse00io32vl0mj7vd59vmb;晚;laat;
+6je6xcvjrp3b2w9zlw57xo25cvl279pf;了;(partikel voor voltooide handelingen);
 
 les06
-08m4r1pjuuy2brsqurbjzctt78ya1fd2;去;gaan
-ri8vs875te0a6erhhjuoi9irg1t2el2i;游泳;zwemmen
-k997q4hdodsj73suzqtwxsu51c0wrw5p;昨天;gisteren
-hstc4l747b1fnqc3xjii6n4fqs7azgbw;京剧;beijing opera
-bye6k1p4aixflbu5gdk3peio8helihpr;怎么样;wat (denk je) van?
-7r6qi64gc1bjvwp0vx5j8lh3m0n83khb;有意思;interessant
-qf7xhpv2evu606zypaon4wrtbc4oky7o;今天;vandaag
-3zicdt7sibxj4807334jo3mnae4gz3yv;天;dag
-pghwql7c5y9slxcrrnkrr3vfmmz8q1lk;天气;het weer
-igfk0hmbv2qiktd15aellj6ob1z2mez8;太;te, extreem
-bentousupb817l7xgp1xlvqc6uni4roa;什么;wat?
-sgqlom2ku9smcem57f8jjvj498htgxj7;时候;tijd, moment
-49o1yom75gyfheow5aimqawjhul2st5r;现在;nu
-dzgrwgl4cwa3uf2evpmz2v964scwngwb;明天;morgen
-mwsaytnu4tmondqjh44s5xv38mxktudk;有;hebben
-3kd2hszibjtlasvbueq4gkt9xsby4pic;时间;tijd
-8mtklt33jk681xwwr3m21ghdrqg336a1;说;(iets) zeggen, (een taal) spreken
-kja9e3m3bv5o6x887kukzxxppijxc5jf;遍;aantal keer (bij een handeling)
-pw2x2dt9h9mid5gu4eona9m3wua1c10w;打球;(een balsport) spelen (met de handen)
-0r0oat596vrd98hyopyl2o6004dsnp9r;打;slaan, spelen
-nl93jvoalxkzy1te7qh8461hozv07aj2;球;bal
-brj5rboxdvdsqq5cme2plx75t4nhncgj;抱歉;sorry
-a9pqcuno75n3z6pqt13d8tjbikaeq3lu;忙;druk
-lmqpwdz32vdons6kiwyu0reiampmdae4;恐怕;ik vrees dat
-qxgulq7s5ims5x8inzgfhe7snagt5xzo;行;gaan, lukken
-cjqxevl3z4alwcy7vfj57sq8gyxq4otc;谢谢;bedankt, dankuwel
-yryb3ynrpj7qn0ee1x0ubs5xfz710823;你们;jullie
+08m4r1pjuuy2brsqurbjzctt78ya1fd2;去;gaan;
+ri8vs875te0a6erhhjuoi9irg1t2el2i;游泳;zwemmen;
+k997q4hdodsj73suzqtwxsu51c0wrw5p;昨天;gisteren;
+hstc4l747b1fnqc3xjii6n4fqs7azgbw;京剧;beijing opera;
+bye6k1p4aixflbu5gdk3peio8helihpr;怎么样;wat (denk je) van?;
+7r6qi64gc1bjvwp0vx5j8lh3m0n83khb;有意思;interessant;
+qf7xhpv2evu606zypaon4wrtbc4oky7o;今天;vandaag;
+3zicdt7sibxj4807334jo3mnae4gz3yv;天;dag;
+pghwql7c5y9slxcrrnkrr3vfmmz8q1lk;天气;het weer;
+igfk0hmbv2qiktd15aellj6ob1z2mez8;太;te, extreem;
+bentousupb817l7xgp1xlvqc6uni4roa;什么;wat?;
+sgqlom2ku9smcem57f8jjvj498htgxj7;时候;tijd, moment;
+49o1yom75gyfheow5aimqawjhul2st5r;现在;nu;
+dzgrwgl4cwa3uf2evpmz2v964scwngwb;明天;morgen;
+mwsaytnu4tmondqjh44s5xv38mxktudk;有;hebben;
+3kd2hszibjtlasvbueq4gkt9xsby4pic;时间;tijd;
+8mtklt33jk681xwwr3m21ghdrqg336a1;说;(iets) zeggen, (een taal) spreken;
+kja9e3m3bv5o6x887kukzxxppijxc5jf;遍;aantal keer (bij een handeling);
+pw2x2dt9h9mid5gu4eona9m3wua1c10w;打球;(een balsport) spelen (met de handen);
+0r0oat596vrd98hyopyl2o6004dsnp9r;打;slaan, spelen;
+nl93jvoalxkzy1te7qh8461hozv07aj2;球;bal;
+brj5rboxdvdsqq5cme2plx75t4nhncgj;抱歉;sorry;
+a9pqcuno75n3z6pqt13d8tjbikaeq3lu;忙;druk;
+lmqpwdz32vdons6kiwyu0reiampmdae4;恐怕;ik vrees dat;
+qxgulq7s5ims5x8inzgfhe7snagt5xzo;行;gaan, lukken;
+cjqxevl3z4alwcy7vfj57sq8gyxq4otc;谢谢;bedankt, dankuwel;
+yryb3ynrpj7qn0ee1x0ubs5xfz710823;你们;jullie;
 
 les07
-kol02hm818qi8rw1kd86xk8fcw5z3ick;开学;starten met het academiejaar
-2h5hch0p4qqjuwbtstnzlg0saff9czk1;开;openen, starten
-jca1tp4pgpexjxryc7quz2fxkrlnhp7g;很;heel
-zkcyjtutqbl2dqx0213j51fwysy6c0bm;高兴;blij
-qs6o4uxw9u016p3wh339f4br4407z3zk;高;hoog, groot
-sgbtr0lvyokfq2rtb8p6echu3nq37rme;看;zien, kijken, bekijken
-vwlbx9jlr5qgl6mtivexffu9p8071sdb;问;vragen
-5tstx38rrqsogrwq8u5hucg9hx6n67b1;一下;eens, even
-sblu2zay4e48w4zgl8h2euxaeqd7mufi;学院;instituut, faculteit
-rzk1m8aix426ui1jjfw5e1siplmtjnq6;名片;naamkaartje
-khy4fayb13d8ao7iurplr770jgdyy4ed;啊;ah, oh
-ys4ot3rt1jvaygbkaojob5i07sp5xfyt;教授;professor
-we5bqff5tswc6l6zhikb95tqwimhigro;教;onderwijzen
-h664p5v2n5dmyqv8vmf0wjqx52enr9xs;谁;wie
-z44xvl0w72f9p63090d2re1jni8ozs63;来;komen
-hdrr3eujswttej1vz9mebl3dyklevgf3;介绍;voorstellen
-8yhuy78y1zfdh2llfhlcea7coct0j5j2;名字;voornaam
-tuqum9di1cp6o2cnjbcqmiwyrce91d58;中文;chinees (taal)
-61444hw9aguvwjlz0iplrmfekrw93hfa;爸爸;papa
-jco2vmlgcmewo8yeo5bdygaeh3reselp;学习;studeren, leren
-k95w1rzclik3tgicit8dgmqiz2as0p19;学;studeren, leren
-v7osm5k062w9atr8udhcjjrzpw9exzlp;专业;specialisatie
-5m3nnqu59dhhu184eta1tswh34t8wv04;美术;schone kunsten
-2sakzg6pf5g7urqs4527nu09fnio5r9r;美;mooi
-ayin1298fsncx49l8455cki6v6wac8sx;文学;taal- en letterkunde
-znqpsku31nt83f2hy82g6e1qwehfpzx2;系;departement
-22kum001i6xk6kalc6fxrb7knvf94tlu;加拿大;Canada
-2nn9yl7vl7keqbv2pi61hji4zvnxtdxc;美国;Verenigde Staten
-0pa4v9zy7sdj3no63b5cbpjsugr5pbbw;文化;cultuur
-0brcwpck1wof0c9naj63nkdlj4f25ihd;历史;geschiedenis
-61au2r3cqyw6p3cw7drfmtqr289lav2x;哲学;filosofie
-9dwdqrk7t0nqlg2rg9x0bclozpxzxfy0;音乐;muziek
-tcnlo60fi1hocpiyqvaql2xrwf33juvu;经济;economie
-tuqbnudkkrwxib6soz0fp7ns54vableq;数学;wiskunde
-d9d2nwymdfoxq9pk86osmzfnq9cachrk;物理;fysica
-vyyelifxou9yklnfk41thr1bhftqe0du;化学;scheikunde
-bk9twats1ukxsqrhfstej9l4sdsc7e68;教育学;pedagogie
-win5btj51zeu37yo1meqx07xz36oo3l3;选修;optioneel vak (volgen)
+kol02hm818qi8rw1kd86xk8fcw5z3ick;开学;starten met het academiejaar;
+2h5hch0p4qqjuwbtstnzlg0saff9czk1;开;openen, starten;
+jca1tp4pgpexjxryc7quz2fxkrlnhp7g;很;heel;
+zkcyjtutqbl2dqx0213j51fwysy6c0bm;高兴;blij;
+qs6o4uxw9u016p3wh339f4br4407z3zk;高;hoog, groot;
+sgbtr0lvyokfq2rtb8p6echu3nq37rme;看;zien, kijken, bekijken;
+vwlbx9jlr5qgl6mtivexffu9p8071sdb;问;vragen;
+5tstx38rrqsogrwq8u5hucg9hx6n67b1;一下;eens, even;
+sblu2zay4e48w4zgl8h2euxaeqd7mufi;学院;instituut, faculteit;
+rzk1m8aix426ui1jjfw5e1siplmtjnq6;名片;naamkaartje;
+khy4fayb13d8ao7iurplr770jgdyy4ed;啊;ah, oh;
+ys4ot3rt1jvaygbkaojob5i07sp5xfyt;教授;professor;
+we5bqff5tswc6l6zhikb95tqwimhigro;教;onderwijzen;
+h664p5v2n5dmyqv8vmf0wjqx52enr9xs;谁;wie;
+z44xvl0w72f9p63090d2re1jni8ozs63;来;komen;
+hdrr3eujswttej1vz9mebl3dyklevgf3;介绍;voorstellen;
+8yhuy78y1zfdh2llfhlcea7coct0j5j2;名字;voornaam;
+tuqum9di1cp6o2cnjbcqmiwyrce91d58;中文;chinees (taal);
+61444hw9aguvwjlz0iplrmfekrw93hfa;爸爸;papa;
+jco2vmlgcmewo8yeo5bdygaeh3reselp;学习;studeren, leren;
+k95w1rzclik3tgicit8dgmqiz2as0p19;学;studeren, leren;
+v7osm5k062w9atr8udhcjjrzpw9exzlp;专业;specialisatie;
+5m3nnqu59dhhu184eta1tswh34t8wv04;美术;schone kunsten;
+2sakzg6pf5g7urqs4527nu09fnio5r9r;美;mooi;
+ayin1298fsncx49l8455cki6v6wac8sx;文学;taal- en letterkunde;
+znqpsku31nt83f2hy82g6e1qwehfpzx2;系;departement;
+22kum001i6xk6kalc6fxrb7knvf94tlu;加拿大;Canada;
+2nn9yl7vl7keqbv2pi61hji4zvnxtdxc;美国;Verenigde Staten;
+0pa4v9zy7sdj3no63b5cbpjsugr5pbbw;文化;cultuur;
+0brcwpck1wof0c9naj63nkdlj4f25ihd;历史;geschiedenis;
+61au2r3cqyw6p3cw7drfmtqr289lav2x;哲学;filosofie;
+9dwdqrk7t0nqlg2rg9x0bclozpxzxfy0;音乐;muziek;
+tcnlo60fi1hocpiyqvaql2xrwf33juvu;经济;economie;
+tuqbnudkkrwxib6soz0fp7ns54vableq;数学;wiskunde;
+d9d2nwymdfoxq9pk86osmzfnq9cachrk;物理;fysica;
+vyyelifxou9yklnfk41thr1bhftqe0du;化学;scheikunde;
+bk9twats1ukxsqrhfstej9l4sdsc7e68;教育学;pedagogie;
+win5btj51zeu37yo1meqx07xz36oo3l3;选修;optioneel vak (volgen);
 
 les08
-eg5nufaf40n1bli5fojs48zwfnu3mhyi;家;thuis
-fsidb9qkhixj4w0idqsjrlkdhr78uioj;几;hoeveel (+ maatwoord)?
-e8026jt4pgwp2i2wsw3u3zqprrt2cthx;口;(maatwoord voor mensen in een gezin)
-n3znw8cwvfqvk6n1nl1llnm55z5rpbai;照片;foto
-vdstmufij74zw6x0xiq77q46dn5rhhw9;和;en, met
-t3zyvl2eib02errz9ia31r121t2gbems;个;stuk (maatwoord)
-ic64j1dflsm7yhlxow6z8fdb4p7s62da;姐姐;oudere zus
-c5lx8ijif480kxpxgbem87xr6i1y0bva;两;twee (+ maatwoord)
-dmijca9fuordljmdwoczltytr19x8wdg;弟弟;jongere broer
-fomkpdiovonuln09ngprgat9xf9wwzkf;还;nog
-wbbc2b6x6x4i6vnuecwva111i1m1cp0x;一共;in totaal
-kblkd57r0937ctbxv2ji8be96dosyihy;妹妹;jongere zus
-a26c56wjtgp9ljmaz10nfgihpdpni1rx;小;klein
-5p4aujlmgvxlf5un68k0ijt1ivhxve2b;狗;hond
-z6beng3to3oubns4b5wnf235jb4rgqj1;张;(maatwoord voor papier)
-eks0mdxp7jsnn67hn5y3uwbeko17ohy3;当然;natuurlijk
-4alts9rmj2od4ue8umkpgg4vtfg6voy3;真;echt
-ehawscyyeubpd3vhfgycuelpwqjpf332;可爱;schattig
-qo12hb5lzwavyxp2wvdha0h6a6inb5xt;爱;houden van, liefde
-85wbfs5nk7ge1n8fj8zyfmztqriinfjv;没;niet (hebben)
-yexxih7q7nh8q9b3culu9tg42srs1oni;男;man
-p6n6k8op79z2zundc4nd08yysns503el;做;doen, maken
-cmf9nnbp1i41qweizggcu1h0kcie9tyx;工作;werken, werk
-61pb1476as1tzsa5e5qomhie30nt60c4;大;groot
-eob31gcis650mebh9nn9rqec5mgv1siu;多少;hoeveel (+ maatwoord)?
-265fe9rr1khc8th75a8g5g2njyp4gm12;多;veel
-h4hwfmss2nqdtyeuh8pih4nkcqvzl5mw;少;weinig
-hj2a230yz1z26asns7wqrlqq9i00zext;喜欢;houden van, graag hebben, leuk vinden
-o066pwj9obcki8hl4b3et0kunq5683do;外语;vreemde taal
-w67uycambkmlnepndumn13x7npotgcn1;外;buiten
-2tru83re4vy3qiig4rglf6a6j1c1knwl;语;taal
-jvz3soijcy2icyg0dbtqo1ufgoqvjb1z;外国;buitenland
-eox01recvo1jwrevgtfcly4udqpsn4a3;百;honderd
-on2j4u8wybmln5ox3dgfqka92g25zmoa;车;wagen, auto
-db4u17xa4lh870pbouu18uuhdehy7qy2;词典;woordenboek
-110byd4429bm05jjzbs1atyrs0xes5w7;电脑;computer
-gkgmhph9qcw240vr34opfk2zl7fji3w5;孩子;kind
-wmfnpydi8vcsoahmeq29v65hzrk9hr5i;爷爷;opa (langs vaders kant)
-u0gwri7uezzaf05xr9xbvwl7ljsr1opi;外公;opa (langs moeders kant)
-16t0x5w862ljphiz959k8eic3mym8hii;系主任;departementshoofd
-g1jpk09agd9vg4muxhjtmf0nyyksdby9;助教;onderwijsassistent
-52jzbs7a2px2hjtr2cy6ct32fs1xrngm;律师;advocaat
-rk2wrjeawy7q3weisxt0pgbiyllej6f0;工程师;ingenieur
+eg5nufaf40n1bli5fojs48zwfnu3mhyi;家;thuis;
+fsidb9qkhixj4w0idqsjrlkdhr78uioj;几;hoeveel (+ maatwoord)?;
+e8026jt4pgwp2i2wsw3u3zqprrt2cthx;口;(maatwoord voor mensen in een gezin);
+n3znw8cwvfqvk6n1nl1llnm55z5rpbai;照片;foto;
+vdstmufij74zw6x0xiq77q46dn5rhhw9;和;en, met;
+t3zyvl2eib02errz9ia31r121t2gbems;个;stuk (maatwoord);
+ic64j1dflsm7yhlxow6z8fdb4p7s62da;姐姐;oudere zus;
+c5lx8ijif480kxpxgbem87xr6i1y0bva;两;twee (+ maatwoord);
+dmijca9fuordljmdwoczltytr19x8wdg;弟弟;jongere broer;
+fomkpdiovonuln09ngprgat9xf9wwzkf;还;nog;
+wbbc2b6x6x4i6vnuecwva111i1m1cp0x;一共;in totaal;
+kblkd57r0937ctbxv2ji8be96dosyihy;妹妹;jongere zus;
+a26c56wjtgp9ljmaz10nfgihpdpni1rx;小;klein;
+5p4aujlmgvxlf5un68k0ijt1ivhxve2b;狗;hond;
+z6beng3to3oubns4b5wnf235jb4rgqj1;张;(maatwoord voor papier);
+eks0mdxp7jsnn67hn5y3uwbeko17ohy3;当然;natuurlijk;
+4alts9rmj2od4ue8umkpgg4vtfg6voy3;真;echt;
+ehawscyyeubpd3vhfgycuelpwqjpf332;可爱;schattig;
+qo12hb5lzwavyxp2wvdha0h6a6inb5xt;爱;houden van, liefde;
+85wbfs5nk7ge1n8fj8zyfmztqriinfjv;没;niet (hebben);
+yexxih7q7nh8q9b3culu9tg42srs1oni;男;man;
+p6n6k8op79z2zundc4nd08yysns503el;做;doen, maken;
+cmf9nnbp1i41qweizggcu1h0kcie9tyx;工作;werken, werk;
+61pb1476as1tzsa5e5qomhie30nt60c4;大;groot;
+eob31gcis650mebh9nn9rqec5mgv1siu;多少;hoeveel (+ maatwoord)?;
+265fe9rr1khc8th75a8g5g2njyp4gm12;多;veel;
+h4hwfmss2nqdtyeuh8pih4nkcqvzl5mw;少;weinig;
+hj2a230yz1z26asns7wqrlqq9i00zext;喜欢;houden van, graag hebben, leuk vinden;
+o066pwj9obcki8hl4b3et0kunq5683do;外语;vreemde taal;
+w67uycambkmlnepndumn13x7npotgcn1;外;buiten;
+2tru83re4vy3qiig4rglf6a6j1c1knwl;语;taal;
+jvz3soijcy2icyg0dbtqo1ufgoqvjb1z;外国;buitenland;
+eox01recvo1jwrevgtfcly4udqpsn4a3;百;honderd;
+on2j4u8wybmln5ox3dgfqka92g25zmoa;车;wagen, auto;
+db4u17xa4lh870pbouu18uuhdehy7qy2;词典;woordenboek;
+110byd4429bm05jjzbs1atyrs0xes5w7;电脑;computer;
+gkgmhph9qcw240vr34opfk2zl7fji3w5;孩子;kind;
+wmfnpydi8vcsoahmeq29v65hzrk9hr5i;爷爷;opa (langs vaders kant);
+u0gwri7uezzaf05xr9xbvwl7ljsr1opi;外公;opa (langs moeders kant);
+16t0x5w862ljphiz959k8eic3mym8hii;系主任;departementshoofd;
+g1jpk09agd9vg4muxhjtmf0nyyksdby9;助教;onderwijsassistent;
+52jzbs7a2px2hjtr2cy6ct32fs1xrngm;律师;advocaat;
+rk2wrjeawy7q3weisxt0pgbiyllej6f0;工程师;ingenieur;
