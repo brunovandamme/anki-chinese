@@ -84,13 +84,15 @@ for inputFilename in config['input']['filenames']:
 
 # Count different characters
 chars = []
+exclude = ['.', ' ', '?', '(', ')']
 for card in cards:
 	index = 0
 	for cardHanzi in card['hanzi']:
 		while index < len(cardHanzi):
 			char = cardHanzi[index]
 			if char not in chars:
-				chars.append(char)
+				if char not in exclude:
+					chars.append(char)
 			index = index + 1
 print 'Total of', len(chars), 'characters'
 
@@ -120,7 +122,15 @@ for cardIndex, card in enumerate(cards):
 			else:
 				for cardHanzi in card['hanzi']:
 					if cardHanzi in filteredCard['hanzi']:
-						merges.append({ 'hanzi': cardHanzi, 'translation1': filteredCard['translation'], 'translation2':  card['translation'] })
+						existingMerge = False
+						for merge in merges:
+							if merge['hanzi'] == cardHanzi:
+								if merge['translation1'] == filteredCard['translation'] and merge['translation2'] == card['translation']:
+									existingMerge = True
+								elif merge['translation2'] == filteredCard['translation'] and merge['translation1'] == card['translation']:
+									existingMerge = True
+						if not existingMerge:
+							merges.append({ 'hanzi': cardHanzi, 'translation1': filteredCard['translation'], 'translation2':  card['translation'] })
 
 	del card['tag']
 	if uniqueCard == None:
@@ -208,8 +218,8 @@ for card in filteredCards:
 			start = match.end(0) - 1 - i
 		result += pinyin[start:]
 		cardColorPinyin.append(result.encode(encoding='utf-8'))
-	card['hanzi'] = ','.join(cardColorHanzi)
-	card['pinyin'] = ','.join(cardColorPinyin)
+	card['hanzi'] = ', '.join(cardColorHanzi)
+	card['pinyin'] = ', '.join(cardColorPinyin)
 
 # Add markup to info and join tags
 for card in filteredCards:

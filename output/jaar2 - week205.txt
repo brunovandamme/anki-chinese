@@ -1,14 +1,14 @@
-9r99z8cd00uu0kfnyswuam9oi1sjhn5t;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];;jaar2 week205 week210 week211
+9r99z8cd00uu0kfnyswuam9oi1sjhn5t;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];;jaar2 week205 week210 week211 les09
 4f67lt2ttecuiqyjjieu2yf5hldvir8w;<span class="tone2">白</span>;<span class="tone2">bái</span>;wit;[sound:bai2.mp3];;jaar2 week205 week211
-v1wtqiz79cd7c40rs6m654l9a9rw27nx;<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205
+v1wtqiz79cd7c40rs6m654l9a9rw27nx;<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les09
 hh47fykkd5k90jqf0funntb3q07m9mml;<span class="tone2">瓶</span><span class="tone5">子</span>;<span class="tone2">píng</span><span class="tone5">zi</span>;een fles (het voorwerp);[sound:ping2zi5.mp3];;jaar2 week205
-eczkynw2xedx8ex0pllim8izo3usvbgg;<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205
+eczkynw2xedx8ex0pllim8izo3usvbgg;<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les10
 vezsu7krdhdvzrwnglpa2h6hkn3ffuu8;<span class="tone1">杯</span><span class="tone5">子</span>;<span class="tone1">bēi</span><span class="tone5">zi</span>;een glas, een tas (het voorwerp);[sound:bei1zi5.mp3];;jaar2 week205
-uh11gao53igiplxkerb0d05io1vnlxv8;<span class="tone4">祝</span><span class="tone4">贺</span>;<span class="tone4">zhù</span><span class="tone4">hè</span>;feliciteren;[sound:zhu4he4.mp3];;jaar2 week205
-490nr6je7otvot1m3v0eawdp2al2lepa;<span class="tone4">再</span>;<span class="tone4">zài</span>;weer, nog een keer, opnieuw;[sound:zai4.mp3];;jaar1 les05 jaar2 week205
-l2veil3lszk0kjwdwovp2dmo5tpbkj86;<span class="tone3">烤</span><span class="tone1">鸭</span>;<span class="tone3">kǎo</span><span class="tone1">yā</span>;gebraden eend;[sound:kao3ya1.mp3];;jaar2 week205
+uh11gao53igiplxkerb0d05io1vnlxv8;<span class="tone4">祝</span><span class="tone4">贺</span>;<span class="tone4">zhù</span><span class="tone4">hè</span>;feliciteren;[sound:zhu4he4.mp3];;jaar2 week205 les09
+490nr6je7otvot1m3v0eawdp2al2lepa;<span class="tone4">再</span>;<span class="tone4">zài</span>;weer, nog een keer, opnieuw;[sound:zai4.mp3];;jaar1 les05 jaar2 week205 les09
+l2veil3lszk0kjwdwovp2dmo5tpbkj86;<span class="tone3">烤</span><span class="tone1">鸭</span>;<span class="tone3">kǎo</span><span class="tone1">yā</span>;gebraden eend;[sound:kao3ya1.mp3];;jaar2 week205 les09
 knmkladbzu7zjsxt3czethjj8miiza71;<span class="tone4">块</span>;<span class="tone4">kuài</span>;(maatwoord voor een stuk);[sound:kuai4.mp3];;jaar2 week205 week208
-htzzffgcc3hw15tlhr9kprky9mjw4ibs;<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];;jaar1 week125 jaar2 week205 week208
+htzzffgcc3hw15tlhr9kprky9mjw4ibs;<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];;jaar1 week125 jaar2 week205 week208 les10
 mp2dfcz46wxm2u4r3ojoyb4w41p8szi0;<span class="tone1">听</span>;<span class="tone1">tīng</span>;(maatwoord voor blikjes);[sound:ting1.mp3];;jaar2 week205
-82vvt6hvq09x1w3r7vlrmdewkihoib1f;<span class="tone1">光</span><span class="tone2">盘</span>;<span class="tone1">guāng</span><span class="tone2">pán</span>;dvd, cd;[sound:guang1pan2.mp3];;jaar2 week205
+82vvt6hvq09x1w3r7vlrmdewkihoib1f;<span class="tone1">光</span><span class="tone2">盘</span>;<span class="tone1">guāng</span><span class="tone2">pán</span>;dvd, cd;[sound:guang1pan2.mp3];;jaar2 week205 les10
 d3rjwowxjt1yyy34be2v5qsgyb5pfil4;<span class="tone2">碟</span>;<span class="tone2">dié</span>;schijf, dvd, cd;[sound:die2.mp3];;jaar2 week205

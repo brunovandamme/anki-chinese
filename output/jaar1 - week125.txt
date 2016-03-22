@@ -1,8 +1,8 @@
 b4jetmrjiwsyt8qh62jejomtt4jpsnqz;<span class="tone2">文</span><span class="tone2">明</span>;<span class="tone2">wén</span><span class="tone2">míng</span>;beschaafd;[sound:wen2ming2.mp3];;jaar1 week125
-v1wtqiz79cd7c40rs6m654l9a9rw27nx;<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205
-eczkynw2xedx8ex0pllim8izo3usvbgg;<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205
-0bt42rjicrreh7jner5ap527vpy8sigw;<span class="tone3">笔</span>;<span class="tone3">bǐ</span>;pen;[sound:bi3.mp3];;jaar1 week125
-htzzffgcc3hw15tlhr9kprky9mjw4ibs;<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];;jaar1 week125 jaar2 week205 week208
+v1wtqiz79cd7c40rs6m654l9a9rw27nx;<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les09
+eczkynw2xedx8ex0pllim8izo3usvbgg;<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les10
+0bt42rjicrreh7jner5ap527vpy8sigw;<span class="tone3">笔</span>;<span class="tone3">bǐ</span>;pen;[sound:bi3.mp3];;jaar1 week125 jaar2 les10
+htzzffgcc3hw15tlhr9kprky9mjw4ibs;<span class="tone1">支</span>;<span class="tone1">zhī</span>;(maatwoord voor pennen, sigaretten, etc...);[sound:zhi1.mp3];;jaar1 week125 jaar2 week205 week208 les10
 7vuuwvkjsdek04bq3mjgxabo43uyu6pv;<span class="tone3">纸</span>;<span class="tone3">zhǐ</span>;papier;[sound:zhi3.mp3];;jaar1 week125
 u37aevaqpeono4neq9ys9djulsr5wbya;<span class="tone1">公</span><span class="tone2">园</span>;<span class="tone1">gōng</span><span class="tone2">yuán</span>;park;[sound:gong1yuan2.mp3];;jaar1 week125
 wove20qv3g8afocjo928nlrzeixjpto9;<span class="tone2">年</span><span class="tone2">级</span>;<span class="tone2">nián</span><span class="tone2">jí</span>;jaar (niveau);[sound:nian2ji2.mp3];;jaar1 week125 jaar2 week201

@@ -10,7 +10,7 @@ ql8f6iot0srozkk5a6ga5pwmy3jcxk3o;<span class="tone4">睡</span><span class="tone
 3qd6xamyv9hjtgbkq5g5k01i77c8v2no;<span class="tone3">水</span><span class="tone3">饺</span>;<span class="tone3">shuǐ</span><span class="tone3">jiǎo</span>;dumplings (gekookt);[sound:shui3jiao3.mp3];;jaar1 week115
 d4qs7nb4xosabtnepm3edgsxtvg8gi1o;<span class="tone3">饺</span><span class="tone5">子</span>;<span class="tone3">jiǎo</span><span class="tone5">zi</span>;dumplings;[sound:jiao3zi5.mp3];;jaar1 week115
 k3y4knoj481gnr63de727ita6fqmm197;<span class="tone4">电</span><span class="tone4">视</span>;<span class="tone4">diàn</span><span class="tone4">shì</span>;televisie;[sound:dian4shi4.mp3];;jaar1 week112 week114 week115 week116
-llllcnwfp99v8fuz75ne83gkmwuinovw;<span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">yīn</span><span class="tone4">yuè</span>;muziek;[sound:yin1yue4.mp3];;jaar1 week115 les07
+llllcnwfp99v8fuz75ne83gkmwuinovw;<span class="tone1">音</span><span class="tone4">乐</span>;<span class="tone1">yīn</span><span class="tone4">yuè</span>;muziek;[sound:yin1yue4.mp3];;jaar1 week115 les07 jaar2 les10
 2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];;jaar1 week115 week117 week119 week123 jaar2 week212
 hlbkpcvvcnm4xmbsfnkl6xphf3m6dcw1;<span class="tone1">春</span><span class="tone2">节</span>;<span class="tone1">Chūn</span><span class="tone2">jié</span>;chinees nieuwjaar;[sound:chun1jie2.mp3];;jaar1 week115 week116
 wqxz159x4fdzg57svrqn82tpl8cpi2ca;<span class="tone1">春</span><span class="tone1">天</span>;<span class="tone1">chūn</span><span class="tone1">tiān</span>;lente;[sound:chun1tian1.mp3];;jaar1 week115
