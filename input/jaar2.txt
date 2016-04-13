@@ -57,7 +57,7 @@ s35mudevzos12f99zwxncfgiwtu1rucl;舞会;dansfeest;
 7e4w3atnlqy7klpkjw0ll8n1tlj1unk4;音乐会;concert;
 f8yunsg0jmci5c2okixs85cktkn4l7fx;开会;vergaderen;
 4yp46k5ge481f1fu8zt9kmwg1yksazju;参加;deelnemen aan;
-cvv1acn0fv1moqozy81y50t5jhj1i781;好玩,好玩儿;leuk, amusant;
+cvv1acn0fv1moqozy81y50t5jhj1i781;好玩, 好玩儿;leuk, amusant;
 0fjw3ymb3u7v6zgvis5yadf9zggtfrr3;属;behoren tot een teken van de Chinese dierenriem;
 wskzyafoqlknjr9mkeewh3cpbm393egb;鼠;rat;
 hrdkb6usaa9wnb9cbjvmgc7no481dvog;牛;os;
@@ -152,7 +152,7 @@ ezs6j89j0q53nw0bspz8ji3oeuwk024e;草莓;aarbei;
 zkx734fhwf5rs3wncguo568i5qual0iy;盒;doos;
 alknq4qhgf7h1qv83gsj5m5lx06p473r;鱼;vis;
 18i6gh6fw0s839w444weu8kj9btv7hra;土豆;aardappel;
-jvhng6gpbsyobsg74f9zd9fci5j5awb5;报,报纸;krant;
+jvhng6gpbsyobsg74f9zd9fci5j5awb5;报, 报纸;krant;
 ao0ooizv6oghxs4w98joj9j8je9p8p4z;本子;schrift, notitieboekje;
 3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;每;elke;
 i0ru2m6lgg8r2wwhq5gnlt7be86uo2k9;跟;met, samen met;
@@ -172,7 +172,7 @@ inkqaf3rszgvg6iktuk7vqth1bl8j2ll;香蕉;banaan;
 u7cydl451d8mrzauub4bq4pb8qqhuy24;面包;brood;
 aszbc7yx0jtjft2y79b3ig753f1zio3f;汽水;frisdrank;
 aemvlbuk6vitvrxp2157ai4gyjj4g0um;桔子;mandarijn;
-zhwr4y8jt1z0h7glj21foi901ktskvr9;鞋,鞋子;schoen;
+zhwr4y8jt1z0h7glj21foi901ktskvr9;鞋, 鞋子;schoen;
 9eiygjrp8l1b44imp885r08vy83wr4tr;皮鞋;leren schoen;
 w8p2s63654xpylfy6a4gtj8erliwldz0;双;een paar (maatwoord);
 1v84wypygfffnl05yps261vazju3d14n;包;(hand)tas;
@@ -213,7 +213,7 @@ ug1dogulhm0d9dhq1ryyossigxuuj4gd;起床;het opstaan uit bed, opstaan;
 2p35mac0go8wc5zm0z73fyi9up8blvcq;会;kunnen (iets onder de knie hebben);
 ypjyyxteo6tg7c0toi70zh1qkvz9d9zv;能;kunnen (de omstandigheden laten het toe);
 nfn38lebuy9m834x61tmkou6q29lw01a;可以;kunnen, mogen (iets dat toegelaten is);
-vrpgyu5zr4m0bhobgsf4pnjt3tln66gw;聊天,聊天儿;babbelen;
+vrpgyu5zr4m0bhobgsf4pnjt3tln66gw;聊天, 聊天儿;babbelen;
 whd23ax3gnmpd6tevlyu9o780uhnx9du;运动;sport, sporten;
 vqtkej6g8dd3apakw1ua0msf6bjqwdhz;跑步;het lopen van passen, lopen, rennen;
 dcsa6jxcge0utqr0kvlr98g7azkkwrvy;踢足球;stampen tegen een voetbal, voetballen;
@@ -272,7 +272,7 @@ wk0oivlt16qamscytq1zi9t6q15t0jdd;手;hand;
 sl25yedkkilnrqj17qbkajgomsos9cwh;鼻子;neus;
 goppz18miqziolskpnn1rhr3352ezvke;耳朵;oor;
 rn2ccdbjwt72hj82vflhmpszd76t7med;口;mond;
-97tcuo0on5lbez2bojjprcbv44n2m9fa;牙,牙齿;tand;
+97tcuo0on5lbez2bojjprcbv44n2m9fa;牙, 牙齿;tand;
 dhnkow84z4wytg97neawgdoo4owmtjjc;舌头;tong;
 uswfq5sd6xh7v26q9jc4jr6cvrvubmb7;头;hoofd;
 fpmctg3xjza82in49i5b52mmv099kdzs;头发;haar;
@@ -376,9 +376,9 @@ v5uauewa0hk2wjjg74e51dgulbhewwql;今天;vandaag;
 de7kh7934omrywxw9tf9pramc04el7qz;课;les;
 7xji6lb91ttt1dksnxcjytvr2xeflxf5;星期;week;
 g8yrlbyypnta9fzln9y405xbw0j2cj18;上午;voormiddag, 's voormiddags;
-bgfe2ta2wm5px9xl7dhauidby53u5jh2;上;boven,vorige;
+bgfe2ta2wm5px9xl7dhauidby53u5jh2;上;boven, vorige;
 8kz1qy1sib1hiahgwxvb2oxq3tvmg33j;下午;namiddag, in de namiddag;
-dlo2h6i8z65dig1k2l7v4xxrb7gk66ga;下;onder,volgende;
+dlo2h6i8z65dig1k2l7v4xxrb7gk66ga;下;onder, volgende;
 vpoq6wlfw0m1cteloalqtdv8bx3r9iyo;星期日;zondag;
 7biqehcugpldmrpyeokw8ghwfqvz9csy;号;nummer;
 zi8w81ki4wfxkcfmlb4sfzjxash77agu;生日;verjaardag;
@@ -440,7 +440,7 @@ blnok9xl8cepbae59lepznidbvldq17r;有名;bekend, naam hebben;
 t72zbmccw9xcifi3v1qna9f1dxuy2dlv;书;boek;
 f345d4u2qdzjkxaambz0c34a6k3oywtx;报;krant;
 2n31ywpqhj6hl2v74ekvy7gm9b58sk4n;本子;schrift, notitieboekje;
-4jgf9n04z0pvir048mkiplmjesvujrai;那儿;daar;
+4jgf9n04z0pvir048mkiplmjesvujrai;那里, 那儿;daar;
 u3g3gcugwxgtx80c7q1adoxdytqzyxpm;梁祝;muziekstuk 'the butterfly lovers';
 s2t8rs60m3m5i0l2n1qrcr4slr93vjq3;先生;mijnheer, echtgenoot;
 bm1hs9s0imnom65ufvup18ckzsnfr7av;要;willen, hebben, moeten;
@@ -454,11 +454,11 @@ r9xtvcphslverpvwuczyqn7mxyizyzoz;容易;gemakkelijk;
 q46dobohy4h9ta87gl391k2ryagvw53q;葡萄;druif;
 th518mx1a9p9lcbx8oq1jy2j8i4vx16p;钱;geld;
 2jisveq5daehtssdvfyervg3afv86wlc;斤;een halve kilo;
-b1bci9xv1wip66sya8l9re2nt5am449j;块,块钱;basiseenheid van de Chinese munt (gesproken taal);
-j24r3bvbk73npx8dxfjv14oe1nsq78sf;毛,毛钱;een 10de van een 块 (gesproken taal);
+b1bci9xv1wip66sya8l9re2nt5am449j;块, 块钱;basiseenheid van de Chinese munt (gesproken taal);
+j24r3bvbk73npx8dxfjv14oe1nsq78sf;毛, 毛钱;een 10de van een 块 (gesproken taal);
 72kvqhwobqsy4g0uetilbfy39obljwt6;贵;duur;
 wpmv175vug7my51heeovmc12odlvvwko;做;doen, maken;
-ggs35z1f684t5qh6t5ynkfhrluits13i;分,分钱;een 10de van een 毛 of 角;
+ggs35z1f684t5qh6t5ynkfhrluits13i;分, 分钱;een 10de van een 毛 of 角;
 ittp8qz5198f63eli1pyuxv69bfwc191;送;schenken;
 k55c8lcqzg06igqo74zhoipnav6oitz9;给;geven;
 r30f1pke8ur4gvhtaexoo6f1u3ns25kf;找钱;wisselgeld geven;
@@ -474,3 +474,110 @@ mb5m0c1tmzjtmtaza9uldbzmph1sk8lh;便宜;goedkoop;
 2tia52wol3h4mp94glu9dm69mvxnbpk5;书店;boekenwinkel;
 so84323qa6g5m7ygw1uuqy33ji7pzjpw;体育馆;gym;
 y9lcxnvfiyolnfxpwcev5g0e31e0xw0z;卖;verkopen;
+
+les11
+er2phuvrn2cze3g79tdp5glcuzgvmfli;会;kunnen (iets onder de knie hebben)
+lgfqmvai1090xhzga20v6dbh1vfcyttf;一点, 一点儿;een beetje
+3w6ksmccpu9p5s72i0d6xjmzr3acfxbj;司机;chauffeur
+r2p8tk7qhvphqf1ilesrjrexpzoiqdte;点钟;uur
+zeinarbgl5t06gapzsa34dbn1fbqrt3c;差;ontbreken
+wyfktqy53xf4u4by8jozv8todprifjs1;刻;kwartier
+44xch7x0wil8td6btjnhdwss1m6ksmd6;回;terugkeren
+eqazgnrsd0fn9ju05a9esav9ip5vj34l;上课;(beginnen met) les volgen
+jk3fviekyyq3pkkfszpegn754545q7au;上;boven, vorige
+uqrp8uift0755b2r54c2e6e26xohlfqp;能;kunnen (de omstandigheden laten het toe)
+53appsmdm0uqnpqu8rtoenayjznb1kjm;到;bereiken, aankomen
+axhwrhwzhppx0r50tbxfqjcg0k0f0bbn;哪里;beleefde ontkenning
+nvophcowx938ye0zt1xjv0ubtvycrypa;教;onderwijzen
+2wzidtsot3cvavol660p4hbpuffp52xm;英语;Engels (de taal)
+p8x0q7h92vj4b3ccdobthvs9s7556cz0;孙女儿;kleindochter (dochter van een zoon)
+m0zkyv2wfl2r25a0lpmzoqi0f90lww3r;女儿;dochter
+2inpp39mz754kf3pkr22b2wplba5cytz;岁数;jaren (leeftijd)
+79d70pcs3xzyxl2tjwh3h2c2bxusw28e;数;getal
+3txzfirotzhe7sllqf7eyroriyhutm3n;还;nog
+at9d5m8j4ksmkhqnbcjumlzxyrv93fzx;分;minuut
+36cnastd41tqwsche6zow3wyd5htkbhv;拜拜;tot ziens
+arnwkigi31a0gkud6fbbdgvvnf10al9z;为什么;waarom?
+p79qet3sb0uk0nnbee3c4xepidvsdpls;为;voor, omdat
+q16l3sa6ajh2jwhmsqoqdu7vpm0pad9m;昨天;gisteren
+rioilgkt9hvgrddqz64pxubd63lmj2fg;东西;iets, ding, voorwerp
+dyzxancjoc0aksp8a8b1gwvnzsy0apl7;玩, 玩儿;spelen, plezier maken, zich amuseren
+d7zndu1jkmq6vtgyvu82d2uv9wn0cbp3;晚上;avond, 's avonds
+etcvk59vaj1886mykg9miunexhukzxje;晚;laat
+8ffp9aufp2bf6pfhommadtmnczt2omkx;半;half
+f2i8qye17cy7olu51yz2ffysm8ccph1n;写;schrijven
+aypssfjcttiltbwyfqqgyd7lg6g6zf8m;汉子;Chinese tekens
+cwdaiia8bu8x671jfw8tnj01pkfdn57t;字;teken
+6obkkrvqj03ttg8d9sj4fxbtsx5dfw1t;睡觉;het slapen van een slaapje, slapen
+ox71hjmzrbydsqrf49y1qmgkv32jj12u;睡;slapen
+2d5g0yeejhy4zn59w528nqxicuc8w3i9;起床;het opstaan uit bed, opstaan
+hr2cvaq0d8eqpfgvz6eic6ylsldntokr;起;opstaan
+7gdsoqqyf7891gx7nq66tcl3m57lsh0p;床;bed
+0j0jmkc9pnz1cmnbdgwwshfqpg0c65mf;应该;zou moeten (advies, raad)
+3w1zb7poua1d7fnputsq3vslvyolbpwd;该;zou moeten (advies, raad)
+94nletwohnv4bypj19u32d78t84v0hk6;问题;vraag, probleem
+12bseabi8r5b1ktj3szz9w1jku9fe2hf;可以;kunnen, mogen (iets dat toegelaten is)
+l79s101rbbz08lnslr29ho711hx1jv3k;陈;(Chinese familienaam)
+vj7jba5wg5scle17pcpugjl1xdnmhlds;下课;stoppen met de les
+mp4crs4tewr3foeabyi9p0nwnszz98s6;吃饭;het eten van rijst, eten
+7j6u55ctv8grsofc4w0yqdxy2b32dtbe;开车;het rijden met de auto, auto rijden
+8nwm8xxld9amf7b79lp3989se68p3o2r;唱歌;het zingen van een liedje, zingen
+vkxmo05rs0sniffabgj2xcjmkqp75zsi;跳舞;het springen van een dansje, dansen
+lk9yllus5rm6mact03imqjqozyb717l6;回答;antwoorden
+zbpue17d6uyqxx73jf334jeh6iut7dwe;礼物;geschenk, cadeau
+nmf11odnr5rzdotw42skma2412damwk9;打球;(een balsport) spelen (met de handen)
+yu16535vpuzgc8ft9j1a41l0mqkftfj8;打的;taxi nemen
+dq0oc758ft8vrckswfec6f1mqdawc44m;吸烟;het roken van een sigaret, roken
+lklbv024g6dku0jk6d4lu2zmh7exhalb;表;kijken
+xzn9tudfsk40r0bxu2csyy3fzghjpngr;难;moeilijk
+
+les12
+qkhh6o31vprsxv5hcoyxuriiqh71fszn;全身;hele lichaam
+zitn0e817x0ki7ik3tcebh9eziecbolp;全;helemaal, alle
+d3uihzgto02q7lu7ces0ej8whnq81957;身;lichaan
+56okys9nmqvu6lrw96ybk45wef1cy21s;舒服;comfortabel, goed
+l7w6yru04yoii8ex8qlwjer4kuvpvh3w;每;elke
+ydzgfxn3d8jgu3xjl1turc8he7aapxup;锻炼;lichaamsbeweging hebben
+i4jdz3v7lyf4jgx4s9ykg6d7q2cn7op7;头;hoofd
+of2b0mbywy1q4qqtetbwqdr1y02s36dg;疼;pijn doen
+r3dwbv03l2g9myosw8uqo7x27y5c4z3p;嗓子;keel
+jmv845sojxpchvi3yc8y8pef40qw8or1;想;denken, willen, missen
+a0jnafkcxf5ev9f1k6eb0rplj0t3a4no;医院;ziekenhuis
+wuoelc62ocltp93nx6v8p0q6bof5bhra;看病;de dokter consulteren
+l3d5vspqeyskdqfqeetze6ig8v0hv7v9;病;ziek zijn, ziekte
+qabjqwwez8qowmhi34w82o14is7wp49r;身体;lichaam, gezondheid
+akt69z00ukw9bifvr3odyqgge8hn44c5;要;willen, hebben, moeten
+9hmusudjp3x1adgzno99blqcvq3fac9h;吧;(modaal partikel)
+pwgjlkgyzvs7p54qrli1cv7pb50wbbun;还是;of? (vraagwoord)
+niyvdk9128aw1xkdbdihwkxxalpxpbwq;一起;in totaal
+6d9ha7gkml0kqljz4tk6l206qejffe4d;冷;koud
+sez52t6rridlw4o8kvfixz4k784jxswb;穿;dragen (van kleren)
+blr8c8o6qfooucqikmbghje9rhi0lwr7;衣服;kleren
+eznjh34jbeb40a8qux4kfpmakrasjfpe;休息;rusten, pauzeren, rust, pauze
+ftc6bxqgoowonrajbixbddgq6ebi5gsc;给;geven
+dl3jxifepnvrg83b1wz1l42o2qjbaeu4;挂号;registreren
+ds4qdv9c95kcpab6ohtxx5bmtlgidybs;号;nummer
+d5sc8g0bnl8p00wzhv5zecy6sfrbtx6l;有点儿;een beetje
+zlx8fpimjugtd9togp6tp7epcdevct31;发炎;ontstoken
+bhbksql2gjlmjzorksyr2e1c3ux0fp03;发烧;koorts hebben
+r58pal096e614h10kv3mf70y5ifyqilc;烧;branden
+8odvzx9t0h6vwz3sae5ler7h0qp15aeb;感冒;verkouden, verkoudheid hebben
+8c39f3xh2nkf3ifoaxklhxsfnikr2vyr;住院;in het ziekenhuis verblijven
+t5dyjz65q3accz1gp6cohasx20riay6s;水;water
+cjdu961o9onwutvwp5i4acezmjgp10mg;药;medicijn
+cvif3347ld8bioyt00vgxg84b0xcn7g8;愿意;bereid zijn, willen
+cz1le8249rvr33e3w1z1mce6qq4aqdd6;中药;Chinese medicijnen
+thunv4gx0b834og641nio16xr5tyx8vk;西药;westerse medicijnen
+3obuhqkad5bhsf9mjqp32xhp1pai0lmi;西;westen
+o1ks9wn4rc16awp483y6va0vwfpqx4qr;牙;tand
+5twu695uwi4nqf4rmqy91f2cwnsm7cuh;肚子;buik
+0ux7x62k6097qte3tkj9qtolbykzozw6;开刀;opereren
+1sid0o8ffmhqtvugerxab6atfds8so2c;化验;een medische analyse
+vfijq037oc3a215omncqd0q9w0bv46cr;血;bloed
+8t2rvpkece8leots4jnvey4u4x5gdwrp;大便;kaka
+4ltdnc3ht69l3d2hwvr093phwr8us26v;小便;pipi
+gy608idj8ua9qij1ose4gol4adnj5xdh;打针;het zetten van een spuit
+64lb1uhw5mn4n4ad54rfstjj9rl0alk8;热;warm
+lvf3qnx2majeatt4tmaabvo6ly6chqo9;凉快;afkoelen
+tgpu8wt22xe5pspzu48pebo9juzyg9ax;生活;leven
+xdtu3sp2vxyrrhccjo7z6kcksk5cqqnc;英文;Engels

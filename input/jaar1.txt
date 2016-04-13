@@ -154,8 +154,8 @@ eal75gmdubhoioa8ywnc6oxd3vn4xtva;在;aanwezig zijn, te ...;
 tmkfy9szn4uwgnefcr978czqvs1lnexg;家;thuis;
 o7pq94d0b6hr3llkn4qgomtf2gvpe08b;家人;familie, gezin;
 aje3jxqvb5guqtejcq2bbkpg6o1s64vs;好看;mooi;
-wsukbdgwhrbtofl3qhee8kr3c121aj14;好玩,好玩儿;leuk, amusant;
-onhx4q1dmj3e9u0662ydcuanhsouaivw;玩,玩儿;spelen, plezier maken, zich amuseren;
+wsukbdgwhrbtofl3qhee8kr3c121aj14;好玩, 好玩儿;leuk, amusant;
+onhx4q1dmj3e9u0662ydcuanhsouaivw;玩, 玩儿;spelen, plezier maken, zich amuseren;
 2mpkt122msad85vrup8bxykqt73o5bgj;好听;mooi om te horen;
 frl60trk42ra0x3c83w93p7instpdfji;孩子;kind;
 uydwgotltgn6b18l8rmo1nmx85lu9kzt;游泳;zwemmen;
@@ -167,7 +167,7 @@ bs3nazzr4n9k56j02qmfrwxih8hpfnv2;高兴;blij;
 
 week109
 sb4v6s403280akg7dkbdu07ks1bpjmgj;老人;oude persoon, oude mensen;
-by1v2evgr5t2fichol33t0unwqd0iumg;玩,玩儿;spelen, plezier maken, zich amuseren;
+by1v2evgr5t2fichol33t0unwqd0iumg;玩, 玩儿;spelen, plezier maken, zich amuseren;
 3wcibrvu417yyyz7jj6na8lc9qpak944;姓;achternaam, heten (achternaam);
 k1qkzso9iz8yat43t46x9x0ejh1t3geq;名字;voornaam;
 bqbtnm3gf9dyn1gtnuqeu5xrqgoo5mjs;孩子;kind;
@@ -192,7 +192,7 @@ xne1bp0jge9o03xhesqopv5p46o63l71;外公;opa (langs moeders kant);
 vt0gz08v8k7wwjbpwhmzypbmwtshiwmq;老婆;echtgenote (spreektaal) (=太太);
 91verewa9f1cz1i7hlmvi0rbmd8ho4s2;老公;echtgenoot (spreektaal) (=先生);
 gujeh8r80466q7doavv9nctxg3mn2lhs;您;u;
-l8gishdes23fak7u005lkg23xteecmrp;陈;een Chinese familienaam;
+l8gishdes23fak7u005lkg23xteecmrp;陈;(Chinese familienaam);
 528o4cl12ospyjytu53evpdafqoenyrw;今天;vandaag;
 plva73zcwvj24lsttrj0msiqc8fp4aef;电影;film;
 
@@ -232,7 +232,7 @@ q1n60k4p78gpgxwarxf3amgtd44x64l8;电影;film;
 week112
 xgbwfmjtfh9mnuizd3vrq6har6p3rekw;多;veel;
 acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;少;weinig;
-9gfzxmhzrgj4xgct63g654uaz3v3r4tp;一点,一点点;een beetje;
+9gfzxmhzrgj4xgct63g654uaz3v3r4tp;一点, 一点点;een beetje;
 9ovl3hrb3t5njdobg8r1g82ibbb2jo8o;它;het, hij (voor dieren of voorwerpen);
 s3subhkrlw67t2ps699p7haw49iacmj0;客人;gast;
 yv64cgv4zn6rlj4hhx1i2vsylwhnj4p1;客气;beleefd;
@@ -245,8 +245,8 @@ lwnumb82khbi6nqwdqqrr4a6m394o9tg;大学生;universiteitsstudent;
 5igo6zeojsbf64ukiifyi1qarwg583e4;小学;lagere school;
 nsaa8fw66mqaxw20ics4xj7w68ughlye;小学生;leerling van de lagere school;
 zrqnn70xqjfba8mtuqcdkg3qoaxehcs6;做;doen, maken;
-ooelujzmf7ud2qshbp65wges9ij5i98t;哪里？,哪儿？;waar?;
-d6nwpuvwl7ob4ujizvs2lwud1xzvvxzx;那里,那儿;daar;
+ooelujzmf7ud2qshbp65wges9ij5i98t;哪里?, 哪儿?;waar?;
+d6nwpuvwl7ob4ujizvs2lwud1xzvvxzx;那里, 那儿;daar;
 2mryt658qpmdhot4gni9atpfmqvbagyl;狗;hond;
 wtijj4wbwxf00lg0m9h9lumjs2ygq8p5;猫;kat;
 7w1gozv0c23h743pa3w76ftb8y5ttatr;吃饭;het eten van rijst, eten;
@@ -358,7 +358,7 @@ ye01nv8f2bhq5hg6mpjsby3jd503eqgl;要;willen, hebben, moeten;
 83sjr3h6t0kym4ontrxi5kfqbdfkkvfi;昨天;gisteren;
 607gktknea1hklyyqgyhdrh9j6gmtbcg;今天;vandaag;
 gr25q3ph5s38xe6ppk5t4k8y6xe415qv;现在;nu;
-bl6p1x6fhzw77zvs2spo4ih3hycompsc;有时候,有的时候;soms;
+bl6p1x6fhzw77zvs2spo4ih3hycompsc;有时候, 有的时候;soms;
 4yytv2t80qo12en6oubw4dtfapwl9z5l;有意思;interessant;
 eiovn6vhxclzg63ve1fpqrc0amwfge27;上课;(beginnen met) les volgen;
 vd73w5q5fi01ihws5n09tm8c8cdgcaaq;下课;stoppen met de les;
@@ -431,7 +431,7 @@ l1rhschg9zf0p84yy600tn5ud7fwubxa;时间;tijd;
 d7is0jdnm53an3homv1qnrxfebo0wx5c;有名;bekend, naam hebben;
 j8awz20or67bbcsc8nogjgabcmgwey22;有时候;soms;
 mzwvpuxts7rk4dr9iwm2quf9yuvbhzky;..的时候;terwijl .., tijdens het ..;
-y2ocnctsvazp6hm43iwt0yvbd7ale8v5;报纸;krant;
+y2ocnctsvazp6hm43iwt0yvbd7ale8v5;报, 报纸;krant;
 
 week119
 w1ljx5rnoj15okmeofx2dshff0g8j6bm;住;wonen;
@@ -453,7 +453,7 @@ p2uvjj8grtfp4gmmiy8k0kk1wg1g6da3;觉得;vinden, van mening zijn dat;
 bg9ur18xi78w7p6co2dd9uhtkv9giqii;数学;wiskunde;
 o4u5h97s0tv0vayxmxmufv444zepm6if;化学;scheikunde;
 abmwyc35qfe0ayigj1npgtt19v18yb2g;可能;misschien;
-ksyh19vc6f9gpl7dyjt8zetkrmawdvjj;问题;vraag;
+ksyh19vc6f9gpl7dyjt8zetkrmawdvjj;问题;vraag, probleem;
 
 week120
 19pgfbz4nej4u1gyzrt1na7ftqlyu112;一下;eens, even;

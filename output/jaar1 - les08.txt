@@ -7,8 +7,8 @@ ee2f3koug06efzux7wu1pjt5bo4b24fj;<span class="tone4">个</span>;<span class="ton
 q18y2el5e29qzhh63dlp48mdoxn881yj;<span class="tone3">姐</span><span class="tone5">姐</span>;<span class="tone3">jiě</span><span class="tone5">jie</span>;oudere zus;[sound:jie3jie5.mp3];;jaar1 week105 les08
 4vfh1dtf4yvyhnqwxz1ydq893e8cdwio;<span class="tone3">两</span>;<span class="tone3">liǎng</span>;twee (+ maatwoord);[sound:liang3.mp3];;jaar1 week121 les08
 48nyqmt7iuhas83d1uq9nxxmkc1km3qi;<span class="tone4">弟</span><span class="tone5">弟</span>;<span class="tone4">dì</span><span class="tone5">di</span>;jongere broer;[sound:di4di5.mp3];;jaar1 week105 les02 les08
-6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];;jaar1 week118 week119 week123 les08 jaar2 week201 week212
-5d07mmytgyyxhb3t88alg0fkc3ykyytg;<span class="tone1">一</span><span class="tone4">共</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>;in totaal;[sound:yi1gong4.mp3];;jaar1 week122 week123 les08 jaar2 week209
+6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];;jaar1 week118 week119 week123 les08 jaar2 week201 week212 les11
+5d07mmytgyyxhb3t88alg0fkc3ykyytg;<span class="tone1">一</span><span class="tone4">共</span>, <span class="tone1">一</span><span class="tone3">起</span>;<span class="tone1">yī</span><span class="tone4">gòng</span>, <span class="tone1">yī</span><span class="tone3">qǐ</span>;in totaal;[sound:yi1gong4yi1qi3.mp3];;jaar1 week122 week123 les08 jaar2 week209 les12
 syflx9r23z1fj8l72oqikd1l4pjp2bg2;<span class="tone4">妹</span><span class="tone5">妹</span>;<span class="tone4">mèi</span><span class="tone5">mei</span>;jongere zus;[sound:mei4mei5.mp3];;jaar1 week105 les08
 a26c56wjtgp9ljmaz10nfgihpdpni1rx;<span class="tone3">小</span>;<span class="tone3">xiǎo</span>;klein;[sound:xiao3.mp3];;jaar1 les08
 2mryt658qpmdhot4gni9atpfmqvbagyl;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];;jaar1 week112 les08 jaar2 week204
