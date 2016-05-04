@@ -35,4 +35,4 @@ ggat9ngh67u71entylgsvr2dmagqvdjd;<span class="tone4">过</span><span class="tone
 u1c1ubmni7sd5r0pzsy5uc91rza8hvsj;<span class="tone3">老</span><span class="tone3">板</span>;<span class="tone3">lǎo</span><span class="tone3">bǎn</span>;baas;[sound:lao3ban3.mp3];;jaar2 week204
 94o2uscemnh0yjona654opxxw76wrlze;<span class="tone1">周</span><span class="tone4">末</span>;<span class="tone1">zhōu</span><span class="tone4">mò</span>;weekend;[sound:zhou1mo4.mp3];;jaar2 week204
 wgcpxanzu78xwwlhz73gwgyvbycspttp;<span class="tone4">忘</span>;<span class="tone4">wàng</span>;vergeten;[sound:wang4.mp3];;jaar2 week204
-qy68glmm0mj2jqc2ceg6929e8s8ms0om;<span class="tone1">帮</span><span class="tone4">助</span>;<span class="tone1">bāng</span><span class="tone4">zhù</span>;helpen;[sound:bang1zhu4.mp3];;jaar2 week204 week206
+qy68glmm0mj2jqc2ceg6929e8s8ms0om;<span class="tone1">帮</span><span class="tone4">助</span>;<span class="tone1">bāng</span><span class="tone4">zhù</span>;helpen;[sound:bang1zhu4.mp3];<br><br>你多高？我1米65。;jaar2 week204 week206 week221
