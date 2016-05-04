@@ -365,56 +365,56 @@ lbsxwpbketd1x7dwu6p8cogsm1srivlk;矮;klein (van gestalte);
 bxqkczdztylasw4i8qfrpv9mkusm2b4z;让;laten, toelaten, iemand iets laten doen;
 h2cxgwdm5lhb6pmveoe9z08gwahp6czx;打扫;poetsen;
 xgq3e2impmb4tu4dy21w4klncehdneua;聪明;slim, intelligent;
-qlge5mcb45memm61bhaeb1ygwl0iahnz;米;meter;你多高？我1米65。
+qlge5mcb45memm61bhaeb1ygwl0iahnz;米;meter;你多高? 我1米65.
 
 week219
-fuxyazhoospa8cuv2gvvx33pjw4l133u;房子;huis, woning
-7bdhhlxgikqyziq8sop68yjz6f43cn1w;房间;kamer
-z3nyu6shx0zbz80v5snc4644qxgblv6k;间;(maatwoord voor kamers en huizen)
-17hqxmfjh2iq17m1ctehb1ee96twefws;卧室;slaapkamer
-ia5v6s3rem47ie1jzhwse1twp5vuzxt3;花园;tuin
-2r5u1dhw8bzznxdfy030wokd8y9ev6wi;车库;garage
-5eqwrajtitcey25ua42st3kpprt8nnl8;厨房;keuken
-nnwkmp6o7nkn18y5quwugt9chysvozyi;书房;bureau
-wkhjcsv0bnbrn947tnqa3fybfqlu8vgx;客厅;living
-goboy9xr3vigbzrfhtduax5v1pbxpvrc;饭厅;eetkamer
-j07bvxst7qoyoagttb2cwhssgx54xtwb;洗澡间;badkamer
-iyptlnvud26zjs61idcrwkorjxctymz7;卫生间;badkamer
-2vt03l7zvrprfbrnq0mtaxpg0owmhe3b;阳台;balkon, terras
-4z8nfy72pgihjd3mrwaek7kz2ezfw2g2;地方;plaats
-yegi6f9voa6ut4dikkzbceqv8ts7hwt8;租;huren
+fuxyazhoospa8cuv2gvvx33pjw4l133u;房子;huis, woning;
+7bdhhlxgikqyziq8sop68yjz6f43cn1w;房间;kamer;
+z3nyu6shx0zbz80v5snc4644qxgblv6k;间;(maatwoord voor kamers en huizen);
+17hqxmfjh2iq17m1ctehb1ee96twefws;卧室;slaapkamer;
+ia5v6s3rem47ie1jzhwse1twp5vuzxt3;花园;tuin;
+2r5u1dhw8bzznxdfy030wokd8y9ev6wi;车库;garage;
+5eqwrajtitcey25ua42st3kpprt8nnl8;厨房;keuken;
+nnwkmp6o7nkn18y5quwugt9chysvozyi;书房;bureau;
+wkhjcsv0bnbrn947tnqa3fybfqlu8vgx;客厅;living;
+goboy9xr3vigbzrfhtduax5v1pbxpvrc;饭厅;eetkamer;
+j07bvxst7qoyoagttb2cwhssgx54xtwb;洗澡间;badkamer;
+iyptlnvud26zjs61idcrwkorjxctymz7;卫生间;badkamer;
+2vt03l7zvrprfbrnq0mtaxpg0owmhe3b;阳台;balkon, terras;
+4z8nfy72pgihjd3mrwaek7kz2ezfw2g2;地方;plaats;
+yegi6f9voa6ut4dikkzbceqv8ts7hwt8;租;huren;
 
 week220
-g8469alysidvi106ft4mmtoh3f1jyg0g;租;huren
-z5dwjwm4v5dpuzj460vjwoobe9d9f95c;出租;verhuren
-sapd7al8ahifi73juuswfagazhgkvnu3;房租;huishuur
-swtlztj214i179zrks64fzgnkaceueud;千;duizend
-wm3sk2ba4pbxzweg3xoph1hiea3zdzjs;一些;een aantal
-o6lixd8nwjuc5cm1d55mwerfn1q2dzzg;这些;deze (meervoud)
-9ap9r83hsqzcbmpzfl1pms5gxpofg9t4;哪些;welke? (meervoud)
-6xvjhcdjn1btpkb008z8ou8za8xvbd1y;平方米;m²
-kam1eyw6i8x8rpo8jgnkykxa8uy5ualb;包括;omvatten, inbegrepen hebben
-uuz5ya9xedxsmcyufcrjtm7koqhfgkn2;附近;nabijheid
-u97dc1wkreu8iuaussrmqksrowyorj2u;公寓;appartement
-oqic9tvcfwa9lhrten54nsb9xldz31a7;一样;hetzelfde
-ho3y7ood6d4ccsw2rzugvtcf97ht3z9j;套;(maatwoord voor woningen)
-uo0zwwuoa5fhywtmw3cjg88cxswb3i9z;散步;het verspreiden van passen > wandelen
+g8469alysidvi106ft4mmtoh3f1jyg0g;租;huren;
+z5dwjwm4v5dpuzj460vjwoobe9d9f95c;出租;verhuren;
+sapd7al8ahifi73juuswfagazhgkvnu3;房租;huishuur;
+swtlztj214i179zrks64fzgnkaceueud;千;duizend;
+wm3sk2ba4pbxzweg3xoph1hiea3zdzjs;一些;een aantal;
+o6lixd8nwjuc5cm1d55mwerfn1q2dzzg;这些;deze (meervoud);
+9ap9r83hsqzcbmpzfl1pms5gxpofg9t4;哪些;welke? (meervoud);
+6xvjhcdjn1btpkb008z8ou8za8xvbd1y;平方米;m²;
+kam1eyw6i8x8rpo8jgnkykxa8uy5ualb;包括;omvatten, inbegrepen hebben;
+uuz5ya9xedxsmcyufcrjtm7koqhfgkn2;附近;nabijheid;
+u97dc1wkreu8iuaussrmqksrowyorj2u;公寓;appartement;
+oqic9tvcfwa9lhrten54nsb9xldz31a7;一样;hetzelfde;
+ho3y7ood6d4ccsw2rzugvtcf97ht3z9j;套;(maatwoord voor woningen);
+uo0zwwuoa5fhywtmw3cjg88cxswb3i9z;散步;het verspreiden van passen > wandelen;
 
 week221
-6hq8nipra42gjcdcv0p0zybf3e4yfmpl;公寓;appartement
-z3xpi68ebyy805vm3l7buy9lz328qqz4;搬家;verhuizen
-lqhrszc3db38omh262bf5m5pkfunpaxi;帮助;helpen
-ztj96flz1f0wlmn9npzqk4j3s238c3il;然后;daarna, vervolgens
+6hq8nipra42gjcdcv0p0zybf3e4yfmpl;公寓;appartement;
+z3xpi68ebyy805vm3l7buy9lz328qqz4;搬家;verhuizen;
+lqhrszc3db38omh262bf5m5pkfunpaxi;帮助;helpen;
+ztj96flz1f0wlmn9npzqk4j3s238c3il;然后;daarna, vervolgens;
 
 week222
-v6obz8dy5crnltob46lwf11xmqj5qb0p;放;plaatsen, zetten
-hn8kjs2x8268v24552ssy92vpdlpyy3e;慢;langzaam
-1tsh4cid1zxcfkjxsxt6ss186u1p0to8;因为... 所以...;omdat... daarom …
-zmsxd4ceovh2gqt3f4kgpdl4e60oj3aw;只;(maatwoord voor dieren)
-f6f57ujwn0nevy4nhlcz9vktku51tto4;只;enkel, slechts
-1ryeivyixjskxxdmiiwbm5jr958fe8bn;冰箱;ijskast
-ez1f6uf138xkb2smucm9gzdqxxi1ly96;非常;(modifier) uitzonderlijk, heel erg, exceptioneel
-cvclpdeq5t561xvaxd9kbf1clrs6ktoj;课文;lestekst
+v6obz8dy5crnltob46lwf11xmqj5qb0p;放;plaatsen, zetten;
+hn8kjs2x8268v24552ssy92vpdlpyy3e;慢;langzaam;
+1tsh4cid1zxcfkjxsxt6ss186u1p0to8;因为... 所以...;omdat... daarom...;
+zmsxd4ceovh2gqt3f4kgpdl4e60oj3aw;只;(maatwoord voor dieren);
+f6f57ujwn0nevy4nhlcz9vktku51tto4;只;enkel, slechts;
+1ryeivyixjskxxdmiiwbm5jr958fe8bn;冰箱;ijskast;
+ez1f6uf138xkb2smucm9gzdqxxi1ly96;非常;(modifier) uitzonderlijk, heel erg, exceptioneel;
+cvclpdeq5t561xvaxd9kbf1clrs6ktoj;课文;lestekst;
 
 les09
 2ze3mz00y2it336aqdijn6o318ubtf3d;今年;dit jaar;

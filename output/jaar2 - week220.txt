@@ -1,14 +1,14 @@
-yegi6f9voa6ut4dikkzbceqv8ts7hwt8;<span class="tone1">租</span>;<span class="tone1">zū</span>;huren;[sound:zu1.mp3];你多高？我1米65。;jaar2 week219 week220
-z5dwjwm4v5dpuzj460vjwoobe9d9f95c;<span class="tone1">出</span><span class="tone1">租</span>;<span class="tone1">chū</span><span class="tone1">zū</span>;verhuren;[sound:chu1zu1.mp3];你多高？我1米65。;jaar2 week220
-sapd7al8ahifi73juuswfagazhgkvnu3;<span class="tone2">房</span><span class="tone1">租</span>;<span class="tone2">fáng</span><span class="tone1">zū</span>;huishuur;[sound:fang2zu1.mp3];你多高？我1米65。;jaar2 week220
-77hgkobi29nqoy2ezp29f1uy17nqemuu;<span class="tone1">千</span>;<span class="tone1">qiān</span>;duizend;[sound:qian1.mp3];<br><br>你多高？我1米65。;jaar2 week209 week220
-wm3sk2ba4pbxzweg3xoph1hiea3zdzjs;<span class="tone1">一</span><span class="tone1">些</span>;<span class="tone1">yī</span><span class="tone1">xiē</span>;een aantal;[sound:yi1xie1.mp3];你多高？我1米65。;jaar2 week220
-o6lixd8nwjuc5cm1d55mwerfn1q2dzzg;<span class="tone4">这</span><span class="tone1">些</span>;<span class="tone4">zhè</span><span class="tone1">xiē</span>;deze (meervoud);[sound:zhe4xie1.mp3];你多高？我1米65。;jaar2 week220
-9ap9r83hsqzcbmpzfl1pms5gxpofg9t4;<span class="tone3">哪</span><span class="tone1">些</span>;<span class="tone3">nǎ</span><span class="tone1">xiē</span>;welke? (meervoud);[sound:na3xie1.mp3];你多高？我1米65。;jaar2 week220
-6xvjhcdjn1btpkb008z8ou8za8xvbd1y;<span class="tone2">平</span><span class="tone1">方</span><span class="tone3">米</span>;<span class="tone2">píng</span><span class="tone1">fāng</span><span class="tone3">mǐ</span>;m²;[sound:ping2fang1mi3.mp3];你多高？我1米65。;jaar2 week220
-kam1eyw6i8x8rpo8jgnkykxa8uy5ualb;<span class="tone1">包</span><span class="tone4">括</span>;<span class="tone1">bāo</span><span class="tone4">kuò</span>;omvatten, inbegrepen hebben;[sound:bao1kuo4.mp3];你多高？我1米65。;jaar2 week220
-uuz5ya9xedxsmcyufcrjtm7koqhfgkn2;<span class="tone4">附</span><span class="tone4">近</span>;<span class="tone4">fù</span><span class="tone4">jìn</span>;nabijheid;[sound:fu4jin4.mp3];你多高？我1米65。;jaar2 week220
-u97dc1wkreu8iuaussrmqksrowyorj2u;<span class="tone1">公</span><span class="tone4">寓</span>;<span class="tone1">gōng</span><span class="tone4">yù</span>;appartement;[sound:gong1yu4.mp3];你多高？我1米65。;jaar2 week220 week221
-3oreprsfw8idi51820e8sjcnfjd4gxr6;<span class="tone1">一</span><span class="tone4">样</span>;<span class="tone1">yī</span><span class="tone4">yàng</span>;hetzelfde;[sound:yi1yang4.mp3];<br><br>你多高？我1米65。;jaar2 week210 week220
-ho3y7ood6d4ccsw2rzugvtcf97ht3z9j;<span class="tone4">套</span>;<span class="tone4">tào</span>;(maatwoord voor woningen);[sound:tao4.mp3];你多高？我1米65。;jaar2 week220
-tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;<span class="tone4">散</span><span class="tone4">步</span>;<span class="tone4">sàn</span><span class="tone4">bù</span>;het verspreiden van passen > wandelen;[sound:san4bu4.mp3];<br><br>你多高？我1米65。;jaar2 week211 week220
+yegi6f9voa6ut4dikkzbceqv8ts7hwt8;<span class="tone1">租</span>;<span class="tone1">zū</span>;huren;[sound:zu1.mp3];;jaar2 week219 week220
+z5dwjwm4v5dpuzj460vjwoobe9d9f95c;<span class="tone1">出</span><span class="tone1">租</span>;<span class="tone1">chū</span><span class="tone1">zū</span>;verhuren;[sound:chu1zu1.mp3];;jaar2 week220
+sapd7al8ahifi73juuswfagazhgkvnu3;<span class="tone2">房</span><span class="tone1">租</span>;<span class="tone2">fáng</span><span class="tone1">zū</span>;huishuur;[sound:fang2zu1.mp3];;jaar2 week220
+77hgkobi29nqoy2ezp29f1uy17nqemuu;<span class="tone1">千</span>;<span class="tone1">qiān</span>;duizend;[sound:qian1.mp3];;jaar2 week209 week220
+wm3sk2ba4pbxzweg3xoph1hiea3zdzjs;<span class="tone1">一</span><span class="tone1">些</span>;<span class="tone1">yī</span><span class="tone1">xiē</span>;een aantal;[sound:yi1xie1.mp3];;jaar2 week220
+o6lixd8nwjuc5cm1d55mwerfn1q2dzzg;<span class="tone4">这</span><span class="tone1">些</span>;<span class="tone4">zhè</span><span class="tone1">xiē</span>;deze (meervoud);[sound:zhe4xie1.mp3];;jaar2 week220
+9ap9r83hsqzcbmpzfl1pms5gxpofg9t4;<span class="tone3">哪</span><span class="tone1">些</span>;<span class="tone3">nǎ</span><span class="tone1">xiē</span>;welke? (meervoud);[sound:na3xie1.mp3];;jaar2 week220
+6xvjhcdjn1btpkb008z8ou8za8xvbd1y;<span class="tone2">平</span><span class="tone1">方</span><span class="tone3">米</span>;<span class="tone2">píng</span><span class="tone1">fāng</span><span class="tone3">mǐ</span>;m²;[sound:ping2fang1mi3.mp3];;jaar2 week220
+kam1eyw6i8x8rpo8jgnkykxa8uy5ualb;<span class="tone1">包</span><span class="tone4">括</span>;<span class="tone1">bāo</span><span class="tone4">kuò</span>;omvatten, inbegrepen hebben;[sound:bao1kuo4.mp3];;jaar2 week220
+uuz5ya9xedxsmcyufcrjtm7koqhfgkn2;<span class="tone4">附</span><span class="tone4">近</span>;<span class="tone4">fù</span><span class="tone4">jìn</span>;nabijheid;[sound:fu4jin4.mp3];;jaar2 week220
+u97dc1wkreu8iuaussrmqksrowyorj2u;<span class="tone1">公</span><span class="tone4">寓</span>;<span class="tone1">gōng</span><span class="tone4">yù</span>;appartement;[sound:gong1yu4.mp3];;jaar2 week220 week221
+3oreprsfw8idi51820e8sjcnfjd4gxr6;<span class="tone1">一</span><span class="tone4">样</span>;<span class="tone1">yī</span><span class="tone4">yàng</span>;hetzelfde;[sound:yi1yang4.mp3];;jaar2 week210 week220
+ho3y7ood6d4ccsw2rzugvtcf97ht3z9j;<span class="tone4">套</span>;<span class="tone4">tào</span>;(maatwoord voor woningen);[sound:tao4.mp3];;jaar2 week220
+tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;<span class="tone4">散</span><span class="tone4">步</span>;<span class="tone4">sàn</span><span class="tone4">bù</span>;het verspreiden van passen > wandelen;[sound:san4bu4.mp3];;jaar2 week211 week220
