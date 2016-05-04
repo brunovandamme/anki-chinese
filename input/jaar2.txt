@@ -410,8 +410,8 @@ week222
 v6obz8dy5crnltob46lwf11xmqj5qb0p;放;plaatsen, zetten;
 hn8kjs2x8268v24552ssy92vpdlpyy3e;慢;langzaam;
 1tsh4cid1zxcfkjxsxt6ss186u1p0to8;因为... 所以...;omdat... daarom...;
-zmsxd4ceovh2gqt3f4kgpdl4e60oj3aw;只;(maatwoord voor dieren);
-f6f57ujwn0nevy4nhlcz9vktku51tto4;只;enkel, slechts;
+zmsxd4ceovh2gqt3f4kgpdl4e60oj3aw;只:zhī;(maatwoord voor dieren);
+f6f57ujwn0nevy4nhlcz9vktku51tto4;只:zhǐ;enkel, slechts;
 1ryeivyixjskxxdmiiwbm5jr958fe8bn;冰箱;ijskast;
 ez1f6uf138xkb2smucm9gzdqxxi1ly96;非常;(modifier) uitzonderlijk, heel erg, exceptioneel;
 cvclpdeq5t561xvaxd9kbf1clrs6ktoj;课文;lestekst;
