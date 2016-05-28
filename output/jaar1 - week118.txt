@@ -1,7 +1,7 @@
 ipa433lvcu1gdxxh0zsa8t3nnegdehuq;<span class="tone1">天</span><span class="tone4">气</span>;<span class="tone1">tiān</span><span class="tone4">qì</span>;het weer;[sound:tian1qi4.mp3];;jaar1 week118 les06
 581s41pcc9h3qh1c4asj0dsy6zymku22;<span class="tone4">地</span><span class="tone2">图</span>;<span class="tone4">dì</span><span class="tone2">tú</span>;kaart;[sound:di4tu2.mp3];;jaar1 week118
 yel7u5yl8p28n8vrdprqbrb35bons4xq;<span class="tone1">东</span>;<span class="tone1">dōng</span>;oosten;[sound:dong1.mp3];;jaar1 week118
-uwc6pr7zu4cmuamffh5moiygmb1owbzb;<span class="tone2">南</span>;<span class="tone2">nán</span>;zuiden;[sound:nan2.mp3];;jaar1 week118
+uwc6pr7zu4cmuamffh5moiygmb1owbzb;<span class="tone2">南</span>, <span class="tone2">南</span><span class="tone1">方</span>;<span class="tone2">nán</span>, <span class="tone2">nán</span><span class="tone1">fāng</span>;zuiden;[sound:nan2nan2fang1.mp3];<br><br>怎么办？;jaar1 week118 jaar2 les14
 xgzddgti3sjbwrc6orxn4w07qf9vxhl9;<span class="tone5">西</span>;<span class="tone5">xi</span>;westen;[sound:xi5.mp3];;jaar1 week118 jaar2 les12
 vqoz0rq1njc1gfwncp7rehc8g7iaaky3;<span class="tone3">北</span>;<span class="tone3">běi</span>;noorden;[sound:bei3.mp3];;jaar1 week118
 2d9ztz3gu7hodz1677dcxlw8hxmxjupf;<span class="tone1">东</span><span class="tone5">西</span>;<span class="tone1">dōng</span><span class="tone5">xi</span>;iets, ding, voorwerp;[sound:dong1xi5.mp3];;jaar1 week118 jaar2 week208 les11

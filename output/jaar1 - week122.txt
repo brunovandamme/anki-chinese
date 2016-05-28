@@ -1,6 +1,6 @@
 d8t3g5lrtbt54vyqcs9nsgva2yo83i1u;<span class="tone3">早</span><span class="tone5">上</span>;<span class="tone3">zǎo</span><span class="tone5">shang</span>;ochtend, 's ochtends;[sound:zao3shang5.mp3];;jaar1 week117 week122 week123 week125
 8smjxayyy9dqsaf5fjs1rp10lcdto8de;<span class="tone3">早</span><span class="tone4">饭</span>;<span class="tone3">zǎo</span><span class="tone4">fàn</span>;ontbijt;[sound:zao3fan4.mp3];;jaar1 week122
-z1706btjc4vqci3q78cmy0ag96jqo1m8;<span class="tone1">中</span><span class="tone3">午</span>;<span class="tone1">zhōng</span><span class="tone3">wǔ</span>;middag, 's middags;[sound:zhong1wu3.mp3];;jaar1 week117 week122 week123
+z1706btjc4vqci3q78cmy0ag96jqo1m8;<span class="tone1">中</span><span class="tone3">午</span>;<span class="tone1">zhōng</span><span class="tone3">wǔ</span>;middag, 's middags;[sound:zhong1wu3.mp3];<br><br>怎么办？;jaar1 week117 week122 week123 jaar2 les14
 epy5ium2xsnxjn4afxo4jia9mof8brdm;<span class="tone3">午</span><span class="tone4">饭</span>;<span class="tone3">wǔ</span><span class="tone4">fàn</span>;lunch;[sound:wu3fan4.mp3];;jaar1 week122
 v90mr67b7sntcwd8tcnz14r1d1l90hny;<span class="tone3">晚</span><span class="tone4">饭</span>;<span class="tone3">wǎn</span><span class="tone4">fàn</span>;avondmaal;[sound:wan3fan4.mp3];;jaar1 week122
 crryew9r1s6dawjn2nryyg2oo68a86e3;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];;jaar1 week116 week122 les08 jaar2 week209
