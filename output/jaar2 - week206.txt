@@ -5,6 +5,6 @@ z391jmfbybe7yt467xuj4szomn59p0jv;<span class="tone4">刻</span>;<span class="ton
 jpa87v5qc53g99rnnuaje8t1o9jfycgc;<span class="tone3">起</span><span class="tone2">床</span>;<span class="tone3">qǐ</span><span class="tone2">chuáng</span>;het opstaan uit bed, opstaan;[sound:qi3chuang2.mp3];;jaar2 week206 week211 les11
 ql8f6iot0srozkk5a6ga5pwmy3jcxk3o;<span class="tone4">睡</span><span class="tone4">觉</span>;<span class="tone4">shuì</span><span class="tone4">jiào</span>;het slapen van een slaapje, slapen;[sound:shui4jiao4.mp3];;jaar1 week115 week116 week117 jaar2 week206 les11
 kh3bmj3ffcaeseoon4otcca6lfhbs42s;<span class="tone3">洗</span><span class="tone3">澡</span>;<span class="tone3">xǐ</span><span class="tone3">zǎo</span>;het wassen van een wasje, zich wassen;[sound:xi3zao3.mp3];;jaar1 week117 jaar2 week206 week207 week211
-qy68glmm0mj2jqc2ceg6929e8s8ms0om;<span class="tone1">帮</span><span class="tone4">助</span>;<span class="tone1">bāng</span><span class="tone4">zhù</span>;helpen;[sound:bang1zhu4.mp3];;jaar2 week204 week206 week221
+qy68glmm0mj2jqc2ceg6929e8s8ms0om;<span class="tone1">帮</span><span class="tone4">助</span>;<span class="tone1">bāng</span><span class="tone4">zhù</span>;helpen;[sound:bang1zhu4.mp3];<br><br>怎么办？;jaar2 week204 week206 week221 les13
 lvlke32u4jhyprwtlph1egrbmhgg11gt;<span class="tone4">次</span>;<span class="tone4">cì</span>;keer;[sound:ci4.mp3];;jaar2 week206 week217
-ihg5vw19lpfupi6ui9mb7mmz6augnno1;<span class="tone4">事</span>;<span class="tone4">shì</span>;ding, iets (niet tastbaar);[sound:shi4.mp3];;jaar2 week206
+ihg5vw19lpfupi6ui9mb7mmz6augnno1;<span class="tone4">事</span>;<span class="tone4">shì</span>;ding, iets (niet tastbaar);[sound:shi4.mp3];<br><br>的感冒<br><br> 的病;jaar2 week206 les13

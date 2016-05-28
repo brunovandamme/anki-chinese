@@ -2,7 +2,7 @@
 d1pbo0hy00n5fsdpgge5to37fmw2sjcv;<span class="tone3">眼</span><span class="tone5">睛</span>;<span class="tone3">yǎn</span><span class="tone5">jing</span>;oog;[sound:yan3jing5.mp3];;jaar2 week215
 lte7ynnt9nuzp2mgx41l5errmghi70g0;<span class="tone2">疼</span>;<span class="tone2">téng</span>;pijn doen;[sound:teng2.mp3];;jaar2 week215 les12
 ner0y8t2wrpz92xdzt1h8ofmvv6h0w78;<span class="tone3">嗓</span><span class="tone5">子</span>;<span class="tone3">sǎng</span><span class="tone5">zi</span>;keel;[sound:sang3zi5.mp3];;jaar2 week215 les12
-hqb4mfp63ybokz16iuwlysbrr0ahr03n;<span class="tone3">感</span><span class="tone4">冒</span>;<span class="tone3">gǎn</span><span class="tone4">mào</span>;verkouden, verkoudheid hebben;[sound:gan3mao4.mp3];;jaar2 week215 les12
+hqb4mfp63ybokz16iuwlysbrr0ahr03n;<span class="tone3">感</span><span class="tone4">冒</span>;<span class="tone3">gǎn</span><span class="tone4">mào</span>;verkouden zijn, verkoudheid hebben;[sound:gan3mao4.mp3];;jaar2 week215 les12
 z26y882pogmxovw3586b17cbd6jssvoq;<span class="tone4">药</span>;<span class="tone4">yào</span>;medicijn;[sound:yao4.mp3];;jaar2 week215 les12
 bain3g4twxarxozbzbx6uki3s3o86rih;<span class="tone1">中</span><span class="tone4">药</span>;<span class="tone1">Zhōng</span><span class="tone4">yào</span>;Chinese medicijnen;[sound:zhong1yao4.mp3];;jaar2 week215 les12
 wb5v89psad4exjvlv0ayf8siyzmx78gv;<span class="tone1">西</span><span class="tone4">药</span>;<span class="tone1">xī</span><span class="tone4">yào</span>;westerse medicijnen;[sound:xi1yao4.mp3];;jaar2 week215 les12

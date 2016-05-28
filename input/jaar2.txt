@@ -2,7 +2,7 @@ week201
 am5koaesv06akh3pivqpz2ee24d1ngn6;新;nieuw;
 qk47zskykg09i1gbvvqc36ptwswealuu;结婚;trouwen;
 cxxr6oikxmk4uktbyipv6qj6nrwr3vip;年;jaar;
-xgrlhk9g6b05ngxl7a43pifizih5w746;听说;ik heb horen zeggen dat;
+xgrlhk9g6b05ngxl7a43pifizih5w746;听说;horen zeggen;
 qa6rcgj45a08mm7d36k3qn9patfe1s0a;星期;week;
 pmtlntw6cytvc9gp22raoco7xmamgqck;星期三;woensdag;
 9f7im8n59u66fk7tpyaqpbd5f6m0j8g8;星期日;zondag;
@@ -192,7 +192,7 @@ kylqbmnglc547snic6mbn4frhyr0nezp;怎么？;hoe?;
 eius3rwabm3xbdfpqn6kfxd4jdwtu2fv;聪明;slim, intelligent;
 xquymyunra74r9eo2kzxo21ofplgnk2q;比;vergelijken, in vergelijking met;
 7ickfcfot21i6k0c2d6gjx8n9gnymssd;穿衣服;het dragen van kleren, het aantrekken van kleren;
-i374cg6uo1pg7ybk04iyxrbi72giynbb;件;maatwoord voor kleren;
+i374cg6uo1pg7ybk04iyxrbi72giynbb;件;(maatwoord voor kleren);
 l8nrx2doa5lf9hcdyt6mgpgplmif9u68;红;rood;
 q2epjpe8kjp29yktukp258cb08l9q9eg;绿:lǜ;groen;
 igkalozm4aazx136ne3s7mq8431f84dk;颜色;kleur;
@@ -218,7 +218,7 @@ whd23ax3gnmpd6tevlyu9o780uhnx9du;运动;sport, sporten;
 vqtkej6g8dd3apakw1ua0msf6bjqwdhz;跑步;het lopen van passen, lopen, rennen;
 dcsa6jxcge0utqr0kvlr98g7azkkwrvy;踢足球;stampen tegen een voetbal, voetballen;
 uu6spiihcsaxiyd879xig7ma5e5umf8v;打网球;slaan tegen een tennisbal, tennissen;
-tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;散步;het verspreiden van passen > wandelen;
+tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;散步;het verspreiden van passen, wandelen;
 ogfmhyeawl04sff1bo8rxi0jkh6o3gvx;走路;gaan;
 70ru3foz6691c73o2uua4s1b61omb95a;第;(gebruikt om rangtelwoorden te vormen);
 kikiahs2pmehduej6hqv16t3n6kd12pi;司机;chauffeur;
@@ -287,7 +287,7 @@ week215
 d1pbo0hy00n5fsdpgge5to37fmw2sjcv;眼睛;oog;
 lte7ynnt9nuzp2mgx41l5errmghi70g0;疼;pijn doen;
 ner0y8t2wrpz92xdzt1h8ofmvv6h0w78;嗓子;keel;
-hqb4mfp63ybokz16iuwlysbrr0ahr03n;感冒;verkouden, verkoudheid hebben;
+hqb4mfp63ybokz16iuwlysbrr0ahr03n;感冒;verkouden zijn, verkoudheid hebben;
 z26y882pogmxovw3586b17cbd6jssvoq;药;medicijn;
 bain3g4twxarxozbzbx6uki3s3o86rih;中药;Chinese medicijnen;
 wb5v89psad4exjvlv0ayf8siyzmx78gv;西药;westerse medicijnen;
@@ -303,7 +303,7 @@ xo8btnqr5o0otocbubo5fsiw1rc57iib;舒服;comfortabel, goed;waar voel je je niet g
 c110025jf2zpqkuc6c11kij2ejaxeueb;怎么办？;wat er aan te doen? Hoe lossen we dit op? Hoe pakken we dit aan?;
 qq0p3z6dts13ypnrcfs1op9igxdhaxo4;休息;rusten, pauzeren, rust, pauze;
 ac1a15fmrrwmmvwrxc56jfd2ot9s29gu;住医院;in het ziekenhuis verblijven;
-ljo8og42haq40pi8nq9hr8ilbqsnxygr;发炎;ontstoken;
+ljo8og42haq40pi8nq9hr8ilbqsnxygr;发炎;ontstoken zijn;
 tysw1o5j0xxkp2ebivfcr2ygvqo23mfy;发烧;koorts hebben;
 r84b18a08llj38cjbazd1snurj0jjl5x;病人;patiënt;
 9xkjjz47klb6bl66kdufyuk7vipfjcw6;有用;nut hebben, nuttig zijn;
@@ -376,7 +376,7 @@ ia5v6s3rem47ie1jzhwse1twp5vuzxt3;花园;tuin;
 2r5u1dhw8bzznxdfy030wokd8y9ev6wi;车库;garage;
 5eqwrajtitcey25ua42st3kpprt8nnl8;厨房;keuken;
 nnwkmp6o7nkn18y5quwugt9chysvozyi;书房;bureau;
-wkhjcsv0bnbrn947tnqa3fybfqlu8vgx;客厅;living;
+wkhjcsv0bnbrn947tnqa3fybfqlu8vgx;客厅;woonkamer;
 goboy9xr3vigbzrfhtduax5v1pbxpvrc;饭厅;eetkamer;
 j07bvxst7qoyoagttb2cwhssgx54xtwb;洗澡间;badkamer;
 iyptlnvud26zjs61idcrwkorjxctymz7;卫生间;badkamer;
@@ -393,12 +393,12 @@ wm3sk2ba4pbxzweg3xoph1hiea3zdzjs;一些;een aantal;
 o6lixd8nwjuc5cm1d55mwerfn1q2dzzg;这些;deze (meervoud);
 9ap9r83hsqzcbmpzfl1pms5gxpofg9t4;哪些;welke? (meervoud);
 6xvjhcdjn1btpkb008z8ou8za8xvbd1y;平方米;m²;
-kam1eyw6i8x8rpo8jgnkykxa8uy5ualb;包括;omvatten, inbegrepen hebben;
+kam1eyw6i8x8rpo8jgnkykxa8uy5ualb;包括;inclusief, inbegrepen zijn;
 uuz5ya9xedxsmcyufcrjtm7koqhfgkn2;附近;nabijheid;
 u97dc1wkreu8iuaussrmqksrowyorj2u;公寓;appartement;
 oqic9tvcfwa9lhrten54nsb9xldz31a7;一样;hetzelfde;
 ho3y7ood6d4ccsw2rzugvtcf97ht3z9j;套;(maatwoord voor woningen);
-uo0zwwuoa5fhywtmw3cjg88cxswb3i9z;散步;het verspreiden van passen > wandelen;
+uo0zwwuoa5fhywtmw3cjg88cxswb3i9z;散步;het verspreiden van passen, wandelen;
 
 week221
 6hq8nipra42gjcdcv0p0zybf3e4yfmpl;公寓;appartement;
@@ -415,6 +415,12 @@ f6f57ujwn0nevy4nhlcz9vktku51tto4;只:zhǐ;enkel, slechts;
 1ryeivyixjskxxdmiiwbm5jr958fe8bn;冰箱;ijskast;
 ez1f6uf138xkb2smucm9gzdqxxi1ly96;非常;(modifier) uitzonderlijk, heel erg, exceptioneel;
 cvclpdeq5t561xvaxd9kbf1clrs6ktoj;课文;lestekst;
+
+week223
+tuk96nx6aq85xnsqd82y6b3qujkvvgvv;图书馆;bibliotheek
+rn0vdxcggaikfw6u9ol136tsio3kegly;词典;woordenboek
+ddqgy5anmd1euh4lo8x0cvhye8eux4ve;字典;karakter-woordenboek
+j1r23dkiwzu7a2egohm6ktwhy3apaxqo;部首;radicaal, sleutel van een karakter
 
 les09
 2ze3mz00y2it336aqdijn6o318ubtf3d;今年;dit jaar;
@@ -577,7 +583,7 @@ zbpue17d6uyqxx73jf334jeh6iut7dwe;礼物;geschenk, cadeau
 nmf11odnr5rzdotw42skma2412damwk9;打球;(een balsport) spelen (met de handen)
 yu16535vpuzgc8ft9j1a41l0mqkftfj8;打的;taxi nemen
 dq0oc758ft8vrckswfec6f1mqdawc44m;吸烟;het roken van een sigaret, roken
-lklbv024g6dku0jk6d4lu2zmh7exhalb;表;kijken
+lklbv024g6dku0jk6d4lu2zmh7exhalb;表;uurwerk
 xzn9tudfsk40r0bxu2csyy3fzghjpngr;难;moeilijk
 
 les12
@@ -607,10 +613,10 @@ ftc6bxqgoowonrajbixbddgq6ebi5gsc;给;geven
 dl3jxifepnvrg83b1wz1l42o2qjbaeu4;挂号;registreren
 ds4qdv9c95kcpab6ohtxx5bmtlgidybs;号;nummer
 d5sc8g0bnl8p00wzhv5zecy6sfrbtx6l;有点儿;een beetje
-zlx8fpimjugtd9togp6tp7epcdevct31;发炎;ontstoken
+zlx8fpimjugtd9togp6tp7epcdevct31;发炎;ontstoken zijn
 bhbksql2gjlmjzorksyr2e1c3ux0fp03;发烧;koorts hebben
 r58pal096e614h10kv3mf70y5ifyqilc;烧;branden
-8odvzx9t0h6vwz3sae5ler7h0qp15aeb;感冒;verkouden, verkoudheid hebben
+8odvzx9t0h6vwz3sae5ler7h0qp15aeb;感冒;verkouden zijn, verkoudheid hebben
 8c39f3xh2nkf3ifoaxklhxsfnikr2vyr;住院;in het ziekenhuis verblijven
 t5dyjz65q3accz1gp6cohasx20riay6s;水;water
 cjdu961o9onwutvwp5i4acezmjgp10mg;药;medicijn
@@ -621,7 +627,7 @@ thunv4gx0b834og641nio16xr5tyx8vk;西药;westerse medicijnen
 o1ks9wn4rc16awp483y6va0vwfpqx4qr;牙;tand
 5twu695uwi4nqf4rmqy91f2cwnsm7cuh;肚子;buik
 0ux7x62k6097qte3tkj9qtolbykzozw6;开刀;opereren
-1sid0o8ffmhqtvugerxab6atfds8so2c;化验;een medische analyse
+1sid0o8ffmhqtvugerxab6atfds8so2c;化验;een medische test
 vfijq037oc3a215omncqd0q9w0bv46cr;血;bloed
 8t2rvpkece8leots4jnvey4u4x5gdwrp;大便;kaka
 4ltdnc3ht69l3d2hwvr093phwr8us26v;小便;pipi
@@ -630,3 +636,52 @@ gy608idj8ua9qij1ose4gol4adnj5xdh;打针;het zetten van een spuit
 lvf3qnx2majeatt4tmaabvo6ly6chqo9;凉快;afkoelen
 tgpu8wt22xe5pspzu48pebo9juzyg9ax;生活;leven
 xdtu3sp2vxyrrhccjo7z6kcksk5cqqnc;英文;Engels
+
+les13
+863gm2vopitdbbppa60akwtpr1co6zcr;姑娘;meisje
+44pyobjy545ec5h0nzss5klomxkch33d;听说;horen zeggen
+yfk7d6qxkg10gu441zizkhpl0yizohiq;听;horen, luisteren
+sbdh78jg74fsnd1ugg2p6nn64255stko;得;krijgen, hebben;的感冒, 的病
+d0zgxkj54ju08sfrguyoi22plrvenupz;告诉;vertellen, meedelen
+b6ib2ky5uewco2grjmgflykh3hb2h1ig;件;(maatwoord voor kleren)
+gh8d56bb5ia8278kz7jthrjzkoq9cx6j;事;ding, iets (niet tastbaar)
+ypbhlhkmfj8tr1d491tfc3iwtjtaygko;散步;het verspreiden van passen, wandelen
+ldairx8iccb6mj6ik5ys2kv2c3f1ii1u;步;stap, pas
+q2coz9lrsgbh2g5afb8zzitqmbjpzbzv;电影;film
+4qrs1gfh9jtv9jobu7r6urygal9fge5w;电;electriciteit
+ofpbtkyxiaxs02o4j2s8fdny2wif64z2;影;shaduw
+kscgxt6owrzm50nws7044nvcfqg7n0ty;咖啡;koffie
+g90takph1xw4ode85z1movh5dg37rd8x;可是;maar
+qk7y52sdjeavx67jwb8kle9hgvsxtxk2;宿舍;slaapzaal
+rb2mlebkpd1xcg3bdcbtuz2levlgi9c6;找;zoeken
+c3kndtusfxq6p1z623kwr5nn1tibcwbw;房子;huis, woning
+r9ij90sw5aokyv4ia4wlmdr5k1i7ydpq;租;huren
+e5s0ns7o7jvvm6e5h96enmzd3yokmyr1;间;(maatwoord voor kamers en huizen)
+nyp4ruqiu66mi3mjq3ez40zi4qf2ifye;厨房;keuken
+podo10zi8os941n0ib4wthvca6l4qztc;厕所;toilet
+y50wc6r3fugafs1abcn95i23d1rktgry;房租;huishuur
+pf9bsjxfbmxfiujt6hcfgnr582oie6qv;公司;bedrijf
+2zqulpjtexm7ahqfcvg7ezolzu9gkolx;办;doen;怎么办？
+yqka39uw70xqdkeo9kdnco0g5ggwwd41;打电话;telefoneren
+523di5lbxuvyh2r380r9lkbrbiyyacoc;电话;telefoon
+83q24zttg0wgt6rg8g4cox635yvd019x;让;laten, toelaten, iemand iets laten doen
+xtx962wsfq5b289dod6p9tokcfqcep9w;帮助;helpen
+dh7oq3kgio4gqwx5slt835nrcrefv1ur;喂;hallo
+ry55o7jgzfbd49d2lasmw7u2vsb2fh6d;位;(maatwoord voor persoon)
+i1onrvleefmyp3ynbt9tr4i656f3p3jn;经理;manager
+yzcslf1he6wxrc56j6balacd0zaswhyh;可能;misschien
+a3d0dn96mc09kxikxtj4qwso80mev0nw;吃饭;het eten van rijst, eten
+xo8kt5m9xe4ixx5y5qsiqgnefsunaycx;饭;eten, voedsel
+9dcxuv2hoxnw1rr4lxbgkbf1fibfkl29;等;wachten, wachten op
+iz6zjs7045rhult4496b07akndlugx71;客厅;woonkamer
+rfw4wjgazlgc5p33383p7dgdnyklxdkj;卧室;slaapkamer
+u5dv4xsy9lfumyg5zdkbxo0p1p2m5s1l;书房;bureau
+hylinhy7sj4g8qubhcl914pf2kws2y4y;套;(maatwoord voor woningen)
+ehprnv5dxhju0m7qfl82cmvak67wfcwr;方便;handig, gemakkelijk
+rcju8y5uhp59erefwtgxsb6rpwy5uvj3;巧;toevallig
+b0rbkw5j4i7wag3jfvz2qpvn3d2e2ev6;合适;geschikt
+m920lpw4z4mpwqnbu793zm0fwsom1olz;热心;enthousiast
+9zyd1b0u2qrefgubfxlrz42xzjmbpp4u;包括;inclusief, inbegrepen zijn
+3rp9bw9ycpz5sl4sxf9gcx5ofw6oxuvv;水电费;nutsvoorziening
+t5bze8q7wc7lsee9vdze2ecvlx5tki3e;新;nieuw
+8t9njsut1yl2295fvcd0ms7zu350ozxw;回信;beantwoorden

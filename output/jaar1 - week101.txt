@@ -1,4 +1,4 @@
-2ply8ff0s6cmh9rtn8mqaeo0arl3cv6n;<span class="tone3">你</span><span class="tone3">好</span>;<span class="tone3">nǐ</span><span class="tone3">hǎo</span>;hallo;[sound:ni3hao3.mp3];;jaar1 week101
+2ply8ff0s6cmh9rtn8mqaeo0arl3cv6n;<span class="tone3">你</span><span class="tone3">好</span>, <span class="tone4">喂</span>;<span class="tone3">nǐ</span><span class="tone3">hǎo</span>, <span class="tone4">wèi</span>;hallo;[sound:ni3hao3wei4.mp3];<br><br>怎么办？;jaar1 week101 jaar2 les13
 0iyyk7lgfyw5qd8qdi6ysvbsurt9jlm7;<span class="tone3">我</span>;<span class="tone3">wǒ</span>;ik;[sound:wo3.mp3];;jaar1 week101 les01 les05
 o8t8u4jrgczvr6as1defrj9ym6nrz6ic;<span class="tone4">是</span>;<span class="tone4">shì</span>;zijn;[sound:shi4.mp3];;jaar1 week101 les03
 vkzh4u6rl41w6ihzdfelutb4jug22plm;<span class="tone3">老</span><span class="tone1">师</span>;<span class="tone3">lǎo</span><span class="tone1">shī</span>;leerkracht;[sound:lao3shi1.mp3];;jaar1 week101 les03
