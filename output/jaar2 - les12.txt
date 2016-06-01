@@ -1,13 +1,13 @@
 p3rx2myboy8gye2c12kwga9oj3dlo0gv;<span class="tone2">全</span><span class="tone1">身</span>;<span class="tone2">quán</span><span class="tone1">shēn</span>;hele lichaam;[sound:quan2shen1.mp3];;jaar2 week216 les12
 zitn0e817x0ki7ik3tcebh9eziecbolp;<span class="tone2">全</span>;<span class="tone2">quán</span>;helemaal, alle;[sound:quan2.mp3];;jaar2 les12
 d3uihzgto02q7lu7ces0ej8whnq81957;<span class="tone1">身</span>;<span class="tone1">shēn</span>;lichaan;[sound:shen1.mp3];;jaar2 les12
-1vgv15cr4ulp2uxqhvqqkushnb332zbo;<span class="tone1">舒</span><span class="tone5">服</span>;<span class="tone1">shū</span><span class="tone5">fu</span>;comfortabel, goed;[sound:shu1fu5.mp3];ik voel me niet zo goed<br>我有一点不舒服<br><br>waar voel je je niet goed?<br>你哪儿不舒服？<br><br>;jaar2 week214 week216 les12
+1vgv15cr4ulp2uxqhvqqkushnb332zbo;<span class="tone1">舒</span><span class="tone5">服</span>;<span class="tone1">shū</span><span class="tone5">fu</span>;comfortabel, goed;[sound:shu1fu5.mp3];ik voel me niet zo goed<br>我有一点不舒服<br><br>waar voel je je niet goed?<br>你哪儿不舒服？;jaar2 week214 week216 les12
 3sl2z8ozhnu9rby4bx3xyitlrwnpatnp;<span class="tone3">每</span>;<span class="tone3">měi</span>;elke;[sound:mei3.mp3];;jaar2 week208 week213 week215 les12
 yw3ohe6rlhlodiqtkbc738mxur0s35q3;<span class="tone4">锻</span><span class="tone4">炼</span>;<span class="tone4">duàn</span><span class="tone4">liàn</span>;lichaamsbeweging hebben;[sound:duan4lian4.mp3];;jaar2 week215 les12
 uswfq5sd6xh7v26q9jc4jr6cvrvubmb7;<span class="tone2">头</span>;<span class="tone2">tóu</span>;hoofd;[sound:tou2.mp3];;jaar2 week214 les12
 lte7ynnt9nuzp2mgx41l5errmghi70g0;<span class="tone2">疼</span>;<span class="tone2">téng</span>;pijn doen;[sound:teng2.mp3];;jaar2 week215 les12
 ner0y8t2wrpz92xdzt1h8ofmvv6h0w78;<span class="tone3">嗓</span><span class="tone5">子</span>;<span class="tone3">sǎng</span><span class="tone5">zi</span>;keel;[sound:sang3zi5.mp3];;jaar2 week215 les12
-2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];<br><br>怎么办？;jaar1 week115 week117 week119 week123 jaar2 week212 les12 les14
+2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];;jaar1 week115 week117 week119 week123 jaar2 week212 les12 les14
 68f43652wp9sbxgasd0bw2li31q23c2a;<span class="tone1">医</span><span class="tone4">院</span>;<span class="tone1">yī</span><span class="tone4">yuàn</span>;ziekenhuis;[sound:yi1yuan4.mp3];;jaar2 week214 les12
 vow9cas97hbrl3axwy84adyd7dz4uska;<span class="tone4">看</span><span class="tone4">病</span>;<span class="tone4">kàn</span><span class="tone4">bìng</span>;de dokter consulteren;[sound:kan4bing4.mp3];;jaar2 week214 les12
 iwivz8dsl6uotzi5ku6sm767jywhv2ef;<span class="tone4">病</span>;<span class="tone4">bìng</span>;ziek zijn, ziekte;[sound:bing4.mp3];;jaar2 week214 les12
@@ -39,7 +39,7 @@ xgzddgti3sjbwrc6orxn4w07qf9vxhl9;<span class="tone5">西</span>;<span class="ton
 rkjafo2f0l1ot39bo8jxd7vtuerd60n6;<span class="tone4">肚</span><span class="tone5">子</span>;<span class="tone4">dù</span><span class="tone5">zi</span>;buik;[sound:du4zi5.mp3];;jaar2 week214 les12
 da13b49vgznkf563e9ldntryk6rs4qgh;<span class="tone1">开</span><span class="tone1">刀</span>;<span class="tone1">kāi</span><span class="tone1">dāo</span>;opereren;[sound:kai1dao1.mp3];;jaar2 week217 les12
 1sid0o8ffmhqtvugerxab6atfds8so2c;<span class="tone4">化</span><span class="tone4">验</span>;<span class="tone4">huà</span><span class="tone4">yàn</span>;een medische test;[sound:hua4yan4.mp3];;jaar2 les12
-j2501dauxrujx1qv7eq95c6ytzx5hujh;<span class="tone4">血</span>;<span class="tone4">xuè</span>;bloed;[sound:xue4.mp3];soms ook uitgesproken als xuě of xuè<br><br>;jaar2 week217 les12
+j2501dauxrujx1qv7eq95c6ytzx5hujh;<span class="tone4">血</span>;<span class="tone4">xuè</span>;bloed;[sound:xue4.mp3];soms ook uitgesproken als xuě of xuè;jaar2 week217 les12
 zssefqne9wwcsus7m7uu1ob6gt3ll0ft;<span class="tone4">大</span><span class="tone4">便</span>;<span class="tone4">dà</span><span class="tone4">biàn</span>;kaka;[sound:da4bian4.mp3];;jaar2 week217 les12
 o5xe7l5osi27su2alb8imgxfmm8bp7k6;<span class="tone3">小</span><span class="tone4">便</span>;<span class="tone3">xiǎo</span><span class="tone4">biàn</span>;pipi;[sound:xiao3bian4.mp3];;jaar2 week217 les12
 hytkv66koya8r92r3i06wew3zskfbwlr;<span class="tone3">打</span><span class="tone1">针</span>;<span class="tone3">dǎ</span><span class="tone1">zhēn</span>;het zetten van een spuit;[sound:da3zhen1.mp3];;jaar2 week216 les12

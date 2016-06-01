@@ -194,7 +194,7 @@ xquymyunra74r9eo2kzxo21ofplgnk2q;比;vergelijken, in vergelijking met;
 7ickfcfot21i6k0c2d6gjx8n9gnymssd;穿衣服;het dragen van kleren, het aantrekken van kleren;
 i374cg6uo1pg7ybk04iyxrbi72giynbb;件;(maatwoord voor kleren);
 l8nrx2doa5lf9hcdyt6mgpgplmif9u68;红;rood;
-q2epjpe8kjp29yktukp258cb08l9q9eg;绿:lǜ;groen;
+q2epjpe8kjp29yktukp258cb08l9q9eg;绿;groen;
 igkalozm4aazx136ne3s7mq8431f84dk;颜色;kleur;
 wcd7r3neapw4oxj5jlwds084lg75w679;假期;vakantie;
 ycfatwir1lf3e4036oenwmwi3v854b20;长;lang;
@@ -227,7 +227,7 @@ yz2mbkzzg97y5meszql29gs9wcpzt89l;颜色;kleur;
 vcd05ase30q9pzsx3iucy0tem18ncaot;白;wit;
 svh82h99whxj9j61tgll4fy286djm826;红;rood;
 sk300q0mgzbdx734tf0awyb7uppenbp7;蓝;blauw;
-f0p463fmok9cqi2s2960kzg0i07ka3o7;绿:lǜ;groen;
+f0p463fmok9cqi2s2960kzg0i07ka3o7;绿;groen;
 t6lotnqw6hi6b0inbpg475hl2rr9hnjd;黑;zwart;
 axwpzfzwat7u9fa5264r55fh72y1znf0;咖啡色;bruin;
 ud3m4qdo6pto3pndwijsf32ph6zqoft0;黄;geel;
@@ -320,8 +320,8 @@ i3fzqljzmon2339hlfsh0yvcqo9amaqd;喉咙;keel, hals;
 
 week217
 5tysjw9why9jwixh8udg8irw2zh2zj7v;药房;apotheek;
-qdy1dvsss1sh38tb19b5wry0ej1fyorl;粒;maatwoord voor medicijnen: kleine pilletjes;
-k44t4eg5k9lwdlsochxlghh5kgql1wma;片;maatwoord voor medicijnen: tablet;
+qdy1dvsss1sh38tb19b5wry0ej1fyorl;粒;pil (maatwoord voor medicijnen);
+k44t4eg5k9lwdlsochxlghh5kgql1wma;片;tablet (maatwoord voor medicijnen);
 da13b49vgznkf563e9ldntryk6rs4qgh;开刀;opereren;
 yfbtptzph8en8v1iztcpsslk03ohazqs;打点滴;een infuus steken;
 o5xe7l5osi27su2alb8imgxfmm8bp7k6;小便;pipi;

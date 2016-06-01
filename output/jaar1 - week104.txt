@@ -1,6 +1,6 @@
 v40bj61j1glatgu8puimpt5akm5m6043;<span class="tone1">喝</span>;<span class="tone1">hē</span>;drinken;[sound:he1.mp3];;jaar1 week104 les02 jaar2 les09
 85saqktbnmbz9nhcrlmnivup08w5bpx1;<span class="tone3">水</span>;<span class="tone3">shuǐ</span>;water;[sound:shui3.mp3];;jaar1 week104 jaar2 les12
-tnthxeomvo0208n855qbg08dzm8ndowy;<span class="tone1">咖</span><span class="tone1">啡</span>;<span class="tone1">kā</span><span class="tone1">fēi</span>;koffie;[sound:ka1fei1.mp3];<br><br>的感冒<br><br> 的病;jaar1 week104 les02 jaar2 les13
+tnthxeomvo0208n855qbg08dzm8ndowy;<span class="tone1">咖</span><span class="tone1">啡</span>;<span class="tone1">kā</span><span class="tone1">fēi</span>;koffie;[sound:ka1fei1.mp3];;jaar1 week104 les02 jaar2 les13
 ritvwsosl8v6v98h1ft39yj7yakuuj8u;<span class="tone2">茶</span>;<span class="tone2">chá</span>;thee;[sound:cha2.mp3];;jaar1 week104 jaar2 les09
 2vojfke7kgq19megcv5hr59erxwojibj;<span class="tone3">可</span><span class="tone4">乐</span>;<span class="tone3">kě</span><span class="tone4">lè</span>;cola;[sound:ke3le4.mp3];;jaar1 week104 jaar2 les09
 6b75w4s54ecvwlud36x2h2md78b4j7xy;<span class="tone3">可</span><span class="tone3">口</span><span class="tone3">可</span><span class="tone4">乐</span>;<span class="tone3">Kě</span><span class="tone3">kǒu</span><span class="tone3">kě</span><span class="tone4">lè</span>;coca cola;[sound:ke3kou3ke3le4.mp3];;jaar1 week104

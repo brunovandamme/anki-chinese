@@ -44,6 +44,11 @@ for inputFilename in config['input']['filenames']:
 			if len(line) == 0: continue
 			if line[0] == '#': continue
 
+			cardInfo = ''
+			cardHanzis = []
+			cardPinyins = []
+			cardTranslation = ''
+
 			parts = line.split(';')
 			if len(parts) == 1:
 				tag = line.replace('\n', '')
@@ -56,8 +61,6 @@ for inputFilename in config['input']['filenames']:
 					hashedCards.append(cardID + ';' + line + '\n')
 
 				if len(parts) > 0:
-					cardHanzis = []
-					cardPinyins = []
 					cardHanzi = parts.pop(0)
 					cardHanzi = unicode(cardHanzi, 'utf-8')
 					cardHanziParts = cardHanzi.split(',')

@@ -2,8 +2,8 @@ qma9ew71nj7txl63riwaevv1et2757o2;<span class="tone4">假</span><span class="tone
 zo1h9v9yuiae68iczjv7lwazu3ikvo1b;<span class="tone4">介</span><span class="tone4">绍</span>;<span class="tone4">jiè</span><span class="tone4">shào</span>;voorstellen;[sound:jie4shao4.mp3];;jaar1 week120 week121 les07
 tnnsqa5p7l58nx07y2la4zf36j7fa214;<span class="tone2">学</span><span class="tone4">校</span>;<span class="tone2">xué</span><span class="tone4">xiào</span>;school;[sound:xue2xiao4.mp3];;jaar1 week121
 2a2d162utazodkrelddbgey60j6rl21b;<span class="tone4">印</span><span class="tone2">尼</span>;<span class="tone4">Yìn</span><span class="tone2">ní</span>;indonesië;[sound:yin4ni2.mp3];;jaar1 week121
-w1ljx5rnoj15okmeofx2dshff0g8j6bm;<span class="tone4">住</span>;<span class="tone4">zhù</span>;wonen;[sound:zhu4.mp3];<br><br>怎么办？;jaar1 week119 week120 week121 jaar2 les14
-xg99715i6ibsfpqn1ijtqa1fs48ym2hz;<span class="tone2">楼</span>;<span class="tone2">lóu</span>;gebouw;[sound:lou2.mp3];<br><br>怎么办？;jaar1 week121 jaar2 les14
+w1ljx5rnoj15okmeofx2dshff0g8j6bm;<span class="tone4">住</span>;<span class="tone4">zhù</span>;wonen;[sound:zhu4.mp3];;jaar1 week119 week120 week121 jaar2 les14
+xg99715i6ibsfpqn1ijtqa1fs48ym2hz;<span class="tone2">楼</span>;<span class="tone2">lóu</span>;gebouw;[sound:lou2.mp3];;jaar1 week121 jaar2 les14
 0bfour8640948ppcz3dn29b4mou61dkx;<span class="tone2">房</span><span class="tone1">间</span>;<span class="tone2">fáng</span><span class="tone1">jiān</span>;kamer;[sound:fang2jian1.mp3];;jaar1 week121 jaar2 week219
 4vfh1dtf4yvyhnqwxz1ydq893e8cdwio;<span class="tone3">两</span>;<span class="tone3">liǎng</span>;twee (+ maatwoord);[sound:liang3.mp3];;jaar1 week121 les08
 ee2f3koug06efzux7wu1pjt5bo4b24fj;<span class="tone4">个</span>;<span class="tone4">gè</span>;stuk (maatwoord);[sound:ge4.mp3];;jaar1 week121 les08
