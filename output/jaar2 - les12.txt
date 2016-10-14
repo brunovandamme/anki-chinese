@@ -7,7 +7,7 @@ yw3ohe6rlhlodiqtkbc738mxur0s35q3;<span class="tone4">锻</span><span class="tone
 uswfq5sd6xh7v26q9jc4jr6cvrvubmb7;<span class="tone2">头</span>;<span class="tone2">tóu</span>;hoofd;[sound:tou2.mp3];;jaar2 week214 les12
 lte7ynnt9nuzp2mgx41l5errmghi70g0;<span class="tone2">疼</span>;<span class="tone2">téng</span>;pijn doen;[sound:teng2.mp3];;jaar2 week215 les12
 ner0y8t2wrpz92xdzt1h8ofmvv6h0w78;<span class="tone3">嗓</span><span class="tone5">子</span>;<span class="tone3">sǎng</span><span class="tone5">zi</span>;keel;[sound:sang3zi5.mp3];;jaar2 week215 les12
-2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];;jaar1 week115 week117 week119 week123 jaar2 week212 les12 les14
+2bf20oyugmczim7ovcwc3y1syewxxi26;<span class="tone3">想</span>;<span class="tone3">xiǎng</span>;denken, willen, missen;[sound:xiang3.mp3];;jaar1 week115 week117 week119 week123 jaar2 week212 les12 jaar3 les14
 68f43652wp9sbxgasd0bw2li31q23c2a;<span class="tone1">医</span><span class="tone4">院</span>;<span class="tone1">yī</span><span class="tone4">yuàn</span>;ziekenhuis;[sound:yi1yuan4.mp3];;jaar2 week214 les12
 vow9cas97hbrl3axwy84adyd7dz4uska;<span class="tone4">看</span><span class="tone4">病</span>;<span class="tone4">kàn</span><span class="tone4">bìng</span>;de dokter consulteren;[sound:kan4bing4.mp3];;jaar2 week214 les12
 iwivz8dsl6uotzi5ku6sm767jywhv2ef;<span class="tone4">病</span>;<span class="tone4">bìng</span>;ziek zijn, ziekte;[sound:bing4.mp3];;jaar2 week214 les12

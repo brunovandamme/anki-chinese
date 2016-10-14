@@ -45,9 +45,9 @@ d783xcaqismnv8pbzxd0tqjwkn6btcwg;<span class="tone1">开</span><span class="tone
 niaexli2ztclhgdfo2mn83sxu6trchuw;<span class="tone4">唱</span><span class="tone1">歌</span>;<span class="tone4">chàng</span><span class="tone1">gē</span>;het zingen van een liedje, zingen;[sound:chang4ge1.mp3];;jaar1 week108 week110 week116 jaar2 les11
 bbmvz2dq74pgqudup0b5hny8movq5r9g;<span class="tone4">跳</span><span class="tone3">舞</span>;<span class="tone4">tiào</span><span class="tone3">wǔ</span>;het springen van een dansje, dansen;[sound:tiao4wu3.mp3];;jaar1 week110 week116 jaar2 les11
 lk9yllus5rm6mact03imqjqozyb717l6;<span class="tone2">回</span><span class="tone2">答</span>;<span class="tone2">huí</span><span class="tone2">dá</span>;antwoorden;[sound:hui2da2.mp3];;jaar2 les11
-gavzhxy8cplofiom4rmmjn110fsj9yav;<span class="tone3">礼</span><span class="tone4">物</span>;<span class="tone3">lǐ</span><span class="tone4">wù</span>;geschenk, cadeau;[sound:li3wu4.mp3];;jaar2 week204 les11 les14
+gavzhxy8cplofiom4rmmjn110fsj9yav;<span class="tone3">礼</span><span class="tone4">物</span>;<span class="tone3">lǐ</span><span class="tone4">wù</span>;geschenk, cadeau;[sound:li3wu4.mp3];;jaar2 week204 les11 jaar3 les14
 gnztzx1g1r82f8nl6vu70ysfv2adwni7;<span class="tone3">打</span><span class="tone2">球</span>;<span class="tone3">dǎ</span><span class="tone2">qiú</span>;(een balsport) spelen (met de handen);[sound:da3qiu2.mp3];;jaar1 week117 les06 jaar2 les11
 yu16535vpuzgc8ft9j1a41l0mqkftfj8;<span class="tone3">打</span><span class="tone1">的</span>;<span class="tone3">dǎ</span><span class="tone1">dī</span>;taxi nemen;[sound:da3di1.mp3];;jaar2 les11
 xeb3bgmc7nckvjbuedcxmgirbb0exjwq;<span class="tone1">吸</span><span class="tone1">烟</span>;<span class="tone1">xī</span><span class="tone1">yān</span>;het roken van een sigaret, roken;[sound:xi1yan1.mp3];;jaar2 week212 les11
-lklbv024g6dku0jk6d4lu2zmh7exhalb;<span class="tone3">表</span>;<span class="tone3">biǎo</span>;uurwerk;[sound:biao3.mp3];;jaar2 les11
+lklbv024g6dku0jk6d4lu2zmh7exhalb;<span class="tone3">表</span>;<span class="tone3">biǎo</span>;horloge;[sound:biao3.mp3];;jaar2 les11
 ao5jplhad8kz3vrku9ipuivmtjqb3vta;<span class="tone2">难</span>;<span class="tone2">nán</span>;moeilijk;[sound:nan2.mp3];Chinees leren is niet moeilijk<br>学习汉语不难;jaar1 week101 jaar2 les11

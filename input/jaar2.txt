@@ -363,7 +363,7 @@ lbsxwpbketd1x7dwu6p8cogsm1srivlk;矮;klein (van gestalte);
 6qqm1rhgwbixuhg5i9i1lxcegqdjtp6f;姑娘;meisje;
 25hn9lvgc5bmxkasvrwri79d8vcjgift;房子;huis, woning;
 bxqkczdztylasw4i8qfrpv9mkusm2b4z;让;laten, toelaten, iemand iets laten doen;
-h2cxgwdm5lhb6pmveoe9z08gwahp6czx;打扫;poetsen;
+h2cxgwdm5lhb6pmveoe9z08gwahp6czx;打扫;kuisen, poetsen;
 xgq3e2impmb4tu4dy21w4klncehdneua;聪明;slim, intelligent;
 qlge5mcb45memm61bhaeb1ygwl0iahnz;米;meter;你多高? 我1米65.
 
@@ -590,7 +590,7 @@ zbpue17d6uyqxx73jf334jeh6iut7dwe;礼物;geschenk, cadeau
 nmf11odnr5rzdotw42skma2412damwk9;打球;(een balsport) spelen (met de handen)
 yu16535vpuzgc8ft9j1a41l0mqkftfj8;打的;taxi nemen
 dq0oc758ft8vrckswfec6f1mqdawc44m;吸烟;het roken van een sigaret, roken
-lklbv024g6dku0jk6d4lu2zmh7exhalb;表;uurwerk
+lklbv024g6dku0jk6d4lu2zmh7exhalb;表;horloge
 xzn9tudfsk40r0bxu2csyy3fzghjpngr;难;moeilijk
 
 les12
@@ -692,53 +692,3 @@ m920lpw4z4mpwqnbu793zm0fwsom1olz;热心;enthousiast
 3rp9bw9ycpz5sl4sxf9gcx5ofw6oxuvv;水电费;nutsvoorziening
 t5bze8q7wc7lsee9vdze2ecvlx5tki3e;新;nieuw
 8t9njsut1yl2295fvcd0ms7zu350ozxw;回信;beantwoorden
-
-les14
-e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags
-7uitbgng48jius9j2lbgo0z9nyfyisug;刚才;daarnet
-o3nnq27751veq3kmn6ekz2rix443ke5r;邮局;postkantoor
-3l5an6l5xtd5v636jfwq1perjgdpim1e;邮;post
-c99bllhvjle325y1qofs7klmzjj644mr;局;kantoor
-1w1vbz9bau8xdqmoh9lr3psvfitmlrib;寄;verzenden
-3svccb20f9hpt5oxlpetl09nibk380x4;打扫;poetsen
-6f4wa4fqn4ydsonlz39c97lgvc5rigtq;扫;vegen
-xsbyg2136e60frw3isj2cub5y8q0ekez;脏;vuil
-de9dnpxpjxlkhs9wbs21cewigokt5ab4;不好意思;excuseer
-plvyjs2ayqxeybcdbv318jjd4cxzmhmy;洗;wassen
-3ybdpauvcxiouyx6pp1s7auyy7an3l2i;外婆;oma (langs moeders kant)
-4mgzq6q0xpwsicn4dy3yfvr39jgz8flo;中学;middelbare school
-h8ml0a77gqcib4hc6ba4xzybqezlmkli;打工;deeltijds werken
-9hna3rp4z8g77uio1bx8gah12zcbmk5r;南方;zuiden
-qk59rsoqonselfw8x0j3x5i44pcprblw;旅行;reizen
-76ouso1sxxjbffqh0f5kiufufrbgvuzo;想;denken, willen, missen
-713ha72f5ahpi81wl1vb346qwlzjhdhr;住;wonen
-l7giw3xqvo3b3b762fp9loginm5g4yli;楼;gebouw
-9gzxby7izeagmcz73iojjpiddnkcnrns;对;juist, correct
-aozczdkyjbm7daxppaz2nfewn35eugnv;念;lezen
-uoflgrpwvx2z1ebweakrmje6n0bgdtpu;生词;nieuw woord
-wty8w16bt7cte7qrkd0n512mmiadhu7c;生;geboren worden
-0wuv5exx7pjb87hoguru78ycu5tzf9vp;词;woord
-mewmhrgv4c427gbaicpqk14zw7xiklsf;复习;herhalen
-zgyxtab6f8we4mpgu79v9i5b6rq72j1v;课文;lestekst
-8ieqkeils6jjvob898d2dzrto9dk7myw;练习;oefenen, oefening
-6ldu01cjcx1xu8iezua52aetgn7cwyzn;练;oefenen
-7ptzuukwrnj58svk4ghietr75u21nlb7;口语;gesproken taal
-0nncaj0m07sv97ha8kusnr6xkbsmc71q;语法;grammatica
-r53zy15vlt94jasdw2y8xw9850asgisx;过;passeren, vieren
-wivmgz34j7ylj9e681chviqa134fj673;节;festival
-evcle6a1hoflrmhy5oeg79zjwk5vk3e0;礼物;geschenk, cadeau
-po5zx1kxvy0n4mfxn0iklxmmf91dbect;圣诞;kerstmis
-5rh7qpcg0a5l4ohx88b2jzihl06ktnwo;欧洲;europa
-c003typ6xhvromsebp2vct166q8d6zqv;上海;Shanghai
-cot5oueegwund35b8px7aurzrzdveh97;整理;uitzoeken
-1oprpixip8imv9shnu81fqfemeqkl54y;电视;televisie
-iihac84mlw7h8qcr1ngfyz7th79kdo1o;乱;wanordelijk
-g9zdxc70m5nra8ctja6l20ju9fc9zlkb;日记;dagboek
-3egvpmn21nwz702955visfzbh3da5qlj;晴;zonnig
-kog3sda117xtg3p1vskhbu1gm6wwbmkt;包裹;pakje
-ez0jllg6m2qauxv7jgoil51ftoxv6l27;惊喜;aangenaam verrast
-m7yk0eajbb621p96311gei7rb3katcbs;圣诞老人;kerstman
-2nhl20rq2ueslq64ial2xv77dbnj7zfy;元旦;nieuwjaarsdag
-8k4hguhxqeepknzbpi2jcxw2qfi7qi71;春节;chinees nieuwjaar
-d574mre9wi7s7e8zzeizo3s0tsqqddig;感恩节;thanksgiving
-eziy5arytaj8yl4dqxxjwzdgxy4fhble;复活节;pasen

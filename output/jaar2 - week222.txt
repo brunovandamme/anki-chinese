@@ -5,4 +5,4 @@ zmsxd4ceovh2gqt3f4kgpdl4e60oj3aw;<span class="tone1">只</span>;<span class="ton
 f6f57ujwn0nevy4nhlcz9vktku51tto4;<span class="tone3">只</span>;<span class="tone3">zhǐ</span>;enkel, slechts;[sound:zhi3.mp3];;jaar2 week222
 1ryeivyixjskxxdmiiwbm5jr958fe8bn;<span class="tone1">冰</span><span class="tone1">箱</span>;<span class="tone1">bīng</span><span class="tone1">xiāng</span>;ijskast;[sound:bing1xiang1.mp3];;jaar2 week222 week224
 ez1f6uf138xkb2smucm9gzdqxxi1ly96;<span class="tone1">非</span><span class="tone2">常</span>;<span class="tone1">fēi</span><span class="tone2">cháng</span>;(modifier) uitzonderlijk, heel erg, exceptioneel;[sound:fei1chang2.mp3];;jaar2 week222
-cvclpdeq5t561xvaxd9kbf1clrs6ktoj;<span class="tone4">课</span><span class="tone2">文</span>;<span class="tone4">kè</span><span class="tone2">wén</span>;lestekst;[sound:ke4wen2.mp3];;jaar2 week222 les14
+cvclpdeq5t561xvaxd9kbf1clrs6ktoj;<span class="tone4">课</span><span class="tone2">文</span>;<span class="tone4">kè</span><span class="tone2">wén</span>;lestekst;[sound:ke4wen2.mp3];;jaar2 week222 jaar3 les14

@@ -1,0 +1,6 @@
+609phcvmwklepxr1hax91r3zola6kj0y;<span class="tone1">班</span>;<span class="tone1">bān</span>;klasgroep;[sound:ban1.mp3];;jaar1 week122 week124 jaar2 week201 jaar3 week301
+etnt1an5lkf9j5hf7yi5z66b6g35earj;<span class="tone4">不</span><span class="tone3">好</span><span class="tone4">意</span><span class="tone5">思</span>;<span class="tone4">bù</span><span class="tone3">hǎo</span><span class="tone4">yì</span><span class="tone5">si</span>;excuseer, schamen, beschaamd zijn;[sound:bu4hao3yi4si5.mp3];;jaar1 week115 week119 jaar3 week301 les14
+gcvaejwkp972l7ox5zgcyhfk8i45h7iu;<span class="tone2">南</span><span class="tone1">非</span>;<span class="tone2">Nán</span><span class="tone1">fēi</span>;Zuid-Afrika;[sound:nan2fei1.mp3];;jaar3 week301
+cinuqf32ergxherp3m5zkt92zk157rsj;<span class="tone3">孔</span><span class="tone3">子</span>;<span class="tone3">Kǒng</span><span class="tone3">zǐ</span>;Confucius;[sound:kong3zi3.mp3];;jaar1 week118 jaar3 week301
+i5kvj4jmpbhpquj9mdwzohuhp5rcr4pg;<span class="tone3">宝</span><span class="tone4">贝</span>;<span class="tone3">bǎo</span><span class="tone4">bèi</span>;schat;[sound:bao3bei4.mp3];;jaar3 week301
+n1y03dib8iadt85assrtnub0fgl5ff9z;<span class="tone3">宝</span><span class="tone3">马</span>;<span class="tone3">bǎo</span><span class="tone3">mǎ</span>;BMW;[sound:bao3ma3.mp3];;jaar3 week301

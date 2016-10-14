@@ -1,0 +1,21 @@
+.card {
+	font-family: arial;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+
+.translation, .hanzi, .info {
+	margin: 15px 0px;
+}
+
+.info {
+	font-size:20px;
+}
+
+.tone1 { color: #FFEB3B }
+.tone2 { color: #2196F3 }
+.tone3 { color: #4CAF50 }
+.tone4 { color: #F44336 }
+.tone5 { color: #666 }

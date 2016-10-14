@@ -7,7 +7,7 @@ o8t8u4jrgczvr6as1defrj9ym6nrz6ic;<span class="tone4">是</span>;<span class="ton
 7ay9mhds6k3rjqnwlkblo2r1ecv3lyg4;<span class="tone2">谁</span>;<span class="tone2">shuí</span>;wie;[sound:shui2.mp3];;jaar1 les03 les07
 vkzh4u6rl41w6ihzdfelutb4jug22plm;<span class="tone3">老</span><span class="tone1">师</span>;<span class="tone3">lǎo</span><span class="tone1">shī</span>;leerkracht;[sound:lao3shi1.mp3];;jaar1 week101 les03
 ki73o4s9eplah9lcrcy5qclahjk80a9s;<span class="tone1">都</span>;<span class="tone1">dōu</span>;allen, allemaal, beiden;[sound:dou1.mp3];;jaar1 week102 les02 les03
-mp2ckc9l4jbi1d8htukxpq88jwfx8xbb;<span class="tone1">中</span><span class="tone2">国</span>;<span class="tone1">Zhōng</span><span class="tone2">guó</span>;China;[sound:zhong1guo2.mp3];;jaar1 week101 week104 week105 les03
+mp2ckc9l4jbi1d8htukxpq88jwfx8xbb;<span class="tone1">中</span><span class="tone2">国</span>, <span class="tone1">中</span><span class="tone2">华</span>;<span class="tone1">Zhōng</span><span class="tone2">guó</span>, <span class="tone1">Zhōng</span><span class="tone2">huá</span>;China;[sound:zhong1guo2zhong1hua2.mp3];;jaar1 week101 week104 week105 les03 jaar3 week303
 gujeh8r80466q7doavv9nctxg3mn2lhs;<span class="tone2">您</span>;<span class="tone2">nín</span>;u;[sound:nin2.mp3];;jaar1 week109 les03 les04
 s2bgy14zw4md9mkbsg4ernfp4ihli5pz;<span class="tone4">这</span>;<span class="tone4">zhè</span>;deze, dit;[sound:zhe4.mp3];;jaar1 week108 les03 les05
 hzscp81bvomgjcni1ik19s646tj3ujky;<span class="tone1">他</span>;<span class="tone1">tā</span>;hij;[sound:ta1.mp3];;jaar1 week101 les02 les03
@@ -15,4 +15,4 @@ hzscp81bvomgjcni1ik19s646tj3ujky;<span class="tone1">他</span>;<span class="ton
 vhbh7ydaqnx4za9vgfad9c31gf9uufc5;<span class="tone3">你</span>;<span class="tone3">nǐ</span>;jij;[sound:ni3.mp3];;jaar1 week101 les01 les03
 01ziyou9n5ibr0wt6vszc4fuj9qs1rjy;<span class="tone1">医</span><span class="tone1">生</span>, <span class="tone4">大</span><span class="tone5">夫</span>;<span class="tone1">yī</span><span class="tone1">shēng</span>, <span class="tone4">dài</span><span class="tone5">fu</span>;dokter;[sound:yi1sheng1dai4fu5.mp3];;jaar1 week108 les03 jaar2 week217
 mwpzkqvph2il4u1y8ykmlfd0312ju3f5;<span class="tone3">奶</span><span class="tone5">奶</span>;<span class="tone3">nǎi</span><span class="tone5">nai</span>;oma (langs vaders kant);[sound:nai3nai5.mp3];;jaar1 week109 les03
-dvtt6nklootr39lhnz5tl5m4nb180v73;<span class="tone4">外</span><span class="tone2">婆</span>;<span class="tone4">wài</span><span class="tone2">pó</span>;oma (langs moeders kant);[sound:wai4po2.mp3];;jaar1 week109 les03 jaar2 les14
+dvtt6nklootr39lhnz5tl5m4nb180v73;<span class="tone4">外</span><span class="tone2">婆</span>;<span class="tone4">wài</span><span class="tone2">pó</span>;oma (langs moeders kant);[sound:wai4po2.mp3];;jaar1 week109 les03 jaar3 les14
