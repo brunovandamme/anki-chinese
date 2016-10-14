@@ -791,6 +791,7 @@ a0dk39pi0g7auoinos3zl56kyk70mxs2;<span class="tone3">整</span><span class="tone
 jgv9bd7khclprebv2uydvj4bdfdanmal;<span class="tone4">志</span>;<span class="tone4">zhì</span>;ideaal, aspiratie;[sound:zhi4.mp3];;jaar3 week302
 f2sko1ycyjgzmucjpnrwsf3at81buk3y;<span class="tone2">邮</span><span class="tone2">局</span>;<span class="tone2">yóu</span><span class="tone2">jú</span>;postkantoor;[sound:you2ju2.mp3];;jaar3 week302 les14
 03y711n46dzzj6xq0zhsay7kk0ibw145;<span class="tone3">旅</span><span class="tone2">游</span>;<span class="tone3">lǚ</span><span class="tone2">yóu</span>;tourisme;[sound:lü3you2.mp3];;jaar3 week302
+wwc42707xtoqr8snpf42xca7ih3hyclo;<span class="tone4">论</span><span class="tone2">坛</span>;<span class="tone4">lùn</span><span class="tone2">tán</span>;forum;[sound:lun4tan2.mp3];;jaar3 week303
 hgzqy6vuj22qyqp4wcy9zxflp83m3iga;<span class="tone4">念</span>;<span class="tone4">niàn</span>;luidop lezen;[sound:nian4.mp3];;jaar3 week303 les14
 lfjp4s8irjj4x42osddk2ta2b3r6tfrq;<span class="tone4">样</span>;<span class="tone4">yàng</span>;vorm;[sound:yang4.mp3];;jaar3 week303
 s311msxv0tyro8ji0d7cmjzueqqv8u4f;<span class="tone4">面</span>;<span class="tone4">miàn</span>;gezicht;[sound:mian4.mp3];他们给我面子;jaar3 week303
