@@ -310,7 +310,7 @@ vqoz0rq1njc1gfwncp7rehc8g7iaaky3;<span class="tone3">北</span>;<span class="ton
 2d9ztz3gu7hodz1677dcxlw8hxmxjupf;<span class="tone1">东</span><span class="tone5">西</span>;<span class="tone1">dōng</span><span class="tone5">xi</span>;iets, ding, voorwerp;[sound:dong1xi5.mp3];;jaar1 week118 jaar2 week208 les11
 xbpx5jbfmu21paenaa09xv5fr9iy1nvk;<span class="tone4">下</span><span class="tone3">雨</span>;<span class="tone4">xià</span><span class="tone3">yǔ</span>;regenen;[sound:xia4yu3.mp3];;jaar1 week118
 ywak67c26334cb4ee2sembde56sdxd2m;<span class="tone4">下</span><span class="tone3">雪</span>;<span class="tone4">xià</span><span class="tone3">xuě</span>;sneeuwen;[sound:xia4xue3.mp3];;jaar1 week118
-yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];;jaar1 week118 week123 les08
+yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>, <span class="tone1">真</span><span class="tone5">的</span>;<span class="tone1">zhēn</span>, <span class="tone1">zhēn</span><span class="tone5">de</span>;echt;[sound:zhen1zhen1de5.mp3];;jaar1 week118 week123 les08 jaar3 week304
 pulpvxksh49yoiwlltfuyh5t6eauqmg6;<span class="tone2">河</span>;<span class="tone2">hé</span>;rivier;[sound:he2.mp3];;jaar1 week118
 r7zj05suau5t2hlxi6o6eizy5ubiwjf6;<span class="tone2">湖</span>;<span class="tone2">hú</span>;meer;[sound:hu2.mp3];;jaar1 week118
 xx7ordg0zye1fd05v1qb2sc6vrz8kipq;<span class="tone1">山</span>;<span class="tone1">shān</span>;berg;[sound:shan1.mp3];;jaar1 week118
@@ -816,6 +816,9 @@ zdliaqomls0wszqxa2hh6gl24wo0uu02;<span class="tone4">故</span><span class="tone
 apr79h531g60l4mjphtb6nxgand8ghd8;<span class="tone2">王</span><span class="tone3">子</span>;<span class="tone2">wáng</span><span class="tone3">zǐ</span>;prins;[sound:wang2zi3.mp3];;jaar3 week303
 pycxhkaslnfxj97xtgv4qb47x32jblyn;<span class="tone1">公</span><span class="tone3">主</span>;<span class="tone1">gōng</span><span class="tone3">zhǔ</span>;prinses;[sound:gong1zhu3.mp3];;jaar3 week303
 jxl3icumwagvden0quo9k86y4pu4ocat;<span class="tone4">护</span><span class="tone5">士</span>;<span class="tone4">hù</span><span class="tone5">shi</span>;verpleegster;[sound:hu4shi5.mp3];;jaar3 week303
+0kxtw2z09t1sqf3zr30su1cf7hn7fey5;<span class="tone3">警</span><span class="tone2">察</span>;<span class="tone3">jǐng</span><span class="tone2">chá</span>;politie (politieagent);[sound:jing3cha2.mp3];;jaar3 week304
+8srz1uteprxqk8f8twm7dd32m00basae;<span class="tone1">公</span><span class="tone1">安</span><span class="tone2">局</span>;<span class="tone1">gōng</span>'<span class="tone1">ān</span><span class="tone2">jú</span>;politie (politiebureau);[sound:gong1an1ju2.mp3];;jaar3 week304
+9tzehtxflfi7mj1pz3toemrk9qfsv2v5;<span class="tone3">假</span><span class="tone5">的</span>;<span class="tone3">jiǎ</span><span class="tone5">de</span>;onecht;[sound:jia3de5.mp3];;jaar3 week304
 7uitbgng48jius9j2lbgo0z9nyfyisug;<span class="tone1">刚</span><span class="tone2">才</span>;<span class="tone1">gāng</span><span class="tone2">cái</span>;daarnet;[sound:gang1cai2.mp3];;jaar3 les14
 3l5an6l5xtd5v636jfwq1perjgdpim1e;<span class="tone2">邮</span>;<span class="tone2">yóu</span>;post;[sound:you2.mp3];;jaar3 les14
 c99bllhvjle325y1qofs7klmzjj644mr;<span class="tone2">局</span>;<span class="tone2">jú</span>;kantoor;[sound:ju2.mp3];;jaar3 les14

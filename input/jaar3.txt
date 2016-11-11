@@ -69,6 +69,13 @@ wthtm9r84feti8gztcroaxy5a4ljpzkh;上网;surfen op het internet;
 2y2r3vw40pgmba27z642ubyex7nsj371;网站;website;
 jxl3icumwagvden0quo9k86y4pu4ocat;护士;verpleegster;
 
+week304
+0kxtw2z09t1sqf3zr30su1cf7hn7fey5;警察;politie (politieagent)
+8srz1uteprxqk8f8twm7dd32m00basae;公安局;politie (politiebureau)
+i297k5948w09t279fzmrz7q14sf2ovi8;真的;echt
+9tzehtxflfi7mj1pz3toemrk9qfsv2v5;假的;onecht
+
+
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags
 7uitbgng48jius9j2lbgo0z9nyfyisug;刚才;daarnet
@@ -118,3 +125,4 @@ m7yk0eajbb621p96311gei7rb3katcbs;圣诞老人;kerstman
 8k4hguhxqeepknzbpi2jcxw2qfi7qi71;春节;chinees nieuwjaar
 d574mre9wi7s7e8zzeizo3s0tsqqddig;感恩节;thanksgiving
 eziy5arytaj8yl4dqxxjwzdgxy4fhble;复活节;pasen
+

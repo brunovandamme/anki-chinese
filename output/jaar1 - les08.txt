@@ -14,7 +14,7 @@ a26c56wjtgp9ljmaz10nfgihpdpni1rx;<span class="tone3">小</span>;<span class="ton
 2mryt658qpmdhot4gni9atpfmqvbagyl;<span class="tone3">狗</span>;<span class="tone3">gǒu</span>;hond;[sound:gou3.mp3];;jaar1 week112 les08 jaar2 week204
 fun5i0ufl56o5rqp326x3mp4bjr7sul7;<span class="tone1">张</span>;<span class="tone1">zhāng</span>;(maatwoord voor papier);[sound:zhang1.mp3];;jaar1 week121 les08
 3i8c88w1hzowscvgihsudf8c9tuwfuk1;<span class="tone1">当</span><span class="tone2">然</span>;<span class="tone1">dāng</span><span class="tone2">rán</span>;natuurlijk;[sound:dang1ran2.mp3];;jaar1 week119 les08
-yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>;<span class="tone1">zhēn</span>;echt;[sound:zhen1.mp3];;jaar1 week118 week123 les08
+yic404f5401xupqx8o3cj2wzskibo6p0;<span class="tone1">真</span>, <span class="tone1">真</span><span class="tone5">的</span>;<span class="tone1">zhēn</span>, <span class="tone1">zhēn</span><span class="tone5">de</span>;echt;[sound:zhen1zhen1de5.mp3];;jaar1 week118 week123 les08 jaar3 week304
 4w7csw2aie3ovooy3y4fuh811hq67l3d;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];;jaar1 week109 les08 jaar2 week214
 rzttw3jxq0c42lo7j70n6ncgil2z84z6;<span class="tone4">爱</span>;<span class="tone4">ài</span>;houden van, liefde;[sound:ai4.mp3];;jaar1 week108 week109 les08
 85wbfs5nk7ge1n8fj8zyfmztqriinfjv;<span class="tone2">没</span>;<span class="tone2">méi</span>;niet (hebben);[sound:mei2.mp3];;jaar1 les08
