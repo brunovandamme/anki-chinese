@@ -1,7 +1,7 @@
 cbfz8h9ne6psc2t355769l52thp7mqr0;<span class="tone1">她</span>;<span class="tone1">tā</span>;zij (vrouwelijk enkelvoud);[sound:ta1.mp3];;jaar1 week101 les03
 o8t8u4jrgczvr6as1defrj9ym6nrz6ic;<span class="tone4">是</span>;<span class="tone4">shì</span>;zijn;[sound:shi4.mp3];;jaar1 week101 les03
 4g24y6n9vsar0ib706g4memgo9l121ni;<span class="tone3">哪</span>;<span class="tone3">nǎ</span>;welke?;[sound:na3.mp3];;jaar1 les03
-4mjlkdc9was8oq21cohme90cyuzjhye1;<span class="tone2">国</span>;<span class="tone2">guó</span>;land;[sound:guo2.mp3];;jaar1 les03
+4mjlkdc9was8oq21cohme90cyuzjhye1;<span class="tone2">国</span>, <span class="tone2">国</span><span class="tone1">家</span>;<span class="tone2">guó</span>, <span class="tone2">guó</span><span class="tone1">jiā</span>;land;[sound:guo2guo2jia1.mp3];;jaar1 les03 jaar3 week305
 15vx354n466di4wztc22604s008gzfgz;<span class="tone2">人</span>;<span class="tone2">rén</span>;persoon;[sound:ren2.mp3];;jaar1 les03
 2pr7481fnt6ltkrjhvjuu4e8czsocsiy;<span class="tone4">那</span>;<span class="tone4">nà</span>;die, dat;[sound:na4.mp3];;jaar1 week108 les03
 7ay9mhds6k3rjqnwlkblo2r1ecv3lyg4;<span class="tone2">谁</span>;<span class="tone2">shuí</span>;wie;[sound:shui2.mp3];;jaar1 les03 les07

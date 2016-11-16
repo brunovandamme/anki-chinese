@@ -466,7 +466,7 @@ wp926v92h172qhxj0l1jts0cv6fwauuh;名片;naamkaartje;
 0eevgprvj23pqeirw9o6crq5d01glo49;住;wonen;
 uuyq1e1m93rotwr5fvgj811svpx61ol3;公司;bedrijf;
 iii4lthn88c61oeiqmh0ayr0vqx1725s;经理;manager;
-r8kkw9boez522e7oy3nui2thyxfvz3be;警察;politie;
+r8kkw9boez522e7oy3nui2thyxfvz3be;警察;politie (politieagent);
 loxrca36rkrpgwpukigd70tkps9s9ro1;工人;arbeider;
 ju9yob0xumdpcdjwwu64z1ypzifvse77;公务员;ambtenaar;
 vkb0n4gx42pis08o1o5oof2b3smkdh6g;买卖人;handelaar;

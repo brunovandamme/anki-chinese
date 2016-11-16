@@ -53,7 +53,7 @@ m7ibg3g46443gsqyf1p5ah88a5hm7oyj;修女;non;
 51rwf3yfm3ad87cpefivrpeq0cuh1a72;黑钱;zwart geld;
 ul5jpdr9s52bytrkkrwycfo04kujwy4u;空调;airconditioning;
 wc0vnjsj2qeo03jjkqg2059vgorxwphl;选;kiezen;
-ujankajwcwauzafl7mnp6u2rghv30joc;修选;optioneel vak;
+ujankajwcwauzafl7mnp6u2rghv30joc;选修;optioneel vak (volgen);
 5umysbhkjsuwt0qytnou6731zniy7cee;城市;stad;
 jm5db8h7bina7ujdo2ll85wmwajh55i9;城;muur, omwalling;
 xlr9oc2sd2u9e1c2w9oshhvlkqj3e4jl;市;markt, stad;北京市
@@ -75,6 +75,28 @@ week304
 i297k5948w09t279fzmrz7q14sf2ovi8;真的;echt
 9tzehtxflfi7mj1pz3toemrk9qfsv2v5;假的;onecht
 
+week305
+6vptjocxt8xrjfwenbafn3m8c1vc8b42;最;meest
+2x7yvz9iak5pfblrbna6xcsvcuv3cbje;国家;land
+i7dz1eykk96jiy44v16cb2nb3njj7c6n;发光;gloeien
+osq0e9ttogh4jt7lbialke1sp5nnsxil;繁体字;traditionele karakters
+
+week306
+2veab1z30u19r4qlomxjmextz3y42evd;清楚;duidelijk
+dsrwqha8t56tiqrxb5hz73tpid7244d4;欧元;euro
+r8i0f8w6nbu57pigqwvtkhtk3v9v3num;英镑;pond
+vyelhp5t01wzqv092ktc8gakowbzjacb;参观;bezichtigen
+cwz2l8hki0v7ihcug9enx17kak95qoku;二手;tweedehands
+2kq09w8lb0otwmmgobs87i0r8jk5py7n;菜;bord, gerecht
+nr8dyeheepayyjtefqr7s5xujyk7j23o;人民币;de Chinese munt, 'de munt van het volk'
+sr3kaopsyni4hr4kukbpjd90xe6el3yx;路费;reiskost
+ezvll6t68zxcumz1iok4x4vl5zcr18zr;住宿费;woonkost
+txnh4ic0reomqbt1szxcha072r2vtog5;小费;tip
+z7xy8f5mvreic0b6fglar2cfl96nkvfg;海南;(provincie)
+fr6h1na7cojfc5wfp1s93ew4mrlf7iql;慢慢吃;smakelijk
+ichgg3ccps13m180t7q8fdyqtgwhofk7;公鸡;haan
+uqy2v0z6d675d49y12p9x537yuxk0n9s;安全;veiligheid
+zzx7gr93alysaar92waoxbvv5pkikj4e;元起;... yuan of meer
 
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags

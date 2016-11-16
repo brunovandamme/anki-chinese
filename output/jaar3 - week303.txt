@@ -16,7 +16,7 @@ m7ibg3g46443gsqyf1p5ah88a5hm7oyj;<span class="tone1">修</span><span class="tone
 51rwf3yfm3ad87cpefivrpeq0cuh1a72;<span class="tone1">黑</span><span class="tone2">钱</span>;<span class="tone1">hēi</span><span class="tone2">qián</span>;zwart geld;[sound:hei1qian2.mp3];;jaar3 week303
 ul5jpdr9s52bytrkkrwycfo04kujwy4u;<span class="tone1">空</span><span class="tone2">调</span>;<span class="tone1">kōng</span><span class="tone2">tiáo</span>;airconditioning;[sound:kong1tiao2.mp3];;jaar3 week303
 wc0vnjsj2qeo03jjkqg2059vgorxwphl;<span class="tone3">选</span>;<span class="tone3">xuǎn</span>;kiezen;[sound:xuan3.mp3];;jaar3 week303
-ujankajwcwauzafl7mnp6u2rghv30joc;<span class="tone1">修</span><span class="tone3">选</span>;<span class="tone1">xiū</span><span class="tone3">xuǎn</span>;optioneel vak;[sound:xiu1xuan3.mp3];;jaar3 week303
+win5btj51zeu37yo1meqx07xz36oo3l3;<span class="tone3">选</span><span class="tone1">修</span>;<span class="tone3">xuǎn</span><span class="tone1">xiū</span>;optioneel vak (volgen);[sound:xuan3xiu1.mp3];;jaar1 les07 jaar3 week303
 5umysbhkjsuwt0qytnou6731zniy7cee;<span class="tone2">城</span><span class="tone4">市</span>;<span class="tone2">chéng</span><span class="tone4">shì</span>;stad;[sound:cheng2shi4.mp3];;jaar3 week303
 jm5db8h7bina7ujdo2ll85wmwajh55i9;<span class="tone2">城</span>;<span class="tone2">chéng</span>;muur, omwalling;[sound:cheng2.mp3];;jaar3 week303
 xlr9oc2sd2u9e1c2w9oshhvlkqj3e4jl;<span class="tone4">市</span>;<span class="tone4">shì</span>;markt, stad;[sound:shi4.mp3];北京市;jaar3 week303
