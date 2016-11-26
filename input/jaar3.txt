@@ -92,7 +92,7 @@ nr8dyeheepayyjtefqr7s5xujyk7j23o;人民币;de Chinese munt, 'de munt van het vol
 sr3kaopsyni4hr4kukbpjd90xe6el3yx;路费;reiskost
 ezvll6t68zxcumz1iok4x4vl5zcr18zr;住宿费;woonkost
 txnh4ic0reomqbt1szxcha072r2vtog5;小费;tip
-z7xy8f5mvreic0b6fglar2cfl96nkvfg;海南;(provincie)
+z7xy8f5mvreic0b6fglar2cfl96nkvfg;海南;Hainan (provincie)
 fr6h1na7cojfc5wfp1s93ew4mrlf7iql;慢慢吃;smakelijk
 ichgg3ccps13m180t7q8fdyqtgwhofk7;公鸡;haan
 uqy2v0z6d675d49y12p9x537yuxk0n9s;安全;veiligheid
@@ -147,4 +147,3 @@ m7yk0eajbb621p96311gei7rb3katcbs;圣诞老人;kerstman
 8k4hguhxqeepknzbpi2jcxw2qfi7qi71;春节;chinees nieuwjaar
 d574mre9wi7s7e8zzeizo3s0tsqqddig;感恩节;thanksgiving
 eziy5arytaj8yl4dqxxjwzdgxy4fhble;复活节;pasen
-
