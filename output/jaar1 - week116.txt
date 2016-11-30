@@ -1,7 +1,7 @@
 0mepu12cb6onhkh1rdtisnyknagfmtrk;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];;jaar1 week116 week118 jaar2 week222
 i3nyee7087xya9q3x97na5o5h5749deh;<span class="tone4">电</span><span class="tone3">脑</span>;<span class="tone4">diàn</span><span class="tone3">nǎo</span>;computer;[sound:dian4nao3.mp3];;jaar1 week114 week116 les08
 8u1y9tomjvdpthf787a9c2d8adjr3mx5;<span class="tone3">脑</span><span class="tone5">子</span>;<span class="tone3">nǎo</span><span class="tone5">zi</span>;hersenen;[sound:nao3zi5.mp3];;jaar1 week114 week116
-hlbkpcvvcnm4xmbsfnkl6xphf3m6dcw1;<span class="tone1">春</span><span class="tone2">节</span>;<span class="tone1">Chūn</span><span class="tone2">jié</span>;chinees nieuwjaar;[sound:chun1jie2.mp3];;jaar1 week115 week116 jaar3 les14
+hlbkpcvvcnm4xmbsfnkl6xphf3m6dcw1;<span class="tone1">春</span><span class="tone2">节</span>;<span class="tone1">Chūn</span><span class="tone2">jié</span>;chinees nieuwjaar;[sound:chun1jie2.mp3];;jaar1 week115 week116 jaar3 week308 les14
 apy7f6rim1d02dbdpczf2a7ei88faxbf;<span class="tone3">晚</span><span class="tone4">会</span>;<span class="tone3">wǎn</span><span class="tone4">huì</span>;avondfeest;[sound:wan3hui4.mp3];;jaar1 week116 jaar2 week204
 crryew9r1s6dawjn2nryyg2oo68a86e3;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];;jaar1 week116 week122 les08 jaar2 week209
 grako0xr3xus9df1nt61xw52xu8lhxcb;<span class="tone4">大</span><span class="tone1">家</span>;<span class="tone4">dà</span><span class="tone1">jiā</span>;iedereen;[sound:da4jia1.mp3];;jaar1 week116

@@ -45,5 +45,5 @@ o5xe7l5osi27su2alb8imgxfmm8bp7k6;<span class="tone3">小</span><span class="tone
 hytkv66koya8r92r3i06wew3zskfbwlr;<span class="tone3">打</span><span class="tone1">针</span>;<span class="tone3">dǎ</span><span class="tone1">zhēn</span>;het zetten van een spuit;[sound:da3zhen1.mp3];;jaar2 week216 les12
 fteitzvk7cr35js5h00qw9599eu0aor3;<span class="tone4">热</span>;<span class="tone4">rè</span>;warm;[sound:re4.mp3];;jaar1 week116 week118 jaar2 week217 les12
 lvf3qnx2majeatt4tmaabvo6ly6chqo9;<span class="tone2">凉</span><span class="tone5">快</span>;<span class="tone2">liáng</span><span class="tone5">kuai</span>;afkoelen;[sound:liang2kuai5.mp3];;jaar2 les12
-tgpu8wt22xe5pspzu48pebo9juzyg9ax;<span class="tone1">生</span><span class="tone2">活</span>;<span class="tone1">shēng</span><span class="tone2">huó</span>;leven;[sound:sheng1huo2.mp3];;jaar2 les12
+tgpu8wt22xe5pspzu48pebo9juzyg9ax;<span class="tone1">生</span><span class="tone2">活</span>;<span class="tone1">shēng</span><span class="tone2">huó</span>;leven;[sound:sheng1huo2.mp3];;jaar2 les12 jaar3 week308
 xdtu3sp2vxyrrhccjo7z6kcksk5cqqnc;<span class="tone1">英</span><span class="tone2">文</span>;<span class="tone1">Yīng</span><span class="tone2">wén</span>;Engels;[sound:ying1wen2.mp3];;jaar2 les12

@@ -13,3 +13,6 @@ fr6h1na7cojfc5wfp1s93ew4mrlf7iql;<span class="tone4">慢</span><span class="tone
 1173e6wtj6hb2kqmja804b69jk73nouc;<span class="tone1">鸡</span>, <span class="tone1">公</span><span class="tone1">鸡</span>;<span class="tone1">jī</span>, <span class="tone1">gōng</span><span class="tone1">jī</span>;haan;[sound:ji1gong1ji1.mp3];;jaar2 week204 jaar3 week306
 uqy2v0z6d675d49y12p9x537yuxk0n9s;<span class="tone1">安</span><span class="tone2">全</span>;<span class="tone1">ān</span><span class="tone2">quán</span>;veiligheid;[sound:an1quan2.mp3];;jaar3 week306
 zzx7gr93alysaar92waoxbvv5pkikj4e;<span class="tone2">元</span><span class="tone3">起</span>;<span class="tone2">yuán</span><span class="tone3">qǐ</span>;... yuan of meer;[sound:yuan2qi3.mp3];;jaar3 week306
+fghv41x1sieoer539esjxjfoxjk7r6zu;<span class="tone1">枪</span>;<span class="tone1">qiāng</span>;geweer;[sound:qiang1.mp3];;jaar3 week306
+qu12xmnno3g4jt3zqhc5noy9491wvgeb;<span class="tone3">总</span><span class="tone3">统</span>;<span class="tone3">zǒng</span><span class="tone3">tǒng</span>;president;[sound:zong3tong3.mp3];;jaar3 week306
+6tcnok4e2du4ad4hqbhjujd2sigcrbyg;<span class="tone3">免</span><span class="tone4">费</span>;<span class="tone3">miǎn</span><span class="tone4">fèi</span>;gratis;[sound:mian3fei4.mp3];;jaar3 week306
