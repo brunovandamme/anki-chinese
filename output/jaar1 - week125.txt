@@ -7,5 +7,5 @@ htzzffgcc3hw15tlhr9kprky9mjw4ibs;<span class="tone1">支</span>;<span class="ton
 u37aevaqpeono4neq9ys9djulsr5wbya;<span class="tone1">公</span><span class="tone2">园</span>;<span class="tone1">gōng</span><span class="tone2">yuán</span>;park;[sound:gong1yuan2.mp3];;jaar1 week125
 wove20qv3g8afocjo928nlrzeixjpto9;<span class="tone2">年</span><span class="tone2">级</span>;<span class="tone2">nián</span><span class="tone2">jí</span>;jaar (niveau);[sound:nian2ji2.mp3];;jaar1 week125 jaar2 week201 jaar3 week303
 d8t3g5lrtbt54vyqcs9nsgva2yo83i1u;<span class="tone3">早</span><span class="tone5">上</span>;<span class="tone3">zǎo</span><span class="tone5">shang</span>;ochtend, 's ochtends;[sound:zao3shang5.mp3];;jaar1 week117 week122 week123 week125
-wv34ewg18ybkne8rlkng3ftkzbidetsg;<span class="tone3">早</span>;<span class="tone3">zǎo</span>;vroeg;[sound:zao3.mp3];;jaar1 week117 week125
+wv34ewg18ybkne8rlkng3ftkzbidetsg;<span class="tone3">早</span>;<span class="tone3">zǎo</span>;vroeg;[sound:zao3.mp3];;jaar1 week117 week125 jaar3 les15
 ehccfceu12vb320qsoyxs6d762ckukir;<span class="tone4">帅</span>;<span class="tone4">shuài</span>;knap (om mannen te beschrijven);[sound:shuai4.mp3];;jaar1 week125 jaar2 week211

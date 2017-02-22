@@ -231,7 +231,7 @@ q1n60k4p78gpgxwarxf3amgtd44x64l8;电影;film;
 
 week112
 xgbwfmjtfh9mnuizd3vrq6har6p3rekw;多;veel;
-acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;少;weinig;
+acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;少;weinig, minder;
 9gfzxmhzrgj4xgct63g654uaz3v3r4tp;一点, 一点点;een beetje;
 9ovl3hrb3t5njdobg8r1g82ibbb2jo8o;它;het, hij (voor dieren of voorwerpen);
 s3subhkrlw67t2ps699p7haw49iacmj0;客人;gast;

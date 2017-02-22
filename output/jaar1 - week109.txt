@@ -7,7 +7,7 @@ cc3vq4xmdcjtsxxjai6x8zixi5i0oxpp;<span class="tone3">女</span><span class="tone
 x0fwyby92ijvttalz1gq8qjwkm31ik3o;<span class="tone2">男</span><span class="tone2">孩</span><span class="tone5">子</span>;<span class="tone2">nán</span><span class="tone2">hái</span><span class="tone5">zi</span>;jongen;[sound:nan2hai2zi5.mp3];;jaar1 week109
 zsrr8iu65jto6331jbcitvbri03blsuj;<span class="tone2">男</span><span class="tone5">的</span>;<span class="tone2">nán</span><span class="tone5">de</span>;mannelijk, een man;[sound:nan2de5.mp3];;jaar1 week109
 qgwikvvlbcpwez0ckvd426np58rbqmdz;<span class="tone3">女</span><span class="tone5">的</span>;<span class="tone3">nǚ</span><span class="tone5">de</span>;vrouwelijk, een vrouw;[sound:nü3de5.mp3];;jaar1 week109
-ekihuutbcl91oyi0qymdmn3g9xasss4d;<span class="tone2">儿</span><span class="tone5">子</span>;<span class="tone2">ér</span><span class="tone5">zi</span>;zoon;[sound:er2zi5.mp3];;jaar1 week109
+ekihuutbcl91oyi0qymdmn3g9xasss4d;<span class="tone2">儿</span><span class="tone5">子</span>;<span class="tone2">ér</span><span class="tone5">zi</span>;zoon;[sound:er2zi5.mp3];;jaar1 week109 jaar3 les15
 80diuoyyzu4qt6143wrgs00zkn70s722;<span class="tone3">女</span><span class="tone2">儿</span>;<span class="tone3">nǚ</span>'<span class="tone2">ér</span>;dochter;[sound:nü3er2.mp3];;jaar1 week109 jaar2 les11
 stby1586npivhjarx3iti542oio50tx5;<span class="tone1">孙</span><span class="tone3">子</span>;<span class="tone1">Sūn</span><span class="tone3">zǐ</span>;kleinzoon (zoon van je zoon);[sound:sun1zi3.mp3];;jaar1 week109
 yz5crxt6wx1nn92pnzt4cx5hwdf3x659;<span class="tone1">孙</span><span class="tone3">女</span>;<span class="tone1">sūn</span><span class="tone3">nǚ</span>;kleindochter (dochter van je zoon);[sound:sun1nü3.mp3];;jaar1 week109

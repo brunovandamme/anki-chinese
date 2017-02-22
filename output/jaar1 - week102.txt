@@ -3,7 +3,7 @@ gfh5h8trwitiss9jgyos7jrx0fq94i2k;<span class="tone3">我</span><span class="tone
 67l3z7wowdn2bfk8j2017je6c1za8htk;<span class="tone3">你</span><span class="tone5">们</span>;<span class="tone3">nǐ</span><span class="tone5">men</span>;jullie;[sound:ni3men5.mp3];;jaar1 week102 les06
 66yblstb7em24p69fy1wbeh2mg99tanp;<span class="tone1">他</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (mannelijk meervoud);[sound:ta1men5.mp3];;jaar1 week102 les02
 k061wh27970j75sbcu5tpojqezz9pfiz;<span class="tone1">她</span><span class="tone5">们</span>;<span class="tone1">tā</span><span class="tone5">men</span>;zij (vrouwelijk meervoud);[sound:ta1men5.mp3];;jaar1 week102
-n8ohlntnuxb3q0og15ude4uw920pe00l;<span class="tone3">好</span>;<span class="tone3">hǎo</span>;goed;[sound:hao3.mp3];;jaar1 week102 les01 les05
+n8ohlntnuxb3q0og15ude4uw920pe00l;<span class="tone3">好</span>, <span class="tone3">井</span>;<span class="tone3">hǎo</span>, <span class="tone3">jǐng</span>;goed;[sound:hao3jing3.mp3];;jaar1 week102 les01 les05 jaar3 week312
 zn3mhcerg5ni21pggllkxqxrw1511ckf;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];;jaar1 week102 les01 les07
 kpob8slzu8zbirwpo7xgm8bd664pww67;<span class="tone4">不</span>;<span class="tone4">bù</span>;niet, geen;[sound:bu4.mp3];;jaar1 week101 week102 les02
 qwlne2b50bwq4zb1fco0vot37w85s29z;<span class="tone5">呢</span>;<span class="tone5">ne</span>;en ...?;[sound:ne5.mp3];;jaar1 week102 les02

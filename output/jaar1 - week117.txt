@@ -14,7 +14,7 @@ gr25q3ph5s38xe6ppk5t4k8y6xe415qv;<span class="tone4">现</span><span class="tone
 c791ggxw5sr0i4h10mhru6rafy44bnko;<span class="tone2">明</span><span class="tone1">天</span>;<span class="tone2">míng</span><span class="tone1">tiān</span>;morgen;[sound:ming2tian1.mp3];;jaar1 week117 les06
 z5uzfcgnkstczwuuid9npt24a4titu82;<span class="tone3">几</span><span class="tone4">号</span>;<span class="tone3">jǐ</span><span class="tone4">hào</span>;de hoeveelste? (datum);[sound:ji3hao4.mp3];;jaar1 week117
 d8t3g5lrtbt54vyqcs9nsgva2yo83i1u;<span class="tone3">早</span><span class="tone5">上</span>;<span class="tone3">zǎo</span><span class="tone5">shang</span>;ochtend, 's ochtends;[sound:zao3shang5.mp3];;jaar1 week117 week122 week123 week125
-wv34ewg18ybkne8rlkng3ftkzbidetsg;<span class="tone3">早</span>;<span class="tone3">zǎo</span>;vroeg;[sound:zao3.mp3];;jaar1 week117 week125
+wv34ewg18ybkne8rlkng3ftkzbidetsg;<span class="tone3">早</span>;<span class="tone3">zǎo</span>;vroeg;[sound:zao3.mp3];;jaar1 week117 week125 jaar3 les15
 gl4dihsp43xveihs1y7j50b7soiiujtf;<span class="tone3">晚</span><span class="tone5">上</span>;<span class="tone3">wǎn</span><span class="tone5">shang</span>;avond, 's avonds;[sound:wan3shang5.mp3];;jaar1 week117 week123 jaar2 les09 les11
 wysc8ua7bg6vme06xmy8z71jut4zxyoy;<span class="tone3">晚</span>;<span class="tone3">wǎn</span>;laat;[sound:wan3.mp3];ik ben te laat gekomen<br>我来晚了<br><br>;jaar1 week115 week117 les05 jaar2 les11
 z1706btjc4vqci3q78cmy0ag96jqo1m8;<span class="tone1">中</span><span class="tone3">午</span>;<span class="tone1">zhōng</span><span class="tone3">wǔ</span>;middag, 's middags;[sound:zhong1wu3.mp3];;jaar1 week117 week122 week123 jaar3 les14

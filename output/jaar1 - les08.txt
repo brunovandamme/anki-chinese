@@ -23,11 +23,11 @@ zrqnn70xqjfba8mtuqcdkg3qoaxehcs6;<span class="tone4">做</span>;<span class="ton
 9iay3grvcrrxquvzyu25glz7gvv3765t;<span class="tone1">工</span><span class="tone4">作</span>;<span class="tone1">gōng</span><span class="tone4">zuò</span>;werken, werk;[sound:gong1zuo4.mp3];;jaar1 week108 les08
 61pb1476as1tzsa5e5qomhie30nt60c4;<span class="tone4">大</span>;<span class="tone4">dà</span>;groot;[sound:da4.mp3];;jaar1 les08 jaar2 les09
 lq0ss7ovmvtpzzr0kvtn0kopyljurzw2;<span class="tone1">多</span>;<span class="tone1">duō</span>;veel;[sound:duo1.mp3];;jaar1 week106 week112 les08 jaar2 les09
-acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig;[sound:shao3.mp3];;jaar1 week112 les08
+h4hwfmss2nqdtyeuh8pih4nkcqvzl5mw;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig;[sound:shao3.mp3];;jaar1 les08
 crt4p3xaipo2q5fr3c3ipbinxbsk71nm;<span class="tone3">喜</span><span class="tone5">欢</span>;<span class="tone3">xǐ</span><span class="tone5">huan</span>;houden van, graag hebben, leuk vinden;[sound:xi3huan5.mp3];;jaar1 week106 week108 les08
 48031m9zzxvte8d19f86p4wy5mljwva4;<span class="tone4">外</span><span class="tone3">语</span>;<span class="tone4">wài</span><span class="tone3">yǔ</span>;vreemde taal;[sound:wai4yu3.mp3];;jaar1 week107 les03 les08
 w67uycambkmlnepndumn13x7npotgcn1;<span class="tone4">外</span>;<span class="tone4">wài</span>;buiten;[sound:wai4.mp3];;jaar1 les08
-nmvfsiclwoyw6k691bdsm4ojymnji241;<span class="tone3">语</span><span class="tone2">言</span>, <span class="tone3">语</span>;<span class="tone3">yǔ</span><span class="tone2">yán</span>, <span class="tone3">yǔ</span>;taal;[sound:yu3yan2yu3.mp3];;jaar1 les04 les08
+nmvfsiclwoyw6k691bdsm4ojymnji241;<span class="tone3">语</span><span class="tone2">言</span>, <span class="tone3">语</span>, <span class="tone4">话</span>;<span class="tone3">yǔ</span><span class="tone2">yán</span>, <span class="tone3">yǔ</span>, <span class="tone4">huà</span>;taal;[sound:yu3yan2yu3hua4.mp3];;jaar1 les04 les08 jaar3 les15
 h35nzcqce7cxjcy8yb4czsrhc89kz6wb;<span class="tone4">外</span><span class="tone2">国</span>;<span class="tone4">wài</span><span class="tone2">guó</span>;buitenland;[sound:wai4guo2.mp3];;jaar1 week107 les08
 crryew9r1s6dawjn2nryyg2oo68a86e3;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];;jaar1 week116 week122 les08 jaar2 week209
 zde7qezknzlxmrg134s9ui7uj5g4dy4o;<span class="tone1">车</span>;<span class="tone1">chē</span>;wagen, auto;[sound:che1.mp3];;jaar1 week110 les08

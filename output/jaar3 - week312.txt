@@ -1,0 +1,14 @@
+mh36ckum3um1nxceu5kfmycq8huot60b;<span class="tone1">街</span>;<span class="tone1">jiē</span>;straat;[sound:jie1.mp3];;jaar3 week312
+n8ohlntnuxb3q0og15ude4uw920pe00l;<span class="tone3">好</span>, <span class="tone3">井</span>;<span class="tone3">hǎo</span>, <span class="tone3">jǐng</span>;goed;[sound:hao3jing3.mp3];;jaar1 week102 les01 les05 jaar3 week312
+8ig7h9n5g9jbvc08xgk965hcms1bcb2b;<span class="tone3">井</span><span class="tone4">号</span>;<span class="tone3">jǐng</span><span class="tone4">hào</span>;hashtag;[sound:jing3hao4.mp3];;jaar3 week312
+bu8dlyntkka2kc8m867iyu3qbhhe41zs;<span class="tone1">星</span><span class="tone4">号</span>;<span class="tone1">xīng</span><span class="tone4">hào</span>;asterisk;[sound:xing1hao4.mp3];;jaar3 week312
+bidz473j2d3qqva0wux2v5no87uqt4w9;<span class="tone3">跑</span>;<span class="tone3">pǎo</span>;lopen;[sound:pao3.mp3];;jaar3 week312
+xpqtz06ee3b35eppnz4o7w9q4p4gfsf2;<span class="tone4">后</span><span class="tone2">门</span>;<span class="tone4">hòu</span><span class="tone2">mén</span>;achterdeur;[sound:hou4men2.mp3];;jaar3 week312
+ctz6bm4okul7t63pd6p54ugmd85aj4be;<span class="tone3">小</span><span class="tone1">偷</span>;<span class="tone3">xiǎo</span><span class="tone1">tōu</span>;dief;[sound:xiao3tou1.mp3];;jaar3 week312
+8wtbgmo2xpb7x776dzt52go55yiobijr;<span class="tone4">步</span><span class="tone2">行</span><span class="tone1">街</span>;<span class="tone4">bù</span><span class="tone2">xíng</span><span class="tone1">jiē</span>;wandelstraat;[sound:bu4xing2jie1.mp3];;jaar3 week312
+aytc2khfxqknnzt390ba42h8gi5ppynl;<span class="tone4">自</span><span class="tone3">己</span>;<span class="tone4">zì</span><span class="tone3">jǐ</span>;zichzelf;[sound:zi4ji3.mp3];;jaar3 week312
+yxfbo00uoz8z7d1kw1catbfr8f73yv1q;<span class="tone1">商</span>, <span class="tone1">商</span><span class="tone4">业</span>;<span class="tone1">shāng</span>, <span class="tone1">shāng</span><span class="tone4">yè</span>;handel;[sound:shang1shang1ye4.mp3];;jaar2 les10 jaar3 week312
+vda0dsp5yujvyu2mwxx4ahvxirnhr1jr;<span class="tone1">工</span><span class="tone4">业</span>;<span class="tone1">gōng</span><span class="tone4">yè</span>;industrie;[sound:gong1ye4.mp3];;jaar3 week312
+arvzr0gd22naajmmjqfqy8x3ryovmj6o;<span class="tone2">林</span><span class="tone4">业</span>;<span class="tone2">lín</span><span class="tone4">yè</span>;bosbouw;[sound:lin2ye4.mp3];;jaar3 week312
+93pz7r5cpjd3rh51nrigvdnh25earkp5;<span class="tone4">进</span><span class="tone4">步</span>;<span class="tone4">jìn</span><span class="tone4">bù</span>;vooruitgang;[sound:jin4bu4.mp3];;jaar3 week312
+eqp4u2dy8zzh6zkea2bep78e9mzgrge5;<span class="tone3">等</span>, <span class="tone3">等</span><span class="tone3">等</span>;<span class="tone3">děng</span>, <span class="tone3">děng</span><span class="tone3">děng</span>;enzovoort;[sound:deng3deng3deng3.mp3];;jaar3 week312
