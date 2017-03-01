@@ -207,9 +207,20 @@ b6um663gjosqggesqvx1bc5t565pqzwg;换;veranderen, wisselen
 lh4lrmzfv7idrcl3fx7umzdko1ca07mi;填表;formulier invullen
 o4lz0vswsocltyb07f0joblvu80gfn6x;性别;geslacht
 nkgmf91fio93sjh85h5jcxx48fqrutgo;其他;ander
-
 6mi13ov19wqhnic5mlwrhh5oa9re7f7g;分手;scheiden
 
+week315
+byxw64d3chsbx907hliup9zdxsibbhb0;保姆;kindermeisje
+ayu73ehsy8myng75if0li1mbio75zr9p;证人;getuige
+ft4z1g5qaq3barfzcuoedx583sz0clta;报名;inschrijven
+1xwxr3o02a8wl6rmob7blvytd08iu01u;身份证;identiteitskaart
+xveit3hyi22tpdafdbov9j8ibc45arme;学生证;studentenkaart
+t7iwhva1t3ll8hy90dq3i03ql4ffoqsy;出生证;geboortecertificaat
+c8z6qugo0zqbqgqeenj0gpt370xuwigv;工作证;identeteitskaart van het werk
+5mrjwkyp714do3blzz4p2rkd550s6nm7;居留证;residentiebewijs
+b8pmio1uhvykbe5m3ri13fa4a90p86zt;护照;paspoort
+dathps0bn6dxblr8f7km6xwokn11sv4q;学习证明书;studiebewijs
+dkqwabmv931rqdylflyb1rfxytl42ntf;阅览室;leeskamer
 
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags
