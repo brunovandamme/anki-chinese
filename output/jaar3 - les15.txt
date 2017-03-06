@@ -1,7 +1,7 @@
 tljnzkxg3dxhdfl2p4lk2mkcqzn0kca9;<span class="tone5">得</span>;<span class="tone5">de</span>;(partikel van hoedanigheid);[sound:de5.mp3];;jaar3 les15
 wv34ewg18ybkne8rlkng3ftkzbidetsg;<span class="tone3">早</span>;<span class="tone3">zǎo</span>;vroeg;[sound:zao3.mp3];;jaar1 week117 week125 jaar3 les15
 n9w4ugjadr8y6ul90wwyv7e5pt5yezvf;<span class="tone2">银</span><span class="tone2">行</span>;<span class="tone2">yín</span><span class="tone2">háng</span>;bank;[sound:yin2hang2.mp3];;jaar2 week207 jaar3 les15
-acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig, minder;[sound:shao3.mp3];;jaar1 week112 jaar3 les15
+acm4tnvbwj6n8vllxfwhgy5ylzza3mgk;<span class="tone3">少</span>;<span class="tone3">shǎo</span>;weinig, minder;[sound:shao3.mp3];;jaar1 week112 les08 jaar3 les15
 tuut5bfwslc4e0kcbvm7cnprqbelg21p;<span class="tone2">排</span><span class="tone4">队</span>;<span class="tone2">pái</span><span class="tone4">duì</span>;een rij vormen;[sound:pai2dui4.mp3];;jaar3 les15
 lecot9h6b1hdnn59xydslrqkyacly31l;<span class="tone2">排</span>;<span class="tone2">pái</span>;rij;[sound:pai2.mp3];;jaar3 les15
 hf6jhhjipa9hkzhyem145cnys81jpnxu;<span class="tone4">队</span>;<span class="tone4">duì</span>;team;[sound:dui4.mp3];;jaar3 les15

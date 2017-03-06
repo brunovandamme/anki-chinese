@@ -141,6 +141,7 @@ n8b9sle13llkbxdvlnvoszatz5gefomw;大哥;grootste oudere broer
 xubr2zim7hpz2kbxi16agd5856kof1hn;妻子;vrouw, echtgenote
 4wwcpwtfuil5hiyg0l9bh49lfaq24ru1;丈夫;man, echtgenoot
 rwpjwuqybiu0903d10hjubl87izo03db;师父;meester
+maxw2rsp35quxf4qpkbgpjhs6cy06nq7;师傅;meester, vakman;voor kok, chauffeur, ...
 3sy7c2agsh7z49rhp1i2gw4hr0in9vx9;爱人;geliefde
 2rt8ufzumyy9bl1s11nlcsf87q4gsdmz;样子;uitzicht, vorm, verschijning
 sosioaze8lba93v97mxngs4lg2gs9hyx;乖;braaf
@@ -151,11 +152,19 @@ hip1d33scqay43b837fav9txjo6vb8rj;永远;eeuwig
 7xl49sta5rip3r6gtpt57hmy3ajdk455;合影;groepsfoto
 xexkdvh7koo9ew5fv0jnrndac6rx28e8;生气;boos, kwaad
 iqzop40nr9q6zubjrssua8xdvtrx0qx4;地中海;Mediterraan
+d0azjhtjw25b9pi06fkm8jzm1canyyz8;钥匙;sleutel
+jye1ya4ud198vj7e44vh7m01mzcdpzau;地理学;aardrijkskunde
+j03u04fny5cezuxcec6zpfbdsuztyxuw;专家;expert, specialist
+s25xt8gydroe5l1oqgatwp6f3k6vjsrt;笑;lachen
+xupt8j65swnnq7w5dw4tksa5xjo7xc7o;胖;dik
+2of59tzjxvfo4j9e1i35cwk29gtetx1u;骗;bedriegen, misleiden
 
 week310
 96ge4hrmeeud5mh3lbrnp8dxylx7zajb;走;weggaan
 kpns036oak82le07tmy1jaf4z26z987r;走路;gaan
-6vqmgovmqe83l3x6pasykrcg3zlu9kzz;散步;het verspreiden van passen, wandelen
+6vqmgovmqe83l3x6pasykrcg3zlu9kzz;散步;het verspreiden van passen, wandelen (ontspanning)
+1y7xbwsd5i72mfmh6dfqi57iosh3enpx;如果;als
+xuid73h97w09vt7su19l3vcv6j85nqk1;总是;altijd
 
 week311
 7rmzgbhs6txsl2dnggpos3lluo4hltcf;免;vermijden;免费 (gratis)
@@ -193,6 +202,12 @@ zxrf844mygcw82h8du72r2gj7rf65ydd;故事;verhaal
 4u9hs2o8t5ro463mgz8smtwbbsibzv99;死;sterven
 56c7yj6ooe8eqx4r0uo7t1ma59yghtne;杀;moord
 weyuj6pnhi7bv5eflpexhuzs2a3yola0;自杀;zelfmoord
+plcv2ngao6n8evzjlxmyqhl1wdlb884q;进步;vooruitgang
+nlzmpz2o99g7p5rclarbxb0frecltei6;渴;dorstig
+iusoc40ezvjtnawh11hr5z7tx837ha5k;空间;ruimte
+06j13b86t61s77fhg53udi8lfxngdzg3;马上;onmiddelijk
+malymhow26hpjoj60sug0eacu705rwgk;狼;wolf
+
 
 week314
 zy9occb8tx184tp5kfmdwlep7psh5b8c;情;gevoelens
@@ -221,6 +236,8 @@ c8z6qugo0zqbqgqeenj0gpt370xuwigv;工作证;identeteitskaart van het werk
 b8pmio1uhvykbe5m3ri13fa4a90p86zt;护照;paspoort
 dathps0bn6dxblr8f7km6xwokn11sv4q;学习证明书;studiebewijs
 dkqwabmv931rqdylflyb1rfxytl42ntf;阅览室;leeskamer
+ni0ni0a5lbupeyenqqu79932lsc74yyn;国籍;nationaliteit
+
 
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags

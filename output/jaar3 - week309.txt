@@ -4,6 +4,7 @@ m0mpuu7t147tjklgrgmdaihymf0bd6dq;<span class="tone4">大</span><span class="tone
 xubr2zim7hpz2kbxi16agd5856kof1hn;<span class="tone1">妻</span><span class="tone3">子</span>;<span class="tone1">qī</span><span class="tone3">zǐ</span>;vrouw, echtgenote;[sound:qi1zi3.mp3];;jaar3 week309
 4wwcpwtfuil5hiyg0l9bh49lfaq24ru1;<span class="tone4">丈</span><span class="tone5">夫</span>;<span class="tone4">zhàng</span><span class="tone5">fu</span>;man, echtgenoot;[sound:zhang4fu5.mp3];;jaar3 week309
 rwpjwuqybiu0903d10hjubl87izo03db;<span class="tone1">师</span><span class="tone5">父</span>;<span class="tone1">shī</span><span class="tone5">fu</span>;meester;[sound:shi1fu5.mp3];;jaar3 week309
+xttrshd4y1i7mgbjrud2oh89vixey8oc;<span class="tone1">师</span><span class="tone5">傅</span>;<span class="tone1">shī</span><span class="tone5">fu</span>;meester, vakman;[sound:shi1fu5.mp3];voor kok<br><br> chauffeur<br><br> ...<br><br>;jaar2 week210 les10 jaar3 week309
 3sy7c2agsh7z49rhp1i2gw4hr0in9vx9;<span class="tone4">爱</span><span class="tone5">人</span>;<span class="tone4">ài</span><span class="tone5">ren</span>;geliefde;[sound:ai4ren5.mp3];;jaar3 week309
 2rt8ufzumyy9bl1s11nlcsf87q4gsdmz;<span class="tone4">样</span><span class="tone5">子</span>;<span class="tone4">yàng</span><span class="tone5">zi</span>;uitzicht, vorm, verschijning;[sound:yang4zi5.mp3];;jaar3 week309
 sosioaze8lba93v97mxngs4lg2gs9hyx;<span class="tone1">乖</span>;<span class="tone1">guāi</span>;braaf;[sound:guai1.mp3];;jaar3 week309
@@ -14,3 +15,9 @@ hip1d33scqay43b837fav9txjo6vb8rj;<span class="tone3">永</span><span class="tone
 7xl49sta5rip3r6gtpt57hmy3ajdk455;<span class="tone2">合</span><span class="tone3">影</span>;<span class="tone2">hé</span><span class="tone3">yǐng</span>;groepsfoto;[sound:he2ying3.mp3];;jaar3 week309
 xexkdvh7koo9ew5fv0jnrndac6rx28e8;<span class="tone1">生</span><span class="tone4">气</span>;<span class="tone1">shēng</span><span class="tone4">qì</span>;boos, kwaad;[sound:sheng1qi4.mp3];;jaar3 week309
 iqzop40nr9q6zubjrssua8xdvtrx0qx4;<span class="tone4">地</span><span class="tone1">中</span><span class="tone3">海</span>;<span class="tone4">Dì</span><span class="tone1">zhōng</span><span class="tone3">Hǎi</span>;Mediterraan;[sound:di4zhong1hai3.mp3];;jaar3 week309
+d0azjhtjw25b9pi06fkm8jzm1canyyz8;<span class="tone4">钥</span><span class="tone5">匙</span>;<span class="tone4">yào</span><span class="tone5">shi</span>;sleutel;[sound:yao4shi5.mp3];;jaar3 week309
+jye1ya4ud198vj7e44vh7m01mzcdpzau;<span class="tone4">地</span><span class="tone3">理</span><span class="tone2">学</span>;<span class="tone4">dì</span><span class="tone3">lǐ</span><span class="tone2">xué</span>;aardrijkskunde;[sound:di4li3xue2.mp3];;jaar3 week309
+j03u04fny5cezuxcec6zpfbdsuztyxuw;<span class="tone1">专</span><span class="tone1">家</span>;<span class="tone1">zhuān</span><span class="tone1">jiā</span>;expert, specialist;[sound:zhuan1jia1.mp3];;jaar3 week309
+s25xt8gydroe5l1oqgatwp6f3k6vjsrt;<span class="tone4">笑</span>;<span class="tone4">xiào</span>;lachen;[sound:xiao4.mp3];;jaar3 week309
+xupt8j65swnnq7w5dw4tksa5xjo7xc7o;<span class="tone4">胖</span>;<span class="tone4">pàng</span>;dik;[sound:pang4.mp3];;jaar3 week309
+2of59tzjxvfo4j9e1i35cwk29gtetx1u;<span class="tone4">骗</span>;<span class="tone4">piàn</span>;bedriegen, misleiden;[sound:pian4.mp3];;jaar3 week309

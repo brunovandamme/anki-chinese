@@ -799,7 +799,7 @@ cmf9nnbp1i41qweizggcu1h0kcie9tyx;工作;werken, werk;
 61pb1476as1tzsa5e5qomhie30nt60c4;大;groot;
 eob31gcis650mebh9nn9rqec5mgv1siu;多少;hoeveel (+ maatwoord)?;
 265fe9rr1khc8th75a8g5g2njyp4gm12;多;veel;
-h4hwfmss2nqdtyeuh8pih4nkcqvzl5mw;少;weinig;
+h4hwfmss2nqdtyeuh8pih4nkcqvzl5mw;少;weinig, minder;
 hj2a230yz1z26asns7wqrlqq9i00zext;喜欢;houden van, graag hebben, leuk vinden;
 o066pwj9obcki8hl4b3et0kunq5683do;外语;vreemde taal;
 w67uycambkmlnepndumn13x7npotgcn1;外;buiten;

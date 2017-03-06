@@ -182,7 +182,7 @@ eufx5ufmf6aw67qnqrj832lsitzie4bf;便宜;goedkoop;
 rcaw208ndokvzupfrqsniy3js3zlqmtw;找钱;wisselgeld geven;
 
 week210
-xttrshd4y1i7mgbjrud2oh89vixey8oc;师傅;meester, vakman;
+xttrshd4y1i7mgbjrud2oh89vixey8oc;师傅;meester, vakman;voor kok, chauffeur, ...
 4vp7njcsvgjhjri1en4faj3aw1dtv4dl;水果;fruit;
 evukwifm4fdwkpyvsgr4opop5kttmu2j;香蕉;banaan;
 2dsj13ask5e4luqu7gs85o4pk65b0yfq;苹果;appel;
@@ -218,7 +218,7 @@ whd23ax3gnmpd6tevlyu9o780uhnx9du;运动;sport, sporten;
 vqtkej6g8dd3apakw1ua0msf6bjqwdhz;跑步;het lopen van passen, lopen, rennen;
 dcsa6jxcge0utqr0kvlr98g7azkkwrvy;踢足球;stampen tegen een voetbal, voetballen;
 uu6spiihcsaxiyd879xig7ma5e5umf8v;打网球;slaan tegen een tennisbal, tennissen;
-tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;散步;het verspreiden van passen, wandelen;
+tkh1w2ade9bhvsbl3ynp4w2e8g9j3pwz;散步;het verspreiden van passen, wandelen (ter ontspanning);
 ogfmhyeawl04sff1bo8rxi0jkh6o3gvx;走路;gaan;
 70ru3foz6691c73o2uua4s1b61omb95a;第;(gebruikt om rangtelwoorden te vormen);
 kikiahs2pmehduej6hqv16t3n6kd12pi;司机;chauffeur;
