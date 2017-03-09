@@ -398,7 +398,7 @@ uuz5ya9xedxsmcyufcrjtm7koqhfgkn2;附近;nabijheid;
 u97dc1wkreu8iuaussrmqksrowyorj2u;公寓;appartement;
 oqic9tvcfwa9lhrten54nsb9xldz31a7;一样;hetzelfde;
 ho3y7ood6d4ccsw2rzugvtcf97ht3z9j;套;(maatwoord voor woningen);
-uo0zwwuoa5fhywtmw3cjg88cxswb3i9z;散步;het verspreiden van passen, wandelen;
+uo0zwwuoa5fhywtmw3cjg88cxswb3i9z;散步;het verspreiden van passen, wandelen (ter ontspanning);
 
 week221
 6hq8nipra42gjcdcv0p0zybf3e4yfmpl;公寓;appartement;
@@ -652,7 +652,7 @@ sbdh78jg74fsnd1ugg2p6nn64255stko;的;krijgen, hebben;的感冒, 的病
 d0zgxkj54ju08sfrguyoi22plrvenupz;告诉;vertellen, meedelen
 b6ib2ky5uewco2grjmgflykh3hb2h1ig;件;(maatwoord voor kleren)
 gh8d56bb5ia8278kz7jthrjzkoq9cx6j;事;ding, iets (niet tastbaar)
-ypbhlhkmfj8tr1d491tfc3iwtjtaygko;散步;het verspreiden van passen, wandelen
+ypbhlhkmfj8tr1d491tfc3iwtjtaygko;散步;het verspreiden van passen, wandelen (ter ontspanning)
 ldairx8iccb6mj6ik5ys2kv2c3f1ii1u;步;stap, pas
 q2coz9lrsgbh2g5afb8zzitqmbjpzbzv;电影;film
 4qrs1gfh9jtv9jobu7r6urygal9fge5w;电;electriciteit
