@@ -932,9 +932,11 @@ dathps0bn6dxblr8f7km6xwokn11sv4q;<span class="tone2">学</span><span class="tone
 dkqwabmv931rqdylflyb1rfxytl42ntf;<span class="tone4">阅</span><span class="tone3">览</span><span class="tone4">室</span>;<span class="tone4">yuè</span><span class="tone3">lǎn</span><span class="tone4">shì</span>;leeskamer;[sound:yue4lan3shi4.mp3];;jaar3 week315
 ni0ni0a5lbupeyenqqu79932lsc74yyn;<span class="tone2">国</span><span class="tone2">籍</span>;<span class="tone2">guó</span><span class="tone2">jí</span>;nationaliteit;[sound:guo2ji2.mp3];;jaar3 week315
 c7dgs8nlcxdll99s2dpn2vxdqgzkf315;<span class="tone4">户</span><span class="tone3">口</span>;<span class="tone4">hù</span><span class="tone3">kǒu</span>;domicilie;[sound:hu4kou3.mp3];;jaar3 week316
-i6cuflhnad05j28gtf3nvuzc18qdeebd;<span class="tone1">开</span><span class="tone4">放</span>;<span class="tone1">kāi</span><span class="tone4">fàng</span>;open,toegankelijk;[sound:kai1fang4.mp3];;jaar3 week316
+i6cuflhnad05j28gtf3nvuzc18qdeebd;<span class="tone1">开</span><span class="tone4">放</span>;<span class="tone1">kāi</span><span class="tone4">fàng</span>;openheid,toegankelijk;[sound:kai1fang4.mp3];;jaar3 week316
 scbqkurwwja5jg9wryo31si6l4x5yayt;<span class="tone2">船</span>;<span class="tone2">chuán</span>;boot;[sound:chuan2.mp3];;jaar3 week316
 6oidiqdj7ebonnca1pfx35z0ql7uxxml;<span class="tone4">带</span>;<span class="tone4">dài</span>;dragen;[sound:dai4.mp3];;jaar3 week316
+88rpra36s2jcikst6zl28v3uxbe64tja;<span class="tone2">农</span><span class="tone2">民</span>;<span class="tone2">nóng</span><span class="tone2">mín</span>;boer;[sound:nong2min2.mp3];;jaar3 week316
+3o1fsithbwj4hzh8m7yovrrl390j1mr7;<span class="tone4">为</span><span class="tone3">你</span><span class="tone3">好</span>;<span class="tone4">wèi</span><span class="tone3">nǐ</span><span class="tone3">hǎo</span>;voor uw eigen goed;[sound:wei4ni3hao3.mp3];;jaar3 week316
 7uitbgng48jius9j2lbgo0z9nyfyisug;<span class="tone1">刚</span><span class="tone2">才</span>;<span class="tone1">gāng</span><span class="tone2">cái</span>;daarnet;[sound:gang1cai2.mp3];;jaar3 les14
 3l5an6l5xtd5v636jfwq1perjgdpim1e;<span class="tone2">邮</span>;<span class="tone2">yóu</span>;post;[sound:you2.mp3];;jaar3 les14
 c99bllhvjle325y1qofs7klmzjj644mr;<span class="tone2">局</span>;<span class="tone2">jú</span>;kantoor;[sound:ju2.mp3];;jaar3 les14

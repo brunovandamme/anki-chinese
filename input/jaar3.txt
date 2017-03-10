@@ -242,13 +242,15 @@ week316
 5mgkuf2ov6q6018xjcdylmx2044bqo36;保姆;kindermeisje
 6e3e2qf9u3h9zwef033mauazqx85z6we;民工;arbeider
 c7dgs8nlcxdll99s2dpn2vxdqgzkf315;户口;domicilie
-i6cuflhnad05j28gtf3nvuzc18qdeebd;开放;open,toegankelijk
+i6cuflhnad05j28gtf3nvuzc18qdeebd;开放;openheid,toegankelijk
 7jwm2nzg9gnjywsdkqn3ncbxvshpugs1;进来;binnen komen
 rygjuqfi1jj7gt05i5i9j1yyv49fxqg1;进去;binnen gaan
 h7eazh5ubdeiidrlxlocguqp8g65liv8;过来;komen
 a6vls881oe8nkrq1yujkvj3q1c9qcjqt;过去;gaan
 scbqkurwwja5jg9wryo31si6l4x5yayt;船;boot
 6oidiqdj7ebonnca1pfx35z0ql7uxxml;带;dragen
+88rpra36s2jcikst6zl28v3uxbe64tja;农民;boer
+3o1fsithbwj4hzh8m7yovrrl390j1mr7;为你好;voor uw eigen goed
 
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags
