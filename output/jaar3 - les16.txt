@@ -1,4 +1,4 @@
-qs5ffj00bv4s5qee2ixw52ja52w9vjsz;<span class="tone3">把</span>;<span class="tone3">bǎ</span>;;[sound:ba3.mp3];;jaar3 les16
+qs5ffj00bv4s5qee2ixw52ja52w9vjsz;<span class="tone3">把</span>;<span class="tone3">bǎ</span>;把;[sound:ba3.mp3];;jaar3 les16
 wgcpxanzu78xwwlhz73gwgyvbycspttp;<span class="tone4">忘</span>;<span class="tone4">wàng</span>;vergeten;[sound:wang4.mp3];;jaar2 week204 jaar3 les16
 xzzgtwpeu4xntqdo4ajkckf1gpfwx6pl;<span class="tone2">图</span><span class="tone1">书</span><span class="tone3">馆</span>;<span class="tone2">tú</span><span class="tone1">shū</span><span class="tone3">guǎn</span>;bibliotheek;[sound:tu2shu1guan3.mp3];;jaar1 week115 jaar2 week223 jaar3 les16
 ekiyhqrtxinznjidtmt072kskhbovt7i;<span class="tone2">图</span><span class="tone1">书</span>;<span class="tone2">tú</span><span class="tone1">shū</span>;boeken;[sound:tu2shu1.mp3];;jaar3 les16

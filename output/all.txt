@@ -990,7 +990,7 @@ l0vbgync6teczmgkxpqdeaz6xjh0fn9c;<span class="tone1">加</span><span class="tone
 01rl1nk04xphwm4xzwtgtp5c62i8lbzs;<span class="tone4">汇</span><span class="tone4">率</span>;<span class="tone4">huì</span><span class="tone4">lǜ</span>;wisselkoers;[sound:hui4lü4.mp3];;jaar3 les15
 is0nfwwmuox5bqqnjx3lpjp1iday6270;<span class="tone4">现</span><span class="tone1">金</span>;<span class="tone4">xiàn</span><span class="tone1">jīn</span>;cash;[sound:xian4jin1.mp3];;jaar3 les15
 11r9w0hknew6vxhi16l0nxhtmf3sdhag;<span class="tone4">亚</span><span class="tone1">洲</span><span class="tone2">学</span><span class="tone2">习</span>;<span class="tone4">yà</span><span class="tone1">zhōu</span><span class="tone2">xué</span><span class="tone2">xí</span>;Departement van Aziatische studies;[sound:ya4zhou1xue2xi2.mp3];;jaar3 les15
-qs5ffj00bv4s5qee2ixw52ja52w9vjsz;<span class="tone3">把</span>;<span class="tone3">bǎ</span>;;[sound:ba3.mp3];;jaar3 les16
+qs5ffj00bv4s5qee2ixw52ja52w9vjsz;<span class="tone3">把</span>;<span class="tone3">bǎ</span>;把;[sound:ba3.mp3];;jaar3 les16
 ekiyhqrtxinznjidtmt072kskhbovt7i;<span class="tone2">图</span><span class="tone1">书</span>;<span class="tone2">tú</span><span class="tone1">shū</span>;boeken;[sound:tu2shu1.mp3];;jaar3 les16
 84i7pysiw756l53njqn1ljs110crjs5a;<span class="tone3">馆</span>;<span class="tone3">guǎn</span>;huis, plaats, gebouw;[sound:guan3.mp3];;jaar3 les16
 q0glhxjt6jrmleqbwpd50v32ojvslooh;<span class="tone4">办</span><span class="tone1">公</span>;<span class="tone4">bàn</span><span class="tone1">gōng</span>;werken in een kantoor;[sound:ban4gong1.mp3];;jaar3 les16
