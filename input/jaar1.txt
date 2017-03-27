@@ -166,7 +166,7 @@ rzttw3jxq0c42lo7j70n6ncgil2z84z6;爱;houden van, liefde;
 bs3nazzr4n9k56j02qmfrwxih8hpfnv2;高兴;blij;
 
 week109
-sb4v6s403280akg7dkbdu07ks1bpjmgj;老人;oude persoon, oude mensen;
+sb4v6s403280akg7dkbdu07ks1bpjmgj;老人;oude persoon, bejaarde;
 by1v2evgr5t2fichol33t0unwqd0iumg;玩, 玩儿;spelen, plezier maken, zich amuseren;
 3wcibrvu417yyyz7jj6na8lc9qpak944;姓;achternaam, heten (achternaam);
 k1qkzso9iz8yat43t46x9x0ejh1t3geq;名字;voornaam;
@@ -197,7 +197,7 @@ l8gishdes23fak7u005lkg23xteecmrp;陈;(Chinese familienaam);
 plva73zcwvj24lsttrj0msiqc8fp4aef;电影;film;
 
 week110
-cyve7fj7kwna33qz0adz1ti2e3a4ylfv;姓名;familienaam en gegeven naam (in te vullen op papieren);
+cyve7fj7kwna33qz0adz1ti2e3a4ylfv;姓名;naam;
 w87y6homz6p5d1u3ecix2prekaq44hbe;唱歌;het zingen van een liedje, zingen;
 bbmvz2dq74pgqudup0b5hny8movq5r9g;跳舞;het springen van een dansje, dansen;
 7oc10d74ybsgqsec15y0o99eyk4njwro;容易;gemakkelijk;
@@ -210,8 +210,8 @@ s2z8m0t0tl8s6fs9ywr39juqoao91y1t;可以;kunnen, mogen (iets dat toegelaten is);
 74vdzxungoxx4zpumz70n4pnt2w0j87l;请;iemand iets verzoeken, gelieve ...;
 feryontgjtmsg065bd0xzq39xrggw58m;去;gaan;
 qeponkkpsradepjanepbke04h6ek8wjx;来;komen;
-m6mowzzbkdl65z40ms0r3taa6uwkk2b6;进;betreden (van een ruimte);
-h1rsq67xsufm7m3utpo6k461cs4t90l5;出;verlaten (van een ruimte);
+m6mowzzbkdl65z40ms0r3taa6uwkk2b6;进;een ruimte betreden;
+h1rsq67xsufm7m3utpo6k461cs4t90l5;出;een ruimte verlaten;
 5iedbp6hchq9zx1468cefwnfb4bnavk6;进来;binnen komen;
 n6gh3kz2n5wtbz0plp4p0cqmw3jkfbb9;进去;binnen gaan;
 czogb57foyox8vxck527ouvd64zjmchw;出来;buiten komen;
@@ -262,7 +262,7 @@ do4gdhlicz119esgzkhto0ikxjk6wviz;先..再..;eerst.. vervolgens..;
 week113
 4vcmq95p8kfgs7gv4wes4tl54dvio7ke;上大学;les volgen aan de universiteit;
 pg4j68l626qtw72bpwqsxj9iez3qowu4;上中学;les volgen in het middelbaar;
-nb1cdjfy9v6h69ar4o4qg95wjh96sldx;考试;examen;
+nb1cdjfy9v6h69ar4o4qg95wjh96sldx;考试;examen, test;
 okqur5o2a92ihxs64z8pgj3yoc4hq0og;零;nul;
 hkvyu0kmdjm0iz948t5mgc3u1uzog03k;一;eén;
 pu28ma257nhuxcdua6ebyalilyisuspv;二;twee;
@@ -649,7 +649,7 @@ ue469piuplvq9nezynjhslinfwq5jfty;认识;(iemand) kennen, leren kennen;
 dru76ijir2p28a6phh4v3fqfr2km0sie;高兴;blij;
 59szmbgww5d21ejlazhh3tay5u32yk6k;可以;kunnen, mogen (iets dat toegelaten is);
 lvzc0lylzvf80cvcgw1p6xbcjarald1m;进来;binnen komen;
-1rm9ikuukjrbaksb7s2nhqahewvypmkh;进;betreden (van een ruimte);
+1rm9ikuukjrbaksb7s2nhqahewvypmkh;进;een ruimte betreden;
 njjj17f73smsn0vrsttceh7tfpcapsen;来;komen;
 fspxqjhxn5j5gue93o98pcthwglrv0sm;请;iemand iets verzoeken, gelieve ...;
 8gwfncho9vsa0hhg1nipdd1q2vsniezb;您;u;
@@ -682,7 +682,7 @@ xgf1o5pus08opujhzb6i10frzy19j6l7;这;deze, dit;
 ns47qw8l2746e2id9truy4gjod45d8a4;宿舍;slaapzaal;
 knhso7w0yziqzbo53pg4ccemunzyrsxc;女;vrouw;
 xm67q2o33z3mm0zplghlhvo6jhtdev2n;学生;student;
-y1s4leobbn5s935rstu31rnteo5qw123;进;betreden (van een ruimte);
+y1s4leobbn5s935rstu31rnteo5qw123;进;een ruimte betreden;
 60d6az9poqbtsv2bvjzac68nv0pn8oyl;坐;zitten;
 833al5vhnwj6gq7zoropniw7ma6vcsg5;谢谢;bedankt, dankuwel;
 24yxvcdt0lgnzcgwspu2xv1k0owbhtpo;对不起;sorry;

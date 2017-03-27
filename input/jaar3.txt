@@ -170,7 +170,7 @@ week311
 7rmzgbhs6txsl2dnggpos3lluo4hltcf;免;vermijden;免费 (gratis)
 j50aj5o1d7j68qt9l7pcpdek7qw1atyq;刚刚;zojuist
 s0d8wpn7v6sg1ih90sie0kr9dlb5e2ja;杂志;tijdschrift
-42hm4u7mtp82zkxbgu2x6i20ov9wna0q;翻译;vertaling
+42hm4u7mtp82zkxbgu2x6i20ov9wna0q;翻译;vertalen, vertaling
 cqz5o1j5ef2fqpq4nkprpl2p37oi6za3;一百米;honderd meter
 hbi8v5kni7gafhj63h3e4zekm1qsw3ih;点菜;a la carte
 jsej4zcy4zykw0hoep5tlv6nt15b7wyd;聊天;babbelen
@@ -235,7 +235,7 @@ c8z6qugo0zqbqgqeenj0gpt370xuwigv;工作证;identeteitskaart van het werk
 5mrjwkyp714do3blzz4p2rkd550s6nm7;居留证;residentiebewijs
 b8pmio1uhvykbe5m3ri13fa4a90p86zt;护照;paspoort
 dathps0bn6dxblr8f7km6xwokn11sv4q;学习证明书;studiebewijs
-dkqwabmv931rqdylflyb1rfxytl42ntf;阅览室;leeskamer
+dkqwabmv931rqdylflyb1rfxytl42ntf;阅览室;leeszaal
 ni0ni0a5lbupeyenqqu79932lsc74yyn;国籍;nationaliteit
 
 week316
@@ -248,7 +248,7 @@ rygjuqfi1jj7gt05i5i9j1yyv49fxqg1;进去;binnen gaan
 h7eazh5ubdeiidrlxlocguqp8g65liv8;过来;komen
 a6vls881oe8nkrq1yujkvj3q1c9qcjqt;过去;gaan
 scbqkurwwja5jg9wryo31si6l4x5yayt;船;boot
-6oidiqdj7ebonnca1pfx35z0ql7uxxml;带;dragen
+6oidiqdj7ebonnca1pfx35z0ql7uxxml;带;brengen, dragen
 88rpra36s2jcikst6zl28v3uxbe64tja;农民;boer
 3o1fsithbwj4hzh8m7yovrrl390j1mr7;为你好;voor uw eigen goed
 
@@ -368,3 +368,69 @@ ttvq07tnihngr6uf22y0v7mhd4bghyua;城市;stad
 jgalt3q8tn8t8j9fvcdda2fp81x3yrm5;地方;plaats
 n8bd3z0d7zyuj2gqwonxxpfotgg5f3o3;儿子;zoon
 1a5sxgk8xabehsxn3vyx0bltmslwn50a;菜;bord, gerecht
+
+les16
+qs5ffj00bv4s5qee2ixw52ja52w9vjsz;把;
+2d18anv8q6bwab76r646s6wbdy48h1bz;忘;vergeten
+3n4mn5t0wj2wnmrx635nq53h430ew84n;图书馆;bibliotheek
+ekiyhqrtxinznjidtmt072kskhbovt7i;图书;boeken
+84i7pysiw756l53njqn1ljs110crjs5a;馆;huis, plaats, gebouw
+8kbed158ssbumpkgs9kdf07fbygiv6tn;办公室;kantoor
+q0glhxjt6jrmleqbwpd50v32ojvslooh;办公;werken in een kantoor
+lwp47u1bmdedkckcutejhidewugatis5;室;kamer
+nom3ley0otrso0m4at685fp2c0s1gbhu;上;omhoog, boven, vorige
+pd7tk39c3svd1bere5sf6i0h7utizgik;先;eerst, voor
+vuubyai9xjii7dozqj105tlurgcqdn6a;借书证;bibliotheek-kaart
+rofh07f6q2zzvfxbbh5otmtjkobcwlg4;借;lenen
+25sy4utkahv5epzmg2kk6sabsx4mgrce;证;kaart, bewijs, certificaat
+nxdueiaqhrbun4ngwjr4hvruj8vl0ydn;一会;even
+p3yf7eosx02i212ap6wd0t694istm1w5;下;omlaag, onder, volgende
+l9wt15dl9xnyitzv8la3fzw356obxk9k;带;brengen, dragen
+ca547edjipv99mxmi9amljdv7dzvz7tq;填;invullen
+3z2ncgt18xj60x23xotpdz1cr7am40m4;表;formulier, lijst
+48fan8ipy565ro1h98y7yutkmjx3z1tg;拿;nemen
+ukvgiqzoemwfl66m6cwq4x0whkzqltyk;慢;langzaam
+1vz1tg7hv7r8uucqejib8c3mb14ouksa;不行;het gaat niet
+wl9devmg2l8jtwwsy6e8z738lpgmcys1;生活;leven
+fspcf5ix328hvqgkhhl8b3tmvwkvl01d;自己;zichzelf
+15jcu0aly2g1e9dqwiueo6jc4z6qbxll;姓名;naam
+8m5lqsuqd8g6utaazbevbnnt6m7z8gzu;性别;geslacht
+6tlebacjmiw3zfcaac50rp00rxne2xta;职业;beroep
+2xuzcc791qj2ttozccz4j2egx62k58g2;交;inleveren, afgeven
+ar0al0imod1gfn9mhbuet92jqgmw57vr;长;lang
+m8kw5v29p4x393o2ea1qgn9e4h1k5x3z;考试;examen, test
+0fr2nq9ror4lfvsxclqb8xhyoaebjdhu;考;examen, test
+4pzmv6x3d35se3v9ydjbtqrxrsj7tutd;不错;niet verkeerd, niet slecht
+uhjkaod0iqz4n90y96labl2oat1m8v1w;翻译;vertalen, vertaling
+bv28bkw7gxbl74to1q5ilkj9tlzukwc7;新;nieuw
+s21ed5uuztt8z92c6pk4340pd6r9uvq8;课本;tekstboek
+wb1py21aplsye0ho88vyx6pqzk24qvr8;出;een ruimte verlaten
+cxfu4nytnm0b3pwjt2bl8xruubbv1tyu;还:huán;teruggeven
+tra8lzoiu5npr2pl5ieyg2ph57etllnd;过期;verlopen
+kpfs4l7slvlxh99qb571xzi8tc9ogfiy;过;passeren, vieren
+e5v2zxc3ioo8zc0bt2px7hoycxnewjmc;期;periode
+5sgw36xt5uwkpykftiqgkwz2j1k9s6sl;罚款;boete
+806c1mj8ga4hwucbaym1ftjm1jnm9swo;罚;beboeten
+istrnf4cudmpbolv3yjocq30vvo1m2cd;款;som geld
+6mi6oghzxf0qfs1o61uii5qbvjxmctcv;电脑;computer
+7h1fihsj67xhfq9eb1eg813m94tdee1l;脑;hersenen
+7qvt9y5x3dng2ips7q04y0bktgf2zo65;查;nakijken, checken
+urwzi6cfmdiznplvf700h1vys02ovkj6;实用;praktisch
+krdyrd2n5giswbbiq298tbwfwpll1gni;阅览室;leeszaal
+q8hlfu8r8vdu52vsncjpu9erda26mv43;杂志;tijdschrift
+oisftalonirha376gn7giykogaizsry9;问答;vragen en antwoorden
+ffdujiwcoi6rg66un1bp8g0gqzg5pewu;预订;reserveren
+iitot2v7vzxwk5d2zupdjpqkfbt8wjfc;房间;kamer
+srnn7iazmpwi2iochxkwvkdy1d74bc7e;国籍;nationaliteit
+h9n213peorf5a0ja7mv255a2nrfi55b3;护照;paspoort
+f64tryp6wdan4ece04e8h0r81so0p88l;钥匙;sleutel
+gc64htsoybv4gakhn7qtke1ag8iu7zyq;目录;cataloog, lijst
+n61sth0vu84pb6uoanjeoy85f40xhc3a;续借;vernieuwen
+kj3dx789yj7ua7thw1shy65r1xly4hwf;年龄;leeftijd
+012csdaxh3x1olyjw65yhfuod0urqajx;广东;Guangdong provincie
+rlfxif423xnyj0f5ecuvhiuyyqahxgih;茶楼;restaurant, theehuis
+akis02m06vymzm1hw0pdyn0ub5aetd4p;老人;oude persoon, bejaarde
+9okpjgojt0i02b5xtzjgnji4cole5bmu;开始;beginnen
+n7fe2yjx031qjgcnz5xzjr3apv3zx589;孩子;kind
+s15zde2n9qiv6i0vaau1nne86lpumbgk;热闹;levendig
+lawolhbd6v85uf9dp1x9y3i9b1l422gg;新闻;nieuws

@@ -1,5 +1,5 @@
 v6obz8dy5crnltob46lwf11xmqj5qb0p;<span class="tone4">放</span>;<span class="tone4">fàng</span>;plaatsen, zetten;[sound:fang4.mp3];;jaar2 week222
-0mepu12cb6onhkh1rdtisnyknagfmtrk;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];;jaar1 week116 week118 jaar2 week222
+0mepu12cb6onhkh1rdtisnyknagfmtrk;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];;jaar1 week116 week118 jaar2 week222 jaar3 les16
 1tsh4cid1zxcfkjxsxt6ss186u1p0to8;<span class="tone1">因</span><span class="tone4">为</span>... <span class="tone3">所</span><span class="tone3">以</span>...;<span class="tone1">yīn</span><span class="tone4">wèi</span>... <span class="tone3">suǒ</span><span class="tone3">yǐ</span>...;omdat... daarom...;[sound:yin1wei4suo3yi3.mp3];;jaar2 week222
 zmsxd4ceovh2gqt3f4kgpdl4e60oj3aw;<span class="tone1">只</span>;<span class="tone1">zhī</span>;(maatwoord voor dieren);[sound:zhi1.mp3];;jaar2 week222
 f6f57ujwn0nevy4nhlcz9vktku51tto4;<span class="tone3">只</span>;<span class="tone3">zhǐ</span>;enkel, slechts;[sound:zhi3.mp3];;jaar2 week222

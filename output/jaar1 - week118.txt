@@ -16,7 +16,7 @@ xx7ordg0zye1fd05v1qb2sc6vrz8kipq;<span class="tone1">山</span>;<span class="ton
 cinuqf32ergxherp3m5zkt92zk157rsj;<span class="tone3">孔</span><span class="tone3">子</span>;<span class="tone3">Kǒng</span><span class="tone3">zǐ</span>;Confucius;[sound:kong3zi3.mp3];;jaar1 week118 jaar3 week301
 3yft31eohqs7gx05k3kbn8vf3jk7qn90;<span class="tone2">还</span><span class="tone3">可</span><span class="tone3">以</span>;<span class="tone2">hái</span><span class="tone3">kě</span><span class="tone3">yǐ</span>;het gaat nog;[sound:hai2ke3yi3.mp3];;jaar1 week118 jaar3 week308
 6nf5vgf8un8q5k2eqi3e6a3vmu82fhs6;<span class="tone2">还</span>;<span class="tone2">hái</span>;nog;[sound:hai2.mp3];;jaar1 week118 week119 week123 les08 jaar2 week201 week212 les11
-0mepu12cb6onhkh1rdtisnyknagfmtrk;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];;jaar1 week116 week118 jaar2 week222
+0mepu12cb6onhkh1rdtisnyknagfmtrk;<span class="tone4">慢</span>;<span class="tone4">màn</span>;langzaam;[sound:man4.mp3];;jaar1 week116 week118 jaar2 week222 jaar3 les16
 yv64cgv4zn6rlj4hhx1i2vsylwhnj4p1;<span class="tone4">客</span><span class="tone5">气</span>;<span class="tone4">kè</span><span class="tone5">qi</span>;beleefd;[sound:ke4qi5.mp3];;jaar1 week112 week118 jaar2 week204
 aqdzrck7g5jwzshk4u069j4d0chk0lpm;<span class="tone3">北</span><span class="tone1">京</span>;<span class="tone3">Běi</span><span class="tone1">jīng</span>;Beijing, Peking;[sound:bei3jing1.mp3];;jaar1 week105 week118 jaar2 les09
 1x0tf7xjc0vzuyprj35zrjgklrteipc2;<span class="tone2">南</span><span class="tone1">京</span>;<span class="tone2">Nán</span><span class="tone1">jīng</span>;nanjing;[sound:nan2jing1.mp3];;jaar1 week118

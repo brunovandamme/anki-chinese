@@ -438,9 +438,9 @@ v5uauewa0hk2wjjg74e51dgulbhewwql;今天;vandaag;
 de7kh7934omrywxw9tf9pramc04el7qz;课;les;
 7xji6lb91ttt1dksnxcjytvr2xeflxf5;星期;week;
 g8yrlbyypnta9fzln9y405xbw0j2cj18;上午;voormiddag, 's voormiddags;
-bgfe2ta2wm5px9xl7dhauidby53u5jh2;上;boven, vorige;
+bgfe2ta2wm5px9xl7dhauidby53u5jh2;上;omhoog, boven, vorige;
 8kz1qy1sib1hiahgwxvb2oxq3tvmg33j;下午;namiddag, in de namiddag;
-dlo2h6i8z65dig1k2l7v4xxrb7gk66ga;下;onder, volgende;
+dlo2h6i8z65dig1k2l7v4xxrb7gk66ga;下;omlaag, onder, volgende;
 vpoq6wlfw0m1cteloalqtdv8bx3r9iyo;星期日;zondag;
 7biqehcugpldmrpyeokw8ghwfqvz9csy;号;nummer;
 zi8w81ki4wfxkcfmlb4sfzjxash77agu;生日;verjaardag;
@@ -449,7 +449,7 @@ rj10sl4uhj3ne6z0rt3yv2k890aqimp2;多大;hoe oud?;
 zmd0o4znm0mqdakiobn0tfodmaa3pmwl;多;veel
 ujtczrzkwt9hirhuf4zwwc7b5mjgsirr;大;groot
 acmdqcxmrnoc49tkt8cqgurxl5icz0px;出生;geboren worden;
-cldc8n4lhu8earyu3vgtdkflodlpgj77;出;verlaten (van een ruimte);
+cldc8n4lhu8earyu3vgtdkflodlpgj77;出;een ruimte verlaten;
 ypfvm17bgw0ox5mmlutzxdobmru6573p;属;behoren tot een teken van de Chinese dierenriem;
 9j12ercg6y92lldtojpo4dvy54f3gl9b;聚会;feestje;
 jiau9rj2am69d6t1ygn1jnfphofvkfo6;会;bijeenkomst;
@@ -546,7 +546,7 @@ zeinarbgl5t06gapzsa34dbn1fbqrt3c;差;ontbreken
 wyfktqy53xf4u4by8jozv8todprifjs1;刻;kwartier
 44xch7x0wil8td6btjnhdwss1m6ksmd6;回;terugkeren
 eqazgnrsd0fn9ju05a9esav9ip5vj34l;上课;(beginnen met) les volgen
-jk3fviekyyq3pkkfszpegn754545q7au;上;boven, vorige
+jk3fviekyyq3pkkfszpegn754545q7au;上;omhoog, boven, vorige
 uqrp8uift0755b2r54c2e6e26xohlfqp;能;kunnen (de omstandigheden laten het toe)
 53appsmdm0uqnpqu8rtoenayjznb1kjm;到;bereiken, aankomen
 axhwrhwzhppx0r50tbxfqjcg0k0f0bbn;哪里;beleefde ontkenning

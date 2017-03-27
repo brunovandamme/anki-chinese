@@ -1,5 +1,5 @@
 kbsync358xlswvddez09iubms8cv7b87;<span class="tone2">房</span><span class="tone5">子</span>;<span class="tone2">fáng</span><span class="tone5">zi</span>;huis, woning;[sound:fang2zi5.mp3];;jaar2 week201 week218 week219 les13
-0bfour8640948ppcz3dn29b4mou61dkx;<span class="tone2">房</span><span class="tone1">间</span>;<span class="tone2">fáng</span><span class="tone1">jiān</span>;kamer;[sound:fang2jian1.mp3];;jaar1 week121 jaar2 week219
+0bfour8640948ppcz3dn29b4mou61dkx;<span class="tone2">房</span><span class="tone1">间</span>, <span class="tone4">室</span>;<span class="tone2">fáng</span><span class="tone1">jiān</span>, <span class="tone4">shì</span>;kamer;[sound:fang2jian1shi4.mp3];;jaar1 week121 jaar2 week219 jaar3 les16
 z3nyu6shx0zbz80v5snc4644qxgblv6k;<span class="tone1">间</span>;<span class="tone1">jiān</span>;(maatwoord voor kamers en huizen);[sound:jian1.mp3];;jaar2 week219 les13
 17hqxmfjh2iq17m1ctehb1ee96twefws;<span class="tone4">卧</span><span class="tone4">室</span>;<span class="tone4">wò</span><span class="tone4">shì</span>;slaapkamer;[sound:wo4shi4.mp3];;jaar2 week219 les13
 ia5v6s3rem47ie1jzhwse1twp5vuzxt3;<span class="tone1">花</span><span class="tone2">园</span>;<span class="tone1">huā</span><span class="tone2">yuán</span>;tuin;[sound:hua1yuan2.mp3];;jaar2 week219

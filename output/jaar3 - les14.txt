@@ -2,7 +2,7 @@ z1706btjc4vqci3q78cmy0ag96jqo1m8;<span class="tone1">中</span><span class="tone
 7uitbgng48jius9j2lbgo0z9nyfyisug;<span class="tone1">刚</span><span class="tone2">才</span>;<span class="tone1">gāng</span><span class="tone2">cái</span>;daarnet;[sound:gang1cai2.mp3];;jaar3 les14
 f2sko1ycyjgzmucjpnrwsf3at81buk3y;<span class="tone2">邮</span><span class="tone2">局</span>;<span class="tone2">yóu</span><span class="tone2">jú</span>;postkantoor;[sound:you2ju2.mp3];;jaar3 week302 les14
 3l5an6l5xtd5v636jfwq1perjgdpim1e;<span class="tone2">邮</span>;<span class="tone2">yóu</span>;post;[sound:you2.mp3];;jaar3 les14
-c99bllhvjle325y1qofs7klmzjj644mr;<span class="tone2">局</span>;<span class="tone2">jú</span>;kantoor;[sound:ju2.mp3];;jaar3 les14
+c99bllhvjle325y1qofs7klmzjj644mr;<span class="tone2">局</span>, <span class="tone4">办</span><span class="tone1">公</span><span class="tone4">室</span>;<span class="tone2">jú</span>, <span class="tone4">bàn</span><span class="tone1">gōng</span><span class="tone4">shì</span>;kantoor;[sound:ju2ban4gong1shi4.mp3];;jaar3 les14 les16
 1w1vbz9bau8xdqmoh9lr3psvfitmlrib;<span class="tone4">寄</span>;<span class="tone4">jì</span>;verzenden;[sound:ji4.mp3];;jaar3 les14
 h2cxgwdm5lhb6pmveoe9z08gwahp6czx;<span class="tone3">打</span><span class="tone3">扫</span>;<span class="tone3">dǎ</span><span class="tone3">sǎo</span>;kuisen, poetsen;[sound:da3sao3.mp3];;jaar2 week218 jaar3 week302 les14
 6f4wa4fqn4ydsonlz39c97lgvc5rigtq;<span class="tone3">扫</span>;<span class="tone3">sǎo</span>;vegen;[sound:sao3.mp3];;jaar3 les14
@@ -28,7 +28,7 @@ cvclpdeq5t561xvaxd9kbf1clrs6ktoj;<span class="tone4">课</span><span class="tone
 6ldu01cjcx1xu8iezua52aetgn7cwyzn;<span class="tone4">练</span>;<span class="tone4">liàn</span>;oefenen;[sound:lian4.mp3];;jaar3 les14
 7ptzuukwrnj58svk4ghietr75u21nlb7;<span class="tone3">口</span><span class="tone3">语</span>;<span class="tone3">kǒu</span><span class="tone3">yǔ</span>;gesproken taal;[sound:kou3yu3.mp3];;jaar3 les14
 hpzumn8m44jkqim1ay7cgit7ck5zx2xx;<span class="tone3">语</span><span class="tone3">法</span>;<span class="tone3">yǔ</span><span class="tone3">fǎ</span>;grammatica;[sound:yu3fa3.mp3];;jaar1 week120 jaar3 les14
-r53zy15vlt94jasdw2y8xw9850asgisx;<span class="tone4">过</span>;<span class="tone4">guò</span>;passeren, vieren;[sound:guo4.mp3];;jaar3 les14
+r53zy15vlt94jasdw2y8xw9850asgisx;<span class="tone4">过</span>;<span class="tone4">guò</span>;passeren, vieren;[sound:guo4.mp3];;jaar3 les14 les16
 wivmgz34j7ylj9e681chviqa134fj673;<span class="tone2">节</span>;<span class="tone2">jié</span>;festival;[sound:jie2.mp3];;jaar3 les14
 gavzhxy8cplofiom4rmmjn110fsj9yav;<span class="tone3">礼</span><span class="tone4">物</span>;<span class="tone3">lǐ</span><span class="tone4">wù</span>;geschenk, cadeau;[sound:li3wu4.mp3];;jaar2 week204 les11 jaar3 les14
 77l5dykfj9d78j1jf3bxr1zaqjrgbrg3;<span class="tone4">圣</span><span class="tone4">诞</span><span class="tone2">节</span>, <span class="tone4">圣</span><span class="tone4">诞</span>;<span class="tone4">Shèng</span><span class="tone4">dàn</span><span class="tone2">jié</span>, <span class="tone4">Shèng</span><span class="tone4">dàn</span>;kerstmis;[sound:sheng4dan4jie2sheng4dan4.mp3];;jaar3 week308 les14

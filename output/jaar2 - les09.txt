@@ -6,9 +6,9 @@ asfinxw4q1wrzkm6tvhp1epxt4mju8sl;<span class="tone3">怎</span><span class="tone
 de7kh7934omrywxw9tf9pramc04el7qz;<span class="tone4">课</span>;<span class="tone4">kè</span>;les;[sound:ke4.mp3];;jaar2 les09
 qa6rcgj45a08mm7d36k3qn9patfe1s0a;<span class="tone1">星</span><span class="tone1">期</span>, <span class="tone3">礼</span><span class="tone4">拜</span>;<span class="tone1">xīng</span><span class="tone1">qī</span>, <span class="tone3">lǐ</span><span class="tone4">bài</span>;week;[sound:xing1qi1li3bai4.mp3];;jaar2 week201 week202 les09
 oe4dngdtel2ofhfm3cxy9q0h8g0pknz2;<span class="tone4">上</span><span class="tone3">午</span>;<span class="tone4">shàng</span><span class="tone3">wǔ</span>;voormiddag, 's voormiddags;[sound:shang4wu3.mp3];;jaar1 week123 jaar2 week202 les09
-bgfe2ta2wm5px9xl7dhauidby53u5jh2;<span class="tone4">上</span>;<span class="tone4">shàng</span>;boven, vorige;[sound:shang4.mp3];;jaar2 les09 les11
+bgfe2ta2wm5px9xl7dhauidby53u5jh2;<span class="tone4">上</span>;<span class="tone4">shàng</span>;omhoog, boven, vorige;[sound:shang4.mp3];;jaar2 les09 les11 jaar3 les16
 5opuiz3bfs2cs1d8cc01ttvi5c7w1u0a;<span class="tone4">下</span><span class="tone3">午</span>;<span class="tone4">xià</span><span class="tone3">wǔ</span>;namiddag, in de namiddag;[sound:xia4wu3.mp3];;jaar1 week123 jaar2 week202 les09
-dlo2h6i8z65dig1k2l7v4xxrb7gk66ga;<span class="tone4">下</span>;<span class="tone4">xià</span>;onder, volgende;[sound:xia4.mp3];;jaar2 les09
+dlo2h6i8z65dig1k2l7v4xxrb7gk66ga;<span class="tone4">下</span>;<span class="tone4">xià</span>;omlaag, onder, volgende;[sound:xia4.mp3];;jaar2 les09 jaar3 les16
 9f7im8n59u66fk7tpyaqpbd5f6m0j8g8;<span class="tone1">星</span><span class="tone1">期</span><span class="tone4">日</span>, <span class="tone1">星</span><span class="tone1">期</span><span class="tone1">天</span>;<span class="tone1">Xīng</span><span class="tone1">qī</span><span class="tone4">rì</span>, <span class="tone1">Xīng</span><span class="tone1">qī</span><span class="tone1">tiān</span>;zondag;[sound:xing1qi1ri4xing1qi1tian1.mp3];;jaar2 week201 les09
 s58cwatr854qjkh5d6py1abhwdhrdvl4;<span class="tone4">号</span>;<span class="tone4">hào</span>;nummer;[sound:hao4.mp3];;jaar1 les05 jaar2 les09 les12
 fchksce1zyows5p83fcfmne5kbpelx9k;<span class="tone1">生</span><span class="tone4">日</span>;<span class="tone1">shēng</span><span class="tone4">rì</span>;verjaardag;[sound:sheng1ri4.mp3];;jaar2 week202 les09
@@ -16,7 +16,7 @@ fchksce1zyows5p83fcfmne5kbpelx9k;<span class="tone1">生</span><span class="tone
 03ij0abd8qrmrsqgc8gieygruwotjz14;<span class="tone1">多</span><span class="tone4">大</span>;<span class="tone1">duō</span><span class="tone4">dà</span>;hoe oud?;[sound:duo1da4.mp3];;jaar2 week201 les09
 lq0ss7ovmvtpzzr0kvtn0kopyljurzw2;<span class="tone1">多</span>;<span class="tone1">duō</span>;veel;[sound:duo1.mp3];;jaar1 week106 week112 les08 jaar2 les09
 61pb1476as1tzsa5e5qomhie30nt60c4;<span class="tone4">大</span>;<span class="tone4">dà</span>;groot;[sound:da4.mp3];;jaar1 les08 jaar2 les09
-h1rsq67xsufm7m3utpo6k461cs4t90l5;<span class="tone1">出</span>;<span class="tone1">chū</span>;verlaten (van een ruimte);[sound:chu1.mp3];;jaar1 week111 jaar2 les09
+h1rsq67xsufm7m3utpo6k461cs4t90l5;<span class="tone1">出</span>;<span class="tone1">chū</span>;een ruimte verlaten;[sound:chu1.mp3];;jaar1 week111 jaar2 les09 jaar3 les16
 0fjw3ymb3u7v6zgvis5yadf9zggtfrr3;<span class="tone3">属</span>;<span class="tone3">shǔ</span>;behoren tot een teken van de Chinese dierenriem;[sound:shu3.mp3];;jaar2 week204 les09
 z9s87wmnntpuo276uoi0p7k4jit9q1if;<span class="tone4">聚</span><span class="tone4">会</span>;<span class="tone4">jù</span><span class="tone4">huì</span>;feestje;[sound:ju4hui4.mp3];;jaar2 week204 les09
 jiau9rj2am69d6t1ygn1jnfphofvkfo6;<span class="tone4">会</span>;<span class="tone4">huì</span>;bijeenkomst;[sound:hui4.mp3];;jaar2 les09

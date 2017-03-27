@@ -97,10 +97,10 @@ Of gebruik 所有的:
 
 **Gebruik van 了**
 
-Altijd vlak achter het WW. Indien het complement ook bij het werkwoord wordt gezet, moet het nog voor de 了.
+Altijd vlak achter het complement.
 
-	我回了家来。(??)
-	我带了书来。
+	我回家来了。
+	我带书来了。(??)
 	我带来了书。
 	书我带来了。
 	我把书带来了。	

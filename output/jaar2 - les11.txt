@@ -6,7 +6,7 @@ lfv4p592zysma56j76um04x3dg9d8sl9;<span class="tone4">差</span>;<span class="ton
 z391jmfbybe7yt467xuj4szomn59p0jv;<span class="tone4">刻</span>;<span class="tone4">kè</span>;kwartier;[sound:ke4.mp3];;jaar2 week206 les11
 fedh7h0ndt6f2t9tlgoiges6tvqnnoui;<span class="tone2">回</span>;<span class="tone2">huí</span>;terugkeren;[sound:hui2.mp3];;jaar1 week117 jaar2 les11
 eiovn6vhxclzg63ve1fpqrc0amwfge27;<span class="tone4">上</span><span class="tone4">课</span>;<span class="tone4">shàng</span><span class="tone4">kè</span>;(beginnen met) les volgen;[sound:shang4ke4.mp3];;jaar1 week116 week119 week123 jaar2 les11
-bgfe2ta2wm5px9xl7dhauidby53u5jh2;<span class="tone4">上</span>;<span class="tone4">shàng</span>;boven, vorige;[sound:shang4.mp3];;jaar2 les09 les11
+bgfe2ta2wm5px9xl7dhauidby53u5jh2;<span class="tone4">上</span>;<span class="tone4">shàng</span>;omhoog, boven, vorige;[sound:shang4.mp3];;jaar2 les09 les11 jaar3 les16
 ypjyyxteo6tg7c0toi70zh1qkvz9d9zv;<span class="tone2">能</span>;<span class="tone2">néng</span>;kunnen (de omstandigheden laten het toe);[sound:neng2.mp3];;jaar2 week211 week212 les11
 2dh3rmx3r4kdsjr5f087886anph1uguq;<span class="tone4">到</span>;<span class="tone4">dào</span>;bereiken, aankomen;[sound:dao4.mp3];;jaar2 week212 les11
 axhwrhwzhppx0r50tbxfqjcg0k0f0bbn;<span class="tone3">哪</span><span class="tone3">里</span>;<span class="tone3">nǎ</span><span class="tone3">lǐ</span>;beleefde ontkenning;[sound:na3li3.mp3];;jaar2 les11
