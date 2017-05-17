@@ -220,7 +220,7 @@ zbhuqiwr2vbg85lwxsvzskz6caktsirb;所有的;alle
 b6um663gjosqggesqvx1bc5t565pqzwg;换;veranderen, wisselen
 5dbkfazlqlbhjybytvobpv773l4d48iw;改;veranderen, aanpassen
 lh4lrmzfv7idrcl3fx7umzdko1ca07mi;填表;formulier invullen
-o4lz0vswsocltyb07f0joblvu80gfn6x;性别;geslacht
+o4lz0vswsocltyb07f0joblvu80gfn6x;性别;geslacht;
 nkgmf91fio93sjh85h5jcxx48fqrutgo;其他;ander
 6mi13ov19wqhnic5mlwrhh5oa9re7f7g;分手;scheiden
 
@@ -261,8 +261,86 @@ i0wjhb3sfpzcergupriyky03xz3g5yzp;韩国;Korea
 
 week318
 5ipoiwcmpqrb3l2atbcd0tbpn0gc5ebt;自拍;selfie
+nvqs92c72adl381ge4g0ebyq7rz0iq7h;机场;luchthaven
+v7ywwfremv8k3qsb11f4ltl2ly2hbakd;发短信;smsen
 nrh93kv5ms2s5sn4f39u1zaq09qb8zh0;钥匙;sleutel
 48kukhqxk9uyakitzkhn1cyaawzqlq5b;单位;eenheid
+
+week319
+fz1qyfvofz50e5t4ocp7jc1sz5p8xtp6;已经;al
+8yqxpfgfml6rll8chwjho8bsq66a1lgv;希望;hopen, verwachten
+pn3seiflm6oaoetqqz8hzhyfzsva7xaw;点心;dessert
+zb7xibh27nqgcmrzduskylnwomxjyllp;填表;formulier invullen
+7oa02l4m7nswbvkmr54jrm30m5uebn95;地址;adres
+qlfqx0dfwha5l75o2akjrsb10103v8rq;过敏;allergie
+h7rcf1qbnphjea96cmpcvqmg4t8xp3x1;性;geslacht;性病 geslachtsziekte, 性教育 sexuele voorlichting;
+hrh470x8zgh6czem9gp8510bh80lfwyp;性;karakter, natuur, kwaliteit;慢性病 chronische ziekte, 一次性 eenmalig;
+
+week320
+7eik6zqsuah1a2lq3orhlkv111wpa6jd;校长;directeur, directrice
+gob131x4vycn1bduvz8ksdmv7i10ob6x;院长;decaan
+ck5zlpreb8wxwoyruie0ovk9bbac18u2;局长;secretaris
+rjicj6oqciune2p3n8gal1co7x3qomsg;吃饱了;ik heb genoeg gegeten
+ouuikkg731hxaksm18s32y4lg81nrj1f;饱了;vol;我的肚子饱了
+vpijubqh0p803gnu4sctr8u5q1359g3d;够了;genoeg
+
+week321
+zoqqpd63gvigfdjbcfjb46b2n287exgm;裤子;broek
+1o6ontcebjl3fp65lesrmhcn96hz5tf3;裙子;rok
+06smvdf5cdmo8kimqau6czcm0ovqvhtu;中式衣服;chinese kleding
+7nibctv58pbzlmrng3cidtfpq2g6q06e;法式面包;frans brood
+jwm1hyxavlakwqesa2yqwtqbqiri1ohm;游泳衣;zwemkledij
+206p25zqk289eyxxjmt84acis3t15qum;游泳裤;zwembroek
+p1zer63gbzgnzjfzecman9azrs8npjau;布鞋;traditionele schoenen
+qfcbl87ixwr7ixssmegyjychplop7dfp;睡衣;slaapkledij
+ytv7vil1f8whuqinbmjy08l7ohdmrfh6;非法;illegaal
+kma3mg0cslqykjtbxckuppc9blz8v2c6;合法;legaal
+4ji92yh67b9cyvhpqjsao88ruv3n2cd0;体育课;lichaamelijke opvoeding
+qt2tk1nipw0nvp0mdxihw2qqgmfqtln3;旗袍;cheongsam (traditioneel chinese jurk)
+ag4ym3cwh08yyy2qwsfd7u6vrrsotgup;国旗;vlag
+6hm6lhae698vz5hvho3ap07fydm2vfk2;五星红旗;chinese vlag
+mtwhbeovkpqhfw97vy4bccyb9jaom4yp;丝绸;zijde
+5jtm6sozl6u7n616tbvxud8aom1zpnpf;正式衣服;formele kledij
+
+week322
+50cfyhc1zqkv9pz5vffp9q4adn5gk2bg;轻;licht, zacht; 年轻人 jonge mensen
+6g1q9987o8md12bjpy4z1siw1fh8c0z2;大衣;overjas;bijna hetzelfde als 外套
+8uinuamerohbd96si1ts0x1vqhuenw72;外套;jas;bijna hetzelfde als 大衣
+tgf41prkjxpme0hu9p8691kigmt3iamj;上衣;jacket
+ex3q85i1u7aubwl172nydxiq4mjtxbgi;毛衣;wollen trui, sweater
+dv38w9q25edvj3zep00thi7t7z37klaa;短裤;short
+mscio9effoxm94b8ghmsbg8ngm3rdsav;短裙;rokje
+kfjvs5d9rs1dam2cnup52hlfv3uzdu05;迷你裙;minirok
+2u7oqo841xsaj5lmpz33ezbimj17oetz;迷;betoveren, zot zijn van
+pb31i7fmj5oso2im88ixttr43jdcq5pj;中山装;chinees pak
+s49zi5iy9g1xru77qqhb43lqiuoff8a8;套;maatwoord voor lange dingen (broek, rok, slang, ...)
+pyfs2jy01odqey29cqbdemcm3m64jjjt;套子;condoom
+qjjgsaxf5qsb0kc4z2cil6stolc1uaxo;了不起;verbazend, fantastisch (maatwoord)
+nrj8hrrqhp5mggea0mqi0f0m7l0rhem9;闹;lawaai, luidruchtig
+x6y1lks6i963r8bf2v3m6ql0n6pa18nc;热闹;levendig
+
+week323
+sqxtafudr82z4qxo7ksogj0ldpcpftes;更;zelfs nog
+j74r7nj1qtvsu3oy0o306f1sphys4c1a;还要;nog
+t8q7z6fhqbuqd4dzivo128xrfodsz68e;花的;kledingpatroon
+0egyma8sktegmmldyrivu1bfcmz22ter;颜色;kleur
+btvo4cokv33kotmz4a3nz4ubrvbtsr4q;米色;beige
+tfpgact5db3emy86nn2ry71kpcep7it4;桔红色;oranjerood
+3202b8tfgn29dad5rzyv7c3h9c83qmhm;桔黄色;oranjegeel
+933042a8h67a9j0x8y75b4fosbxycoty;酒红色;bordeauxrood
+ov98xkax7rux10mvd924umrgcro9kyb0;灰色;grijs
+vi3esmcw1j7r4t98m14e8f60y5in2ba0;银色;zilver
+asqy2zb0kqwkn2v108hvwlz9bcdvj6y7;金色;goud
+24ezqqxsu6jb10a5xyogk3iae513oukk;打太极拳;taichi doen; te extreme vuist
+5khqgy6pk0nr9676vryff1cg7t0snfor;气功;ontspanningsoefeningen
+p5zlwsa7xayvoqhtzzgcehvg01qjf6ti;北极;noordpool
+bar4b0zclge5z436gccldqc9zc0h0nkv;南极;zuidpool
+0wh4cjd6xongbr2cgl4qmbod1tq0wpvi;极了;extreem (modifier)
+rwqgospytvc3cknedwiuj1oh3eenthpz;打折;korting;打8折 -20%
+go5k5zrltgx5c0bmkzp67mmk6gumm4so;麻烦;last;麻烦你了 sorry dat ik u lastig val, 一点也不麻烦！geen zorgen
+y49pix8o22rurumha3w80lszxygctezj;进口;import
+7vcolp7jizxopkw0nsl9gfc7jcmolyz6;出口;export
+wr0gxlcajn7cvrm3js4t6293fs9x5enu;当;functie hebben;当医生
 
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags
@@ -394,7 +472,7 @@ ukvgiqzoemwfl66m6cwq4x0whkzqltyk;慢;langzaam
 wl9devmg2l8jtwwsy6e8z738lpgmcys1;生活;leven
 fspcf5ix328hvqgkhhl8b3tmvwkvl01d;自己;zichzelf
 15jcu0aly2g1e9dqwiueo6jc4z6qbxll;姓名;naam
-8m5lqsuqd8g6utaazbevbnnt6m7z8gzu;性别;geslacht
+8m5lqsuqd8g6utaazbevbnnt6m7z8gzu;性别;geslacht;
 6tlebacjmiw3zfcaac50rp00rxne2xta;职业;beroep
 2xuzcc791qj2ttozccz4j2egx62k58g2;交;inleveren, afgeven
 ar0al0imod1gfn9mhbuet92jqgmw57vr;长;lang

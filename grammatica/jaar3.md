@@ -108,3 +108,13 @@ Altijd vlak achter het complement.
 **Bepaald / onbepaald**
 
 Indien het LV naar voor wordt gebracht kan het nooit meer onbepaald zijn.
+
+比 vergelijkingen
+-----------------
+
+A 比 B + (更, 还要) + adjectief + (得多, 多了, 一点儿, 五公分, ...)
+
+	我比你高。
+	我比你大二岁。
+	他比她更高多了。
+	

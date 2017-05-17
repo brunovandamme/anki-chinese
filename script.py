@@ -114,6 +114,7 @@ for cardIndex, card in enumerate(cards):
 						filteredCard['tags'].append(tag)
 				for info in card['info']:
 					if not info in filteredCard['info']:
+						print filteredCard
 						filteredCard['info'].append(info)
 
 				for cardHanziIndex, cardHanzi in enumerate(card['hanzi']):
