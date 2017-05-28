@@ -59,7 +59,7 @@ Gebruik van 拿 / 带
 
 		我带书来。 （meebrengen, geen ommetje voor gedaan)
 
-来 ／ 去 "complement of direction"
+Gebruik van 来 ／ 去 "complement of direction"
 --------------------------------------------------
 
 - Iemand beweegt 进, 出, 上, 下, 过, 回, 起, 到
