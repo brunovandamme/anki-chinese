@@ -286,10 +286,10 @@ a3s0fqjwctqyj6ua9lutd8uyqbyg8r6b;电视;televisie;
 b91f0d4t45n7g8dnnqvsmyxcf446h8x5;新年;nieuwjaar;
 ynokei2eslw9n015gtwrdnafjli4b4m3;什么时候;wanneer?;
 oi14z3mtvx4uw49ag4lhpmlzogz742y0;今天;vandaag;
-c71cuaq9y0w6q0a8qile7jfskr055y62;走;weggaan;
+c71cuaq9y0w6q0a8qile7jfskr055y62;走;gaan, weggaan;
 93ad1gt5rhbl68lfb376oxl4p9udpe61;宿舍;slaapzaal;
 91nsucsii9cyydfdg5sl9lgbzfz9bml1;对不起;sorry;
-vhrmy6c0cmr33ra5gevwctggovbuxgzn;没关系;het geeft niet;
+vhrmy6c0cmr33ra5gevwctggovbuxgzn;没关系;het maakt niet uit;
 a4lbfp4aqwvl6biarul7maq8wrgk05kx;关系;netwerk van relaties;
 
 week115
@@ -688,7 +688,7 @@ y1s4leobbn5s935rstu31rnteo5qw123;进;een ruimte betreden;
 24yxvcdt0lgnzcgwspu2xv1k0owbhtpo;对不起;sorry;
 x5lct4ajn9lbzqvzb4xrn0wo20ja6ctu;我;ik;
 dg5o93i3udp600wnpmoedbq13d1czfkh;知道;weten;
-r75gg9wjxw27pid5nxj1o86ciictkoo1;没关系;het geeft niet;
+r75gg9wjxw27pid5nxj1o86ciictkoo1;没关系;het maakt niet uit;
 f9brpj60cilluu1fdds8rnnmttfcmfzp;好;goed;
 lqa6kqilpoug3y1wjqyajsm2gfwpwucd;再见;tot ziens;
 490nr6je7otvot1m3v0eawdp2al2lepa;再;weer, nog een keer, opnieuw;

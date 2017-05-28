@@ -10,7 +10,7 @@ fmdq910rjx8k9qtfkflk8zqv6oqt84lc;<span class="tone2">博</span><span class="tone
 tgpu8wt22xe5pspzu48pebo9juzyg9ax;<span class="tone1">生</span><span class="tone2">活</span>;<span class="tone1">shēng</span><span class="tone2">huó</span>;leven;[sound:sheng1huo2.mp3];;jaar2 les12 jaar3 week308 les16
 gjx4zftvs0rqci60lfilcp7gg5zsej6c;<span class="tone4">复</span><span class="tone2">活</span><span class="tone2">节</span>;<span class="tone4">Fù</span><span class="tone2">huó</span><span class="tone2">jié</span>;pasen;[sound:fu4huo2jie2.mp3];;jaar3 week308 les14
 19twj9gg1ykyr3d4l3pcqtguds4ivvvc;<span class="tone2">晴</span>;<span class="tone2">qíng</span>;zonnig;[sound:qing2.mp3];;jaar3 week308 les14
-v307jfw3xwcrx63xgxgodnlafiimwow4;<span class="tone3">短</span>;<span class="tone3">duǎn</span>;kort;[sound:duan3.mp3];;jaar2 week210 jaar3 week308
+v307jfw3xwcrx63xgxgodnlafiimwow4;<span class="tone3">短</span>;<span class="tone3">duǎn</span>;kort;[sound:duan3.mp3];;jaar2 week210 jaar3 week308 les17
 1v84wypygfffnl05yps261vazju3d14n;<span class="tone1">包</span>;<span class="tone1">bāo</span>;(hand)tas;[sound:bao1.mp3];;jaar2 week209 jaar3 week308
 djgz8p63lmm21onu5xctygm5xpqac1h9;<span class="tone1">包</span><span class="tone3">裹</span>;<span class="tone1">bāo</span><span class="tone3">guǒ</span>;pakje, pakket;[sound:bao1guo3.mp3];;jaar3 week308 les14
 fwee5mmmzljkf1s8t8yhp2taxkxkepq6;<span class="tone1">惊</span><span class="tone3">喜</span>;<span class="tone1">jīng</span><span class="tone3">xǐ</span>;aangenaam verrast;[sound:jing1xi3.mp3];;jaar3 week308 les14

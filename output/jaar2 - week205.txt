@@ -1,5 +1,5 @@
-9r99z8cd00uu0kfnyswuam9oi1sjhn5t;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];;jaar2 week205 week210 week211 les09
-4f67lt2ttecuiqyjjieu2yf5hldvir8w;<span class="tone2">白</span>;<span class="tone2">bái</span>;wit;[sound:bai2.mp3];;jaar2 week205 week211
+9r99z8cd00uu0kfnyswuam9oi1sjhn5t;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];;jaar2 week205 week210 week211 les09 jaar3 les17
+4f67lt2ttecuiqyjjieu2yf5hldvir8w;<span class="tone2">白</span>;<span class="tone2">bái</span>;wit;[sound:bai2.mp3];;jaar2 week205 week211 jaar3 les17
 v1wtqiz79cd7c40rs6m654l9a9rw27nx;<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les09
 hh47fykkd5k90jqf0funntb3q07m9mml;<span class="tone2">瓶</span><span class="tone5">子</span>;<span class="tone2">píng</span><span class="tone5">zi</span>;een fles (het voorwerp);[sound:ping2zi5.mp3];;jaar2 week205
 eczkynw2xedx8ex0pllim8izo3usvbgg;<span class="tone1">杯</span>;<span class="tone1">bēi</span>;glas, tas (maatwoord);[sound:bei1.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les10

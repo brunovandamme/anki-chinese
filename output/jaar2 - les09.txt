@@ -31,7 +31,7 @@ evsn1ai8k9a2fb5jgs288mxqghv1zmb9;<span class="tone4">蛋</span><span class="tone
 hoehy9nlifynt7463xiktq56xie9ghui;<span class="tone3">买</span>;<span class="tone3">mǎi</span>;kopen;[sound:mai3.mp3];;jaar1 week119 week120 jaar2 week208 les09
 v1wtqiz79cd7c40rs6m654l9a9rw27nx;<span class="tone2">瓶</span>;<span class="tone2">píng</span>;fles (maatwoord);[sound:ping2.mp3];;jaar1 week121 week122 week125 week126 jaar2 week205 les09
 2t3x1z2htapi2x2lltk8vfdn3u2hmysd;<span class="tone2">红</span><span class="tone2">葡</span><span class="tone2">萄</span><span class="tone3">酒</span>;<span class="tone2">hóng</span><span class="tone2">pú</span><span class="tone2">táo</span><span class="tone3">jiǔ</span>;rode wijn;[sound:hong2pu2tao2jiu3.mp3];;jaar2 les09
-9r99z8cd00uu0kfnyswuam9oi1sjhn5t;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];;jaar2 week205 week210 week211 les09
+9r99z8cd00uu0kfnyswuam9oi1sjhn5t;<span class="tone2">红</span>;<span class="tone2">hóng</span>;rood;[sound:hong2.mp3];;jaar2 week205 week210 week211 les09 jaar3 les17
 zoayjsedfp1ts9i0tjdwnkmih00603rn;<span class="tone2">葡</span><span class="tone5">萄</span>;<span class="tone2">pú</span><span class="tone5">tao</span>;druif;[sound:pu2tao5.mp3];;jaar2 week210 les09 les10
 g59pg1uctddm6x43qftmdunbdocv66il;<span class="tone3">酒</span>;<span class="tone3">jiǔ</span>;alcohol;[sound:jiu3.mp3];;jaar2 les09
 aqdzrck7g5jwzshk4u069j4d0chk0lpm;<span class="tone3">北</span><span class="tone1">京</span>;<span class="tone3">Běi</span><span class="tone1">jīng</span>;Beijing, Peking;[sound:bei3jing1.mp3];;jaar1 week105 week118 jaar2 les09

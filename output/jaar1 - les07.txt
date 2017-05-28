@@ -2,7 +2,7 @@
 2h5hch0p4qqjuwbtstnzlg0saff9czk1;<span class="tone1">开</span>;<span class="tone1">kāi</span>;openen, starten;[sound:kai1.mp3];;jaar1 les07
 zn3mhcerg5ni21pggllkxqxrw1511ckf;<span class="tone3">很</span>;<span class="tone3">hěn</span>;heel;[sound:hen3.mp3];;jaar1 week102 les01 les07
 bs3nazzr4n9k56j02qmfrwxih8hpfnv2;<span class="tone1">高</span><span class="tone4">兴</span>;<span class="tone1">gāo</span><span class="tone4">xìng</span>;blij;[sound:gao1xing4.mp3];;jaar1 week108 week111 les04 les07
-ctkdes0go6ccboqxz6jqjsw261d8ks3h;<span class="tone1">高</span>;<span class="tone1">gāo</span>;groot (van gestalte);[sound:gao1.mp3];;jaar1 week103 les07 jaar2 week210 week218
+ctkdes0go6ccboqxz6jqjsw261d8ks3h;<span class="tone1">高</span>;<span class="tone1">gāo</span>;groot (van gestalte);[sound:gao1.mp3];;jaar1 week103 les07 jaar2 week210 week218 jaar3 les17
 rx2bxvbax7q0848n9e43dldh2bze8y4g;<span class="tone4">看</span>;<span class="tone4">kàn</span>;zien, kijken, bekijken;[sound:kan4.mp3];;jaar1 week107 les07
 r6lma59hqeul2y5a435nk55y1hc54quh;<span class="tone4">问</span>;<span class="tone4">wèn</span>;vragen;[sound:wen4.mp3];;jaar1 week111 les04 les05 les07
 19pgfbz4nej4u1gyzrt1na7ftqlyu112;<span class="tone1">一</span><span class="tone4">下</span>;<span class="tone1">yī</span><span class="tone4">xià</span>;eens, even;[sound:yi1xia4.mp3];;jaar1 week120 les07

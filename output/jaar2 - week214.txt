@@ -1,7 +1,7 @@
 db4u17xa4lh870pbouu18uuhdehy7qy2;<span class="tone2">词</span><span class="tone3">典</span>;<span class="tone2">cí</span><span class="tone3">diǎn</span>;woordenboek;[sound:ci2dian3.mp3];;jaar1 les08 jaar2 week214 week223
 4w7csw2aie3ovooy3y4fuh811hq67l3d;<span class="tone3">可</span><span class="tone4">爱</span>;<span class="tone3">kě</span>'<span class="tone4">ài</span>;schattig;[sound:ke3ai4.mp3];;jaar1 week109 les08 jaar2 week214
 dsnrr7asipd1zhvvo25d5jv896mx7qr2;<span class="tone3">可</span><span class="tone4">怕</span>;<span class="tone3">kě</span><span class="tone4">pà</span>;akelig;[sound:ke3pa4.mp3];;jaar2 week214
-p2uvjj8grtfp4gmmiy8k0kk1wg1g6da3;<span class="tone2">觉</span><span class="tone5">得</span>;<span class="tone2">jué</span><span class="tone5">de</span>;vinden, van mening zijn dat;[sound:jue2de5.mp3];;jaar1 week119 jaar2 week214
+p2uvjj8grtfp4gmmiy8k0kk1wg1g6da3;<span class="tone2">觉</span><span class="tone5">得</span>;<span class="tone2">jué</span><span class="tone5">de</span>;vinden, van mening zijn dat;[sound:jue2de5.mp3];;jaar1 week119 jaar2 week214 jaar3 les17
 upeauvsaq9c86s1oyoxx39oaw5rui5at;<span class="tone3">等</span>;<span class="tone3">děng</span>;wachten, wachten op;[sound:deng3.mp3];;jaar2 week214 les13
 iwivz8dsl6uotzi5ku6sm767jywhv2ef;<span class="tone4">病</span>;<span class="tone4">bìng</span>;ziek zijn, ziekte;[sound:bing4.mp3];;jaar2 week214 les12
 vow9cas97hbrl3axwy84adyd7dz4uska;<span class="tone4">看</span><span class="tone4">病</span>;<span class="tone4">kàn</span><span class="tone4">bìng</span>;de dokter consulteren;[sound:kan4bing4.mp3];;jaar2 week214 les12
@@ -14,7 +14,7 @@ rn2ccdbjwt72hj82vflhmpszd76t7med;<span class="tone3">口</span>;<span class="ton
 97tcuo0on5lbez2bojjprcbv44n2m9fa;<span class="tone2">牙</span>,  <span class="tone2">牙</span><span class="tone3">齿</span>;<span class="tone2">yá</span>,  <span class="tone2">yá</span><span class="tone3">chǐ</span>;tand;[sound:ya2ya2chi3.mp3];;jaar2 week214 les12
 dhnkow84z4wytg97neawgdoo4owmtjjc;<span class="tone2">舌</span><span class="tone5">头</span>;<span class="tone2">shé</span><span class="tone5">tou</span>;tong;[sound:she2tou5.mp3];;jaar2 week214
 uswfq5sd6xh7v26q9jc4jr6cvrvubmb7;<span class="tone2">头</span>;<span class="tone2">tóu</span>;hoofd;[sound:tou2.mp3];;jaar2 week214 les12
-fpmctg3xjza82in49i5b52mmv099kdzs;<span class="tone2">头</span><span class="tone5">发</span>;<span class="tone2">tóu</span><span class="tone5">fa</span>;haar;[sound:tou2fa5.mp3];;jaar2 week214
+fpmctg3xjza82in49i5b52mmv099kdzs;<span class="tone2">头</span><span class="tone5">发</span>;<span class="tone2">tóu</span><span class="tone5">fa</span>;haar;[sound:tou2fa5.mp3];;jaar2 week214 jaar3 les17
 1vgv15cr4ulp2uxqhvqqkushnb332zbo;<span class="tone1">舒</span><span class="tone5">服</span>;<span class="tone1">shū</span><span class="tone5">fu</span>;comfortabel, goed;[sound:shu1fu5.mp3];ik voel me niet zo goed<br>我有一点不舒服<br><br>waar voel je je niet goed?<br>你哪儿不舒服？;jaar2 week214 week216 les12
 k9kgu9nqwkq8lkguu4lsazrxlrzci04k;<span class="tone1">肩</span><span class="tone3">膀</span>;<span class="tone1">jiān</span><span class="tone3">bǎng</span>;schouder;[sound:jian1bang3.mp3];;jaar2 week214
 3wrao5l58qqxise0w0t3bebfp9ayqmms;<span class="tone4">屁</span><span class="tone5">股</span>;<span class="tone4">pì</span><span class="tone5">gu</span>;poep;[sound:pi4gu5.mp3];;jaar2 week214

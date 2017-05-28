@@ -3,11 +3,11 @@ inkqaf3rszgvg6iktuk7vqth1bl8j2ll;<span class="tone1">香</span><span class="tone
 333rdstyhq75i78zcra10ln3z9bpnvti;<span class="tone4">面</span><span class="tone1">包</span>;<span class="tone4">miàn</span><span class="tone1">bāo</span>;brood;[sound:mian4bao1.mp3];;jaar1 week116 jaar2 week208 week209 les09
 aszbc7yx0jtjft2y79b3ig753f1zio3f;<span class="tone4">汽</span><span class="tone3">水</span>;<span class="tone4">qì</span><span class="tone3">shuǐ</span>;frisdrank;[sound:qi4shui3.mp3];;jaar2 week209
 aemvlbuk6vitvrxp2157ai4gyjj4g0um;<span class="tone2">桔</span><span class="tone5">子</span>;<span class="tone2">jú</span><span class="tone5">zi</span>;mandarijn;[sound:ju2zi5.mp3];;jaar2 week209
-zhwr4y8jt1z0h7glj21foi901ktskvr9;<span class="tone2">鞋</span>,  <span class="tone2">鞋</span><span class="tone5">子</span>;<span class="tone2">xié</span>,  <span class="tone2">xié</span><span class="tone5">zi</span>;schoen;[sound:xie2xie2zi5.mp3];;jaar2 week209
+zhwr4y8jt1z0h7glj21foi901ktskvr9;<span class="tone2">鞋</span>,  <span class="tone2">鞋</span><span class="tone5">子</span>;<span class="tone2">xié</span>,  <span class="tone2">xié</span><span class="tone5">zi</span>;schoen;[sound:xie2xie2zi5.mp3];;jaar2 week209 jaar3 les17
 9eiygjrp8l1b44imp885r08vy83wr4tr;<span class="tone2">皮</span><span class="tone2">鞋</span>;<span class="tone2">pí</span><span class="tone2">xié</span>;leren schoen;[sound:pi2xie2.mp3];;jaar2 week209
-w8p2s63654xpylfy6a4gtj8erliwldz0;<span class="tone1">双</span>;<span class="tone1">shuāng</span>;een paar (maatwoord);[sound:shuang1.mp3];;jaar2 week209
+w8p2s63654xpylfy6a4gtj8erliwldz0;<span class="tone1">双</span>;<span class="tone1">shuāng</span>;een paar (maatwoord);[sound:shuang1.mp3];;jaar2 week209 jaar3 les17
 1v84wypygfffnl05yps261vazju3d14n;<span class="tone1">包</span>;<span class="tone1">bāo</span>;(hand)tas;[sound:bao1.mp3];;jaar2 week209 jaar3 week308
 crryew9r1s6dawjn2nryyg2oo68a86e3;<span class="tone3">百</span>;<span class="tone3">bǎi</span>;honderd;[sound:bai3.mp3];;jaar1 week116 week122 les08 jaar2 week209
 77hgkobi29nqoy2ezp29f1uy17nqemuu;<span class="tone1">千</span>;<span class="tone1">qiān</span>;duizend;[sound:qian1.mp3];;jaar2 week209 week220 jaar3 les15
-eufx5ufmf6aw67qnqrj832lsitzie4bf;<span class="tone4">便</span><span class="tone5">宜</span>;<span class="tone4">piàn</span><span class="tone5">yi</span>;goedkoop;[sound:pian4yi5.mp3];;jaar2 week209 les10
+eufx5ufmf6aw67qnqrj832lsitzie4bf;<span class="tone4">便</span><span class="tone5">宜</span>;<span class="tone4">piàn</span><span class="tone5">yi</span>;goedkoop;[sound:pian4yi5.mp3];;jaar2 week209 les10 jaar3 les17
 rcaw208ndokvzupfrqsniy3js3zlqmtw;<span class="tone3">找</span><span class="tone2">钱</span>;<span class="tone3">zhǎo</span><span class="tone2">qián</span>;wisselgeld geven;[sound:zhao3qian2.mp3];;jaar2 week209 les10

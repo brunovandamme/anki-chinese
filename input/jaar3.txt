@@ -160,7 +160,7 @@ xupt8j65swnnq7w5dw4tksa5xjo7xc7o;胖;dik
 2of59tzjxvfo4j9e1i35cwk29gtetx1u;骗;bedriegen, misleiden
 
 week310
-96ge4hrmeeud5mh3lbrnp8dxylx7zajb;走;weggaan
+96ge4hrmeeud5mh3lbrnp8dxylx7zajb;走;gaan, weggaan
 kpns036oak82le07tmy1jaf4z26z987r;走路;gaan
 6vqmgovmqe83l3x6pasykrcg3zlu9kzz;散步;het verspreiden van passen, wandelen (ter ontspanning)
 1y7xbwsd5i72mfmh6dfqi57iosh3enpx;如果;als
@@ -204,7 +204,8 @@ zxrf844mygcw82h8du72r2gj7rf65ydd;故事;verhaal
 weyuj6pnhi7bv5eflpexhuzs2a3yola0;自杀;zelfmoord
 plcv2ngao6n8evzjlxmyqhl1wdlb884q;进步;vooruitgang
 nlzmpz2o99g7p5rclarbxb0frecltei6;渴;dorstig
-iusoc40ezvjtnawh11hr5z7tx837ha5k;空间;ruimte
+iusoc40ezvjtnawh11hr5z7tx837ha5k;空间;ruimte;
+7ooukf8x6hvrl0dg4y009mhlg0w7gad0;太空人;ruimtevaarder
 06j13b86t61s77fhg53udi8lfxngdzg3;马上;onmiddelijk
 malymhow26hpjoj60sug0eacu705rwgk;狼;wolf
 
@@ -313,7 +314,7 @@ mscio9effoxm94b8ghmsbg8ngm3rdsav;短裙;rokje
 kfjvs5d9rs1dam2cnup52hlfv3uzdu05;迷你裙;minirok
 2u7oqo841xsaj5lmpz33ezbimj17oetz;迷;betoveren, zot zijn van
 pb31i7fmj5oso2im88ixttr43jdcq5pj;中山装;chinees pak
-s49zi5iy9g1xru77qqhb43lqiuoff8a8;套;maatwoord voor lange dingen (broek, rok, slang, ...)
+s49zi5iy9g1xru77qqhb43lqiuoff8a8;套;(maatwoord voor sets)
 pyfs2jy01odqey29cqbdemcm3m64jjjt;套子;condoom
 qjjgsaxf5qsb0kc4z2cil6stolc1uaxo;了不起;verbazend, fantastisch (maatwoord)
 nrj8hrrqhp5mggea0mqi0f0m7l0rhem9;闹;lawaai, luidruchtig
@@ -336,11 +337,22 @@ asqy2zb0kqwkn2v108hvwlz9bcdvj6y7;金色;goud
 p5zlwsa7xayvoqhtzzgcehvg01qjf6ti;北极;noordpool
 bar4b0zclge5z436gccldqc9zc0h0nkv;南极;zuidpool
 0wh4cjd6xongbr2cgl4qmbod1tq0wpvi;极了;extreem (modifier)
-rwqgospytvc3cknedwiuj1oh3eenthpz;打折;korting;打8折 -20%
+rwqgospytvc3cknedwiuj1oh3eenthpz;打折;verkopen met korting;打8折 -20%
 go5k5zrltgx5c0bmkzp67mmk6gumm4so;麻烦;last;麻烦你了 sorry dat ik u lastig val, 一点也不麻烦！geen zorgen
 y49pix8o22rurumha3w80lszxygctezj;进口;import
 7vcolp7jizxopkw0nsl9gfc7jcmolyz6;出口;export
 wr0gxlcajn7cvrm3js4t6293fs9x5enu;当;functie hebben;当医生
+
+week324
+wpp5w7d0p29eqfkciykcyob0los87i8c;全球化;globalisering
+6m30hw8autw96bmda6ref9p6tnxoz6k7;太平洋;Grote Oceaan
+gtisbj35h24tomlztqqr8tbdv8spqr7r;南亚;Zuid-Azië
+wyxrdcrerg4yr9ra5bjb15h36qu1pkjx;地中海;Middellandse Zee
+ykb8gg2l3u1jmfky16fexf0vfviomkp3;骆驼;kameel
+g0m3n95xuv878ig50fe55n2316zil39e;带;lint
+1qsnlvbbdusiuvx5ckcsgzacv4sgi2ms;海盗;piraat
+k0ra196dkbwngwyzvot91x54mrz2f7gb;洋;oceaan
+0znj5fpnocmmpgan7j9tbuawppu0tjm9;短路了;kortsluiting, binnenweg
 
 les14
 e8vlnuzwggda1fp2229g6d6m07jlycxk;中午;middag, 's middags
@@ -512,3 +524,60 @@ akis02m06vymzm1hw0pdyn0ub5aetd4p;老人;oude persoon, bejaarde
 n7fe2yjx031qjgcnz5xzjr3apv3zx589;孩子;kind
 s15zde2n9qiv6i0vaau1nne86lpumbgk;热闹;levendig
 lawolhbd6v85uf9dp1x9y3i9b1l422gg;新闻;nieuws
+
+les17
+c1feaon3rs50z9v0g2y5mqpaq6xq2ism;旗袍;cheongsam (traditioneel chinese jurk)
+jz9c2av0vjp8ts1zdin4jg6kp0dxbjez;比;vergelijken, in vergelijking met
+3cozcm4fr3q7zbxarffsl5vbmift42gd;卖;verkopen
+yg9ollqdevdgrp2ftd1datj7jrvoz2sg;中式;Chinese stijl
+5rgyi1o5a12q9u4m3q7d0m8y9o6k0mqt;式;stijl
+mloo80htixuftjj9txhvfvoaldii7dw8;已经;al
+3rz8lrlsuw6klxdhlk2y8d7a45p5tk4o;商店;winkel
+l4rl47rnay297lel32omt809lekbmivc;商;handel
+uvsrgyw1ar04gd00q6ke4vrinrf1e4rn;店;winkel
+11ldeikil1l2q9yd5puaa1cgaa6y626v;极了;extreem (modifier)
+y7kl84b5ynvwmoggz50qkvg0wtly26k3;一定;zeker
+39lhth2owljtjv83xu7y8a5jb5el1r65;差;subpar, slecht
+sqmf92coq68tutjjcsfx6kkq44wu2lln;开始;beginnen
+feog5dnpw5fcz2dc6odlj99k7bhjl41f;太极拳;tai chi
+lipe3au7bn5qs75dvi88kz7cojwju9ac;套;(maatwoord voor sets)
+egygdcizzhx1p6515d33nbmlglc70n5a;帅;knap (om mannen te beschrijven)
+6h9g60025165pj2d3f9ftp4rkcdfoif0;颜色;kleur
+css2cr4wvvq6w4gduhsnug9lnqecc6gv;黑;zwart
+k7civjrkn2ngvcz9bld7ev5mm6mvhdj8;红;rood
+wx728myv7r34p3abah979l582rjgsv4r;白;wit
+onp3ho0o05pdxy4si6spg6uh357czua5;便宜;goedkoop
+lql350e6t1hlhqj57xvj3hshxaokhl19;没关系;het maakt niet uit
+dsz892u8j9dzt0b5b4k2mio5mb9n2k8c;公园;park
+qsn81y9co67h8pjb3acbbn4ny8wsmrjg;走;gaan, weggaan
+zen9gm2kumlcgbh5f5zsr074vbcpsp6n;小时;uur
+dsk6ecvy8xctj6piuj9h7t1lnbra84jf;过去;gaan
+ln6ywfuo5gsy1im6qfzjpruybtqwybll;衬衫;shirt
+c6008u5ocn0wxwbw6qanl3j4g5l8bujp;绿;groen
+r49ej4whi7blve543y7b5j82399zd1sm;样子;uitzicht, vorm, verschijning
+akug5djak16e3i37j5v4te2t0if9qp1p;售货员;verkoper
+vacal1touwlz5t8of0ioqi332pq4lsqc;售;verkopen
+gn20sm1jzau465lavj00bz8dxgy6wuup;货;goederen
+z3siebin7rannmbz5vl25926zjaq5x0o;试;(kleding) passen
+ggyalhcvsmpetlo8ql0bphlo9padwvwe;觉得;vinden, van mening zijn dat
+ssttfxdwdyao67bkkev3fz9l4pe1ja5f;合适;geschikt
+7z71kd2he1zk3bzb0czv5sml1g5lvzpt;短;kort
+fkg2dumbxqmy9qy27iilsi8f4zayf60n;高;groot (van gestalte)
+sbtx2ez3eh1udn6pwcx2hbr5bs3yz4g7;公分;centimeter
+nmhiae9epm421mqu1u0rz60rplrrz5lt;麻烦;last
+dyc4fbw9eyy5wzk1wb7knqo5xvi4zea7;丝绸;zijde
+g96jx3n3rr0by01s232utjq0lo6n4x8k;西服;Westerse kledij
+onysnzzv17yojzu140jcz7hgdsbk22i8;双;een paar (maatwoord)
+dcsi50mtfu9r1o6cb9ao9m55g0tmsn0j;鞋;schoen
+ypjw8nnom3mg2nxlt7dq4cxy48w7vbwf;头发;haar
+1hlga0jmrrzqxm9wf6re2r5rt0zf6ast;打折;verkopen met korting
+jfjb6lo4nz8invf9801f4rn78esjrb6u;条;(maatwoord voor broeken, rokken, slangen, ...)
+ea7pr3wb5eqcvm2yosyi77wkln9ac9sm;裤子;broek
+04bsq5ohwmt6dh8zemjegyrm5qbk5ps5;相声;komische dialoog
+fmyfroyl7cbhe1pqezs9noecd2uon7xu;了不起;verbazend, fantastisch (maatwoord)
+mbq7xoldpnxk447ogq5nsrd4rd4st01j;薄;dun
+p5ybf54rdjrkxq7fppmpbemya2jbgzms;页;pagina
+b74l4ve7qn8bn9wjlufs96c1vgwivamk;料子;materiaal (kleding)
+ajqaoxco5drbe70l1rg9aeqvkhi00jkr;布;stof (kleding)
+e4uiko3p49w6twd7qm3ud2uyflukupqn;总是;altijd
+7nepgid9nmoesl08gq8jn2reeb1kkh6j;表;horloge
