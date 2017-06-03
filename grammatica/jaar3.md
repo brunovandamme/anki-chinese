@@ -7,7 +7,7 @@ Gebruik van 一点儿
 
 * voor een zelfstandig naamwoord:
 
-		他要少吃一点儿巧克力。
+		他吃一点儿巧克力。
 
 * achter 早／快，晚／慢: _(als tijdsbepaling)_
 
@@ -16,6 +16,20 @@ Gebruik van 一点儿
 * achter een adjectief: _(als beschrijving hoe de actie in de toekomst moet gebeuren)_
 
 		你要说快一点儿。
+
+Gebruik van 多 ／ 少
+---------------
+Altijd vlak voor het werkwoord.
+
+	多吃苹果。
+	少买一点儿衣服。
+
+Gebruik van 过 "ooit"
+---------------
+
+Altijd vlak achter het werkwoord.
+
+	她去过法国。
 
 Gebruik van 得 "complement of description"
 ---------------
@@ -51,13 +65,13 @@ Of gebruik 所有的:
 Gebruik van 拿 / 带
 --------
 
-- 拿: nemen
+- 拿: nemen (halen, een ommetje voor gedaan)
 
-		我拿书来。 (halen, een ommetje voor gedaan)
+		我拿书来。
 
-- 带: dragen
+- 带: dragen（meebrengen, geen ommetje voor gedaan)
 
-		我带书来。 （meebrengen, geen ommetje voor gedaan)
+		我带书来。
 
 Gebruik van 来 ／ 去 "complement of direction"
 --------------------------------------------------
