@@ -11,7 +11,7 @@ config = {
 	'debug': False,
 	'input': {
 		'path': 'input/',
-		'filenames': ['jaar1.txt', 'jaar2.txt', 'jaar3.txt'],
+		'filenames': ['jaar1.txt', 'jaar2.txt', 'jaar3.txt', 'jaar4.txt'],
 	},
 	'output': {
 		'path': 'output/',

@@ -3,7 +3,7 @@ hgzqy6vuj22qyqp4wcy9zxflp83m3iga;<span class="tone4">念</span>;<span class="ton
 lfjp4s8irjj4x42osddk2ta2b3r6tfrq;<span class="tone4">样</span>;<span class="tone4">yàng</span>;vorm;[sound:yang4.mp3];;jaar3 week303
 3oreprsfw8idi51820e8sjcnfjd4gxr6;<span class="tone1">一</span><span class="tone4">样</span>;<span class="tone1">yī</span><span class="tone4">yàng</span>;hetzelfde;[sound:yi1yang4.mp3];;jaar2 week210 week220 jaar3 week303
 s311msxv0tyro8ji0d7cmjzueqqv8u4f;<span class="tone4">面</span>;<span class="tone4">miàn</span>;gezicht;[sound:mian4.mp3];他们给我面子;jaar3 week303
-wove20qv3g8afocjo928nlrzeixjpto9;<span class="tone2">年</span><span class="tone2">级</span>;<span class="tone2">nián</span><span class="tone2">jí</span>;jaar (niveau);[sound:nian2ji2.mp3];;jaar1 week125 jaar2 week201 jaar3 week303
+wove20qv3g8afocjo928nlrzeixjpto9;<span class="tone2">年</span><span class="tone2">级</span>;<span class="tone2">nián</span><span class="tone2">jí</span>;jaar (niveau);[sound:nian2ji2.mp3];<br><br>我是四年级学生;jaar1 week125 jaar2 week201 jaar3 week303 jaar4 week401
 uk1scr5q3t2pecaybbmsu18i1xfqzwi8;<span class="tone3">普</span><span class="tone1">通</span>;<span class="tone3">pǔ</span><span class="tone1">tōng</span>;doorsnee, normaal, frequent;[sound:pu3tong1.mp3];;jaar3 week303 les15
 cj33va98fbujwubhq1lbptx0rwjuw4ti;<span class="tone3">普</span><span class="tone1">通</span><span class="tone4">话</span>;<span class="tone3">pǔ</span><span class="tone1">tōng</span><span class="tone4">huà</span>;Mandarijn;[sound:pu3tong1hua4.mp3];;jaar1 week107 jaar3 week303 les15
 yvuippcchsgo1sjh6vge5cb3u4ue5v7d;<span class="tone1">通</span>;<span class="tone1">tōng</span>;doorgaan;[sound:tong1.mp3];;jaar3 week303

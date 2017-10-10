@@ -3,7 +3,7 @@ kbsync358xlswvddez09iubms8cv7b87;<span class="tone2">房</span><span class="tone
 z3nyu6shx0zbz80v5snc4644qxgblv6k;<span class="tone1">间</span>;<span class="tone1">jiān</span>;(maatwoord voor kamers en huizen);[sound:jian1.mp3];;jaar2 week219 les13
 17hqxmfjh2iq17m1ctehb1ee96twefws;<span class="tone4">卧</span><span class="tone4">室</span>;<span class="tone4">wò</span><span class="tone4">shì</span>;slaapkamer;[sound:wo4shi4.mp3];;jaar2 week219 les13
 ia5v6s3rem47ie1jzhwse1twp5vuzxt3;<span class="tone1">花</span><span class="tone2">园</span>;<span class="tone1">huā</span><span class="tone2">yuán</span>;tuin;[sound:hua1yuan2.mp3];;jaar2 week219
-2r5u1dhw8bzznxdfy030wokd8y9ev6wi;<span class="tone1">车</span><span class="tone4">库</span>;<span class="tone1">chē</span><span class="tone4">kù</span>;garage;[sound:che1ku4.mp3];;jaar2 week219
+2r5u1dhw8bzznxdfy030wokd8y9ev6wi;<span class="tone1">车</span><span class="tone4">库</span>;<span class="tone1">chē</span><span class="tone4">kù</span>;garage;[sound:che1ku4.mp3];;jaar2 week219 jaar4 week401
 5eqwrajtitcey25ua42st3kpprt8nnl8;<span class="tone2">厨</span><span class="tone2">房</span>;<span class="tone2">chú</span><span class="tone2">fáng</span>;keuken;[sound:chu2fang2.mp3];;jaar2 week219 les13
 nnwkmp6o7nkn18y5quwugt9chysvozyi;<span class="tone1">书</span><span class="tone2">房</span>;<span class="tone1">shū</span><span class="tone2">fáng</span>;bureau;[sound:shu1fang2.mp3];;jaar2 week219 les13
 wkhjcsv0bnbrn947tnqa3fybfqlu8vgx;<span class="tone4">客</span><span class="tone1">厅</span>;<span class="tone4">kè</span><span class="tone1">tīng</span>;woonkamer;[sound:ke4ting1.mp3];;jaar2 week219 les13

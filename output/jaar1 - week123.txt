@@ -5,7 +5,7 @@ z1706btjc4vqci3q78cmy0ag96jqo1m8;<span class="tone1">中</span><span class="tone
 gl4dihsp43xveihs1y7j50b7soiiujtf;<span class="tone3">晚</span><span class="tone5">上</span>;<span class="tone3">wǎn</span><span class="tone5">shang</span>;avond, 's avonds;[sound:wan3shang5.mp3];;jaar1 week117 week123 jaar2 les09 les11
 7c80ctav2b2njq40jy792u1ezl12dvxp;<span class="tone3">写</span>, <span class="tone3">写</span><span class="tone4">字</span>;<span class="tone3">xiě</span>, <span class="tone3">xiě</span><span class="tone4">zì</span>;schrijven;[sound:xie3xie3zi4.mp3];;jaar1 week107 week123 jaar2 les11
 dkjbtmdrxj9matuni7najq4os91fja92;<span class="tone1">花</span>;<span class="tone1">huā</span>;bloem;[sound:hua1.mp3];;jaar1 week123
-f3kpx3hkeyp0knhkg2if9hfa3n0hj0q9;<span class="tone2">结</span><span class="tone1">婚</span>;<span class="tone2">jié</span><span class="tone1">hūn</span>;trouwen;[sound:jie2hun1.mp3];;jaar1 week123 week124 jaar2 week201
+f3kpx3hkeyp0knhkg2if9hfa3n0hj0q9;<span class="tone2">结</span><span class="tone1">婚</span>;<span class="tone2">jié</span><span class="tone1">hūn</span>;trouwen;[sound:jie2hun1.mp3];;jaar1 week123 week124 jaar2 week201 jaar4 week401
 ch8osoek81rrizk8z84cvs81gls04iu6;<span class="tone4">律</span><span class="tone1">师</span>;<span class="tone4">lǜ</span><span class="tone1">shī</span>;advocaat;[sound:lü4shi1.mp3];;jaar1 week120 week123 les08
 xl099wq86ayyd2d0ypg08titvznuwyy5;<span class="tone3">法</span><span class="tone4">律</span>;<span class="tone3">fǎ</span><span class="tone4">lǜ</span>;recht, wet;[sound:fa3lü4.mp3];;jaar1 week123
 lfup5muesc828g2tnw2omra4ta5f3o09;<span class="tone3">口</span>;<span class="tone3">kǒu</span>;(maatwoord voor mensen in een gezin);[sound:kou3.mp3];;jaar1 week123 les08
