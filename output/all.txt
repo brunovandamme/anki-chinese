@@ -1139,3 +1139,11 @@ pmhc46agr22rm53i1t7h5lfn5t334plg;<span class="tone2">桥</span>;<span class="ton
 eielzabjd0yyaelp2uqbv33i48dljqvh;<span class="tone4">坏</span>;<span class="tone4">huài</span>;slecht;[sound:huai4.mp3];;jaar4 week402
 5t11e17phi7dfj2xwqwfgwweta86azi8;<span class="tone3">氧</span><span class="tone4">气</span>;<span class="tone3">yǎng</span><span class="tone4">qì</span>;zuurstof;[sound:yang3qi4.mp3];;jaar4 week402
 ihqdqe38gdzurw8riigu36ltjcwt1qq2;<span class="tone4">鳄</span><span class="tone2">鱼</span>;<span class="tone4">è</span><span class="tone2">yú</span>;krokodil;[sound:e4yu2.mp3];;jaar4 week402
+z6bm2mroehutis55t247igwvmenwz94x;<span class="tone3">软</span><span class="tone4">件</span>;<span class="tone3">ruǎn</span><span class="tone4">jiàn</span>;software;[sound:ruan3jian4.mp3];;jaar4 week403
+zc2ajn951eehcgb6rwsiiwspx7m8x6x7;<span class="tone2">男</span><span class="tone3">子</span><span class="tone4">汉</span>;<span class="tone2">nán</span><span class="tone3">zǐ</span><span class="tone4">hàn</span>;macho;[sound:nan2zi3han4.mp3];;jaar4 week403
+oveve2iesj8chg5isztrq3oathxo14pb;<span class="tone4">像</span>;<span class="tone4">xiàng</span>;lijken op;[sound:xiang4.mp3];;jaar4 week403
+pmg370poxg6bq5rs2yu3zo8pcfwfgn0z;<span class="tone1">拼</span><span class="tone1">音</span>;<span class="tone1">pīn</span><span class="tone1">yīn</span>;pinyin;[sound:pin1yin1.mp3];;jaar4 week403
+zood7l1a3g320dj6nr5l9cydazscgs7b;<span class="tone1">微</span><span class="tone4">信</span>;<span class="tone1">Wēi</span><span class="tone4">xìn</span>;wechat;[sound:wei1xin4.mp3];;jaar4 week403
+yqccy6iug5i7fma4irfm8gw2lhpiw75a;<span class="tone2">逻</span><span class="tone5">辑</span>;<span class="tone2">luó</span><span class="tone5">ji</span>;logica;[sound:luo2ji5.mp3];;jaar4 week403
+yra3rzohfxj6vrthx68ab9yjrvo3mmht;<span class="tone3">卡</span><span class="tone1">通</span>;<span class="tone3">kǎ</span><span class="tone1">tōng</span>;cartoon;[sound:ka3tong1.mp3];;jaar4 week403
+crjfkov162izhn5i7zveddyaax7y8x3q;<span class="tone1">幽</span><span class="tone4">默</span>;<span class="tone1">yōu</span><span class="tone4">mò</span>;humor;[sound:you1mo4.mp3];;jaar4 week403
