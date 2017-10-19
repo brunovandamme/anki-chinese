@@ -15,7 +15,7 @@ p5zlwsa7xayvoqhtzzgcehvg01qjf6ti;<span class="tone3">北</span><span class="tone
 bar4b0zclge5z436gccldqc9zc0h0nkv;<span class="tone2">南</span><span class="tone2">极</span>;<span class="tone2">nán</span><span class="tone2">jí</span>;zuidpool;[sound:nan2ji2.mp3];;jaar3 week323
 0wh4cjd6xongbr2cgl4qmbod1tq0wpvi;<span class="tone2">极</span><span class="tone5">了</span>;<span class="tone2">jí</span><span class="tone5">le</span>;extreem (modifier);[sound:ji2le5.mp3];;jaar3 week323 les17
 rwqgospytvc3cknedwiuj1oh3eenthpz;<span class="tone3">打</span><span class="tone2">折</span>;<span class="tone3">dǎ</span><span class="tone2">zhé</span>;verkopen met korting;[sound:da3zhe2.mp3];打8折 -20%;jaar3 week323 les17
-go5k5zrltgx5c0bmkzp67mmk6gumm4so;<span class="tone2">麻</span><span class="tone5">烦</span>;<span class="tone2">má</span><span class="tone5">fan</span>;last;[sound:ma2fan5.mp3];麻烦你了 sorry dat ik u lastig val<br><br> 一点也不麻烦！geen zorgen;jaar3 week323 les17
+go5k5zrltgx5c0bmkzp67mmk6gumm4so;<span class="tone2">麻</span><span class="tone5">烦</span>;<span class="tone2">má</span><span class="tone5">fan</span>;last, moeite;[sound:ma2fan5.mp3];麻烦你了 sorry dat ik u lastig val<br><br> 一点也不麻烦！geen zorgen;jaar3 week323 les17 jaar4 week404
 y49pix8o22rurumha3w80lszxygctezj;<span class="tone4">进</span><span class="tone3">口</span>;<span class="tone4">jìn</span><span class="tone3">kǒu</span>;import;[sound:jin4kou3.mp3];;jaar3 week323
 7vcolp7jizxopkw0nsl9gfc7jcmolyz6;<span class="tone1">出</span><span class="tone3">口</span>;<span class="tone1">chū</span><span class="tone3">kǒu</span>;export;[sound:chu1kou3.mp3];;jaar3 week323
 wr0gxlcajn7cvrm3js4t6293fs9x5enu;<span class="tone1">当</span>;<span class="tone1">dāng</span>;functie hebben;[sound:dang1.mp3];当医生;jaar3 week323

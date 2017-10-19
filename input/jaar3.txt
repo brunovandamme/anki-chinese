@@ -338,7 +338,7 @@ p5zlwsa7xayvoqhtzzgcehvg01qjf6ti;北极;noordpool
 bar4b0zclge5z436gccldqc9zc0h0nkv;南极;zuidpool
 0wh4cjd6xongbr2cgl4qmbod1tq0wpvi;极了;extreem (modifier)
 rwqgospytvc3cknedwiuj1oh3eenthpz;打折;verkopen met korting;打8折 -20%
-go5k5zrltgx5c0bmkzp67mmk6gumm4so;麻烦;last;麻烦你了 sorry dat ik u lastig val, 一点也不麻烦！geen zorgen
+go5k5zrltgx5c0bmkzp67mmk6gumm4so;麻烦;last, moeite;麻烦你了 sorry dat ik u lastig val, 一点也不麻烦！geen zorgen
 y49pix8o22rurumha3w80lszxygctezj;进口;import
 7vcolp7jizxopkw0nsl9gfc7jcmolyz6;出口;export
 wr0gxlcajn7cvrm3js4t6293fs9x5enu;当;functie hebben;当医生
@@ -564,7 +564,7 @@ ssttfxdwdyao67bkkev3fz9l4pe1ja5f;合适;geschikt
 7z71kd2he1zk3bzb0czv5sml1g5lvzpt;短;kort
 fkg2dumbxqmy9qy27iilsi8f4zayf60n;高;groot (van gestalte)
 sbtx2ez3eh1udn6pwcx2hbr5bs3yz4g7;公分;centimeter
-nmhiae9epm421mqu1u0rz60rplrrz5lt;麻烦;last
+nmhiae9epm421mqu1u0rz60rplrrz5lt;麻烦;last, moeite
 dyc4fbw9eyy5wzk1wb7knqo5xvi4zea7;丝绸;zijde
 g96jx3n3rr0by01s232utjq0lo6n4x8k;西服;Westerse kledij
 onysnzzv17yojzu140jcz7hgdsbk22i8;双;een paar (maatwoord)

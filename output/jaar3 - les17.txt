@@ -34,7 +34,7 @@ b0rbkw5j4i7wag3jfvz2qpvn3d2e2ev6;<span class="tone2">合</span><span class="tone
 v307jfw3xwcrx63xgxgodnlafiimwow4;<span class="tone3">短</span>;<span class="tone3">duǎn</span>;kort;[sound:duan3.mp3];;jaar2 week210 jaar3 week308 les17
 ctkdes0go6ccboqxz6jqjsw261d8ks3h;<span class="tone1">高</span>;<span class="tone1">gāo</span>;groot (van gestalte);[sound:gao1.mp3];;jaar1 week103 les07 jaar2 week210 week218 jaar3 les17
 sbtx2ez3eh1udn6pwcx2hbr5bs3yz4g7;<span class="tone1">公</span><span class="tone1">分</span>;<span class="tone1">gōng</span><span class="tone1">fēn</span>;centimeter;[sound:gong1fen1.mp3];;jaar3 les17
-go5k5zrltgx5c0bmkzp67mmk6gumm4so;<span class="tone2">麻</span><span class="tone5">烦</span>;<span class="tone2">má</span><span class="tone5">fan</span>;last;[sound:ma2fan5.mp3];麻烦你了 sorry dat ik u lastig val<br><br> 一点也不麻烦！geen zorgen;jaar3 week323 les17
+go5k5zrltgx5c0bmkzp67mmk6gumm4so;<span class="tone2">麻</span><span class="tone5">烦</span>;<span class="tone2">má</span><span class="tone5">fan</span>;last, moeite;[sound:ma2fan5.mp3];麻烦你了 sorry dat ik u lastig val<br><br> 一点也不麻烦！geen zorgen;jaar3 week323 les17 jaar4 week404
 mtwhbeovkpqhfw97vy4bccyb9jaom4yp;<span class="tone1">丝</span><span class="tone2">绸</span>;<span class="tone1">sī</span><span class="tone2">chóu</span>;zijde;[sound:si1chou2.mp3];;jaar3 week321 les17
 g96jx3n3rr0by01s232utjq0lo6n4x8k;<span class="tone1">西</span><span class="tone2">服</span>;<span class="tone1">xī</span><span class="tone2">fú</span>;Westerse kledij;[sound:xi1fu2.mp3];;jaar3 les17
 w8p2s63654xpylfy6a4gtj8erliwldz0;<span class="tone1">双</span>;<span class="tone1">shuāng</span>;een paar (maatwoord);[sound:shuang1.mp3];;jaar2 week209 jaar3 les17
