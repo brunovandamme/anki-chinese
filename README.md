@@ -1,4 +1,4 @@
-# anki-chinese
+# Anki-chinese
 Create anki cards for studying chinese vocabulary
 
 This python script reads the files from the input directory and exports anki-importable files in the output directory.
